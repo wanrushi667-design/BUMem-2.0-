@@ -1,0 +1,1585 @@
+[
+  {
+    "source": {
+      "sequence": 1,
+      "period": "period_00",
+      "conversation_index": 0,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2020-09-22 20:15:06]\nCan you suggest some new bridge game variations or icebreakers for a group of 6 to 12 friends, most of us being over 50?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m001",
+      "summary": "User is asking for new bridge game variations or icebreakers for a group of 6 to 12 friends, most of whom are over 50.",
+      "updated_at": "2020-09-22T20:15:06",
+      "topics": [
+        "bridge_game_variations",
+        "icebreakers"
+      ],
+      "attributes": {
+        "group_size": {
+          "value": "6_12",
+          "time_at": "2020-09-22T20:15:06"
+        },
+        "age_profile": {
+          "value": "mostly_over_50",
+          "time_at": "2020-09-22T20:15:06"
+        },
+        "participants": {
+          "value": "friends",
+          "time_at": "2020-09-22T20:15:06"
+        },
+        "activity": {
+          "value": "bridge",
+          "time_at": "2020-09-22T20:15:06"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 2,
+      "period": "period_00",
+      "conversation_index": 1,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2020-09-23 20:06:52]\nWhat are some effective activities I can use to encourage community leadership among young women in a small group mentoring setting?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m002",
+      "summary": "User is seeking effective activities to encourage community leadership among young women in a small group mentoring setting.",
+      "updated_at": "2020-09-23T20:06:52",
+      "topics": [
+        "community_leadership_development",
+        "youth_mentoring",
+        "small_group_activities"
+      ],
+      "attributes": {
+        "target_group": {
+          "value": "young_women",
+          "time_at": "2020-09-23T20:06:52"
+        },
+        "mentoring_setting": {
+          "value": "small_group",
+          "time_at": "2020-09-23T20:06:52"
+        },
+        "focus_area": {
+          "value": "community_leadership",
+          "time_at": "2020-09-23T20:06:52"
+        },
+        "purpose": {
+          "value": "encourage_community_leadership",
+          "time_at": "2020-09-23T20:06:52"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 3,
+      "period": "period_00",
+      "conversation_index": 2,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2020-09-24 20:00:57]\nWhat weekly care tips do you recommend for keeping a medium-sized backyard rose garden healthy and blooming?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m003",
+      "summary": "User asks for weekly care tips to keep a medium-sized backyard rose garden healthy and blooming.",
+      "updated_at": "2020-09-24T20:00:57",
+      "topics": [
+        "rose_garden_care",
+        "weekly_gardening_tips"
+      ],
+      "attributes": {
+        "care_frequency": {
+          "value": "weekly",
+          "time_at": "2020-09-24T20:00:57"
+        },
+        "garden_size": {
+          "value": "medium",
+          "time_at": "2020-09-24T20:00:57"
+        },
+        "garden_location": {
+          "value": "backyard",
+          "time_at": "2020-09-24T20:00:57"
+        },
+        "plant_type": {
+          "value": "roses",
+          "time_at": "2020-09-24T20:00:57"
+        },
+        "care_goal": {
+          "value": "healthy_and_blooming",
+          "time_at": "2020-09-24T20:00:57"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 4,
+      "period": "period_00",
+      "conversation_index": 3,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2020-09-25 19:38:06]\nCan you help me plan a Southern-style potluck menu that I can prepare during a leisurely afternoon, keeping in mind most guests enjoy classic dishes?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m004",
+      "summary": "User wants help planning a Southern-style potluck menu that can be prepared during a leisurely afternoon, with most guests enjoying classic dishes.",
+      "updated_at": "2020-09-25T19:38:06",
+      "topics": [
+        "southern_potluck_menu",
+        "potluck_planning"
+      ],
+      "attributes": {
+        "cuisine_style": {
+          "value": "Southern",
+          "time_at": "2020-09-25T19:38:06"
+        },
+        "meal_type": {
+          "value": "potluck",
+          "time_at": "2020-09-25T19:38:06"
+        },
+        "preparation_time": {
+          "value": "leisurely afternoon",
+          "time_at": "2020-09-25T19:38:06"
+        },
+        "guest_preference": {
+          "value": "classic dishes",
+          "time_at": "2020-09-25T19:38:06"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 5,
+      "period": "period_00",
+      "conversation_index": 4,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2020-09-26 19:27:59]\nWhat are some choir warm-ups and gospel songs suitable for a group with mixed experience levels, especially for our weekly evening practices?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m005",
+      "summary": "User is looking for choir warm-ups and gospel songs suitable for a group with mixed experience levels, specifically for weekly evening practices.",
+      "updated_at": "2020-09-26T19:27:59",
+      "topics": [
+        "choir_warmups",
+        "gospel_songs",
+        "weekly_evening_practice"
+      ],
+      "attributes": {
+        "group_experience_level": {
+          "value": "mixed",
+          "time_at": "2020-09-26T19:27:59"
+        },
+        "practice_frequency": {
+          "value": "weekly",
+          "time_at": "2020-09-26T19:27:59"
+        },
+        "practice_time": {
+          "value": "evening",
+          "time_at": "2020-09-26T19:27:59"
+        },
+        "activity": {
+          "value": "choir practice",
+          "time_at": "2020-09-26T19:27:59"
+        },
+        "music_genre": {
+          "value": "gospel",
+          "time_at": "2020-09-26T19:27:59"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 6,
+      "period": "period_00",
+      "conversation_index": 5,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2020-09-27 21:28:55]\nWhat are some volunteer opportunities at the historical society that follow moderate health precautions and can accommodate someone who sometimes needs a little help getting around?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m006",
+      "summary": "User is asking about volunteer opportunities at the historical society that follow moderate health precautions and accommodate someone who sometimes needs a little help getting around.",
+      "updated_at": "2020-09-27T21:28:55",
+      "topics": [
+        "volunteer_opportunities",
+        "historical_society",
+        "mobility_accommodations"
+      ],
+      "attributes": {
+        "organization": {
+          "value": "historical_society",
+          "time_at": "2020-09-27T21:28:55"
+        },
+        "health_precautions": {
+          "value": "moderate",
+          "time_at": "2020-09-27T21:28:55"
+        },
+        "mobility_level": {
+          "value": "sometimes_needs_help_getting_around",
+          "time_at": "2020-09-27T21:28:55"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 7,
+      "period": "period_00",
+      "conversation_index": 6,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2020-09-28 19:23:44]\nCan you recommend day trip destinations near Anniston for a small group carpool, with costs per person staying between $30 and $70?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m007",
+      "summary": "User is seeking day trip destination recommendations near Anniston for a small group carpooling, with costs per person between $30 and $70.",
+      "updated_at": "2020-09-28T19:23:44",
+      "topics": [
+        "day_trip_destinations",
+        "group_carpooling"
+      ],
+      "attributes": {
+        "location": {
+          "value": "near Anniston",
+          "time_at": "2020-09-28T19:23:44"
+        },
+        "group_size": {
+          "value": "small group",
+          "time_at": "2020-09-28T19:23:44"
+        },
+        "transportation_mode": {
+          "value": "carpool",
+          "time_at": "2020-09-28T19:23:44"
+        },
+        "cost_per_person": {
+          "value": "$30 to $70",
+          "time_at": "2020-09-28T19:23:44"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 8,
+      "period": "period_00",
+      "conversation_index": 7,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2020-09-29 21:41:14]\nWhat multi-week quilting workshop plans would work well for students who already have some experience with needlecraft?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m008",
+      "summary": "User is asking for multi-week quilting workshop plans suitable for students who already have some needlecraft experience.",
+      "updated_at": "2020-09-29T21:41:14",
+      "topics": [
+        "quilting_workshop",
+        "workshop_planning"
+      ],
+      "attributes": {
+        "workshop_duration": {
+          "value": "multi_week",
+          "time_at": "2020-09-29T21:41:14"
+        },
+        "student_experience": {
+          "value": "some_experience",
+          "time_at": "2020-09-29T21:41:14"
+        },
+        "activity": {
+          "value": "quilting",
+          "time_at": "2020-09-29T21:41:14"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 9,
+      "period": "period_00",
+      "conversation_index": 8,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2020-09-30 20:55:12]\nCould you suggest some healthy soul food recipes using ingredients I can pick up at our local farmers market?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m009",
+      "summary": "User requests healthy soul food recipes using ingredients available at their local farmers market.",
+      "updated_at": "2020-09-30T20:55:12",
+      "topics": [
+        "healthy_soul_food_recipes",
+        "farmers_market_ingredients"
+      ],
+      "attributes": {
+        "cuisine_type": {
+          "value": "soul_food",
+          "time_at": "2020-09-30T20:55:12"
+        },
+        "dietary_focus": {
+          "value": "healthy",
+          "time_at": "2020-09-30T20:55:12"
+        },
+        "ingredient_source": {
+          "value": "local_farmers_market",
+          "time_at": "2020-09-30T20:55:12"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 10,
+      "period": "period_00",
+      "conversation_index": 9,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2020-10-01 19:08:40]\nHow can I make my mid-sized block party for the Crimson Tide game more festive when we're just watching on a basic TV livestream?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m010",
+      "summary": "User is planning a mid-sized block party to watch the Crimson Tide game via a basic TV livestream and wants ideas to make it more festive.",
+      "updated_at": "2020-10-01T19:08:40",
+      "topics": [
+        "block_party",
+        "game_watch_party",
+        "crimson_tide_game"
+      ],
+      "attributes": {
+        "event_type": {
+          "value": "block_party",
+          "time_at": "2020-10-01T19:08:40"
+        },
+        "event_scale": {
+          "value": "mid_sized",
+          "time_at": "2020-10-01T19:08:40"
+        },
+        "activity": {
+          "value": "watching_crimson_tide_game",
+          "time_at": "2020-10-01T19:08:40"
+        },
+        "delivery_format": {
+          "value": "basic_tv_livestream",
+          "time_at": "2020-10-01T19:08:40"
+        },
+        "goal": {
+          "value": "make_more_festive",
+          "time_at": "2020-10-01T19:08:40"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 11,
+      "period": "period_01",
+      "conversation_index": 0,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2020-12-29 19:08:08]\nCould you suggest some fun icebreakers or card game variations to help my bridge nights feel welcoming for both my longtime friends and the younger guests who’ve started joining us lately?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m011",
+      "summary": "User is seeking fun icebreakers or card game variations to make their bridge nights welcoming for both longtime friends and younger guests who have recently started joining.",
+      "updated_at": "2020-12-29T19:08:08",
+      "topics": [
+        "bridge_night",
+        "icebreakers",
+        "card_game_variations"
+      ],
+      "attributes": {
+        "activity": {
+          "value": "bridge",
+          "time_at": "2020-12-29T19:08:08"
+        },
+        "purpose": {
+          "value": "welcoming atmosphere",
+          "time_at": "2020-12-29T19:08:08"
+        },
+        "participants": {
+          "value": [
+            "longtime friends",
+            "younger guests"
+          ],
+          "time_at": "2020-12-29T19:08:08"
+        },
+        "age_composition": {
+          "value": "mixed ages",
+          "time_at": "2020-12-29T19:08:08"
+        },
+        "guest_recency": {
+          "value": "recently started joining",
+          "time_at": "2020-12-29T19:08:08"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 12,
+      "period": "period_01",
+      "conversation_index": 0,
+      "message_index": 2,
+      "role": "user",
+      "content": "Oh honey, you've given me a whole treasure chest of ideas! I'm especially tickled by the \"Bridge Bingo\" and \"Bid to Laugh\" - those will get my regulars and the new young folks mixing like buttermilk into cornbread. I can already picture Sister Maeve trying to explain what \"yeet\" means, and young Marcus having to confess he's never heard of Mahalia Jackson! \n\nNow, I've been hosting bridge nights for going on forty years, but this will be our first time trying to blend generations. My Friday night group usually has about eight to ten of us - mostly my golden girls from church and a few retired teachers - but lately, my grandson's friends and some of the young professionals from the historical society have been asking to join. \n\nI'm thinking of starting with these icebreakers this coming Friday, January 8th. Do you have any advice on how to gently let my longtime bridge buddies know we're shifting the tone a bit? I don't want them to feel like their traditions are being tossed out with the dishwater. Maybe a little announcement before we start, or should I just ease into it naturally? I find my ladies can be a bit... set in their ways when it comes to card night protocol!"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m012",
+      "summary": "The user has been hosting bridge nights for nearly forty years and plans to blend generations for the first time, starting with icebreakers on Friday, January 8th. Her usual Friday group has about eight to ten people, mostly older women from church and retired teachers, but younger people including her grandson's friends and young professionals from the historical society have asked to join. She wants advice on gently telling her longtime bridge buddies about the tone shift without making them feel their traditions are being discarded.",
+      "updated_at": "2020-12-29T19:08:08",
+      "topics": [
+        "bridge_night",
+        "intergenerational_mixing",
+        "icebreaker_activities"
+      ],
+      "attributes": {
+        "hosting_experience": {
+          "value": "nearly_forty_years",
+          "time_at": "2020-12-29T19:08:08"
+        },
+        "event_type": {
+          "value": "bridge_night",
+          "time_at": "2020-12-29T19:08:08"
+        },
+        "event_date": {
+          "value": "2021-01-08",
+          "time_at": "2020-12-29T19:08:08"
+        },
+        "group_size": {
+          "value": "8_10",
+          "time_at": "2020-12-29T19:08:08"
+        },
+        "regular_participants": {
+          "value": "older women from church and retired teachers",
+          "time_at": "2020-12-29T19:08:08"
+        },
+        "new_participants": {
+          "value": "grandson's friends and young professionals from historical society",
+          "time_at": "2020-12-29T19:08:08"
+        },
+        "intergenerational_blending": {
+          "value": true,
+          "time_at": "2020-12-29T19:08:08"
+        },
+        "planned_activities": {
+          "value": [
+            "Bridge Bingo",
+            "Bid to Laugh",
+            "icebreakers"
+          ],
+          "time_at": "2020-12-29T19:08:08"
+        },
+        "concern": {
+          "value": "longtime bridge buddies feeling traditions are discarded",
+          "time_at": "2020-12-29T19:08:08"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 13,
+      "period": "period_01",
+      "conversation_index": 1,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2020-12-30 19:25:35]\nI’m planning a series of Saturday workshops for young women with the Anniston Historical Society—can you help me organize engaging leadership activities and community service projects for these sessions?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m013",
+      "summary": "User is planning a series of Saturday workshops for young women with the Anniston Historical Society, seeking help to organize engaging leadership activities and community service projects for the sessions.",
+      "updated_at": "2020-12-30T19:25:35",
+      "topics": [
+        "leadership_workshops",
+        "community_service_projects",
+        "youth_development"
+      ],
+      "attributes": {
+        "workshop_frequency": {
+          "value": "weekly",
+          "time_at": "2020-12-30T19:25:35"
+        },
+        "workshop_day": {
+          "value": "Saturday",
+          "time_at": "2020-12-30T19:25:35"
+        },
+        "workshop_duration": {
+          "value": "series",
+          "time_at": "2020-12-30T19:25:35"
+        },
+        "target_group": {
+          "value": "young women",
+          "time_at": "2020-12-30T19:25:35"
+        },
+        "organizing_organization": {
+          "value": "Anniston Historical Society",
+          "time_at": "2020-12-30T19:25:35"
+        },
+        "activity_focus": {
+          "value": [
+            "leadership activities",
+            "community service projects"
+          ],
+          "time_at": "2020-12-30T19:25:35"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 14,
+      "period": "period_01",
+      "conversation_index": 1,
+      "message_index": 2,
+      "role": "user",
+      "content": "Well, honey, I am just tickled pink by what you’ve put together here. This is exactly the kind of program I’ve been dreaming about for these girls. I can already see them getting excited about that “Timeline of Me” activity—and the oral history indexing? That’s precious. We have so many recordings from the women who marched and organized back in the sixties; it’s high time those stories got some fresh ears.\n\nI do have a question, though. In the fourth session, you mentioned sewing a “Quilt of Voices.” Now, I’ve been quilting for over fifty years, and I’d love to lead that part myself if the girls are interested—but I need to know what skill level you envisioned for that. Some of these young women might have never threaded a needle. Would you suggest we keep it simple with fabric glue and markers, or should I bring in some of my embroidery circle gals to help with hand-stitching? I want them to feel proud of what they make, not frustrated.\n\nAnd while we’re on the subject, do you think we could invite a few of the older ladies from my church choir to come and sing a couple of old spirituals during the final showcase? Nothing fancy—just a little something to send those girls off with some soul in their step. I think Mahalia Jackson would approve."
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m014",
+      "summary": "The user is delighted with a program for girls that includes a \"Timeline of Me\" activity and oral history indexing of recordings from women who marched and organized in the sixties. She offers to lead a \"Quilt of Voices\" sewing session in the fourth session, asking about the envisioned skill level since some girls may be complete beginners, and suggests either simple fabric glue and markers or bringing embroidery circle helpers for hand-stitching. She also asks about inviting older ladies from her church choir to sing old spirituals at the final showcase.",
+      "updated_at": "2020-12-30T19:25:35",
+      "topics": [
+        "girls_program_activities",
+        "quilt_of_voices_sewing",
+        "final_showcase_performance"
+      ],
+      "attributes": {
+        "program_activities": {
+          "value": [
+            "timeline_of_me",
+            "oral_history_indexing",
+            "quilt_of_voices"
+          ],
+          "time_at": "2020-12-30T19:25:35"
+        },
+        "oral_history_source": {
+          "value": "recordings_from_women_who_marched_and_organized_in_the_sixties",
+          "time_at": "2020-12-30T19:25:35"
+        },
+        "quilt_session_number": {
+          "value": 4,
+          "time_at": "2020-12-30T19:25:35"
+        },
+        "quilt_leader_experience": {
+          "value": "over_fifty_years_quilting",
+          "time_at": "2020-12-30T19:25:35"
+        },
+        "participant_skill_level": {
+          "value": "some_complete_beginners",
+          "time_at": "2020-12-30T19:25:35"
+        },
+        "sewing_approach_options": {
+          "value": [
+            "fabric_glue_and_markers",
+            "hand_stitching_with_embroidery_circle_helpers"
+          ],
+          "time_at": "2020-12-30T19:25:35"
+        },
+        "showcase_performance": {
+          "value": "old_spirituals_by_older_ladies_from_church_choir",
+          "time_at": "2020-12-30T19:25:35"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 15,
+      "period": "period_01",
+      "conversation_index": 2,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2020-12-31 19:59:42]\nWith the colder weather and my roses needing less attention, what monthly tasks should I focus on to keep my garden healthy until spring?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m015",
+      "summary": "User asks what monthly garden tasks to focus on during colder weather, when roses need less attention, to keep the garden healthy until spring.",
+      "updated_at": "2020-12-31T19:59:42",
+      "topics": [
+        "winter_garden_care",
+        "rose_care"
+      ],
+      "attributes": {
+        "season": {
+          "value": "winter",
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "time_until": {
+          "value": "spring",
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "task_frequency": {
+          "value": "monthly",
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "plant": {
+          "value": "roses",
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "plant_attention_level": {
+          "value": "less_attention",
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "goal": {
+          "value": "keep_garden_healthy",
+          "time_at": "2020-12-31T19:59:42"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 16,
+      "period": "period_01",
+      "conversation_index": 2,
+      "message_index": 2,
+      "role": "user",
+      "content": "That's a wonderful, thorough guide—thank you! I can tell you know your roses. I've got a nice mix out back: some old-fashioned heirloom roses that were my mama's, and a few Knock Outs I planted a few years back for easier care. The detailed pruning advice for February will come in mighty handy.\n\nSpeaking of February, my church choir usually starts thinking about our Easter program around then. With everything going on this past year, we've had to be real careful about gatherings. I'm curious—do you have any thoughts on keeping a choir connected and practicing safely when folks have different comfort levels about getting together? Some of our members are raring to be back in person, and others are still pretty cautious."
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m016",
+      "summary": "User has a mix of old-fashioned heirloom roses from her mother and Knock Outs planted a few years ago for easier care, and finds February pruning advice useful. She also asks how to keep a church choir connected and practicing safely for the Easter program when members have different comfort levels about in-person gatherings after the past year.",
+      "updated_at": "2020-12-31T19:59:42",
+      "topics": [
+        "rose_gardening",
+        "choir_connection_and_safety",
+        "easter_program_planning"
+      ],
+      "attributes": {
+        "rose_types": {
+          "value": [
+            "old-fashioned heirloom roses",
+            "Knock Outs"
+          ],
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "heirloom_rose_source": {
+          "value": "from mother",
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "knock_out_planting_time": {
+          "value": "a few years ago",
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "rose_care_reason": {
+          "value": "easier care",
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "pruning_advice_month": {
+          "value": "February",
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "choir_activity": {
+          "value": "church choir",
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "program_planning_time": {
+          "value": "around February",
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "program_type": {
+          "value": "Easter program",
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "safety_concern": {
+          "value": "careful about gatherings due to past year",
+          "time_at": "2020-12-31T19:59:42"
+        },
+        "member_comfort_levels": {
+          "value": "mixed; some eager for in-person, others cautious",
+          "time_at": "2020-12-31T19:59:42"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 17,
+      "period": "period_01",
+      "conversation_index": 3,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2021-01-01 20:03:31]\nWhat are some ways I can continue volunteering at the Anniston Historical Society while following the new strict social distancing guidelines and limited in-person interactions?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m017",
+      "summary": "User wants to continue volunteering at the Anniston Historical Society while following new strict social distancing guidelines and limited in-person interactions.",
+      "updated_at": "2021-01-01T20:03:31",
+      "topics": [
+        "volunteering",
+        "social_distancing",
+        "historical_society"
+      ],
+      "attributes": {
+        "organization": {
+          "value": "Anniston Historical Society",
+          "time_at": "2021-01-01T20:03:31"
+        },
+        "activity": {
+          "value": "volunteering",
+          "time_at": "2021-01-01T20:03:31"
+        },
+        "constraints": {
+          "value": [
+            "strict social distancing guidelines",
+            "limited in-person interactions"
+          ],
+          "time_at": "2021-01-01T20:03:31"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 18,
+      "period": "period_01",
+      "conversation_index": 3,
+      "message_index": 2,
+      "role": "user",
+      "content": "Oh, that's just wonderful advice—thank you, dear. You've given me so many good ideas, and I feel my spirits lifting already. I think the oral history transcription really speaks to me. I remember back when I was teaching, I always loved hearing the old-timers' stories during our school's local history week. I'd be happy to type up those recordings from home. Could you help me write a short email to the volunteer coordinator, specifically asking about that? I want to make sure I sound clear and helpful, not like I'm adding to their burden."
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m018",
+      "summary": "The user feels uplifted by the advice and is drawn to oral history transcription, recalling enjoying old-timers' stories during local history week when teaching. They are willing to type up recordings from home and want help writing a short email to the volunteer coordinator to ask about it, aiming to sound clear and helpful rather than burdensome.",
+      "updated_at": "2021-01-01T20:03:31",
+      "topics": [
+        "oral_history_transcription",
+        "volunteer_email_drafting"
+      ],
+      "attributes": {
+        "activity": {
+          "value": "oral history transcription",
+          "time_at": "2021-01-01T20:03:31"
+        },
+        "task": {
+          "value": "type up recordings",
+          "time_at": "2021-01-01T20:03:31"
+        },
+        "location": {
+          "value": "from home",
+          "time_at": "2021-01-01T20:03:31"
+        },
+        "recipient": {
+          "value": "volunteer coordinator",
+          "time_at": "2021-01-01T20:03:31"
+        },
+        "communication_goal": {
+          "value": "ask about oral history transcription opportunity",
+          "time_at": "2021-01-01T20:03:31"
+        },
+        "tone": {
+          "value": "clear and helpful, not burdensome",
+          "time_at": "2021-01-01T20:03:31"
+        },
+        "email_length": {
+          "value": "short",
+          "time_at": "2021-01-01T20:03:31"
+        },
+        "relevant_background": {
+          "value": "enjoyed old-timers' stories during school local history week while teaching",
+          "time_at": "2021-01-01T20:03:31"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 19,
+      "period": "period_02",
+      "conversation_index": 0,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2021-03-30 21:17:59]\nI’m organizing a potluck for a group that includes both vegans and vegetarians, along with some friends who have nut allergies, so I want to make sure there are plenty of vegan and nut-free options for everyone. Since I have the whole day set aside for cooking and prep, could you recommend some reliable recipes that would work well for this mixed group? I want to make sure our book club and historical society guests all have something delicious to enjoy."
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m019",
+      "summary": "User is organizing a potluck for a mixed group including vegans, vegetarians, and friends with nut allergies, and wants plenty of vegan and nut-free options. They have the whole day for cooking and prep and are requesting reliable recipes suitable for book club and historical society guests.",
+      "updated_at": "2021-03-30T21:17:59",
+      "topics": [
+        "potluck_planning",
+        "vegan_nut_free_recipes",
+        "mixed_dietary_gathering"
+      ],
+      "attributes": {
+        "event_type": {
+          "value": "potluck",
+          "time_at": "2021-03-30T21:17:59"
+        },
+        "dietary_restrictions": {
+          "value": [
+            "vegan",
+            "vegetarian",
+            "nut_allergy"
+          ],
+          "time_at": "2021-03-30T21:17:59"
+        },
+        "required_options": {
+          "value": [
+            "vegan",
+            "nut_free"
+          ],
+          "time_at": "2021-03-30T21:17:59"
+        },
+        "available_time": {
+          "value": "whole_day",
+          "time_at": "2021-03-30T21:17:59"
+        },
+        "guest_groups": {
+          "value": [
+            "book_club",
+            "historical_society"
+          ],
+          "time_at": "2021-03-30T21:17:59"
+        },
+        "recipe_request": {
+          "value": "reliable_recipes",
+          "time_at": "2021-03-30T21:17:59"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 20,
+      "period": "period_02",
+      "conversation_index": 0,
+      "message_index": 2,
+      "role": "user",
+      "content": "That's just wonderful, honey—thank you so much for these thoughtful recipes! I especially love that you included that Southern-style black-eyed pea salad. My late husband, James, used to say no proper gathering in Anniston is complete without black-eyed peas, and I think he'd be tickled to see them done up this way for our more health-conscious friends.\n\nI was wondering, though—since I'll have a full day to cook, and I do love to put out a spread that makes everybody feel welcome, would you have any suggestions for a second hearty main dish that's still vegan and nut-free? Something that might appeal to folks who aren't used to plant-based eating? I'm thinking of my book club members—some of them are real meat-and-potatoes types, and I don't want them to feel like the vegan dishes are just \"rabbit food,\" if you know what I mean. Also, what's the best way to label dishes without making folks feel singled out or like they need a medical chart to eat? I've always believed good food should bring folks together, not make 'em nervous."
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m020",
+      "summary": "User thanks for thoughtful recipes, especially a Southern-style black-eyed pea salad, and recalls her late husband James saying no proper gathering in Anniston is complete without black-eyed peas. She asks for a second hearty vegan and nut-free main dish for a full-day cooking spread, aiming to appeal to book club members who are meat-and-potatoes types, and asks how to label dishes without making guests feel singled out.",
+      "updated_at": "2021-03-30T21:17:59",
+      "topics": [
+        "vegan_menu_planning",
+        "dietary_restrictions",
+        "guest_inclusion"
+      ],
+      "attributes": {
+        "dietary_preference": {
+          "value": "vegan",
+          "time_at": "2021-03-30T21:17:59"
+        },
+        "restrictions": {
+          "value": "nut-free",
+          "time_at": "2021-03-30T21:17:59"
+        },
+        "meal_type": {
+          "value": "second_hearty_main_dish",
+          "time_at": "2021-03-30T21:17:59"
+        },
+        "available_time": {
+          "value": "full_day_to_cook",
+          "time_at": "2021-03-30T21:17:59"
+        },
+        "target_group": {
+          "value": "book_club_members",
+          "time_at": "2021-03-30T21:17:59"
+        },
+        "guest_dietary_profile": {
+          "value": "meat-and-potatoes types, not used to plant-based eating",
+          "time_at": "2021-03-30T21:17:59"
+        },
+        "location": {
+          "value": "Anniston",
+          "time_at": "2021-03-30T21:17:59"
+        },
+        "dish_labeling_concern": {
+          "value": "avoid making guests feel singled out or needing a medical chart",
+          "time_at": "2021-03-30T21:17:59"
+        },
+        "featured_dish": {
+          "value": "Southern-style black-eyed pea salad",
+          "time_at": "2021-03-30T21:17:59"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 21,
+      "period": "period_02",
+      "conversation_index": 1,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2021-03-31 21:44:23]\nWhat are some fun and easy needlecraft projects I can teach to a group of complete beginners? I’ll need step-by-step guides since my new workshop students are just learning the basics."
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m021",
+      "summary": "User is looking for fun and easy needlecraft projects to teach to a group of complete beginners in a new workshop, and needs step-by-step guides since the students are just learning the basics.",
+      "updated_at": "2021-03-31T21:44:23",
+      "topics": [
+        "needlecraft_projects",
+        "beginner_workshop"
+      ],
+      "attributes": {
+        "student_experience": {
+          "value": "complete_beginners",
+          "time_at": "2021-03-31T21:44:23"
+        },
+        "workshop_type": {
+          "value": "new",
+          "time_at": "2021-03-31T21:44:23"
+        },
+        "project_difficulty": {
+          "value": "easy",
+          "time_at": "2021-03-31T21:44:23"
+        },
+        "project_style": {
+          "value": "fun",
+          "time_at": "2021-03-31T21:44:23"
+        },
+        "guide_format": {
+          "value": "step_by_step",
+          "time_at": "2021-03-31T21:44:23"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 22,
+      "period": "period_02",
+      "conversation_index": 1,
+      "message_index": 2,
+      "role": "user",
+      "content": "Well, sweetheart, I cannot thank you enough for this. You’ve laid it all out so clearly—like a Sunday school lesson plan but with needle and thread. The felt coasters especially tickle me. I remember teaching my own grandniece the running stitch years ago, and you’re right, that quick win is everything. A proud beginner is a beginner who’ll come back for more.\n\nNow, I was wondering—since I’ll have a mix of ages in this workshop (some young ladies from the community center, a couple of retired gals from the historical society, and maybe even a shy teenager or two), do you have any tips for keeping everyone engaged if some finish way faster than others? I’ve always believed in the power of a little show-and-tell at the end, like you suggested, but I’d love to have a few “next step” ideas for the ones who zoom ahead—maybe a simple way to turn that coaster into a little pouch or a bookmark, something that builds on the stitch they just learned without overwhelming them. I want them to leave feeling like they can keep going on their own."
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m022",
+      "summary": "The user is planning a needlecraft workshop with a mix of ages, including young ladies from the community center, retired women from the historical society, and shy teenagers. They seek tips for keeping everyone engaged when some finish faster, and want next-step ideas like turning a felt coaster into a pouch or bookmark to build on the running stitch without overwhelming beginners.",
+      "updated_at": "2021-03-31T21:44:23",
+      "topics": [
+        "needlecraft_workshop",
+        "mixed_age_engagement",
+        "beginner_progression"
+      ],
+      "attributes": {
+        "workshop_activity": {
+          "value": "needlecraft",
+          "time_at": "2021-03-31T21:44:23"
+        },
+        "participant_age_profile": {
+          "value": "mixed_ages",
+          "time_at": "2021-03-31T21:44:23"
+        },
+        "participant_groups": {
+          "value": [
+            "young_ladies_from_community_center",
+            "retired_women_from_historical_society",
+            "shy_teenagers"
+          ],
+          "time_at": "2021-03-31T21:44:23"
+        },
+        "skill_level": {
+          "value": "beginner",
+          "time_at": "2021-03-31T21:44:23"
+        },
+        "engagement_concern": {
+          "value": "fast_finishers",
+          "time_at": "2021-03-31T21:44:23"
+        },
+        "desired_next_steps": {
+          "value": [
+            "coaster_to_pouch",
+            "coaster_to_bookmark"
+          ],
+          "time_at": "2021-03-31T21:44:23"
+        },
+        "teaching_goal": {
+          "value": "independent_continuation",
+          "time_at": "2021-03-31T21:44:23"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 23,
+      "period": "period_02",
+      "conversation_index": 2,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2021-04-01 19:07:14]\nCan you suggest ways to coordinate choir rehearsals when everyone’s schedules are unpredictable? I’m trying to organize practices whenever enough voices are available, sometimes on weekends or midweek mornings."
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m023",
+      "summary": "User is seeking ways to coordinate choir rehearsals when members' schedules are unpredictable, aiming to organize practices whenever enough voices are available, sometimes on weekends or midweek mornings.",
+      "updated_at": "2021-04-01T19:07:14",
+      "topics": [
+        "choir_rehearsal_coordination",
+        "unpredictable_schedules"
+      ],
+      "attributes": {
+        "activity": {
+          "value": "choir rehearsals",
+          "time_at": "2021-04-01T19:07:14"
+        },
+        "scheduling_challenge": {
+          "value": "unpredictable schedules",
+          "time_at": "2021-04-01T19:07:14"
+        },
+        "practice_trigger": {
+          "value": "enough voices available",
+          "time_at": "2021-04-01T19:07:14"
+        },
+        "possible_times": {
+          "value": [
+            "weekends",
+            "midweek mornings"
+          ],
+          "time_at": "2021-04-01T19:07:14"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 24,
+      "period": "period_02",
+      "conversation_index": 2,
+      "message_index": 2,
+      "role": "user",
+      "content": "That's mighty kind of you to offer all that detail, sugar. I appreciate you taking the time—it's clear you understand what it's like trying to keep a choir together when folks have grandbabies and doctor's appointments pulling them every which way. I think that \"rolling availability\" poll idea might just do the trick for us. I've got a few folks in the choir who aren't too keen on their smartphones, but most of them can manage a text message or a simple link.\n\nNow, I was wondering—how would you handle it when some of the members are newer to singing in a choir? We've got a real mix of old-timers who've been singing since before I started teaching school, and a handful of younger folks who joined up last fall and are still finding their footing. I don't want the experienced ones to get bored, but I also don't want to leave the newcomers feeling lost. Is there a way to balance that in these flexible rehearsals, especially if we're only getting a small group together some weeks?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m024",
+      "summary": "User is organizing a choir with members who have scheduling conflicts like grandbabies and doctor's appointments, and is considering a 'rolling availability' poll to manage flexible rehearsals. The choir has a mix of experienced old-timers and newer members who joined last fall, and the user wants to balance engagement for both groups, especially when only a small group can attend some weeks. Most members can handle text messages or simple links, though a few are not keen on smartphones.",
+      "updated_at": "2021-04-01T19:07:14",
+      "topics": [
+        "choir_rehearsal_scheduling",
+        "mixed_experience_choir",
+        "flexible_rehearsal_planning"
+      ],
+      "attributes": {
+        "activity": {
+          "value": "choir rehearsals",
+          "time_at": "2021-04-01T19:07:14"
+        },
+        "group_composition": {
+          "value": "mixed experience levels",
+          "time_at": "2021-04-01T19:07:14"
+        },
+        "experience_level": {
+          "value": "mix of experienced and newer members",
+          "time_at": "2021-04-01T19:07:14"
+        },
+        "new_member_join_time": {
+          "value": "last fall",
+          "time_at": "2021-04-01T19:07:14"
+        },
+        "scheduling_challenges": {
+          "value": "grandbabies and doctor's appointments",
+          "time_at": "2021-04-01T19:07:14"
+        },
+        "poll_idea": {
+          "value": "rolling availability poll",
+          "time_at": "2021-04-01T19:07:14"
+        },
+        "technology_comfort": {
+          "value": "most can manage text message or simple link, few not keen on smartphones",
+          "time_at": "2021-04-01T19:07:14"
+        },
+        "rehearsal_frequency": {
+          "value": "some weeks small group only",
+          "time_at": "2021-04-01T19:07:14"
+        },
+        "goal": {
+          "value": "balance engagement for experienced and new members",
+          "time_at": "2021-04-01T19:07:14"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 25,
+      "period": "period_03",
+      "conversation_index": 0,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2021-06-28 21:33:15]\nCould you help me plan for a bigger bridge gathering next week? Several neighbors want to bring friends, so I’ll need ideas for extra card tables, snacks, and maybe a few new game variations to keep everyone entertained."
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m025",
+      "summary": "User is planning a larger bridge gathering next week, with neighbors bringing friends, and needs ideas for extra card tables, snacks, and new game variations to keep everyone entertained.",
+      "updated_at": "2021-06-28T21:33:15",
+      "topics": [
+        "bridge_gathering",
+        "event_planning",
+        "card_game_variations"
+      ],
+      "attributes": {
+        "event_timing": {
+          "value": "next_week",
+          "time_at": "2021-06-28T21:33:15"
+        },
+        "participants": {
+          "value": [
+            "neighbors",
+            "friends"
+          ],
+          "time_at": "2021-06-28T21:33:15"
+        },
+        "scale": {
+          "value": "larger",
+          "time_at": "2021-06-28T21:33:15"
+        },
+        "needs": {
+          "value": [
+            "extra_card_tables",
+            "snacks",
+            "new_game_variations"
+          ],
+          "time_at": "2021-06-28T21:33:15"
+        },
+        "purpose": {
+          "value": "entertainment",
+          "time_at": "2021-06-28T21:33:15"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 26,
+      "period": "period_03",
+      "conversation_index": 0,
+      "message_index": 2,
+      "role": "user",
+      "content": "Well, sweetheart, that is just a gift of a plan—you’ve thought of everything from the tablecloths to the storytelling breaks. I can already feel the warmth of that evening coming together.  \n\nI’m a little curious about one thing: with all the folks coming in from different households, I’ll need to check on dietary needs before I settle on the snack bar. Some of my neighbors have taken to watching what they eat—maybe a few are watching their sugar or cutting back on gluten. How would you suggest I find out what people need without making a fuss? A little sign-up sheet by the door? A quick call around? I want everyone to feel welcome at the table."
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m026",
+      "summary": "User is planning an evening gathering with people from different households and wants to check dietary needs before finalizing the snack bar, as some neighbors may be watching sugar or cutting back on gluten. They ask for a low-fuss way to find out, suggesting a sign-up sheet by the door or a quick call around, so everyone feels welcome.",
+      "updated_at": "2021-06-28T21:33:15",
+      "topics": [
+        "evening_gathering_planning",
+        "dietary_restriction_check",
+        "snack_bar_menu"
+      ],
+      "attributes": {
+        "event_type": {
+          "value": "evening gathering",
+          "time_at": "2021-06-28T21:33:15"
+        },
+        "guest_origin": {
+          "value": "different households",
+          "time_at": "2021-06-28T21:33:15"
+        },
+        "dietary_considerations": {
+          "value": [
+            "watching sugar",
+            "cutting back on gluten"
+          ],
+          "time_at": "2021-06-28T21:33:15"
+        },
+        "food_service": {
+          "value": "snack bar",
+          "time_at": "2021-06-28T21:33:15"
+        },
+        "information_collection_methods": {
+          "value": [
+            "sign-up sheet by the door",
+            "quick call around"
+          ],
+          "time_at": "2021-06-28T21:33:15"
+        },
+        "goal": {
+          "value": "make everyone feel welcome at the table",
+          "time_at": "2021-06-28T21:33:15"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 27,
+      "period": "period_03",
+      "conversation_index": 1,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2021-06-29 19:54:17]\nI’ve started tending my roses every week with a neighbor who gifted me a lovely heirloom variety. Can you suggest a weekly care checklist for our rose garden, including tips for pruning and feeding different types of blooms?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m027",
+      "summary": "User tends roses weekly with a neighbor who gifted an heirloom variety and requests a weekly care checklist for their rose garden, including pruning and feeding tips for different bloom types.",
+      "updated_at": "2021-06-29T19:54:17",
+      "topics": [
+        "rose_gardening",
+        "weekly_care_checklist",
+        "pruning_and_feeding"
+      ],
+      "attributes": {
+        "activity": {
+          "value": "rose_gardening",
+          "time_at": "2021-06-29T19:54:17"
+        },
+        "frequency": {
+          "value": "weekly",
+          "time_at": "2021-06-29T19:54:17"
+        },
+        "participants": {
+          "value": "neighbor",
+          "time_at": "2021-06-29T19:54:17"
+        },
+        "rose_variety": {
+          "value": "heirloom",
+          "time_at": "2021-06-29T19:54:17"
+        },
+        "care_tasks": {
+          "value": [
+            "pruning",
+            "feeding"
+          ],
+          "time_at": "2021-06-29T19:54:17"
+        },
+        "bloom_types": {
+          "value": "different_types",
+          "time_at": "2021-06-29T19:54:17"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 28,
+      "period": "period_03",
+      "conversation_index": 1,
+      "message_index": 2,
+      "role": "user",
+      "content": "Oh, honey, thank you so much for such a thorough checklist—I’ve already printed it out to share with my neighbor. She said the heirloom she gave me is a ‘Zéphirine Drouhin’—a thornless climbing rose with deep pink blooms. I know it’s a repeat bloomer, but I’ve read it can be prone to black spot in our humid summers. Do you have any special tips for pruning and feeding that particular variety during the summer months, especially to keep the foliage healthy?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m028",
+      "summary": "User has printed a checklist to share with a neighbor and identifies the heirloom rose she received as 'Zéphirine Drouhin', a thornless climbing rose with deep pink blooms. She notes it is a repeat bloomer but prone to black spot in humid summers, and asks for summer pruning and feeding tips for this variety to keep foliage healthy.",
+      "updated_at": "2021-06-29T19:54:17",
+      "topics": [
+        "rose_cultivation",
+        "zephirine_drouhin_care",
+        "summer_pruning_and_feeding"
+      ],
+      "attributes": {
+        "rose_variety": {
+          "value": "Zéphirine Drouhin",
+          "time_at": "2021-06-29T19:54:17"
+        },
+        "rose_type": {
+          "value": "thornless climbing rose",
+          "time_at": "2021-06-29T19:54:17"
+        },
+        "bloom_color": {
+          "value": "deep pink",
+          "time_at": "2021-06-29T19:54:17"
+        },
+        "bloom_habit": {
+          "value": "repeat bloomer",
+          "time_at": "2021-06-29T19:54:17"
+        },
+        "susceptibility": {
+          "value": "prone to black spot",
+          "time_at": "2021-06-29T19:54:17"
+        },
+        "climate_condition": {
+          "value": "humid summers",
+          "time_at": "2021-06-29T19:54:17"
+        },
+        "care_focus": {
+          "value": [
+            "pruning",
+            "feeding",
+            "foliage health"
+          ],
+          "time_at": "2021-06-29T19:54:17"
+        },
+        "season": {
+          "value": "summer",
+          "time_at": "2021-06-29T19:54:17"
+        },
+        "checklist_shared_with": {
+          "value": "neighbor",
+          "time_at": "2021-06-29T19:54:17"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 29,
+      "period": "period_03",
+      "conversation_index": 2,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2021-06-30 21:57:27]\nMy needlecraft group’s schedules are all over the place lately, so I’m hosting flexible drop-in stitching sessions on my porch. Can you recommend ways to make these gatherings welcoming for friends who pop in at different times, maybe with easy projects and tea ideas?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m029",
+      "summary": "User is hosting flexible drop-in stitching sessions on their porch for their needlecraft group, whose schedules are inconsistent, and wants recommendations for making the gatherings welcoming for friends arriving at different times, including easy projects and tea ideas.",
+      "updated_at": "2021-06-30T21:57:27",
+      "topics": [
+        "drop_in_stitching_sessions",
+        "needlecraft_group",
+        "welcoming_hosting_ideas"
+      ],
+      "attributes": {
+        "activity": {
+          "value": "stitching",
+          "time_at": "2021-06-30T21:57:27"
+        },
+        "group_type": {
+          "value": "needlecraft_group",
+          "time_at": "2021-06-30T21:57:27"
+        },
+        "schedule_format": {
+          "value": "flexible_drop_in",
+          "time_at": "2021-06-30T21:57:27"
+        },
+        "location": {
+          "value": "porch",
+          "time_at": "2021-06-30T21:57:27"
+        },
+        "participants": {
+          "value": "friends",
+          "time_at": "2021-06-30T21:57:27"
+        },
+        "requested_recommendations": {
+          "value": [
+            "welcoming_ideas",
+            "easy_projects",
+            "tea_ideas"
+          ],
+          "time_at": "2021-06-30T21:57:27"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 30,
+      "period": "period_03",
+      "conversation_index": 2,
+      "message_index": 2,
+      "role": "user",
+      "content": "That's just wonderful, honey. I love the idea of a community quilt—it’s like stitching our own summer scrapbook. Now, I’ve got a few friends who are complete beginners and some who’ve been doing needlecraft for decades. How can I make sure both feel comfortable without one group feeling bored or overwhelmed? Should I set out different project options by skill level, or maybe pair newcomers with the more experienced folks?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m030",
+      "summary": "User is planning a community quilt project and wants to accommodate friends with mixed needlecraft experience, from complete beginners to decades-long experts, without boring or overwhelming anyone. They ask whether to offer different project options by skill level or pair newcomers with experienced participants.",
+      "updated_at": "2021-06-30T21:57:27",
+      "topics": [
+        "community_quilt_project",
+        "mixed_skill_group_management",
+        "needlecraft_activity"
+      ],
+      "attributes": {
+        "activity": {
+          "value": "community quilt",
+          "time_at": "2021-06-30T21:57:27"
+        },
+        "participants": {
+          "value": "friends",
+          "time_at": "2021-06-30T21:57:27"
+        },
+        "skill_level_mix": {
+          "value": "complete beginners to decades of experience",
+          "time_at": "2021-06-30T21:57:27"
+        },
+        "goal": {
+          "value": "ensure both beginners and experienced participants feel comfortable without boredom or overwhelm",
+          "time_at": "2021-06-30T21:57:27"
+        },
+        "proposed_options": {
+          "value": [
+            "different project options by skill level",
+            "pair newcomers with more experienced folks"
+          ],
+          "time_at": "2021-06-30T21:57:27"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 31,
+      "period": "period_03",
+      "conversation_index": 3,
+      "message_index": 0,
+      "role": "user",
+      "content": "[Current Time: 2021-07-01 21:28:48]\nThe local travel club is offering bus trips to historic sites and gardens, and my friends and I are excited to join in. Could you help me organize a list of essentials for group bus excursions, and maybe some ideas for making the travel experience more fun and social?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m031",
+      "summary": "The user and their friends are excited to join local travel club bus trips to historic sites and gardens, and they want help organizing a list of essentials for group bus excursions plus ideas to make the travel experience more fun and social.",
+      "updated_at": "2021-07-01T21:28:48",
+      "topics": [
+        "group_bus_excursions",
+        "travel_club_trips",
+        "social_travel_activities"
+      ],
+      "attributes": {
+        "activity": {
+          "value": "bus trips to historic sites and gardens",
+          "time_at": "2021-07-01T21:28:48"
+        },
+        "organizer": {
+          "value": "local travel club",
+          "time_at": "2021-07-01T21:28:48"
+        },
+        "participants": {
+          "value": "user and friends",
+          "time_at": "2021-07-01T21:28:48"
+        },
+        "transportation_mode": {
+          "value": "bus",
+          "time_at": "2021-07-01T21:28:48"
+        },
+        "trip_type": {
+          "value": "group excursion",
+          "time_at": "2021-07-01T21:28:48"
+        },
+        "requested_help": {
+          "value": [
+            "list of essentials",
+            "ideas for fun and social travel experience"
+          ],
+          "time_at": "2021-07-01T21:28:48"
+        }
+      },
+      "update_count": 0
+    }
+  },
+  {
+    "source": {
+      "sequence": 32,
+      "period": "period_03",
+      "conversation_index": 3,
+      "message_index": 2,
+      "role": "user",
+      "content": "Oh, honey, this is just wonderful—you’ve given me a whole treasure chest of ideas! I can already picture us on that bus, swapping seats and singing along to a playlist. I love the “Then & Now” bingo idea especially—my friend Eleanor is a retired librarian and she’d be the first to fill a row, mark my words.\n\nI was thinking: since I’ll be bringing my pimento cheese and a few jars of my peach jam for the ride, do you have suggestions for other easy-to-pack, no-mess snacks that travel well on a bus? Something that won’t leave crumbs everywhere or make folks sticky before we hit the garden paths.\n\nAnd if you’re still offering, I’d dearly love some help sketching out a simple bingo card template I could print out. Maybe with a mix of garden sights and historic markers? That way my friends and I can get started on it this weekend. What do you think?"
+    },
+    "status": "ok",
+    "memory": {
+      "memory_id": "m032",
+      "summary": "User is planning a bus trip with friends, including a playlist, a \"Then & Now\" bingo game, and bringing pimento cheese and peach jam. She asks for suggestions for easy-to-pack, no-mess snacks that travel well on a bus and won't leave crumbs or make people sticky before visiting garden paths. She also requests help sketching a simple printable bingo card template mixing garden sights and historic markers, aiming to start on it this weekend with her friends.",
+      "updated_at": "2021-07-01T21:28:48",
+      "topics": [
+        "bus_trip_food",
+        "bingo_card_template",
+        "group_travel_activity"
+      ],
+      "attributes": {
+        "activity": {
+          "value": "bus trip",
+          "time_at": "2021-07-01T21:28:48"
+        },
+        "participants": {
+          "value": "friends",
+          "time_at": "2021-07-01T21:28:48"
+        },
+        "food_brought": {
+          "value": [
+            "pimento cheese",
+            "peach jam"
+          ],
+          "time_at": "2021-07-01T21:28:48"
+        },
+        "snack_requirements": {
+          "value": [
+            "easy-to-pack",
+            "no-mess",
+            "travel well",
+            "won't leave crumbs",
+            "won't make folks sticky"
+          ],
+          "time_at": "2021-07-01T21:28:48"
+        },
+        "bingo_theme": {
+          "value": [
+            "garden sights",
+            "historic markers"
+          ],
+          "time_at": "2021-07-01T21:28:48"
+        },
+        "bingo_card_format": {
+          "value": "printable template",
+          "time_at": "2021-07-01T21:28:48"
+        },
+        "planned_start_time": {
+          "value": "this weekend",
+          "time_at": "2021-07-01T21:28:48"
+        },
+        "destination_context": {
+          "value": "garden paths",
+          "time_at": "2021-07-01T21:28:48"
+        }
+      },
+      "update_count": 0
+    }
+  }
+]

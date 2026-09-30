@@ -1,0 +1,289 @@
+{
+  "period": "period_00",
+  "memories": [
+    {
+      "memory_id": "m001",
+      "summary": "User is asking for new bridge game variations or icebreakers for a group of 6 to 12 friends, most of whom are over 50.",
+      "updated_at": "2020-09-22T20:15:06",
+      "topics": [
+        "bridge_game_variations",
+        "icebreakers"
+      ],
+      "attributes": {
+        "group_size": {
+          "value": "6_12",
+          "time_at": "2020-09-22T20:15:06"
+        },
+        "age_profile": {
+          "value": "mostly_over_50",
+          "time_at": "2020-09-22T20:15:06"
+        },
+        "participants": {
+          "value": "friends",
+          "time_at": "2020-09-22T20:15:06"
+        },
+        "activity": {
+          "value": "bridge",
+          "time_at": "2020-09-22T20:15:06"
+        }
+      },
+      "update_count": 0
+    },
+    {
+      "memory_id": "m002",
+      "summary": "User is seeking effective activities to encourage community leadership among young women in a small group mentoring setting.",
+      "updated_at": "2020-09-23T20:06:52",
+      "topics": [
+        "community_leadership_development",
+        "youth_mentoring",
+        "small_group_activities"
+      ],
+      "attributes": {
+        "target_group": {
+          "value": "young_women",
+          "time_at": "2020-09-23T20:06:52"
+        },
+        "mentoring_setting": {
+          "value": "small_group",
+          "time_at": "2020-09-23T20:06:52"
+        },
+        "focus_area": {
+          "value": "community_leadership",
+          "time_at": "2020-09-23T20:06:52"
+        },
+        "purpose": {
+          "value": "encourage_community_leadership",
+          "time_at": "2020-09-23T20:06:52"
+        }
+      },
+      "update_count": 0
+    },
+    {
+      "memory_id": "m003",
+      "summary": "User asks for weekly care tips to keep a medium-sized backyard rose garden healthy and blooming.",
+      "updated_at": "2020-09-24T20:00:57",
+      "topics": [
+        "rose_garden_care",
+        "weekly_gardening_tips"
+      ],
+      "attributes": {
+        "care_frequency": {
+          "value": "weekly",
+          "time_at": "2020-09-24T20:00:57"
+        },
+        "garden_size": {
+          "value": "medium",
+          "time_at": "2020-09-24T20:00:57"
+        },
+        "garden_location": {
+          "value": "backyard",
+          "time_at": "2020-09-24T20:00:57"
+        },
+        "plant_type": {
+          "value": "roses",
+          "time_at": "2020-09-24T20:00:57"
+        },
+        "care_goal": {
+          "value": "healthy_and_blooming",
+          "time_at": "2020-09-24T20:00:57"
+        }
+      },
+      "update_count": 0
+    },
+    {
+      "memory_id": "m004",
+      "summary": "User wants help planning a Southern-style potluck menu that can be prepared during a leisurely afternoon, with most guests enjoying classic dishes.",
+      "updated_at": "2020-09-25T19:38:06",
+      "topics": [
+        "southern_potluck_menu",
+        "potluck_planning"
+      ],
+      "attributes": {
+        "cuisine_style": {
+          "value": "Southern",
+          "time_at": "2020-09-25T19:38:06"
+        },
+        "meal_type": {
+          "value": "potluck",
+          "time_at": "2020-09-25T19:38:06"
+        },
+        "preparation_time": {
+          "value": "leisurely afternoon",
+          "time_at": "2020-09-25T19:38:06"
+        },
+        "guest_preference": {
+          "value": "classic dishes",
+          "time_at": "2020-09-25T19:38:06"
+        }
+      },
+      "update_count": 0
+    },
+    {
+      "memory_id": "m005",
+      "summary": "User is looking for choir warm-ups and gospel songs suitable for a group with mixed experience levels, specifically for weekly evening practices.",
+      "updated_at": "2020-09-26T19:27:59",
+      "topics": [
+        "choir_warmups",
+        "gospel_songs",
+        "weekly_evening_practice"
+      ],
+      "attributes": {
+        "group_experience_level": {
+          "value": "mixed",
+          "time_at": "2020-09-26T19:27:59"
+        },
+        "practice_frequency": {
+          "value": "weekly",
+          "time_at": "2020-09-26T19:27:59"
+        },
+        "practice_time": {
+          "value": "evening",
+          "time_at": "2020-09-26T19:27:59"
+        },
+        "activity": {
+          "value": "choir practice",
+          "time_at": "2020-09-26T19:27:59"
+        },
+        "music_genre": {
+          "value": "gospel",
+          "time_at": "2020-09-26T19:27:59"
+        }
+      },
+      "update_count": 0
+    },
+    {
+      "memory_id": "m006",
+      "summary": "User is asking about volunteer opportunities at the historical society that follow moderate health precautions and accommodate someone who sometimes needs a little help getting around.",
+      "updated_at": "2020-09-27T21:28:55",
+      "topics": [
+        "volunteer_opportunities",
+        "historical_society",
+        "mobility_accommodations"
+      ],
+      "attributes": {
+        "organization": {
+          "value": "historical_society",
+          "time_at": "2020-09-27T21:28:55"
+        },
+        "health_precautions": {
+          "value": "moderate",
+          "time_at": "2020-09-27T21:28:55"
+        },
+        "mobility_level": {
+          "value": "sometimes_needs_help_getting_around",
+          "time_at": "2020-09-27T21:28:55"
+        }
+      },
+      "update_count": 0
+    },
+    {
+      "memory_id": "m007",
+      "summary": "User is seeking day trip destination recommendations near Anniston for a small group carpooling, with costs per person between $30 and $70.",
+      "updated_at": "2020-09-28T19:23:44",
+      "topics": [
+        "day_trip_destinations",
+        "group_carpooling"
+      ],
+      "attributes": {
+        "location": {
+          "value": "near Anniston",
+          "time_at": "2020-09-28T19:23:44"
+        },
+        "group_size": {
+          "value": "small group",
+          "time_at": "2020-09-28T19:23:44"
+        },
+        "transportation_mode": {
+          "value": "carpool",
+          "time_at": "2020-09-28T19:23:44"
+        },
+        "cost_per_person": {
+          "value": "$30 to $70",
+          "time_at": "2020-09-28T19:23:44"
+        }
+      },
+      "update_count": 0
+    },
+    {
+      "memory_id": "m008",
+      "summary": "User is asking for multi-week quilting workshop plans suitable for students who already have some needlecraft experience.",
+      "updated_at": "2020-09-29T21:41:14",
+      "topics": [
+        "quilting_workshop",
+        "workshop_planning"
+      ],
+      "attributes": {
+        "workshop_duration": {
+          "value": "multi_week",
+          "time_at": "2020-09-29T21:41:14"
+        },
+        "student_experience": {
+          "value": "some_experience",
+          "time_at": "2020-09-29T21:41:14"
+        },
+        "activity": {
+          "value": "quilting",
+          "time_at": "2020-09-29T21:41:14"
+        }
+      },
+      "update_count": 0
+    },
+    {
+      "memory_id": "m009",
+      "summary": "User requests healthy soul food recipes using ingredients available at their local farmers market.",
+      "updated_at": "2020-09-30T20:55:12",
+      "topics": [
+        "healthy_soul_food_recipes",
+        "farmers_market_ingredients"
+      ],
+      "attributes": {
+        "cuisine_type": {
+          "value": "soul_food",
+          "time_at": "2020-09-30T20:55:12"
+        },
+        "dietary_focus": {
+          "value": "healthy",
+          "time_at": "2020-09-30T20:55:12"
+        },
+        "ingredient_source": {
+          "value": "local_farmers_market",
+          "time_at": "2020-09-30T20:55:12"
+        }
+      },
+      "update_count": 0
+    },
+    {
+      "memory_id": "m010",
+      "summary": "User is planning a mid-sized block party to watch the Crimson Tide game via a basic TV livestream and wants ideas to make it more festive.",
+      "updated_at": "2020-10-01T19:08:40",
+      "topics": [
+        "block_party",
+        "game_watch_party",
+        "crimson_tide_game"
+      ],
+      "attributes": {
+        "event_type": {
+          "value": "block_party",
+          "time_at": "2020-10-01T19:08:40"
+        },
+        "event_scale": {
+          "value": "mid_sized",
+          "time_at": "2020-10-01T19:08:40"
+        },
+        "activity": {
+          "value": "watching_crimson_tide_game",
+          "time_at": "2020-10-01T19:08:40"
+        },
+        "delivery_format": {
+          "value": "basic_tv_livestream",
+          "time_at": "2020-10-01T19:08:40"
+        },
+        "goal": {
+          "value": "make_more_festive",
+          "time_at": "2020-10-01T19:08:40"
+        }
+      },
+      "update_count": 0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environments and Python caches
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local model assets (models/ is Python source; do not ignore it)
+model_weights/
+local_models/
+checkpoints/
+.cache/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.gguf
+*.ggml
+*.onnx
+*.h5
+*.npz

@@ -1,0 +1,1534 @@
+[
+  [
+    {
+      "query": "What are some engaging activities I can organize for my monthly bridge gatherings to keep them fresh and enjoyable?",
+      "answer": 0,
+      "answer_state": [
+        "mostly_50_plus",
+        "medium_6_12"
+      ],
+      "answer_choice": "For a group of experienced bridge enthusiasts, try rotating partnerships each round to encourage mingling and fresh conversations. You could also introduce themed nights, such as 'classic conventions' or 'famous hands,' to spark interest and friendly competition among a manageable number of tables.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"m001 直接记录用户桥牌聚会：group_size=6_12（对应 medium_6_12），age_profile=mostly_over_50（对应 mostly_50_plus），与选项1的两个状态维度完全匹配；其他记忆涉及年轻女性导师、派对、志愿者、日游等，与桥牌聚会无关。\"}",
+      "response": 1,
+      "response_state": [
+        "mostly_50_plus",
+        "medium_6_12"
+      ],
+      "response_choice": "For a group of experienced bridge enthusiasts, try rotating partnerships each round to encourage mingling and fresh conversations. You could also introduce themed nights, such as 'classic conventions' or 'famous hands,' to spark interest and friendly competition among a manageable number of tables.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 5.8841097,
+        "used_memory_ids": [
+          "m001",
+          "m002",
+          "m010",
+          "m006",
+          "m007"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "m001 直接记录用户桥牌聚会：group_size=6_12（对应 medium_6_12），age_profile=mostly_over_50（对应 mostly_50_plus），与选项1的两个状态维度完全匹配；其他记忆涉及年轻女性导师、派对、志愿者、日游等，与桥牌聚会无关。"
+    },
+    {
+      "query": "How can I best mentor young women in my community to support their personal and professional growth?",
+      "answer": 2,
+      "answer_state": [
+        "community_leadership",
+        "small_group"
+      ],
+      "answer_choice": "Facilitate regular small group sessions where young women can collaborate on community initiatives, discuss challenges, and build confidence in leading local efforts. Foster a safe space for sharing ideas and provide personalized guidance to help each participant grow as a changemaker.",
+      "raw_response": "{\"answer\": 3, \"reason\": \"记忆 m002 明确记录目标群体为 young_women、指导场景为 small_group、重点为 community_leadership，与选项3的 community_leadership + small_group 完全吻合；其他选项的 workshop_series 或 education_teaching 均无记忆支持。\"}",
+      "response": 3,
+      "response_state": [
+        "community_leadership",
+        "small_group"
+      ],
+      "response_choice": "Facilitate regular small group sessions where young women can collaborate on community initiatives, discuss challenges, and build confidence in leading local efforts. Foster a safe space for sharing ideas and provide personalized guidance to help each participant grow as a changemaker.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.8954661000000002,
+        "used_memory_ids": [
+          "m002",
+          "m006",
+          "m005",
+          "m010",
+          "m007"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆 m002 明确记录目标群体为 young_women、指导场景为 small_group、重点为 community_leadership，与选项3的 community_leadership + small_group 完全吻合；其他选项的 workshop_series 或 education_teaching 均无记忆支持。"
+    },
+    {
+      "query": "What are effective ways to introduce more native Alabama plants into my rose garden without overwhelming my current setup?",
+      "answer": 1,
+      "answer_state": [
+        "medium_backyard",
+        "weekly_hands_on"
+      ],
+      "answer_choice": "With your hands-on approach, you can experiment by interplanting native species such as black-eyed Susan or butterfly weed among your roses, adjusting placement and pruning as needed. Regular attention allows you to monitor growth and quickly address any crowding, ensuring both roses and natives flourish together.",
+      "raw_response": "{\"answer\": 2, \"reason\": \"记忆 m003 明确记录用户拥有 medium 后院玫瑰花园（garden_size=medium, garden_location=backyard），且护理频率为 weekly（care_frequency=weekly），与选项2的 medium_backyard + weekly_hands_on 完全吻合；其余选项在花园规模或护理频率上均与记忆矛盾。\"}",
+      "response": 2,
+      "response_state": [
+        "medium_backyard",
+        "weekly_hands_on"
+      ],
+      "response_choice": "With your hands-on approach, you can experiment by interplanting native species such as black-eyed Susan or butterfly weed among your roses, adjusting placement and pruning as needed. Regular attention allows you to monitor growth and quickly address any crowding, ensuring both roses and natives flourish together.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.536751500000001,
+        "used_memory_ids": [
+          "m003",
+          "m008",
+          "m004",
+          "m009",
+          "m001"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆 m003 明确记录用户拥有 medium 后院玫瑰花园（garden_size=medium, garden_location=backyard），且护理频率为 weekly（care_frequency=weekly），与选项2的 medium_backyard + weekly_hands_on 完全吻合；其余选项在花园规模或护理频率上均与记忆矛盾。"
+    },
+    {
+      "query": "How can I organize a successful potluck that accommodates guests with different dietary preferences?",
+      "answer": 3,
+      "answer_state": [
+        "traditional_southern_diets",
+        "flexible_afternoon"
+      ],
+      "answer_choice": "For a flexible afternoon gathering with guests who enjoy classic Southern fare, organize a potluck featuring comfort foods like cornbread, fried chicken, and collard greens. Encourage guests to bring their favorite family recipes and set up a buffet-style serving area to create a relaxed, communal atmosphere.",
+      "raw_response": "{\"answer\": 4, \"reason\": \"记忆 m004 明确记载用户计划的是南方风味 potluck，备餐时间为悠闲下午（leisurely afternoon），多数客人偏好经典菜式，对应选项4的 traditional_southern_diets 与 flexible_afternoon。其他选项的 dietary_restrictions_allergies 或 mixed_diets_vegan_vegetarian 在记忆中无支持，且 full_day_prep/limited_under_2_hours 与 leisurely afternoon 不符。\"}",
+      "response": 4,
+      "response_state": [
+        "traditional_southern_diets",
+        "flexible_afternoon"
+      ],
+      "response_choice": "For a flexible afternoon gathering with guests who enjoy classic Southern fare, organize a potluck featuring comfort foods like cornbread, fried chicken, and collard greens. Encourage guests to bring their favorite family recipes and set up a buffet-style serving area to create a relaxed, communal atmosphere.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.288541499999999,
+        "used_memory_ids": [
+          "m004",
+          "m002",
+          "m009",
+          "m008",
+          "m006"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆 m004 明确记载用户计划的是南方风味 potluck，备餐时间为悠闲下午（leisurely afternoon），多数客人偏好经典菜式，对应选项4的 traditional_southern_diets 与 flexible_afternoon。其他选项的 dietary_restrictions_allergies 或 mixed_diets_vegan_vegetarian 在记忆中无支持，且 full_day_prep/limited_under_2_hours 与 leisurely afternoon 不符。"
+    },
+    {
+      "query": "What strategies can I use to increase participation in choir performances, especially among new members?",
+      "answer": 0,
+      "answer_state": [
+        "mixed_experience",
+        "weekly_evenings"
+      ],
+      "answer_choice": "To boost participation, pair newer singers with experienced members during weekly evening rehearsals to foster mentorship and confidence. Incorporate accessible repertoire and occasional social activities after practice to help everyone feel welcome and engaged.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"记忆 m005 明确显示该合唱团的经验水平为 mixed（混合经验），练习时间为每周晚上（weekly evening），与选项1的 mixed_experience + weekly_evenings 完全吻合；其他选项的 mostly_experienced_singers、mostly_new_members 或 random_availability 均无记忆支持。\"}",
+      "response": 1,
+      "response_state": [
+        "mixed_experience",
+        "weekly_evenings"
+      ],
+      "response_choice": "To boost participation, pair newer singers with experienced members during weekly evening rehearsals to foster mentorship and confidence. Incorporate accessible repertoire and occasional social activities after practice to help everyone feel welcome and engaged.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.2528475000000014,
+        "used_memory_ids": [
+          "m005",
+          "m002",
+          "m006",
+          "m008",
+          "m007"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆 m005 明确显示该合唱团的经验水平为 mixed（混合经验），练习时间为每周晚上（weekly evening），与选项1的 mixed_experience + weekly_evenings 完全吻合；其他选项的 mostly_experienced_singers、mostly_new_members 或 random_availability 均无记忆支持。"
+    },
+    {
+      "query": "How can I stay safe and active while volunteering, especially with changing health guidelines?",
+      "answer": 2,
+      "answer_state": [
+        "moderate_precautions",
+        "occasional_assistance_needed"
+      ],
+      "answer_choice": "Consider volunteering in settings where moderate safety measures are observed, such as small group activities or outdoor projects. If you need occasional help, communicate with coordinators to arrange support that respects current health practices.",
+      "raw_response": "{\"answer\": 3, \"reason\": \"记忆 m006 明确记录：健康防护为 moderate，行动能力为 sometimes_needs_help_getting_around（即 occasional_assistance_needed）。选项3的 moderate_precautions + occasional_assistance_needed 与这两项完全对应；其他选项在防护等级或行动协助需求上存在矛盾。\"}",
+      "response": 3,
+      "response_state": [
+        "moderate_precautions",
+        "occasional_assistance_needed"
+      ],
+      "response_choice": "Consider volunteering in settings where moderate safety measures are observed, such as small group activities or outdoor projects. If you need occasional help, communicate with coordinators to arrange support that respects current health practices.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.001249099999999,
+        "used_memory_ids": [
+          "m006",
+          "m002",
+          "m005",
+          "m007",
+          "m003"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆 m006 明确记录：健康防护为 moderate，行动能力为 sometimes_needs_help_getting_around（即 occasional_assistance_needed）。选项3的 moderate_precautions + occasional_assistance_needed 与这两项完全对应；其他选项在防护等级或行动协助需求上存在矛盾。"
+    },
+    {
+      "query": "What are some meaningful historic sites or cultural events I could help organize day trips to in the Deep South?",
+      "answer": 0,
+      "answer_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "answer_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"m007 明确显示用户此前规划日间旅行时使用小团体拼车（small group + carpool），人均花费 $30-$70，与选项1的状态 carpool_small_group 和 30_70 完全吻合；其他选项的巴士团体、个人游或不同年龄段均无记忆支持。\"}",
+      "response": 1,
+      "response_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "response_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.254538199999999,
+        "used_memory_ids": [
+          "m006",
+          "m004",
+          "m007",
+          "m002",
+          "m010"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "m007 明确显示用户此前规划日间旅行时使用小团体拼车（small group + carpool），人均花费 $30-$70，与选项1的状态 carpool_small_group 和 30_70 完全吻合；其他选项的巴士团体、个人游或不同年龄段均无记忆支持。"
+    },
+    {
+      "query": "Which needlecraft techniques would be best to teach at a beginner’s workshop for local teens?",
+      "answer": 4,
+      "answer_state": [
+        "some_experience",
+        "multi_week"
+      ],
+      "answer_choice": "Teens with some needlecraft background and several weeks to learn can tackle more advanced techniques like garment construction, tapestry weaving, or multi-color crochet. Plan a series of projects that build on their existing abilities and encourage creativity, such as designing their own patterns or collaborating on a group piece.",
+      "raw_response": "{\"answer\": 5, \"reason\": \"最相关记忆 m008 明确记录学生已有一些针线手工经验（student_experience=some_experience）且工作坊为多周（workshop_duration=multi_week），与选项5的状态完全吻合；其他选项在经验或时长维度上与之冲突。\"}",
+      "response": 5,
+      "response_state": [
+        "some_experience",
+        "multi_week"
+      ],
+      "response_choice": "Teens with some needlecraft background and several weeks to learn can tackle more advanced techniques like garment construction, tapestry weaving, or multi-color crochet. Plan a series of projects that build on their existing abilities and encourage creativity, such as designing their own patterns or collaborating on a group piece.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.2471031000000004,
+        "used_memory_ids": [
+          "m008",
+          "m005",
+          "m002",
+          "m010",
+          "m007"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "最相关记忆 m008 明确记录学生已有一些针线手工经验（student_experience=some_experience）且工作坊为多周（workshop_duration=multi_week），与选项5的状态完全吻合；其他选项在经验或时长维度上与之冲突。"
+    },
+    {
+      "query": "How should I adapt my soul food recipes for guests who prefer lighter or healthier options?",
+      "answer": 1,
+      "answer_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "answer_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "raw_response": "{\"answer\": 2, \"reason\": \"记忆m009明确显示用户关注健康灵魂食物（dietary_focus=healthy, cuisine_type=soul_food），且食材来源为local_farmers_market（ingredient_source=local_farmers_market）。选项2的状态为general_healthy_eating + local_farmers_market，与记忆最匹配；其他选项的regular_grocery_store与记忆中的farmers_market矛盾。\"}",
+      "response": 2,
+      "response_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "response_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 3.0360598000000003,
+        "used_memory_ids": [
+          "m009",
+          "m004",
+          "m003",
+          "m001",
+          "m005"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆m009明确显示用户关注健康灵魂食物（dietary_focus=healthy, cuisine_type=soul_food），且食材来源为local_farmers_market（ingredient_source=local_farmers_market）。选项2的状态为general_healthy_eating + local_farmers_market，与记忆最匹配；其他选项的regular_grocery_store与记忆中的farmers_market矛盾。"
+    },
+    {
+      "query": "What would be the best way to celebrate an Alabama Crimson Tide game at my home to bring the community together?",
+      "answer": 1,
+      "answer_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "answer_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "raw_response": "{\"answer\": 2, \"reason\": \"记忆 m010 明确记录用户计划举办 mid_sized block_party，并通过 basic_tv_livestream 观看 Crimson Tide 比赛，与选项 2 的 state 完全一致；其他选项的规模或观看方式均无记忆支持。\"}",
+      "response": 2,
+      "response_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "response_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.0718698999999994,
+        "used_memory_ids": [
+          "m002",
+          "m006",
+          "m010",
+          "m007",
+          "m005"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆 m010 明确记录用户计划举办 mid_sized block_party，并通过 basic_tv_livestream 观看 Crimson Tide 比赛，与选项 2 的 state 完全一致；其他选项的规模或观看方式均无记忆支持。"
+    }
+  ],
+  [
+    {
+      "query": "What are some engaging activities I can organize for my monthly bridge gatherings to keep them fresh and enjoyable?",
+      "answer": 4,
+      "answer_state": [
+        "mixed_ages_with_young_adults",
+        "medium_6_12"
+      ],
+      "answer_choice": "With a mix of ages and a moderate group size, try pairing experienced players with younger ones for mentorship and skill-building. Add some light-hearted competitions or bridge-themed games between rounds to keep the energy high and encourage intergenerational interaction.",
+      "raw_response": "{\"answer\": 5, \"reason\": \"m001 中 2020-12-29 的属性显示当前桥牌聚会为 mixed ages（age_composition）、参与者含 younger guests（new_participants），规模 8_10（group_size，对应 medium_6_12）。较旧的 age_profile=mostly_over_50（2020-09-22）已被更新的混合年龄证据收窄，因此应选 mixed_ages_with_young_adults + medium_6_12，即选项5。\"}",
+      "response": 5,
+      "response_state": [
+        "mixed_ages_with_young_adults",
+        "medium_6_12"
+      ],
+      "response_choice": "With a mix of ages and a moderate group size, try pairing experienced players with younger ones for mentorship and skill-building. Add some light-hearted competitions or bridge-themed games between rounds to keep the energy high and encourage intergenerational interaction.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 5.4217924,
+        "used_memory_ids": [
+          "m001",
+          "m006",
+          "m002",
+          "m010",
+          "m007"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "reason": "m001 中 2020-12-29 的属性显示当前桥牌聚会为 mixed ages（age_composition）、参与者含 younger guests（new_participants），规模 8_10（group_size，对应 medium_6_12）。较旧的 age_profile=mostly_over_50（2020-09-22）已被更新的混合年龄证据收窄，因此应选 mixed_ages_with_young_adults + medium_6_12，即选项5。"
+    },
+    {
+      "query": "How can I best mentor young women in my community to support their personal and professional growth?",
+      "answer": 0,
+      "answer_state": [
+        "community_leadership",
+        "workshop_series"
+      ],
+      "answer_choice": "Organize a series of interactive workshops that empower young women to develop leadership skills, such as public speaking, project management, and advocacy. Invite local female leaders to share their experiences and facilitate hands-on activities that encourage participants to take initiative in community projects.",
+      "raw_response": "{\"answer\": 3, \"reason\": \"m002 明确记录该导师项目面向年轻女性，属性 mentoring_setting=small_group（2020-09-23）、purpose=encourage_community_leadership（2020-09-23），即社区领导力+小组辅导，对应选项3。选项1/2的 workshop_series 与 m002 的 small_group 设置不符。\"}",
+      "response": 3,
+      "response_state": [
+        "community_leadership",
+        "small_group"
+      ],
+      "response_choice": "Facilitate regular small group sessions where young women can collaborate on community initiatives, discuss challenges, and build confidence in leading local efforts. Foster a safe space for sharing ideas and provide personalized guidance to help each participant grow as a changemaker.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.1552763000000006,
+        "used_memory_ids": [
+          "m002",
+          "m006",
+          "m005",
+          "m007",
+          "m008"
+        ]
+      },
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": 0.0
+      },
+      "reason": "m002 明确记录该导师项目面向年轻女性，属性 mentoring_setting=small_group（2020-09-23）、purpose=encourage_community_leadership（2020-09-23），即社区领导力+小组辅导，对应选项3。选项1/2的 workshop_series 与 m002 的 small_group 设置不符。"
+    },
+    {
+      "query": "What are effective ways to introduce more native Alabama plants into my rose garden without overwhelming my current setup?",
+      "answer": 0,
+      "answer_state": [
+        "medium_backyard",
+        "monthly_minimal"
+      ],
+      "answer_choice": "To gently incorporate native Alabama plants into your rose garden, consider adding a few low-maintenance perennials like coreopsis or coneflower along the borders, spacing them so they don't compete with your roses. Choose varieties that thrive with minimal care, and use mulch to help reduce upkeep and keep the garden cohesive.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"记忆m003明确记录花园为medium backyard（time_at 2020-09-24），冬季场景（time_at 2020-12-31）任务频率由weekly更新为monthly，故当前为medium_backyard + monthly_minimal，与选项1匹配。\"}",
+      "response": 1,
+      "response_state": [
+        "medium_backyard",
+        "monthly_minimal"
+      ],
+      "response_choice": "To gently incorporate native Alabama plants into your rose garden, consider adding a few low-maintenance perennials like coreopsis or coneflower along the borders, spacing them so they don't compete with your roses. Choose varieties that thrive with minimal care, and use mulch to help reduce upkeep and keep the garden cohesive.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.0343354000000016,
+        "used_memory_ids": [
+          "m016",
+          "m003",
+          "m008",
+          "m004",
+          "m009"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "reason": "记忆m003明确记录花园为medium backyard（time_at 2020-09-24），冬季场景（time_at 2020-12-31）任务频率由weekly更新为monthly，故当前为medium_backyard + monthly_minimal，与选项1匹配。"
+    },
+    {
+      "query": "How can I organize a successful potluck that accommodates guests with different dietary preferences?",
+      "answer": 3,
+      "answer_state": [
+        "traditional_southern_diets",
+        "flexible_afternoon"
+      ],
+      "answer_choice": "For a flexible afternoon gathering with guests who enjoy classic Southern fare, organize a potluck featuring comfort foods like cornbread, fried chicken, and collard greens. Encourage guests to bring their favorite family recipes and set up a buffet-style serving area to create a relaxed, communal atmosphere.",
+      "raw_response": "{\"answer\": 4, \"reason\": \"最相关的记忆 m004 显示用户计划的是南方风格 potluck，准备时间为 leisurely afternoon（≈flexible_afternoon），主要客人偏好 classic dishes（≈traditional_southern_diets）；这些属性时间均为 2020-09-25，与选项4的状态匹配。其他选项的 dietary_restrictions_allergies 或 mixed_diets_vegan_vegetarian 在记忆中无依据。\"}",
+      "response": 4,
+      "response_state": [
+        "traditional_southern_diets",
+        "flexible_afternoon"
+      ],
+      "response_choice": "For a flexible afternoon gathering with guests who enjoy classic Southern fare, organize a potluck featuring comfort foods like cornbread, fried chicken, and collard greens. Encourage guests to bring their favorite family recipes and set up a buffet-style serving area to create a relaxed, communal atmosphere.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.0833048000000005,
+        "used_memory_ids": [
+          "m004",
+          "m002",
+          "m009",
+          "m008",
+          "m010"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "最相关的记忆 m004 显示用户计划的是南方风格 potluck，准备时间为 leisurely afternoon（≈flexible_afternoon），主要客人偏好 classic dishes（≈traditional_southern_diets）；这些属性时间均为 2020-09-25，与选项4的状态匹配。其他选项的 dietary_restrictions_allergies 或 mixed_diets_vegan_vegetarian 在记忆中无依据。"
+    },
+    {
+      "query": "What strategies can I use to increase participation in choir performances, especially among new members?",
+      "answer": 0,
+      "answer_state": [
+        "mixed_experience",
+        "weekly_evenings"
+      ],
+      "answer_choice": "To boost participation, pair newer singers with experienced members during weekly evening rehearsals to foster mentorship and confidence. Incorporate accessible repertoire and occasional social activities after practice to help everyone feel welcome and engaged.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"m005 明确记录该合唱团 group_experience_level=mixed（2020-09-26），practice_frequency=weekly、practice_time=evening，即 mixed_experience 与 weekly_evenings；m016 也显示成员舒适度不一，支持混合经验。选项1 的 mixed_experience + weekly_evenings 与记忆完全一致。\"}",
+      "response": 1,
+      "response_state": [
+        "mixed_experience",
+        "weekly_evenings"
+      ],
+      "response_choice": "To boost participation, pair newer singers with experienced members during weekly evening rehearsals to foster mentorship and confidence. Incorporate accessible repertoire and occasional social activities after practice to help everyone feel welcome and engaged.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.2272871000000016,
+        "used_memory_ids": [
+          "m005",
+          "m016",
+          "m002",
+          "m006",
+          "m008"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "m005 明确记录该合唱团 group_experience_level=mixed（2020-09-26），practice_frequency=weekly、practice_time=evening，即 mixed_experience 与 weekly_evenings；m016 也显示成员舒适度不一，支持混合经验。选项1 的 mixed_experience + weekly_evenings 与记忆完全一致。"
+    },
+    {
+      "query": "How can I stay safe and active while volunteering, especially with changing health guidelines?",
+      "answer": 0,
+      "answer_state": [
+        "strict_social_distancing",
+        "occasional_assistance_needed"
+      ],
+      "answer_choice": "Choose volunteer roles that allow you to maintain a safe distance from others, such as remote support or contactless deliveries. Since you occasionally need assistance, coordinate with organizers to ensure any help you receive follows safety protocols and minimizes close contact.",
+      "raw_response": "{\"answer\": 4, \"reason\": \"m006 中 constraints 属性（time_at 2021-01-01）明确要求 strict social distancing guidelines 和 limited in-person interactions，mobility_level（2020-09-27）为 sometimes_needs_help_getting_around，对应 occasional_assistance_needed；该约束比 health_precautions=moderate 更新且更具约束力，故选择同时满足 strict_social_distancing 与 occasional_assistance_needed 的选项。\"}",
+      "response": 4,
+      "response_state": [
+        "strict_social_distancing",
+        "limited_mobility"
+      ],
+      "response_choice": "Focus on volunteering options that are fully remote or require minimal physical presence, given both the need for strict distancing and your mobility limitations. Work with organizers to ensure any necessary assistance is provided in a way that keeps you and others safe.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.2426759999999994,
+        "used_memory_ids": [
+          "m006",
+          "m002",
+          "m016",
+          "m005",
+          "m003"
+        ]
+      },
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": 1.0
+      },
+      "reason": "m006 中 constraints 属性（time_at 2021-01-01）明确要求 strict social distancing guidelines 和 limited in-person interactions，mobility_level（2020-09-27）为 sometimes_needs_help_getting_around，对应 occasional_assistance_needed；该约束比 health_precautions=moderate 更新且更具约束力，故选择同时满足 strict_social_distancing 与 occasional_assistance_needed 的选项。"
+    },
+    {
+      "query": "What are some meaningful historic sites or cultural events I could help organize day trips to in the Deep South?",
+      "answer": 0,
+      "answer_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "answer_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"最相关的记忆 m007（time_at 2020-09-28）明确记录用户寻找 Anniston 附近的小团体拼车一日游，人均 $30–$70，与选项 1 的 carpool_small_group + 30_70 完全匹配；其他选项的交通方式或价格均无记忆支持。\"}",
+      "response": 1,
+      "response_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "response_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.4356250999999993,
+        "used_memory_ids": [
+          "m006",
+          "m004",
+          "m007",
+          "m002",
+          "m001"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "最相关的记忆 m007（time_at 2020-09-28）明确记录用户寻找 Anniston 附近的小团体拼车一日游，人均 $30–$70，与选项 1 的 carpool_small_group + 30_70 完全匹配；其他选项的交通方式或价格均无记忆支持。"
+    },
+    {
+      "query": "Which needlecraft techniques would be best to teach at a beginner’s workshop for local teens?",
+      "answer": 4,
+      "answer_state": [
+        "some_experience",
+        "multi_week"
+      ],
+      "answer_choice": "Teens with some needlecraft background and several weeks to learn can tackle more advanced techniques like garment construction, tapestry weaving, or multi-color crochet. Plan a series of projects that build on their existing abilities and encourage creativity, such as designing their own patterns or collaborating on a group piece.",
+      "raw_response": "{\"answer\": 5, \"reason\": \"m008 明确记录 workshop_duration=multi_week、student_experience=some_experience（time_at 2020-09-29），与选项5的两个状态维度完全匹配；m002 的 participant_skill_level=some_complete_beginners 描述的是另一活动（社区领导力项目中的缝纫环节），并非本次针线工作坊的学员水平，且其 workshop_duration=series 与 multi_week 语义一致，不构成矛盾。\"}",
+      "response": 5,
+      "response_state": [
+        "some_experience",
+        "multi_week"
+      ],
+      "response_choice": "Teens with some needlecraft background and several weeks to learn can tackle more advanced techniques like garment construction, tapestry weaving, or multi-color crochet. Plan a series of projects that build on their existing abilities and encourage creativity, such as designing their own patterns or collaborating on a group piece.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.0756376000000003,
+        "used_memory_ids": [
+          "m008",
+          "m002",
+          "m005",
+          "m006",
+          "m010"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "m008 明确记录 workshop_duration=multi_week、student_experience=some_experience（time_at 2020-09-29），与选项5的两个状态维度完全匹配；m002 的 participant_skill_level=some_complete_beginners 描述的是另一活动（社区领导力项目中的缝纫环节），并非本次针线工作坊的学员水平，且其 workshop_duration=series 与 multi_week 语义一致，不构成矛盾。"
+    },
+    {
+      "query": "How should I adapt my soul food recipes for guests who prefer lighter or healthier options?",
+      "answer": 1,
+      "answer_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "answer_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "raw_response": "{\"answer\": 2, \"reason\": \"m009 明确记录用户关注健康灵魂食物，且食材来源为 local_farmers_market（time_at 2020-09-30），对应选项2的 general_healthy_eating + local_farmers_market；其他选项的 regular_grocery_store 或 chronic_condition_management 在记忆中无依据。\"}",
+      "response": 2,
+      "response_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "response_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.2225275999999994,
+        "used_memory_ids": [
+          "m009",
+          "m004",
+          "m003",
+          "m016",
+          "m001"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "m009 明确记录用户关注健康灵魂食物，且食材来源为 local_farmers_market（time_at 2020-09-30），对应选项2的 general_healthy_eating + local_farmers_market；其他选项的 regular_grocery_store 或 chronic_condition_management 在记忆中无依据。"
+    },
+    {
+      "query": "What would be the best way to celebrate an Alabama Crimson Tide game at my home to bring the community together?",
+      "answer": 1,
+      "answer_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "answer_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "raw_response": "{\"answer\": 2, \"reason\": \"记忆 m010 明确记录用户正在筹划一场中等规模的街区派对（event_scale=mid_sized，event_type=block_party），通过基础电视直播观看 Crimson Tide 比赛（delivery_format=basic_tv_livestream），与选项 2 的状态完全吻合。其他记忆（m002、m006、m001、m007）与本次居家观赛庆祝无关。\"}",
+      "response": 2,
+      "response_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "response_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.590731699999999,
+        "used_memory_ids": [
+          "m002",
+          "m006",
+          "m010",
+          "m001",
+          "m007"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆 m010 明确记录用户正在筹划一场中等规模的街区派对（event_scale=mid_sized，event_type=block_party），通过基础电视直播观看 Crimson Tide 比赛（delivery_format=basic_tv_livestream），与选项 2 的状态完全吻合。其他记忆（m002、m006、m001、m007）与本次居家观赛庆祝无关。"
+    }
+  ],
+  [
+    {
+      "query": "What are some engaging activities I can organize for my monthly bridge gatherings to keep them fresh and enjoyable?",
+      "answer": 4,
+      "answer_state": [
+        "mixed_ages_with_young_adults",
+        "medium_6_12"
+      ],
+      "answer_choice": "With a mix of ages and a moderate group size, try pairing experienced players with younger ones for mentorship and skill-building. Add some light-hearted competitions or bridge-themed games between rounds to keep the energy high and encourage intergenerational interaction.",
+      "raw_response": "{\"answer\": 5, \"reason\": \"m001 中关于 bridge night 的最新属性（time_at 2020-12-29）显示 age_composition 为 mixed ages、participants 包含 younger guests，group_size 为 8_10（即中等规模 6-12 人），与选项5的 mixed_ages_with_young_adults + medium_6_12 完全吻合；较旧的 age_profile=mostly_over_50（2020-09-22）已被较新的 mixed ages 证据更新。\"}",
+      "response": 5,
+      "response_state": [
+        "mixed_ages_with_young_adults",
+        "medium_6_12"
+      ],
+      "response_choice": "With a mix of ages and a moderate group size, try pairing experienced players with younger ones for mentorship and skill-building. Add some light-hearted competitions or bridge-themed games between rounds to keep the energy high and encourage intergenerational interaction.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 3.925678900000001,
+        "used_memory_ids": [
+          "m001",
+          "m006",
+          "m002",
+          "m010",
+          "m007"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "m001 中关于 bridge night 的最新属性（time_at 2020-12-29）显示 age_composition 为 mixed ages、participants 包含 younger guests，group_size 为 8_10（即中等规模 6-12 人），与选项5的 mixed_ages_with_young_adults + medium_6_12 完全吻合；较旧的 age_profile=mostly_over_50（2020-09-22）已被较新的 mixed ages 证据更新。"
+    },
+    {
+      "query": "How can I best mentor young women in my community to support their personal and professional growth?",
+      "answer": 0,
+      "answer_state": [
+        "community_leadership",
+        "workshop_series"
+      ],
+      "answer_choice": "Organize a series of interactive workshops that empower young women to develop leadership skills, such as public speaking, project management, and advocacy. Invite local female leaders to share their experiences and facilitate hands-on activities that encourage participants to take initiative in community projects.",
+      "raw_response": "{\"answer\": 3, \"reason\": \"m002 明确记录目标群体为 young women（time_at 2020-12-30），指导场景 mentoring_setting=small_group（time_at 2020-09-23），目的为 encourage_community_leadership，即社区领导力方向；这些属性直接支持“community_leadership + small_group”。m008 的 complete_beginners 针对的是 needlecraft 工作坊，与本题 mentorship 场景无关，不能据此选 education_teaching 或 workshop_series。\"}",
+      "response": 3,
+      "response_state": [
+        "community_leadership",
+        "small_group"
+      ],
+      "response_choice": "Facilitate regular small group sessions where young women can collaborate on community initiatives, discuss challenges, and build confidence in leading local efforts. Foster a safe space for sharing ideas and provide personalized guidance to help each participant grow as a changemaker.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.283301199999997,
+        "used_memory_ids": [
+          "m002",
+          "m006",
+          "m008",
+          "m005",
+          "m016"
+        ]
+      },
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": null
+      },
+      "reason": "m002 明确记录目标群体为 young women（time_at 2020-12-30），指导场景 mentoring_setting=small_group（time_at 2020-09-23），目的为 encourage_community_leadership，即社区领导力方向；这些属性直接支持“community_leadership + small_group”。m008 的 complete_beginners 针对的是 needlecraft 工作坊，与本题 mentorship 场景无关，不能据此选 education_teaching 或 workshop_series。"
+    },
+    {
+      "query": "What are effective ways to introduce more native Alabama plants into my rose garden without overwhelming my current setup?",
+      "answer": 0,
+      "answer_state": [
+        "medium_backyard",
+        "monthly_minimal"
+      ],
+      "answer_choice": "To gently incorporate native Alabama plants into your rose garden, consider adding a few low-maintenance perennials like coreopsis or coneflower along the borders, spacing them so they don't compete with your roses. Choose varieties that thrive with minimal care, and use mulch to help reduce upkeep and keep the garden cohesive.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"记忆m003显示花园为medium backyard（中型后院），且冬季任务频率更新为monthly（time_at 2020-12-31，取代较早的weekly care_frequency），对应“medium_backyard + monthly_minimal”；其他选项的small_balcony_patio或weekly_hands_on与记忆不符。\"}",
+      "response": 1,
+      "response_state": [
+        "medium_backyard",
+        "monthly_minimal"
+      ],
+      "response_choice": "To gently incorporate native Alabama plants into your rose garden, consider adding a few low-maintenance perennials like coreopsis or coneflower along the borders, spacing them so they don't compete with your roses. Choose varieties that thrive with minimal care, and use mulch to help reduce upkeep and keep the garden cohesive.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.3021242000000015,
+        "used_memory_ids": [
+          "m016",
+          "m003",
+          "m008",
+          "m004",
+          "m009"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆m003显示花园为medium backyard（中型后院），且冬季任务频率更新为monthly（time_at 2020-12-31，取代较早的weekly care_frequency），对应“medium_backyard + monthly_minimal”；其他选项的small_balcony_patio或weekly_hands_on与记忆不符。"
+    },
+    {
+      "query": "How can I organize a successful potluck that accommodates guests with different dietary preferences?",
+      "answer": 2,
+      "answer_state": [
+        "mixed_diets_vegan_vegetarian",
+        "full_day_prep"
+      ],
+      "answer_choice": "With ample prep time and a mix of vegan and vegetarian guests, plan a diverse spread featuring hearty plant-based mains, creative salads, and dairy-free desserts. Invite guests to bring their signature vegan or vegetarian dishes, and offer a few crowd-pleasers like stuffed peppers or lentil stew to ensure everyone has satisfying options.",
+      "raw_response": "{\"answer\": 3, \"reason\": \"m004 明确记录该 potluck 有 vegan/vegetarian/nut_allergy 等混合饮食需求（dietary_restrictions, time_at 2021-03-30），且 available_time 为 full_day_to_cook（同一时间），对应选项3的 mixed_diets_vegan_vegetarian + full_day_prep；选项1/2的 dietary_restrictions_allergies 虽相关但缺少混合素食维度，且 limited_under_2_hours 与 full_day_to_cook 矛盾。\"}",
+      "response": 3,
+      "response_state": [
+        "mixed_diets_vegan_vegetarian",
+        "full_day_prep"
+      ],
+      "response_choice": "With ample prep time and a mix of vegan and vegetarian guests, plan a diverse spread featuring hearty plant-based mains, creative salads, and dairy-free desserts. Invite guests to bring their signature vegan or vegetarian dishes, and offer a few crowd-pleasers like stuffed peppers or lentil stew to ensure everyone has satisfying options.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.511278400000002,
+        "used_memory_ids": [
+          "m004",
+          "m002",
+          "m016",
+          "m009",
+          "m008"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "reason": "m004 明确记录该 potluck 有 vegan/vegetarian/nut_allergy 等混合饮食需求（dietary_restrictions, time_at 2021-03-30），且 available_time 为 full_day_to_cook（同一时间），对应选项3的 mixed_diets_vegan_vegetarian + full_day_prep；选项1/2的 dietary_restrictions_allergies 虽相关但缺少混合素食维度，且 limited_under_2_hours 与 full_day_to_cook 矛盾。"
+    },
+    {
+      "query": "What strategies can I use to increase participation in choir performances, especially among new members?",
+      "answer": 3,
+      "answer_state": [
+        "mixed_experience",
+        "random_availability"
+      ],
+      "answer_choice": "For a diverse group with irregular attendance, create rotating rehearsal groups and use online resources to support learning outside of scheduled practices. Host informal performance opportunities and encourage peer support to help new members feel comfortable participating despite scheduling challenges.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"记忆m016最新（time_at 2021-04-01）明确记录合唱团为mixed experience levels（经验丰富的老成员与去年秋天加入的新成员混合），且m005记录每周晚间练习（weekly evening）。选项1的mixed_experience与weekly_evenings均被支持；选项2/3的mostly_experienced_singers与记忆矛盾，选项5的mostly_new_members亦与混合构成矛盾。\"}",
+      "response": 1,
+      "response_state": [
+        "mixed_experience",
+        "weekly_evenings"
+      ],
+      "response_choice": "To boost participation, pair newer singers with experienced members during weekly evening rehearsals to foster mentorship and confidence. Incorporate accessible repertoire and occasional social activities after practice to help everyone feel welcome and engaged.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.040939800000004,
+        "used_memory_ids": [
+          "m016",
+          "m005",
+          "m008",
+          "m002",
+          "m006"
+        ]
+      },
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": 0.0
+      },
+      "reason": "记忆m016最新（time_at 2021-04-01）明确记录合唱团为mixed experience levels（经验丰富的老成员与去年秋天加入的新成员混合），且m005记录每周晚间练习（weekly evening）。选项1的mixed_experience与weekly_evenings均被支持；选项2/3的mostly_experienced_singers与记忆矛盾，选项5的mostly_new_members亦与混合构成矛盾。"
+    },
+    {
+      "query": "How can I stay safe and active while volunteering, especially with changing health guidelines?",
+      "answer": 0,
+      "answer_state": [
+        "strict_social_distancing",
+        "occasional_assistance_needed"
+      ],
+      "answer_choice": "Choose volunteer roles that allow you to maintain a safe distance from others, such as remote support or contactless deliveries. Since you occasionally need assistance, coordinate with organizers to ensure any help you receive follows safety protocols and minimizes close contact.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"m006 中 constraints（time_at 2021-01-01）明确要求 strict social distancing 与 limited in-person interactions，且 mobility_level 为 sometimes_needs_help_getting_around，对应“偶尔需要协助”；health_precautions 虽为 moderate，但较新的 constraints 收紧为严格社交距离，故选项1最匹配。\"}",
+      "response": 1,
+      "response_state": [
+        "strict_social_distancing",
+        "occasional_assistance_needed"
+      ],
+      "response_choice": "Choose volunteer roles that allow you to maintain a safe distance from others, such as remote support or contactless deliveries. Since you occasionally need assistance, coordinate with organizers to ensure any help you receive follows safety protocols and minimizes close contact.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.0863469000000023,
+        "used_memory_ids": [
+          "m006",
+          "m004",
+          "m002",
+          "m016",
+          "m005"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "m006 中 constraints（time_at 2021-01-01）明确要求 strict social distancing 与 limited in-person interactions，且 mobility_level 为 sometimes_needs_help_getting_around，对应“偶尔需要协助”；health_precautions 虽为 moderate，但较新的 constraints 收紧为严格社交距离，故选项1最匹配。"
+    },
+    {
+      "query": "What are some meaningful historic sites or cultural events I could help organize day trips to in the Deep South?",
+      "answer": 0,
+      "answer_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "answer_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"记忆 m007 明确记录用户寻求安尼斯顿附近一日游，交通方式为 carpool（小团体拼车），人均费用 $30 至 $70，与选项 1 的 carpool_small_group、30_70 完全吻合；其他选项的巴士团体、个人游及年龄区间均无记忆支持。\"}",
+      "response": 1,
+      "response_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "response_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.3452047999999976,
+        "used_memory_ids": [
+          "m006",
+          "m004",
+          "m007",
+          "m002",
+          "m001"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆 m007 明确记录用户寻求安尼斯顿附近一日游，交通方式为 carpool（小团体拼车），人均费用 $30 至 $70，与选项 1 的 carpool_small_group、30_70 完全吻合；其他选项的巴士团体、个人游及年龄区间均无记忆支持。"
+    },
+    {
+      "query": "Which needlecraft techniques would be best to teach at a beginner’s workshop for local teens?",
+      "answer": 3,
+      "answer_state": [
+        "complete_beginners",
+        "multi_week"
+      ],
+      "answer_choice": "For absolute beginners in a multi-week format, start with foundational skills like hand sewing, basic knitting, and introductory embroidery, gradually progressing to simple projects such as tote bags or decorative pillows. This structure allows teens to build confidence and see their skills develop over time.",
+      "raw_response": "{\"answer\": 4, \"reason\": \"记忆m008明确记录：workshop_duration=multi_week（2020-09-29）、student_experience=complete_beginners（2021-03-31），且workshop_activity=needlecraft，与“面向本地青少年的初学者针线工作坊”匹配。m002的participant_skill_level虽提到some_complete_beginners，但其为领导力系列，非本次针线工作坊，且其时间较早；故选择complete_beginners+multi_week。\"}",
+      "response": 4,
+      "response_state": [
+        "complete_beginners",
+        "multi_week"
+      ],
+      "response_choice": "For absolute beginners in a multi-week format, start with foundational skills like hand sewing, basic knitting, and introductory embroidery, gradually progressing to simple projects such as tote bags or decorative pillows. This structure allows teens to build confidence and see their skills develop over time.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.531970600000001,
+        "used_memory_ids": [
+          "m008",
+          "m002",
+          "m005",
+          "m016",
+          "m006"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "reason": "记忆m008明确记录：workshop_duration=multi_week（2020-09-29）、student_experience=complete_beginners（2021-03-31），且workshop_activity=needlecraft，与“面向本地青少年的初学者针线工作坊”匹配。m002的participant_skill_level虽提到some_complete_beginners，但其为领导力系列，非本次针线工作坊，且其时间较早；故选择complete_beginners+multi_week。"
+    },
+    {
+      "query": "How should I adapt my soul food recipes for guests who prefer lighter or healthier options?",
+      "answer": 1,
+      "answer_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "answer_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "raw_response": "{\"answer\": 2, \"reason\": \"记忆 m009 明确记录用户希望用本地农夫市集食材制作健康灵魂料理（ingredient_source=local_farmers_market，dietary_focus=healthy），与选项2的 general_healthy_eating + local_farmers_market 完全吻合；其余选项的食材来源或健康目标与记忆不符。\"}",
+      "response": 2,
+      "response_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "response_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.192254499999997,
+        "used_memory_ids": [
+          "m009",
+          "m004",
+          "m003",
+          "m016",
+          "m001"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆 m009 明确记录用户希望用本地农夫市集食材制作健康灵魂料理（ingredient_source=local_farmers_market，dietary_focus=healthy），与选项2的 general_healthy_eating + local_farmers_market 完全吻合；其余选项的食材来源或健康目标与记忆不符。"
+    },
+    {
+      "query": "What would be the best way to celebrate an Alabama Crimson Tide game at my home to bring the community together?",
+      "answer": 1,
+      "answer_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "answer_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "raw_response": "{\"answer\": 2, \"reason\": \"记忆 m010 明确记录用户正在筹划 mid_sized block party，通过 basic_tv_livestream 观看 Crimson Tide 比赛，事件规模为 mid_sized、形式为 block_party、观看方式为 basic_tv_livestream，与选项2完全吻合；其他选项的规模或观看方式均无支持。\"}",
+      "response": 2,
+      "response_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "response_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.4746925999999974,
+        "used_memory_ids": [
+          "m002",
+          "m006",
+          "m010",
+          "m008",
+          "m004"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆 m010 明确记录用户正在筹划 mid_sized block party，通过 basic_tv_livestream 观看 Crimson Tide 比赛，事件规模为 mid_sized、形式为 block_party、观看方式为 basic_tv_livestream，与选项2完全吻合；其他选项的规模或观看方式均无支持。"
+    }
+  ],
+  [
+    {
+      "query": "What are some engaging activities I can organize for my monthly bridge gatherings to keep them fresh and enjoyable?",
+      "answer": 1,
+      "answer_state": [
+        "mixed_ages_with_young_adults",
+        "large_13_plus"
+      ],
+      "answer_choice": "With a larger and diverse crowd, consider organizing a mini-tournament with prizes for top teams and a side table for teaching bridge basics to newcomers. Incorporate social elements like team-based trivia or bridge-themed icebreakers to keep everyone engaged, especially younger participants.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"记忆m001显示用户每月桥牌聚会为8-10人（group_size=8_10，time_at 2020-12-29），年龄以50岁以上为主（age_profile=mostly_over_50，time_at 2020-09-22），与选项1的mostly_50_plus、medium_6_12最接近；其他选项的人数或年龄构成缺乏直接支持。\"}",
+      "response": 1,
+      "response_state": [
+        "mostly_50_plus",
+        "medium_6_12"
+      ],
+      "response_choice": "For a group of experienced bridge enthusiasts, try rotating partnerships each round to encourage mingling and fresh conversations. You could also introduce themed nights, such as 'classic conventions' or 'famous hands,' to spark interest and friendly competition among a manageable number of tables.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 4.212869000000005,
+        "used_memory_ids": [
+          "m001",
+          "m031",
+          "m006",
+          "m026",
+          "m002"
+        ]
+      },
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.0,
+        "hamming": 0.0,
+        "accurate_retrieval": 0.0,
+        "selective_forgetting": 0.0
+      },
+      "reason": "记忆m001显示用户每月桥牌聚会为8-10人（group_size=8_10，time_at 2020-12-29），年龄以50岁以上为主（age_profile=mostly_over_50，time_at 2020-09-22），与选项1的mostly_50_plus、medium_6_12最接近；其他选项的人数或年龄构成缺乏直接支持。"
+    },
+    {
+      "query": "How can I best mentor young women in my community to support their personal and professional growth?",
+      "answer": 0,
+      "answer_state": [
+        "community_leadership",
+        "workshop_series"
+      ],
+      "answer_choice": "Organize a series of interactive workshops that empower young women to develop leadership skills, such as public speaking, project management, and advocacy. Invite local female leaders to share their experiences and facilitate hands-on activities that encourage participants to take initiative in community projects.",
+      "raw_response": "{\"answer\": 3, \"reason\": \"m002 明确记录该导师项目面向 young women，采用 small_group 的小组辅导形式（mentoring_setting=small_group，time_at 2020-09-23），并以培养社区领导力为目的（purpose=encourage_community_leadership）。m008 虽提到 workshop，但那是针对混合年龄的针线手工艺工作坊，并非本查询所指的年轻女性导师项目，不能据此把形式改成 workshop_series。因此支持 community_leadership + small_group，选 3。\"}",
+      "response": 3,
+      "response_state": [
+        "community_leadership",
+        "small_group"
+      ],
+      "response_choice": "Facilitate regular small group sessions where young women can collaborate on community initiatives, discuss challenges, and build confidence in leading local efforts. Foster a safe space for sharing ideas and provide personalized guidance to help each participant grow as a changemaker.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 3.0396994999999976,
+        "used_memory_ids": [
+          "m002",
+          "m006",
+          "m008",
+          "m029",
+          "m005"
+        ]
+      },
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": null
+      },
+      "reason": "m002 明确记录该导师项目面向 young women，采用 small_group 的小组辅导形式（mentoring_setting=small_group，time_at 2020-09-23），并以培养社区领导力为目的（purpose=encourage_community_leadership）。m008 虽提到 workshop，但那是针对混合年龄的针线手工艺工作坊，并非本查询所指的年轻女性导师项目，不能据此把形式改成 workshop_series。因此支持 community_leadership + small_group，选 3。"
+    },
+    {
+      "query": "What are effective ways to introduce more native Alabama plants into my rose garden without overwhelming my current setup?",
+      "answer": 1,
+      "answer_state": [
+        "medium_backyard",
+        "weekly_hands_on"
+      ],
+      "answer_choice": "With your hands-on approach, you can experiment by interplanting native species such as black-eyed Susan or butterfly weed among your roses, adjusting placement and pruning as needed. Regular attention allows you to monitor growth and quickly address any crowding, ensuring both roses and natives flourish together.",
+      "raw_response": "{\"answer\": 2, \"reason\": \"m003 明确记录花园为 medium 大小的 backyard（garden_size=medium, time_at 2020-09-24），且夏季护理频率为 weekly（frequency=weekly, time_at 2021-06-29），与选项2的 medium_backyard + weekly_hands_on 完全吻合；冬季 monthly 是较早的阶段性记录（time_at 2020-12-31），不改变当前夏季 weekly 状态。m016 也支持后院玫瑰种植背景。\"}",
+      "response": 2,
+      "response_state": [
+        "medium_backyard",
+        "weekly_hands_on"
+      ],
+      "response_choice": "With your hands-on approach, you can experiment by interplanting native species such as black-eyed Susan or butterfly weed among your roses, adjusting placement and pruning as needed. Regular attention allows you to monitor growth and quickly address any crowding, ensuring both roses and natives flourish together.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.184483499999999,
+        "used_memory_ids": [
+          "m016",
+          "m003",
+          "m004",
+          "m009",
+          "m002"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "reason": "m003 明确记录花园为 medium 大小的 backyard（garden_size=medium, time_at 2020-09-24），且夏季护理频率为 weekly（frequency=weekly, time_at 2021-06-29），与选项2的 medium_backyard + weekly_hands_on 完全吻合；冬季 monthly 是较早的阶段性记录（time_at 2020-12-31），不改变当前夏季 weekly 状态。m016 也支持后院玫瑰种植背景。"
+    },
+    {
+      "query": "How can I organize a successful potluck that accommodates guests with different dietary preferences?",
+      "answer": 2,
+      "answer_state": [
+        "mixed_diets_vegan_vegetarian",
+        "full_day_prep"
+      ],
+      "answer_choice": "With ample prep time and a mix of vegan and vegetarian guests, plan a diverse spread featuring hearty plant-based mains, creative salads, and dairy-free desserts. Invite guests to bring their signature vegan or vegetarian dishes, and offer a few crowd-pleasers like stuffed peppers or lentil stew to ensure everyone has satisfying options.",
+      "raw_response": "{\"answer\": 3, \"reason\": \"记忆 m004 明确记录该用户正在筹划 potluck，宾客饮食需求为 vegan、vegetarian、nut_allergy（dietary_restrictions，time_at 2021-03-30），且 available_time 为 full_day_to_cook（同日），因此当前状态为混合素食需求加全天备餐。选项 3 的 mixed_diets_vegan_vegetarian 与 full_day_prep 均被支持；选项 1/2 的 dietary_restrictions_allergies 与 limited_under_2_hours 不匹配，选项 4 的 traditional_southern_diets 与 flexible_afternoon 被较新的 full_day_to_cook 更新所取代。\"}",
+      "response": 3,
+      "response_state": [
+        "mixed_diets_vegan_vegetarian",
+        "full_day_prep"
+      ],
+      "response_choice": "With ample prep time and a mix of vegan and vegetarian guests, plan a diverse spread featuring hearty plant-based mains, creative salads, and dairy-free desserts. Invite guests to bring their signature vegan or vegetarian dishes, and offer a few crowd-pleasers like stuffed peppers or lentil stew to ensure everyone has satisfying options.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.120837899999998,
+        "used_memory_ids": [
+          "m004",
+          "m001",
+          "m026",
+          "m016",
+          "m009"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆 m004 明确记录该用户正在筹划 potluck，宾客饮食需求为 vegan、vegetarian、nut_allergy（dietary_restrictions，time_at 2021-03-30），且 available_time 为 full_day_to_cook（同日），因此当前状态为混合素食需求加全天备餐。选项 3 的 mixed_diets_vegan_vegetarian 与 full_day_prep 均被支持；选项 1/2 的 dietary_restrictions_allergies 与 limited_under_2_hours 不匹配，选项 4 的 traditional_southern_diets 与 flexible_afternoon 被较新的 full_day_to_cook 更新所取代。"
+    },
+    {
+      "query": "What strategies can I use to increase participation in choir performances, especially among new members?",
+      "answer": 3,
+      "answer_state": [
+        "mixed_experience",
+        "random_availability"
+      ],
+      "answer_choice": "For a diverse group with irregular attendance, create rotating rehearsal groups and use online resources to support learning outside of scheduled practices. Host informal performance opportunities and encourage peer support to help new members feel comfortable participating despite scheduling challenges.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"m016 明确记录合唱团 group_composition/experience_level 为混合经验（老成员与去年秋天加入的新成员），且 possible_times 为周末或周中早晨、practice_trigger 为凑够人数即练，最贴合“mixed_experience + weekly_evenings”的选项1；m005 也支持混合经验与每周晚间练习。选项2/3/5 的“mostly experienced”或“mostly new”与 m016 的混合构成矛盾。\"}",
+      "response": 1,
+      "response_state": [
+        "mixed_experience",
+        "weekly_evenings"
+      ],
+      "response_choice": "To boost participation, pair newer singers with experienced members during weekly evening rehearsals to foster mentorship and confidence. Incorporate accessible repertoire and occasional social activities after practice to help everyone feel welcome and engaged.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.3349456999999987,
+        "used_memory_ids": [
+          "m016",
+          "m005",
+          "m008",
+          "m002",
+          "m029"
+        ]
+      },
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": null
+      },
+      "reason": "m016 明确记录合唱团 group_composition/experience_level 为混合经验（老成员与去年秋天加入的新成员），且 possible_times 为周末或周中早晨、practice_trigger 为凑够人数即练，最贴合“mixed_experience + weekly_evenings”的选项1；m005 也支持混合经验与每周晚间练习。选项2/3/5 的“mostly experienced”或“mostly new”与 m016 的混合构成矛盾。"
+    },
+    {
+      "query": "How can I stay safe and active while volunteering, especially with changing health guidelines?",
+      "answer": 0,
+      "answer_state": [
+        "strict_social_distancing",
+        "occasional_assistance_needed"
+      ],
+      "answer_choice": "Choose volunteer roles that allow you to maintain a safe distance from others, such as remote support or contactless deliveries. Since you occasionally need assistance, coordinate with organizers to ensure any help you receive follows safety protocols and minimizes close contact.",
+      "raw_response": "{\"answer\": 4, \"reason\": \"m006 明确记录 constraints 为 strict social distancing guidelines/limited in-person interactions（time_at 2021-01-01），且 mobility_level 为 sometimes_needs_help_getting_around（time_at 2020-09-27）；二者共同支持“严格社交距离+偶尔需协助”的状态。较早的 health_precautions=moderate（2020-09-27）被较新的 strict social distancing 约束收紧，不应据此选择 moderate 选项。\"}",
+      "response": 4,
+      "response_state": [
+        "strict_social_distancing",
+        "limited_mobility"
+      ],
+      "response_choice": "Focus on volunteering options that are fully remote or require minimal physical presence, given both the need for strict distancing and your mobility limitations. Work with organizers to ensure any necessary assistance is provided in a way that keeps you and others safe.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.311941300000001,
+        "used_memory_ids": [
+          "m006",
+          "m026",
+          "m002",
+          "m016",
+          "m008"
+        ]
+      },
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": null
+      },
+      "reason": "m006 明确记录 constraints 为 strict social distancing guidelines/limited in-person interactions（time_at 2021-01-01），且 mobility_level 为 sometimes_needs_help_getting_around（time_at 2020-09-27）；二者共同支持“严格社交距离+偶尔需协助”的状态。较早的 health_precautions=moderate（2020-09-27）被较新的 strict social distancing 约束收紧，不应据此选择 moderate 选项。"
+    },
+    {
+      "query": "What are some meaningful historic sites or cultural events I could help organize day trips to in the Deep South?",
+      "answer": 1,
+      "answer_state": [
+        "bus_group",
+        "30_70"
+      ],
+      "answer_choice": "With a larger group traveling by bus and a similar budget, you can arrange visits to major historic landmarks such as the National WWII Museum in New Orleans or the Martin Luther King Jr. National Historical Park in Atlanta, both of which accommodate group tours and offer educational programs. Coordinating with event organizers for group rates or guided tours can maximize the experience and keep costs manageable.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"m007 明确记录用户寻找 Anniston 附近一日游目的地，交通方式为 carpool（小团体拼车），人均费用 $30 到 $70，与选项1的 carpool_small_group、30_70 完全匹配；m031 的巴士团体行程是不同情境，不改变该日游的拼车小团体与费用属性。\"}",
+      "response": 1,
+      "response_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "response_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.2920560999999964,
+        "used_memory_ids": [
+          "m006",
+          "m001",
+          "m031",
+          "m004",
+          "m007"
+        ]
+      },
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": 0.0
+      },
+      "reason": "m007 明确记录用户寻找 Anniston 附近一日游目的地，交通方式为 carpool（小团体拼车），人均费用 $30 到 $70，与选项1的 carpool_small_group、30_70 完全匹配；m031 的巴士团体行程是不同情境，不改变该日游的拼车小团体与费用属性。"
+    },
+    {
+      "query": "Which needlecraft techniques would be best to teach at a beginner’s workshop for local teens?",
+      "answer": 0,
+      "answer_state": [
+        "complete_beginners",
+        "drop_in_sessions"
+      ],
+      "answer_choice": "For teens just starting out and attending casual, flexible sessions, focus on simple, instantly gratifying techniques like basic embroidery stitches, loom weaving, or finger knitting. These projects require minimal setup and can be completed or paused easily, making them perfect for drop-in environments.",
+      "raw_response": "{\"answer\": 1, \"reason\": \"m008 明确记录学生经验为 complete_beginners（time_at 2021-03-31），且工作坊为面向青少年的多周/混合年龄初学者活动；m029 记录 flexible_drop_in（time_at 2021-06-30）的随到随学安排。二者结合支持“完全初学者+drop_in_sessions”，与选项1状态最匹配。其他选项的 some_experience 与 complete_beginners 相矛盾。\"}",
+      "response": 1,
+      "response_state": [
+        "complete_beginners",
+        "drop_in_sessions"
+      ],
+      "response_choice": "For teens just starting out and attending casual, flexible sessions, focus on simple, instantly gratifying techniques like basic embroidery stitches, loom weaving, or finger knitting. These projects require minimal setup and can be completed or paused easily, making them perfect for drop-in environments.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.648963100000003,
+        "used_memory_ids": [
+          "m008",
+          "m029",
+          "m002",
+          "m005",
+          "m016"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "reason": "m008 明确记录学生经验为 complete_beginners（time_at 2021-03-31），且工作坊为面向青少年的多周/混合年龄初学者活动；m029 记录 flexible_drop_in（time_at 2021-06-30）的随到随学安排。二者结合支持“完全初学者+drop_in_sessions”，与选项1状态最匹配。其他选项的 some_experience 与 complete_beginners 相矛盾。"
+    },
+    {
+      "query": "How should I adapt my soul food recipes for guests who prefer lighter or healthier options?",
+      "answer": 1,
+      "answer_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "answer_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "raw_response": "{\"answer\": 2, \"reason\": \"记忆 m009 明确记录用户关注健康灵魂食物，且食材来源为 local_farmers_market（ingredient_source，time_at 2020-09-30）。选项2的状态 general_healthy_eating + local_farmers_market 与此直接匹配；其他选项的 regular_grocery_store 或慢性病管理/体重管理均无记忆支持。\"}",
+      "response": 2,
+      "response_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "response_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.353635099999991,
+        "used_memory_ids": [
+          "m009",
+          "m004",
+          "m026",
+          "m031",
+          "m016"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆 m009 明确记录用户关注健康灵魂食物，且食材来源为 local_farmers_market（ingredient_source，time_at 2020-09-30）。选项2的状态 general_healthy_eating + local_farmers_market 与此直接匹配；其他选项的 regular_grocery_store 或慢性病管理/体重管理均无记忆支持。"
+    },
+    {
+      "query": "What would be the best way to celebrate an Alabama Crimson Tide game at my home to bring the community together?",
+      "answer": 1,
+      "answer_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "answer_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "raw_response": "{\"answer\": 2, \"reason\": \"记忆 m010 明确记录用户正在筹划 mid_sized block party，通过 basic TV livestream 观看 Crimson Tide 比赛，且目标是让活动更热闹（time_at 2020-10-01）。选项2的 mid_size_block_party + basic_tv_livestream 与此完全吻合；其他选项的规模或观看方式均无记忆支持。\"}",
+      "response": 2,
+      "response_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "response_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "json_error": false,
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.749352099999996,
+        "used_memory_ids": [
+          "m002",
+          "m006",
+          "m010",
+          "m008",
+          "m004"
+        ]
+      },
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "reason": "记忆 m010 明确记录用户正在筹划 mid_sized block party，通过 basic TV livestream 观看 Crimson Tide 比赛，且目标是让活动更热闹（time_at 2020-10-01）。选项2的 mid_size_block_party + basic_tv_livestream 与此完全吻合；其他选项的规模或观看方式均无记忆支持。"
+    }
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+]
