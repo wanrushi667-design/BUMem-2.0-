@@ -1,0 +1,1797 @@
+[
+  [
+    {
+      "query": "What are some engaging activities I can organize for my monthly bridge gatherings to keep them fresh and enjoyable?",
+      "answer": 0,
+      "answer_state": [
+        "mostly_50_plus",
+        "medium_6_12"
+      ],
+      "answer_choice": "For a group of experienced bridge enthusiasts, try rotating partnerships each round to encourage mingling and fresh conversations. You could also introduce themed nights, such as 'classic conventions' or 'famous hands,' to spark interest and friendly competition among a manageable number of tables.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user hosts monthly bridge gatherings for a group of 6 to 12 friends, most of whom are over 50.\", \"evidence_ids\": [\"m1\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "mostly_50_plus",
+        "medium_6_12"
+      ],
+      "response_choice": "For a group of experienced bridge enthusiasts, try rotating partnerships each round to encourage mingling and fresh conversations. You could also introduce themed nights, such as 'classic conventions' or 'famous hands,' to spark interest and friendly competition among a manageable number of tables.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user hosts monthly bridge gatherings for a group of 6 to 12 friends, most of whom are over 50.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.6997034999999983,
+        "used_memory_ids": [
+          "m1"
+        ]
+      }
+    },
+    {
+      "query": "How can I best mentor young women in my community to support their personal and professional growth?",
+      "answer": 2,
+      "answer_state": [
+        "community_leadership",
+        "small_group"
+      ],
+      "answer_choice": "Facilitate regular small group sessions where young women can collaborate on community initiatives, discuss challenges, and build confidence in leading local efforts. Foster a safe space for sharing ideas and provide personalized guidance to help each participant grow as a changemaker.",
+      "raw_response": "{\"answer_id\": \"3\", \"current_state\": \"The user is seeking effective activities for mentoring young women in a small group setting to encourage community leadership.\", \"evidence_ids\": [\"m2\"], \"answer_status\": \"supported\"}",
+      "response": 3,
+      "response_state": [
+        "community_leadership",
+        "small_group"
+      ],
+      "response_choice": "Facilitate regular small group sessions where young women can collaborate on community initiatives, discuss challenges, and build confidence in leading local efforts. Foster a safe space for sharing ideas and provide personalized guidance to help each participant grow as a changemaker.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is seeking effective activities for mentoring young women in a small group setting to encourage community leadership.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.6080118999999975,
+        "used_memory_ids": [
+          "m2"
+        ]
+      }
+    },
+    {
+      "query": "What are effective ways to introduce more native Alabama plants into my rose garden without overwhelming my current setup?",
+      "answer": 1,
+      "answer_state": [
+        "medium_backyard",
+        "weekly_hands_on"
+      ],
+      "answer_choice": "With your hands-on approach, you can experiment by interplanting native species such as black-eyed Susan or butterfly weed among your roses, adjusting placement and pruning as needed. Regular attention allows you to monitor growth and quickly address any crowding, ensuring both roses and natives flourish together.",
+      "raw_response": "{\"answer_id\": \"2\", \"current_state\": \"The user has a medium-sized backyard rose garden and asks for weekly care tips, indicating a hands-on, frequent gardening approach.\", \"evidence_ids\": [\"m3\"], \"answer_status\": \"supported\"}",
+      "response": 2,
+      "response_state": [
+        "medium_backyard",
+        "weekly_hands_on"
+      ],
+      "response_choice": "With your hands-on approach, you can experiment by interplanting native species such as black-eyed Susan or butterfly weed among your roses, adjusting placement and pruning as needed. Regular attention allows you to monitor growth and quickly address any crowding, ensuring both roses and natives flourish together.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user has a medium-sized backyard rose garden and asks for weekly care tips, indicating a hands-on, frequent gardening approach.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 0.9906809999999986,
+        "used_memory_ids": [
+          "m3"
+        ]
+      }
+    },
+    {
+      "query": "How can I organize a successful potluck that accommodates guests with different dietary preferences?",
+      "answer": 3,
+      "answer_state": [
+        "traditional_southern_diets",
+        "flexible_afternoon"
+      ],
+      "answer_choice": "For a flexible afternoon gathering with guests who enjoy classic Southern fare, organize a potluck featuring comfort foods like cornbread, fried chicken, and collard greens. Encourage guests to bring their favorite family recipes and set up a buffet-style serving area to create a relaxed, communal atmosphere.",
+      "raw_response": "{\"answer_id\": \"4\", \"current_state\": \"The user is planning a Southern-style potluck menu to prepare during a leisurely afternoon, and most guests enjoy classic dishes.\", \"evidence_ids\": [\"m4\"], \"answer_status\": \"supported\"}",
+      "response": 4,
+      "response_state": [
+        "traditional_southern_diets",
+        "flexible_afternoon"
+      ],
+      "response_choice": "For a flexible afternoon gathering with guests who enjoy classic Southern fare, organize a potluck featuring comfort foods like cornbread, fried chicken, and collard greens. Encourage guests to bring their favorite family recipes and set up a buffet-style serving area to create a relaxed, communal atmosphere.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a Southern-style potluck menu to prepare during a leisurely afternoon, and most guests enjoy classic dishes.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.5370615,
+        "used_memory_ids": [
+          "m4"
+        ]
+      }
+    },
+    {
+      "query": "What strategies can I use to increase participation in choir performances, especially among new members?",
+      "answer": 0,
+      "answer_state": [
+        "mixed_experience",
+        "weekly_evenings"
+      ],
+      "answer_choice": "To boost participation, pair newer singers with experienced members during weekly evening rehearsals to foster mentorship and confidence. Incorporate accessible repertoire and occasional social activities after practice to help everyone feel welcome and engaged.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The choir has mixed experience levels and holds weekly evening practices.\", \"evidence_ids\": [\"m5\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "mixed_experience",
+        "weekly_evenings"
+      ],
+      "response_choice": "To boost participation, pair newer singers with experienced members during weekly evening rehearsals to foster mentorship and confidence. Incorporate accessible repertoire and occasional social activities after practice to help everyone feel welcome and engaged.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The choir has mixed experience levels and holds weekly evening practices.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.1391625999999988,
+        "used_memory_ids": [
+          "m5"
+        ]
+      }
+    },
+    {
+      "query": "How can I stay safe and active while volunteering, especially with changing health guidelines?",
+      "answer": 2,
+      "answer_state": [
+        "moderate_precautions",
+        "occasional_assistance_needed"
+      ],
+      "answer_choice": "Consider volunteering in settings where moderate safety measures are observed, such as small group activities or outdoor projects. If you need occasional help, communicate with coordinators to arrange support that respects current health practices.",
+      "raw_response": "{\"answer_id\": \"3\", \"current_state\": \"The user is looking for volunteer opportunities at the historical society that follow moderate health precautions and can accommodate someone who sometimes needs a little help getting around (occasional assistance needed).\", \"evidence_ids\": [\"m6\"], \"answer_status\": \"supported\"}",
+      "response": 3,
+      "response_state": [
+        "moderate_precautions",
+        "occasional_assistance_needed"
+      ],
+      "response_choice": "Consider volunteering in settings where moderate safety measures are observed, such as small group activities or outdoor projects. If you need occasional help, communicate with coordinators to arrange support that respects current health practices.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is looking for volunteer opportunities at the historical society that follow moderate health precautions and can accommodate someone who sometimes needs a little help getting around (occasional assistance needed).",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.8657511999999983,
+        "used_memory_ids": [
+          "m6"
+        ]
+      }
+    },
+    {
+      "query": "What are some meaningful historic sites or cultural events I could help organize day trips to in the Deep South?",
+      "answer": 0,
+      "answer_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "answer_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user is planning a day trip near Anniston for a small group carpooling together, with a per-person budget between $30 and $70.\", \"evidence_ids\": [\"m7\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "response_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a day trip near Anniston for a small group carpooling together, with a per-person budget between $30 and $70.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.2905210999999994,
+        "used_memory_ids": [
+          "m7"
+        ]
+      }
+    },
+    {
+      "query": "Which needlecraft techniques would be best to teach at a beginner’s workshop for local teens?",
+      "answer": 4,
+      "answer_state": [
+        "some_experience",
+        "multi_week"
+      ],
+      "answer_choice": "Teens with some needlecraft background and several weeks to learn can tackle more advanced techniques like garment construction, tapestry weaving, or multi-color crochet. Plan a series of projects that build on their existing abilities and encourage creativity, such as designing their own patterns or collaborating on a group piece.",
+      "raw_response": "{\"answer_id\": \"5\", \"current_state\": \"The user is planning a multi-week quilting workshop for students who already have some experience with needlecraft.\", \"evidence_ids\": [\"m8\"], \"answer_status\": \"supported\"}",
+      "response": 5,
+      "response_state": [
+        "some_experience",
+        "multi_week"
+      ],
+      "response_choice": "Teens with some needlecraft background and several weeks to learn can tackle more advanced techniques like garment construction, tapestry weaving, or multi-color crochet. Plan a series of projects that build on their existing abilities and encourage creativity, such as designing their own patterns or collaborating on a group piece.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a multi-week quilting workshop for students who already have some experience with needlecraft.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.1649446000000054,
+        "used_memory_ids": [
+          "m8"
+        ]
+      }
+    },
+    {
+      "query": "How should I adapt my soul food recipes for guests who prefer lighter or healthier options?",
+      "answer": 1,
+      "answer_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "answer_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "raw_response": "{\"answer_id\": \"2\", \"current_state\": \"The user is interested in healthy soul food recipes using ingredients from their local farmers market, indicating a preference for fresh, local produce and general healthy eating.\", \"evidence_ids\": [\"m9\"], \"answer_status\": \"supported\"}",
+      "response": 2,
+      "response_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "response_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is interested in healthy soul food recipes using ingredients from their local farmers market, indicating a preference for fresh, local produce and general healthy eating.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.4076857999999959,
+        "used_memory_ids": [
+          "m9"
+        ]
+      }
+    },
+    {
+      "query": "What would be the best way to celebrate an Alabama Crimson Tide game at my home to bring the community together?",
+      "answer": 1,
+      "answer_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "answer_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "raw_response": "{\"answer_id\": \"2\", \"current_state\": \"The user is planning a mid-sized block party to watch an Alabama Crimson Tide game on a basic TV livestream and wants to make it more festive while bringing the community together.\", \"evidence_ids\": [\"m10\"], \"answer_status\": \"supported\"}",
+      "response": 2,
+      "response_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "response_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a mid-sized block party to watch an Alabama Crimson Tide game on a basic TV livestream and wants to make it more festive while bringing the community together.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.7313729999999978,
+        "used_memory_ids": [
+          "m10"
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "query": "What are some engaging activities I can organize for my monthly bridge gatherings to keep them fresh and enjoyable?",
+      "answer": 4,
+      "answer_state": [
+        "mixed_ages_with_young_adults",
+        "medium_6_12"
+      ],
+      "answer_choice": "With a mix of ages and a moderate group size, try pairing experienced players with younger ones for mentorship and skill-building. Add some light-hearted competitions or bridge-themed games between rounds to keep the energy high and encourage intergenerational interaction.",
+      "raw_response": "{\"answer_id\": \"5\", \"current_state\": \"The bridge gathering is a moderate-sized group of about 8–10 regulars, mostly older friends from church and retired teachers, with younger guests (grandson's friends and young professionals) recently joining, creating a mixed-age group.\", \"evidence_ids\": [\"m1\", \"m11\", \"m12\"], \"answer_status\": \"supported\"}",
+      "response": 5,
+      "response_state": [
+        "mixed_ages_with_young_adults",
+        "medium_6_12"
+      ],
+      "response_choice": "With a mix of ages and a moderate group size, try pairing experienced players with younger ones for mentorship and skill-building. Add some light-hearted competitions or bridge-themed games between rounds to keep the energy high and encourage intergenerational interaction.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The bridge gathering is a moderate-sized group of about 8–10 regulars, mostly older friends from church and retired teachers, with younger guests (grandson's friends and young professionals) recently joining, creating a mixed-age group.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.3050311000000008,
+        "used_memory_ids": [
+          "m1",
+          "m11",
+          "m12"
+        ]
+      }
+    },
+    {
+      "query": "How can I best mentor young women in my community to support their personal and professional growth?",
+      "answer": 0,
+      "answer_state": [
+        "community_leadership",
+        "workshop_series"
+      ],
+      "answer_choice": "Organize a series of interactive workshops that empower young women to develop leadership skills, such as public speaking, project management, and advocacy. Invite local female leaders to share their experiences and facilitate hands-on activities that encourage participants to take initiative in community projects.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user is planning a series of Saturday workshops for young women with the Anniston Historical Society, focused on leadership activities and community service projects. The program includes interactive activities such as 'Timeline of Me' and oral history indexing, and involves community members like older women from a church choir. The user seeks to mentor young women in community leadership through a workshop series.\", \"evidence_ids\": [\"m2\", \"m13\", \"m14\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "community_leadership",
+        "workshop_series"
+      ],
+      "response_choice": "Organize a series of interactive workshops that empower young women to develop leadership skills, such as public speaking, project management, and advocacy. Invite local female leaders to share their experiences and facilitate hands-on activities that encourage participants to take initiative in community projects.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a series of Saturday workshops for young women with the Anniston Historical Society, focused on leadership activities and community service projects. The program includes interactive activities such as 'Timeline of Me' and oral history indexing, and involves community members like older women from a church choir. The user seeks to mentor young women in community leadership through a workshop series.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.334334899999998,
+        "used_memory_ids": [
+          "m2",
+          "m13",
+          "m14"
+        ]
+      }
+    },
+    {
+      "query": "What are effective ways to introduce more native Alabama plants into my rose garden without overwhelming my current setup?",
+      "answer": 0,
+      "answer_state": [
+        "medium_backyard",
+        "monthly_minimal"
+      ],
+      "answer_choice": "To gently incorporate native Alabama plants into your rose garden, consider adding a few low-maintenance perennials like coreopsis or coneflower along the borders, spacing them so they don't compete with your roses. Choose varieties that thrive with minimal care, and use mulch to help reduce upkeep and keep the garden cohesive.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user has a medium-sized backyard rose garden and is currently in a colder season where roses need less attention, shifting toward monthly minimal care tasks until spring.\", \"evidence_ids\": [\"m3\", \"m15\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "medium_backyard",
+        "monthly_minimal"
+      ],
+      "response_choice": "To gently incorporate native Alabama plants into your rose garden, consider adding a few low-maintenance perennials like coreopsis or coneflower along the borders, spacing them so they don't compete with your roses. Choose varieties that thrive with minimal care, and use mulch to help reduce upkeep and keep the garden cohesive.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user has a medium-sized backyard rose garden and is currently in a colder season where roses need less attention, shifting toward monthly minimal care tasks until spring.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.7124792000000006,
+        "used_memory_ids": [
+          "m3",
+          "m15"
+        ]
+      }
+    },
+    {
+      "query": "How can I organize a successful potluck that accommodates guests with different dietary preferences?",
+      "answer": 3,
+      "answer_state": [
+        "traditional_southern_diets",
+        "flexible_afternoon"
+      ],
+      "answer_choice": "For a flexible afternoon gathering with guests who enjoy classic Southern fare, organize a potluck featuring comfort foods like cornbread, fried chicken, and collard greens. Encourage guests to bring their favorite family recipes and set up a buffet-style serving area to create a relaxed, communal atmosphere.",
+      "raw_response": "{\"answer_id\": \"4\", \"current_state\": \"The user is planning a Southern-style potluck menu to prepare during a leisurely afternoon, with most guests enjoying classic dishes.\", \"evidence_ids\": [\"m4\"], \"answer_status\": \"supported\"}",
+      "response": 4,
+      "response_state": [
+        "traditional_southern_diets",
+        "flexible_afternoon"
+      ],
+      "response_choice": "For a flexible afternoon gathering with guests who enjoy classic Southern fare, organize a potluck featuring comfort foods like cornbread, fried chicken, and collard greens. Encourage guests to bring their favorite family recipes and set up a buffet-style serving area to create a relaxed, communal atmosphere.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a Southern-style potluck menu to prepare during a leisurely afternoon, with most guests enjoying classic dishes.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.4206872999999973,
+        "used_memory_ids": [
+          "m4"
+        ]
+      }
+    },
+    {
+      "query": "What strategies can I use to increase participation in choir performances, especially among new members?",
+      "answer": 0,
+      "answer_state": [
+        "mixed_experience",
+        "weekly_evenings"
+      ],
+      "answer_choice": "To boost participation, pair newer singers with experienced members during weekly evening rehearsals to foster mentorship and confidence. Incorporate accessible repertoire and occasional social activities after practice to help everyone feel welcome and engaged.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The choir has a mix of members with different comfort levels and experience, including some eager to return in person and others cautious; the user seeks strategies to keep the choir connected and practicing safely, especially involving newer members.\", \"evidence_ids\": [\"m16\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "mixed_experience",
+        "weekly_evenings"
+      ],
+      "response_choice": "To boost participation, pair newer singers with experienced members during weekly evening rehearsals to foster mentorship and confidence. Incorporate accessible repertoire and occasional social activities after practice to help everyone feel welcome and engaged.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The choir has a mix of members with different comfort levels and experience, including some eager to return in person and others cautious; the user seeks strategies to keep the choir connected and practicing safely, especially involving newer members.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.610839200000001,
+        "used_memory_ids": [
+          "m16"
+        ]
+      }
+    },
+    {
+      "query": "How can I stay safe and active while volunteering, especially with changing health guidelines?",
+      "answer": 0,
+      "answer_state": [
+        "strict_social_distancing",
+        "occasional_assistance_needed"
+      ],
+      "answer_choice": "Choose volunteer roles that allow you to maintain a safe distance from others, such as remote support or contactless deliveries. Since you occasionally need assistance, coordinate with organizers to ensure any help you receive follows safety protocols and minimizes close contact.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user is seeking volunteer opportunities at the historical society that follow strict social distancing guidelines and limited in-person interactions, while also needing occasional assistance getting around.\", \"evidence_ids\": [\"m6\", \"m17\", \"m18\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "strict_social_distancing",
+        "occasional_assistance_needed"
+      ],
+      "response_choice": "Choose volunteer roles that allow you to maintain a safe distance from others, such as remote support or contactless deliveries. Since you occasionally need assistance, coordinate with organizers to ensure any help you receive follows safety protocols and minimizes close contact.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is seeking volunteer opportunities at the historical society that follow strict social distancing guidelines and limited in-person interactions, while also needing occasional assistance getting around.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.5143039000000016,
+        "used_memory_ids": [
+          "m6",
+          "m17",
+          "m18"
+        ]
+      }
+    },
+    {
+      "query": "What are some meaningful historic sites or cultural events I could help organize day trips to in the Deep South?",
+      "answer": 0,
+      "answer_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "answer_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user is planning a day trip near Anniston for a small group carpooling together, with a per-person budget between $30 and $70.\", \"evidence_ids\": [\"m7\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "response_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a day trip near Anniston for a small group carpooling together, with a per-person budget between $30 and $70.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.3059927999999985,
+        "used_memory_ids": [
+          "m7"
+        ]
+      }
+    },
+    {
+      "query": "Which needlecraft techniques would be best to teach at a beginner’s workshop for local teens?",
+      "answer": 4,
+      "answer_state": [
+        "some_experience",
+        "multi_week"
+      ],
+      "answer_choice": "Teens with some needlecraft background and several weeks to learn can tackle more advanced techniques like garment construction, tapestry weaving, or multi-color crochet. Plan a series of projects that build on their existing abilities and encourage creativity, such as designing their own patterns or collaborating on a group piece.",
+      "raw_response": "{\"answer_id\": \"5\", \"current_state\": \"The user is planning a multi-week quilting workshop for students who already have some experience with needlecraft, so the best techniques would be more advanced and project-based rather than introductory.\", \"evidence_ids\": [\"m8\"], \"answer_status\": \"supported\"}",
+      "response": 5,
+      "response_state": [
+        "some_experience",
+        "multi_week"
+      ],
+      "response_choice": "Teens with some needlecraft background and several weeks to learn can tackle more advanced techniques like garment construction, tapestry weaving, or multi-color crochet. Plan a series of projects that build on their existing abilities and encourage creativity, such as designing their own patterns or collaborating on a group piece.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a multi-week quilting workshop for students who already have some experience with needlecraft, so the best techniques would be more advanced and project-based rather than introductory.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.6032567000000029,
+        "used_memory_ids": [
+          "m8"
+        ]
+      }
+    },
+    {
+      "query": "How should I adapt my soul food recipes for guests who prefer lighter or healthier options?",
+      "answer": 1,
+      "answer_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "answer_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "raw_response": "{\"answer_id\": \"2\", \"current_state\": \"The user is interested in healthy soul food recipes using ingredients from their local farmers market, indicating a preference for fresh, local produce and general healthy eating.\", \"evidence_ids\": [\"m9\"], \"answer_status\": \"supported\"}",
+      "response": 2,
+      "response_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "response_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is interested in healthy soul food recipes using ingredients from their local farmers market, indicating a preference for fresh, local produce and general healthy eating.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.2061270000000022,
+        "used_memory_ids": [
+          "m9"
+        ]
+      }
+    },
+    {
+      "query": "What would be the best way to celebrate an Alabama Crimson Tide game at my home to bring the community together?",
+      "answer": 1,
+      "answer_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "answer_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "raw_response": "{\"answer_id\": \"2\", \"current_state\": \"The user is planning a mid-sized block party to watch the Crimson Tide game on a basic TV livestream and wants to make it more festive while bringing the community together.\", \"evidence_ids\": [\"m10\"], \"answer_status\": \"supported\"}",
+      "response": 2,
+      "response_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "response_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a mid-sized block party to watch the Crimson Tide game on a basic TV livestream and wants to make it more festive while bringing the community together.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.5689666999999972,
+        "used_memory_ids": [
+          "m10"
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "query": "What are some engaging activities I can organize for my monthly bridge gatherings to keep them fresh and enjoyable?",
+      "answer": 4,
+      "answer_state": [
+        "mixed_ages_with_young_adults",
+        "medium_6_12"
+      ],
+      "answer_choice": "With a mix of ages and a moderate group size, try pairing experienced players with younger ones for mentorship and skill-building. Add some light-hearted competitions or bridge-themed games between rounds to keep the energy high and encourage intergenerational interaction.",
+      "raw_response": "{\"answer_id\": \"5\", \"current_state\": \"The bridge gatherings include a mix of ages: longtime friends (mostly older adults) and younger guests who have recently joined. The group size is moderate, typically 6 to 12 participants.\", \"evidence_ids\": [\"m1\", \"m11\", \"m12\"], \"answer_status\": \"supported\"}",
+      "response": 5,
+      "response_state": [
+        "mixed_ages_with_young_adults",
+        "medium_6_12"
+      ],
+      "response_choice": "With a mix of ages and a moderate group size, try pairing experienced players with younger ones for mentorship and skill-building. Add some light-hearted competitions or bridge-themed games between rounds to keep the energy high and encourage intergenerational interaction.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The bridge gatherings include a mix of ages: longtime friends (mostly older adults) and younger guests who have recently joined. The group size is moderate, typically 6 to 12 participants.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.4500832999999993,
+        "used_memory_ids": [
+          "m1",
+          "m11",
+          "m12"
+        ]
+      }
+    },
+    {
+      "query": "How can I best mentor young women in my community to support their personal and professional growth?",
+      "answer": 0,
+      "answer_state": [
+        "community_leadership",
+        "workshop_series"
+      ],
+      "answer_choice": "Organize a series of interactive workshops that empower young women to develop leadership skills, such as public speaking, project management, and advocacy. Invite local female leaders to share their experiences and facilitate hands-on activities that encourage participants to take initiative in community projects.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user is planning a series of Saturday workshops for young women with the Anniston Historical Society, focused on leadership activities and community service projects. The program includes interactive activities like 'Timeline of Me' and oral history indexing, and involves community members such as older women from a church choir. The user seeks to mentor young women in community leadership through a workshop series.\", \"evidence_ids\": [\"m2\", \"m13\", \"m14\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "community_leadership",
+        "workshop_series"
+      ],
+      "response_choice": "Organize a series of interactive workshops that empower young women to develop leadership skills, such as public speaking, project management, and advocacy. Invite local female leaders to share their experiences and facilitate hands-on activities that encourage participants to take initiative in community projects.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a series of Saturday workshops for young women with the Anniston Historical Society, focused on leadership activities and community service projects. The program includes interactive activities like 'Timeline of Me' and oral history indexing, and involves community members such as older women from a church choir. The user seeks to mentor young women in community leadership through a workshop series.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.8519420999999987,
+        "used_memory_ids": [
+          "m2",
+          "m13",
+          "m14"
+        ]
+      }
+    },
+    {
+      "query": "What are effective ways to introduce more native Alabama plants into my rose garden without overwhelming my current setup?",
+      "answer": 0,
+      "answer_state": [
+        "medium_backyard",
+        "monthly_minimal"
+      ],
+      "answer_choice": "To gently incorporate native Alabama plants into your rose garden, consider adding a few low-maintenance perennials like coreopsis or coneflower along the borders, spacing them so they don't compete with your roses. Choose varieties that thrive with minimal care, and use mulch to help reduce upkeep and keep the garden cohesive.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user has a medium-sized backyard rose garden and currently follows a monthly care routine, with less attention needed during colder weather.\", \"evidence_ids\": [\"m3\", \"m15\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "medium_backyard",
+        "monthly_minimal"
+      ],
+      "response_choice": "To gently incorporate native Alabama plants into your rose garden, consider adding a few low-maintenance perennials like coreopsis or coneflower along the borders, spacing them so they don't compete with your roses. Choose varieties that thrive with minimal care, and use mulch to help reduce upkeep and keep the garden cohesive.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user has a medium-sized backyard rose garden and currently follows a monthly care routine, with less attention needed during colder weather.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.5907583999999986,
+        "used_memory_ids": [
+          "m3",
+          "m15"
+        ]
+      }
+    },
+    {
+      "query": "How can I organize a successful potluck that accommodates guests with different dietary preferences?",
+      "answer": 2,
+      "answer_state": [
+        "mixed_diets_vegan_vegetarian",
+        "full_day_prep"
+      ],
+      "answer_choice": "With ample prep time and a mix of vegan and vegetarian guests, plan a diverse spread featuring hearty plant-based mains, creative salads, and dairy-free desserts. Invite guests to bring their signature vegan or vegetarian dishes, and offer a few crowd-pleasers like stuffed peppers or lentil stew to ensure everyone has satisfying options.",
+      "raw_response": "{\"answer_id\": \"3\", \"current_state\": \"The user is organizing a potluck for a mixed group that includes vegans, vegetarians, and friends with nut allergies. They have a full day set aside for cooking and prep, and they want hearty vegan and nut-free main dish options that appeal to meat-and-potatoes guests, along with guidance on labeling dishes without making anyone feel singled out.\", \"evidence_ids\": [\"m19\", \"m20\"], \"answer_status\": \"supported\"}",
+      "response": 3,
+      "response_state": [
+        "mixed_diets_vegan_vegetarian",
+        "full_day_prep"
+      ],
+      "response_choice": "With ample prep time and a mix of vegan and vegetarian guests, plan a diverse spread featuring hearty plant-based mains, creative salads, and dairy-free desserts. Invite guests to bring their signature vegan or vegetarian dishes, and offer a few crowd-pleasers like stuffed peppers or lentil stew to ensure everyone has satisfying options.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is organizing a potluck for a mixed group that includes vegans, vegetarians, and friends with nut allergies. They have a full day set aside for cooking and prep, and they want hearty vegan and nut-free main dish options that appeal to meat-and-potatoes guests, along with guidance on labeling dishes without making anyone feel singled out.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.696170500000001,
+        "used_memory_ids": [
+          "m4",
+          "m19",
+          "m20"
+        ]
+      }
+    },
+    {
+      "query": "What strategies can I use to increase participation in choir performances, especially among new members?",
+      "answer": 3,
+      "answer_state": [
+        "mixed_experience",
+        "random_availability"
+      ],
+      "answer_choice": "For a diverse group with irregular attendance, create rotating rehearsal groups and use online resources to support learning outside of scheduled practices. Host informal performance opportunities and encourage peer support to help new members feel comfortable participating despite scheduling challenges.",
+      "raw_response": "{\"answer_id\": \"4\", \"current_state\": \"The choir has a mix of experienced and newer members, and rehearsals are scheduled flexibly based on unpredictable availability, sometimes on weekends or midweek mornings.\", \"evidence_ids\": [\"m23\", \"m24\"], \"answer_status\": \"supported\"}",
+      "response": 4,
+      "response_state": [
+        "mixed_experience",
+        "random_availability"
+      ],
+      "response_choice": "For a diverse group with irregular attendance, create rotating rehearsal groups and use online resources to support learning outside of scheduled practices. Host informal performance opportunities and encourage peer support to help new members feel comfortable participating despite scheduling challenges.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The choir has a mix of experienced and newer members, and rehearsals are scheduled flexibly based on unpredictable availability, sometimes on weekends or midweek mornings.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.399804500000002,
+        "used_memory_ids": [
+          "m5",
+          "m23",
+          "m24"
+        ]
+      }
+    },
+    {
+      "query": "How can I stay safe and active while volunteering, especially with changing health guidelines?",
+      "answer": 0,
+      "answer_state": [
+        "strict_social_distancing",
+        "occasional_assistance_needed"
+      ],
+      "answer_choice": "Choose volunteer roles that allow you to maintain a safe distance from others, such as remote support or contactless deliveries. Since you occasionally need assistance, coordinate with organizers to ensure any help you receive follows safety protocols and minimizes close contact.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user volunteers at the Anniston Historical Society and has asked about opportunities that follow moderate health precautions and accommodate occasional mobility assistance, then later asked about continuing while following strict social distancing and limited in-person interactions. They are interested in remote tasks such as oral history transcription from home and occasionally need a little help getting around.\", \"evidence_ids\": [\"m6\", \"m17\", \"m18\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "strict_social_distancing",
+        "occasional_assistance_needed"
+      ],
+      "response_choice": "Choose volunteer roles that allow you to maintain a safe distance from others, such as remote support or contactless deliveries. Since you occasionally need assistance, coordinate with organizers to ensure any help you receive follows safety protocols and minimizes close contact.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user volunteers at the Anniston Historical Society and has asked about opportunities that follow moderate health precautions and accommodate occasional mobility assistance, then later asked about continuing while following strict social distancing and limited in-person interactions. They are interested in remote tasks such as oral history transcription from home and occasionally need a little help getting around.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.7012801999999958,
+        "used_memory_ids": [
+          "m6",
+          "m17",
+          "m18"
+        ]
+      }
+    },
+    {
+      "query": "What are some meaningful historic sites or cultural events I could help organize day trips to in the Deep South?",
+      "answer": 0,
+      "answer_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "answer_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user is planning a day trip near Anniston for a small group carpooling together, with a per-person budget between $30 and $70.\", \"evidence_ids\": [\"m7\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "response_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a day trip near Anniston for a small group carpooling together, with a per-person budget between $30 and $70.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.8512932000000006,
+        "used_memory_ids": [
+          "m7"
+        ]
+      }
+    },
+    {
+      "query": "Which needlecraft techniques would be best to teach at a beginner’s workshop for local teens?",
+      "answer": 3,
+      "answer_state": [
+        "complete_beginners",
+        "multi_week"
+      ],
+      "answer_choice": "For absolute beginners in a multi-week format, start with foundational skills like hand sewing, basic knitting, and introductory embroidery, gradually progressing to simple projects such as tote bags or decorative pillows. This structure allows teens to build confidence and see their skills develop over time.",
+      "raw_response": "{\"answer_id\": \"4\", \"current_state\": \"The workshop is for complete beginners, including local teens, and is structured as a multi-week course with step-by-step guides and progression to simple projects.\", \"evidence_ids\": [\"m21\", \"m22\"], \"answer_status\": \"supported\"}",
+      "response": 4,
+      "response_state": [
+        "complete_beginners",
+        "multi_week"
+      ],
+      "response_choice": "For absolute beginners in a multi-week format, start with foundational skills like hand sewing, basic knitting, and introductory embroidery, gradually progressing to simple projects such as tote bags or decorative pillows. This structure allows teens to build confidence and see their skills develop over time.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The workshop is for complete beginners, including local teens, and is structured as a multi-week course with step-by-step guides and progression to simple projects.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.7593722999999954,
+        "used_memory_ids": [
+          "m21",
+          "m22"
+        ]
+      }
+    },
+    {
+      "query": "How should I adapt my soul food recipes for guests who prefer lighter or healthier options?",
+      "answer": 1,
+      "answer_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "answer_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "raw_response": "{\"answer_id\": \"2\", \"current_state\": \"The user is interested in healthy soul food recipes using ingredients from their local farmers market, indicating a preference for fresh, local produce and general healthy eating.\", \"evidence_ids\": [\"m9\"], \"answer_status\": \"supported\"}",
+      "response": 2,
+      "response_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "response_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is interested in healthy soul food recipes using ingredients from their local farmers market, indicating a preference for fresh, local produce and general healthy eating.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.5449386000000018,
+        "used_memory_ids": [
+          "m9"
+        ]
+      }
+    },
+    {
+      "query": "What would be the best way to celebrate an Alabama Crimson Tide game at my home to bring the community together?",
+      "answer": 1,
+      "answer_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "answer_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "raw_response": "{\"answer_id\": \"2\", \"current_state\": \"The user is planning a mid-sized block party to watch an Alabama Crimson Tide game on a basic TV livestream and wants to make it more festive while bringing the community together.\", \"evidence_ids\": [\"m10\"], \"answer_status\": \"supported\"}",
+      "response": 2,
+      "response_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "response_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a mid-sized block party to watch an Alabama Crimson Tide game on a basic TV livestream and wants to make it more festive while bringing the community together.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.404494200000002,
+        "used_memory_ids": [
+          "m10"
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "query": "What are some engaging activities I can organize for my monthly bridge gatherings to keep them fresh and enjoyable?",
+      "answer": 1,
+      "answer_state": [
+        "mixed_ages_with_young_adults",
+        "large_13_plus"
+      ],
+      "answer_choice": "With a larger and diverse crowd, consider organizing a mini-tournament with prizes for top teams and a side table for teaching bridge basics to newcomers. Incorporate social elements like team-based trivia or bridge-themed icebreakers to keep everyone engaged, especially younger participants.",
+      "raw_response": "{\"answer_id\": \"5\", \"current_state\": \"The user hosts monthly bridge gatherings with a moderate group of 6–12 people, originally mostly friends over 50, but younger guests (grandson's friends, young professionals) have recently joined, creating a mixed-age group. The user seeks engaging activities to keep these gatherings fresh and enjoyable.\", \"evidence_ids\": [\"m1\", \"m11\", \"m12\", \"m25\"], \"answer_status\": \"supported\"}",
+      "response": 5,
+      "response_state": [
+        "mixed_ages_with_young_adults",
+        "medium_6_12"
+      ],
+      "response_choice": "With a mix of ages and a moderate group size, try pairing experienced players with younger ones for mentorship and skill-building. Add some light-hearted competitions or bridge-themed games between rounds to keep the energy high and encourage intergenerational interaction.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user hosts monthly bridge gatherings with a moderate group of 6–12 people, originally mostly friends over 50, but younger guests (grandson's friends, young professionals) have recently joined, creating a mixed-age group. The user seeks engaging activities to keep these gatherings fresh and enjoyable.",
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": 0.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.9111779999999996,
+        "used_memory_ids": [
+          "m1",
+          "m11",
+          "m12",
+          "m25"
+        ]
+      }
+    },
+    {
+      "query": "How can I best mentor young women in my community to support their personal and professional growth?",
+      "answer": 0,
+      "answer_state": [
+        "community_leadership",
+        "workshop_series"
+      ],
+      "answer_choice": "Organize a series of interactive workshops that empower young women to develop leadership skills, such as public speaking, project management, and advocacy. Invite local female leaders to share their experiences and facilitate hands-on activities that encourage participants to take initiative in community projects.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user is planning a series of Saturday workshops for young women with the Anniston Historical Society, focused on leadership activities and community service projects. The program includes interactive activities like 'Timeline of Me' and oral history indexing, and involves community members such as older women from a church choir. The user seeks to mentor young women in community leadership through a workshop series.\", \"evidence_ids\": [\"m2\", \"m13\", \"m14\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "community_leadership",
+        "workshop_series"
+      ],
+      "response_choice": "Organize a series of interactive workshops that empower young women to develop leadership skills, such as public speaking, project management, and advocacy. Invite local female leaders to share their experiences and facilitate hands-on activities that encourage participants to take initiative in community projects.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a series of Saturday workshops for young women with the Anniston Historical Society, focused on leadership activities and community service projects. The program includes interactive activities like 'Timeline of Me' and oral history indexing, and involves community members such as older women from a church choir. The user seeks to mentor young women in community leadership through a workshop series.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.0919419999999995,
+        "used_memory_ids": [
+          "m2",
+          "m13",
+          "m14"
+        ]
+      }
+    },
+    {
+      "query": "What are effective ways to introduce more native Alabama plants into my rose garden without overwhelming my current setup?",
+      "answer": 1,
+      "answer_state": [
+        "medium_backyard",
+        "weekly_hands_on"
+      ],
+      "answer_choice": "With your hands-on approach, you can experiment by interplanting native species such as black-eyed Susan or butterfly weed among your roses, adjusting placement and pruning as needed. Regular attention allows you to monitor growth and quickly address any crowding, ensuring both roses and natives flourish together.",
+      "raw_response": "{\"answer_id\": \"2\", \"current_state\": \"The user has a medium-sized backyard rose garden and tends it weekly with a neighbor, including a thornless climbing heirloom rose, indicating a hands-on, weekly gardening approach.\", \"evidence_ids\": [\"m3\", \"m27\", \"m28\"], \"answer_status\": \"supported\"}",
+      "response": 2,
+      "response_state": [
+        "medium_backyard",
+        "weekly_hands_on"
+      ],
+      "response_choice": "With your hands-on approach, you can experiment by interplanting native species such as black-eyed Susan or butterfly weed among your roses, adjusting placement and pruning as needed. Regular attention allows you to monitor growth and quickly address any crowding, ensuring both roses and natives flourish together.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user has a medium-sized backyard rose garden and tends it weekly with a neighbor, including a thornless climbing heirloom rose, indicating a hands-on, weekly gardening approach.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.7218132999999973,
+        "used_memory_ids": [
+          "m3",
+          "m15",
+          "m27",
+          "m28"
+        ]
+      }
+    },
+    {
+      "query": "How can I organize a successful potluck that accommodates guests with different dietary preferences?",
+      "answer": 2,
+      "answer_state": [
+        "mixed_diets_vegan_vegetarian",
+        "full_day_prep"
+      ],
+      "answer_choice": "With ample prep time and a mix of vegan and vegetarian guests, plan a diverse spread featuring hearty plant-based mains, creative salads, and dairy-free desserts. Invite guests to bring their signature vegan or vegetarian dishes, and offer a few crowd-pleasers like stuffed peppers or lentil stew to ensure everyone has satisfying options.",
+      "raw_response": "{\"answer_id\": \"3\", \"current_state\": \"The user is organizing a potluck for a mixed group that includes vegans, vegetarians, and friends with nut allergies. They have a full day set aside for cooking and prep, and want to ensure there are plenty of vegan and nut-free options that appeal to all guests, including those who typically prefer meat-and-potatoes dishes.\", \"evidence_ids\": [\"m19\", \"m20\"], \"answer_status\": \"supported\"}",
+      "response": 3,
+      "response_state": [
+        "mixed_diets_vegan_vegetarian",
+        "full_day_prep"
+      ],
+      "response_choice": "With ample prep time and a mix of vegan and vegetarian guests, plan a diverse spread featuring hearty plant-based mains, creative salads, and dairy-free desserts. Invite guests to bring their signature vegan or vegetarian dishes, and offer a few crowd-pleasers like stuffed peppers or lentil stew to ensure everyone has satisfying options.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is organizing a potluck for a mixed group that includes vegans, vegetarians, and friends with nut allergies. They have a full day set aside for cooking and prep, and want to ensure there are plenty of vegan and nut-free options that appeal to all guests, including those who typically prefer meat-and-potatoes dishes.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.7458111999999986,
+        "used_memory_ids": [
+          "m4",
+          "m19",
+          "m20",
+          "m26"
+        ]
+      }
+    },
+    {
+      "query": "What strategies can I use to increase participation in choir performances, especially among new members?",
+      "answer": 3,
+      "answer_state": [
+        "mixed_experience",
+        "random_availability"
+      ],
+      "answer_choice": "For a diverse group with irregular attendance, create rotating rehearsal groups and use online resources to support learning outside of scheduled practices. Host informal performance opportunities and encourage peer support to help new members feel comfortable participating despite scheduling challenges.",
+      "raw_response": "{\"answer_id\": \"4\", \"current_state\": \"The choir has a mix of experienced and newer members, and rehearsals are coordinated flexibly based on unpredictable availability, sometimes on weekends or midweek mornings.\", \"evidence_ids\": [\"m23\", \"m24\"], \"answer_status\": \"supported\"}",
+      "response": 4,
+      "response_state": [
+        "mixed_experience",
+        "random_availability"
+      ],
+      "response_choice": "For a diverse group with irregular attendance, create rotating rehearsal groups and use online resources to support learning outside of scheduled practices. Host informal performance opportunities and encourage peer support to help new members feel comfortable participating despite scheduling challenges.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The choir has a mix of experienced and newer members, and rehearsals are coordinated flexibly based on unpredictable availability, sometimes on weekends or midweek mornings.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.6834107999999972,
+        "used_memory_ids": [
+          "m5",
+          "m23",
+          "m24"
+        ]
+      }
+    },
+    {
+      "query": "How can I stay safe and active while volunteering, especially with changing health guidelines?",
+      "answer": 0,
+      "answer_state": [
+        "strict_social_distancing",
+        "occasional_assistance_needed"
+      ],
+      "answer_choice": "Choose volunteer roles that allow you to maintain a safe distance from others, such as remote support or contactless deliveries. Since you occasionally need assistance, coordinate with organizers to ensure any help you receive follows safety protocols and minimizes close contact.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user volunteers at the Anniston Historical Society and needs to follow strict social distancing guidelines with limited in-person interactions, while also sometimes needing a little help getting around. They are interested in remote options such as oral history transcription from home.\", \"evidence_ids\": [\"m6\", \"m17\", \"m18\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "strict_social_distancing",
+        "occasional_assistance_needed"
+      ],
+      "response_choice": "Choose volunteer roles that allow you to maintain a safe distance from others, such as remote support or contactless deliveries. Since you occasionally need assistance, coordinate with organizers to ensure any help you receive follows safety protocols and minimizes close contact.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user volunteers at the Anniston Historical Society and needs to follow strict social distancing guidelines with limited in-person interactions, while also sometimes needing a little help getting around. They are interested in remote options such as oral history transcription from home.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.6576754999999963,
+        "used_memory_ids": [
+          "m6",
+          "m17",
+          "m18"
+        ]
+      }
+    },
+    {
+      "query": "What are some meaningful historic sites or cultural events I could help organize day trips to in the Deep South?",
+      "answer": 1,
+      "answer_state": [
+        "bus_group",
+        "30_70"
+      ],
+      "answer_choice": "With a larger group traveling by bus and a similar budget, you can arrange visits to major historic landmarks such as the National WWII Museum in New Orleans or the Martin Luther King Jr. National Historical Park in Atlanta, both of which accommodate group tours and offer educational programs. Coordinating with event organizers for group rates or guided tours can maximize the experience and keep costs manageable.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user is planning a day trip near Anniston for a small group carpooling together, with a per-person budget between $30 and $70.\", \"evidence_ids\": [\"m7\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "carpool_small_group",
+        "30_70"
+      ],
+      "response_choice": "For a small group traveling together by car with a moderate budget, consider organizing a day trip to sites like the Birmingham Civil Rights Institute or the historic Natchez Trace Parkway, where entry fees are reasonable and parking is accessible. You could also plan to attend a local heritage festival or food event, which often offer group discounts and a rich cultural experience within your budget.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a day trip near Anniston for a small group carpooling together, with a per-person budget between $30 and $70.",
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": 0.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.5384509000000008,
+        "used_memory_ids": [
+          "m7"
+        ]
+      }
+    },
+    {
+      "query": "Which needlecraft techniques would be best to teach at a beginner’s workshop for local teens?",
+      "answer": 0,
+      "answer_state": [
+        "complete_beginners",
+        "drop_in_sessions"
+      ],
+      "answer_choice": "For teens just starting out and attending casual, flexible sessions, focus on simple, instantly gratifying techniques like basic embroidery stitches, loom weaving, or finger knitting. These projects require minimal setup and can be completed or paused easily, making them perfect for drop-in environments.",
+      "raw_response": "{\"answer_id\": \"4\", \"current_state\": \"The workshop is for complete beginners, including teens, and is structured as a multi-week course with step-by-step guides and progression over time.\", \"evidence_ids\": [\"m21\", \"m22\", \"m30\"], \"answer_status\": \"supported\"}",
+      "response": 4,
+      "response_state": [
+        "complete_beginners",
+        "multi_week"
+      ],
+      "response_choice": "For absolute beginners in a multi-week format, start with foundational skills like hand sewing, basic knitting, and introductory embroidery, gradually progressing to simple projects such as tote bags or decorative pillows. This structure allows teens to build confidence and see their skills develop over time.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The workshop is for complete beginners, including teens, and is structured as a multi-week course with step-by-step guides and progression over time.",
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": 0.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.8348343999999983,
+        "used_memory_ids": [
+          "m21",
+          "m22",
+          "m30"
+        ]
+      }
+    },
+    {
+      "query": "How should I adapt my soul food recipes for guests who prefer lighter or healthier options?",
+      "answer": 1,
+      "answer_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "answer_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "raw_response": "{\"answer_id\": \"2\", \"current_state\": \"The user is interested in healthy soul food recipes using ingredients from their local farmers market, indicating a preference for fresh, local produce and general healthy eating.\", \"evidence_ids\": [\"m9\"], \"answer_status\": \"supported\"}",
+      "response": 2,
+      "response_state": [
+        "general_healthy_eating",
+        "local_farmers_market"
+      ],
+      "response_choice": "When serving guests who value overall healthy eating and have access to fresh, local produce, highlight seasonal vegetables in your recipes and use herbs for flavor instead of excess salt or fat. Try making collard greens with olive oil and smoked paprika, and swap out processed meats for farm-fresh chicken or fish from the market.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is interested in healthy soul food recipes using ingredients from their local farmers market, indicating a preference for fresh, local produce and general healthy eating.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.8189200999999997,
+        "used_memory_ids": [
+          "m9"
+        ]
+      }
+    },
+    {
+      "query": "What would be the best way to celebrate an Alabama Crimson Tide game at my home to bring the community together?",
+      "answer": 1,
+      "answer_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "answer_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "raw_response": "{\"answer_id\": \"2\", \"current_state\": \"The user is planning a mid-sized block party to watch the Crimson Tide game on a basic TV livestream and wants to make it more festive while bringing the community together.\", \"evidence_ids\": [\"m10\"], \"answer_status\": \"supported\"}",
+      "response": 2,
+      "response_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "response_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a mid-sized block party to watch the Crimson Tide game on a basic TV livestream and wants to make it more festive while bringing the community together.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.6267666000000034,
+        "used_memory_ids": [
+          "m10"
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "query": "What are some engaging activities I can organize for my monthly bridge gatherings to keep them fresh and enjoyable?",
+      "answer": 1,
+      "answer_state": [
+        "mixed_ages_with_young_adults",
+        "large_13_plus"
+      ],
+      "answer_choice": "With a larger and diverse crowd, consider organizing a mini-tournament with prizes for top teams and a side table for teaching bridge basics to newcomers. Incorporate social elements like team-based trivia or bridge-themed icebreakers to keep everyone engaged, especially younger participants.",
+      "raw_response": "{\"answer_id\": \"5\", \"current_state\": \"The bridge gatherings are monthly, with a moderate group size of about 6 to 12 participants. The group originally consisted mostly of friends over 50, but younger guests and young professionals have recently started joining, creating a mixed-age dynamic. The user is looking for engaging activities to keep these gatherings fresh and enjoyable for both longtime friends and newer younger attendees.\", \"evidence_ids\": [\"m1\", \"m11\", \"m12\", \"m25\"], \"answer_status\": \"supported\"}",
+      "response": 5,
+      "response_state": [
+        "mixed_ages_with_young_adults",
+        "medium_6_12"
+      ],
+      "response_choice": "With a mix of ages and a moderate group size, try pairing experienced players with younger ones for mentorship and skill-building. Add some light-hearted competitions or bridge-themed games between rounds to keep the energy high and encourage intergenerational interaction.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The bridge gatherings are monthly, with a moderate group size of about 6 to 12 participants. The group originally consisted mostly of friends over 50, but younger guests and young professionals have recently started joining, creating a mixed-age dynamic. The user is looking for engaging activities to keep these gatherings fresh and enjoyable for both longtime friends and newer younger attendees.",
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.0498854999999985,
+        "used_memory_ids": [
+          "m1",
+          "m11",
+          "m12",
+          "m25"
+        ]
+      }
+    },
+    {
+      "query": "How can I best mentor young women in my community to support their personal and professional growth?",
+      "answer": 1,
+      "answer_state": [
+        "education_teaching",
+        "workshop_series"
+      ],
+      "answer_choice": "Design a workshop series focused on effective teaching strategies, classroom management, and curriculum development to inspire young women pursuing education careers. Include opportunities for participants to practice lesson planning and receive feedback from experienced educators in a supportive environment.",
+      "raw_response": "{\"answer_id\": \"1\", \"current_state\": \"The user is planning a series of Saturday workshops for young women with the Anniston Historical Society, focused on leadership activities and community service projects. The program includes interactive activities like 'Timeline of Me' and oral history indexing, and involves community members such as older women from a church choir. The user seeks to encourage community leadership among young women in a group setting.\", \"evidence_ids\": [\"m2\", \"m13\", \"m14\"], \"answer_status\": \"supported\"}",
+      "response": 1,
+      "response_state": [
+        "community_leadership",
+        "workshop_series"
+      ],
+      "response_choice": "Organize a series of interactive workshops that empower young women to develop leadership skills, such as public speaking, project management, and advocacy. Invite local female leaders to share their experiences and facilitate hands-on activities that encourage participants to take initiative in community projects.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a series of Saturday workshops for young women with the Anniston Historical Society, focused on leadership activities and community service projects. The program includes interactive activities like 'Timeline of Me' and oral history indexing, and involves community members such as older women from a church choir. The user seeks to encourage community leadership among young women in a group setting.",
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": 0.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.3016178000000025,
+        "used_memory_ids": [
+          "m2",
+          "m13",
+          "m14"
+        ]
+      }
+    },
+    {
+      "query": "What are effective ways to introduce more native Alabama plants into my rose garden without overwhelming my current setup?",
+      "answer": 1,
+      "answer_state": [
+        "medium_backyard",
+        "weekly_hands_on"
+      ],
+      "answer_choice": "With your hands-on approach, you can experiment by interplanting native species such as black-eyed Susan or butterfly weed among your roses, adjusting placement and pruning as needed. Regular attention allows you to monitor growth and quickly address any crowding, ensuring both roses and natives flourish together.",
+      "raw_response": "{\"answer_id\": \"2\", \"current_state\": \"The user has a medium-sized backyard rose garden and tends it weekly with a neighbor, including a thornless climbing heirloom rose 'Zéphirine Drouhin' that is a repeat bloomer and prone to black spot in humid summers. They are actively hands-on with weekly care and monitoring.\", \"evidence_ids\": [\"m3\", \"m27\", \"m28\"], \"answer_status\": \"supported\"}",
+      "response": 2,
+      "response_state": [
+        "medium_backyard",
+        "weekly_hands_on"
+      ],
+      "response_choice": "With your hands-on approach, you can experiment by interplanting native species such as black-eyed Susan or butterfly weed among your roses, adjusting placement and pruning as needed. Regular attention allows you to monitor growth and quickly address any crowding, ensuring both roses and natives flourish together.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user has a medium-sized backyard rose garden and tends it weekly with a neighbor, including a thornless climbing heirloom rose 'Zéphirine Drouhin' that is a repeat bloomer and prone to black spot in humid summers. They are actively hands-on with weekly care and monitoring.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.9053824999999946,
+        "used_memory_ids": [
+          "m3",
+          "m15",
+          "m27",
+          "m28"
+        ]
+      }
+    },
+    {
+      "query": "How can I organize a successful potluck that accommodates guests with different dietary preferences?",
+      "answer": 2,
+      "answer_state": [
+        "mixed_diets_vegan_vegetarian",
+        "full_day_prep"
+      ],
+      "answer_choice": "With ample prep time and a mix of vegan and vegetarian guests, plan a diverse spread featuring hearty plant-based mains, creative salads, and dairy-free desserts. Invite guests to bring their signature vegan or vegetarian dishes, and offer a few crowd-pleasers like stuffed peppers or lentil stew to ensure everyone has satisfying options.",
+      "raw_response": "{\"answer_id\": \"3\", \"current_state\": \"The user is organizing potlucks for groups that include vegans, vegetarians, and people with nut allergies, and has a full day available for cooking and prep. They want hearty plant-based main dishes and nut-free options that appeal to guests who are not used to plant-based eating, while accommodating mixed dietary preferences.\", \"evidence_ids\": [\"m19\", \"m20\", \"m26\", \"m40\"], \"answer_status\": \"supported\"}",
+      "response": 3,
+      "response_state": [
+        "mixed_diets_vegan_vegetarian",
+        "full_day_prep"
+      ],
+      "response_choice": "With ample prep time and a mix of vegan and vegetarian guests, plan a diverse spread featuring hearty plant-based mains, creative salads, and dairy-free desserts. Invite guests to bring their signature vegan or vegetarian dishes, and offer a few crowd-pleasers like stuffed peppers or lentil stew to ensure everyone has satisfying options.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is organizing potlucks for groups that include vegans, vegetarians, and people with nut allergies, and has a full day available for cooking and prep. They want hearty plant-based main dishes and nut-free options that appeal to guests who are not used to plant-based eating, while accommodating mixed dietary preferences.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.6122944000000032,
+        "used_memory_ids": [
+          "m4",
+          "m19",
+          "m20",
+          "m26",
+          "m40"
+        ]
+      }
+    },
+    {
+      "query": "What strategies can I use to increase participation in choir performances, especially among new members?",
+      "answer": 2,
+      "answer_state": [
+        "mostly_experienced_singers",
+        "random_availability"
+      ],
+      "answer_choice": "With a group of skilled singers and unpredictable schedules, use flexible digital tools for practice coordination and performance planning. Organize pop-up rehearsals and virtual check-ins to maintain momentum, and offer solo or small group opportunities to accommodate varying availability.",
+      "raw_response": "{\"answer_id\": \"4\", \"current_state\": \"The choir has a mix of experienced and newer singers, and rehearsals are coordinated flexibly based on unpredictable member availability, sometimes on weekends or midweek mornings.\", \"evidence_ids\": [\"m23\", \"m24\"], \"answer_status\": \"supported\"}",
+      "response": 4,
+      "response_state": [
+        "mixed_experience",
+        "random_availability"
+      ],
+      "response_choice": "For a diverse group with irregular attendance, create rotating rehearsal groups and use online resources to support learning outside of scheduled practices. Host informal performance opportunities and encourage peer support to help new members feel comfortable participating despite scheduling challenges.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The choir has a mix of experienced and newer singers, and rehearsals are coordinated flexibly based on unpredictable member availability, sometimes on weekends or midweek mornings.",
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": 0.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.1617510000000024,
+        "used_memory_ids": [
+          "m5",
+          "m23",
+          "m24",
+          "m33",
+          "m34"
+        ]
+      }
+    },
+    {
+      "query": "How can I stay safe and active while volunteering, especially with changing health guidelines?",
+      "answer": 2,
+      "answer_state": [
+        "moderate_precautions",
+        "occasional_assistance_needed"
+      ],
+      "answer_choice": "Consider volunteering in settings where moderate safety measures are observed, such as small group activities or outdoor projects. If you need occasional help, communicate with coordinators to arrange support that respects current health practices.",
+      "raw_response": "{\"answer_id\": \"3\", \"current_state\": \"The user volunteers at the Anniston Historical Society and has sought roles with moderate health precautions that accommodate occasional mobility assistance. Later, as guidelines shifted, they adapted to strict social distancing and remote options, and now that small in-person groups are allowed with masks and sanitizer, they are organizing archive sessions and tours under moderate precautions while still needing occasional help getting around.\", \"evidence_ids\": [\"m6\", \"m17\", \"m18\", \"m37\", \"m38\"], \"answer_status\": \"supported\"}",
+      "response": 3,
+      "response_state": [
+        "moderate_precautions",
+        "occasional_assistance_needed"
+      ],
+      "response_choice": "Consider volunteering in settings where moderate safety measures are observed, such as small group activities or outdoor projects. If you need occasional help, communicate with coordinators to arrange support that respects current health practices.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user volunteers at the Anniston Historical Society and has sought roles with moderate health precautions that accommodate occasional mobility assistance. Later, as guidelines shifted, they adapted to strict social distancing and remote options, and now that small in-person groups are allowed with masks and sanitizer, they are organizing archive sessions and tours under moderate precautions while still needing occasional help getting around.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 2.1733084000000034,
+        "used_memory_ids": [
+          "m6",
+          "m17",
+          "m18",
+          "m37",
+          "m38"
+        ]
+      }
+    },
+    {
+      "query": "What are some meaningful historic sites or cultural events I could help organize day trips to in the Deep South?",
+      "answer": 1,
+      "answer_state": [
+        "bus_group",
+        "30_70"
+      ],
+      "answer_choice": "With a larger group traveling by bus and a similar budget, you can arrange visits to major historic landmarks such as the National WWII Museum in New Orleans or the Martin Luther King Jr. National Historical Park in Atlanta, both of which accommodate group tours and offer educational programs. Coordinating with event organizers for group rates or guided tours can maximize the experience and keep costs manageable.",
+      "raw_response": "{\"answer_id\": \"2\", \"current_state\": \"The user is part of a local travel club that is offering bus trips to historic sites and gardens, and the user and friends are excited to join group bus excursions. They are planning social activities for the bus ride and asking about snacks and bingo cards, indicating a group bus travel context with a moderate budget.\", \"evidence_ids\": [\"m31\", \"m32\"], \"answer_status\": \"supported\"}",
+      "response": 2,
+      "response_state": [
+        "bus_group",
+        "30_70"
+      ],
+      "response_choice": "With a larger group traveling by bus and a similar budget, you can arrange visits to major historic landmarks such as the National WWII Museum in New Orleans or the Martin Luther King Jr. National Historical Park in Atlanta, both of which accommodate group tours and offer educational programs. Coordinating with event organizers for group rates or guided tours can maximize the experience and keep costs manageable.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is part of a local travel club that is offering bus trips to historic sites and gardens, and the user and friends are excited to join group bus excursions. They are planning social activities for the bus ride and asking about snacks and bingo cards, indicating a group bus travel context with a moderate budget.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.6315175999999951,
+        "used_memory_ids": [
+          "m31",
+          "m32"
+        ]
+      }
+    },
+    {
+      "query": "Which needlecraft techniques would be best to teach at a beginner’s workshop for local teens?",
+      "answer": 0,
+      "answer_state": [
+        "complete_beginners",
+        "drop_in_sessions"
+      ],
+      "answer_choice": "For teens just starting out and attending casual, flexible sessions, focus on simple, instantly gratifying techniques like basic embroidery stitches, loom weaving, or finger knitting. These projects require minimal setup and can be completed or paused easily, making them perfect for drop-in environments.",
+      "raw_response": "{\"answer_id\": \"4\", \"current_state\": \"The workshop is for complete beginners, including local teens, and is structured as a multi-week course with step-by-step guides and progression over time.\", \"evidence_ids\": [\"m21\", \"m22\", \"m30\"], \"answer_status\": \"supported\"}",
+      "response": 4,
+      "response_state": [
+        "complete_beginners",
+        "multi_week"
+      ],
+      "response_choice": "For absolute beginners in a multi-week format, start with foundational skills like hand sewing, basic knitting, and introductory embroidery, gradually progressing to simple projects such as tote bags or decorative pillows. This structure allows teens to build confidence and see their skills develop over time.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The workshop is for complete beginners, including local teens, and is structured as a multi-week course with step-by-step guides and progression over time.",
+      "scores": {
+        "accuracy": 0.0,
+        "jaccard": 0.3333333333333333,
+        "hamming": 0.5,
+        "accurate_retrieval": 0.5,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.7426116999999977,
+        "used_memory_ids": [
+          "m21",
+          "m22",
+          "m30"
+        ]
+      }
+    },
+    {
+      "query": "How should I adapt my soul food recipes for guests who prefer lighter or healthier options?",
+      "answer": 2,
+      "answer_state": [
+        "general_healthy_eating",
+        "regular_grocery_store"
+      ],
+      "answer_choice": "For those seeking generally healthier options with ingredients from a standard grocery store, focus on reducing sodium and saturated fats by choosing low-salt broths and lean meats. Incorporate more fiber-rich sides like baked sweet potatoes or brown rice, and use heart-healthy oils for cooking.",
+      "raw_response": "{\"answer_id\": \"3\", \"current_state\": \"The user hosts soul food gatherings and wants to adapt recipes for guests who prefer lighter or healthier options. Guests include health-conscious friends and a plant-based niece, and the user shops at a regular grocery store. The user seeks general healthier adaptations that preserve traditional soul food flavors.\", \"evidence_ids\": [\"m20\", \"m26\", \"m40\"], \"answer_status\": \"supported\"}",
+      "response": 3,
+      "response_state": [
+        "general_healthy_eating",
+        "regular_grocery_store"
+      ],
+      "response_choice": "For those seeking generally healthier options with ingredients from a standard grocery store, focus on reducing sodium and saturated fats by choosing low-salt broths and lean meats. Incorporate more fiber-rich sides like baked sweet potatoes or brown rice, and use heart-healthy oils for cooking.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user hosts soul food gatherings and wants to adapt recipes for guests who prefer lighter or healthier options. Guests include health-conscious friends and a plant-based niece, and the user shops at a regular grocery store. The user seeks general healthier adaptations that preserve traditional soul food flavors.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": 1.0
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.550077299999998,
+        "used_memory_ids": [
+          "m4",
+          "m19",
+          "m20",
+          "m26",
+          "m40"
+        ]
+      }
+    },
+    {
+      "query": "What would be the best way to celebrate an Alabama Crimson Tide game at my home to bring the community together?",
+      "answer": 1,
+      "answer_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "answer_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "raw_response": "{\"answer_id\": \"2\", \"current_state\": \"The user is planning a mid-sized block party to watch an Alabama Crimson Tide game on a basic TV livestream and wants to make it more festive while bringing the community together.\", \"evidence_ids\": [\"m10\"], \"answer_status\": \"supported\"}",
+      "response": 2,
+      "response_state": [
+        "mid_size_block_party",
+        "basic_tv_livestream"
+      ],
+      "response_choice": "Transform your driveway or front yard into a festive gathering spot by inviting neighbors for a block party, streaming the game on your TV. Enhance the atmosphere with themed decorations, potluck-style food, and simple lawn games to keep everyone engaged and connected.",
+      "json_error": false,
+      "answer_status": "supported",
+      "reason": "The user is planning a mid-sized block party to watch an Alabama Crimson Tide game on a basic TV livestream and wants to make it more festive while bringing the community together.",
+      "scores": {
+        "accuracy": 1.0,
+        "jaccard": 1.0,
+        "hamming": 1.0,
+        "accurate_retrieval": 1.0,
+        "selective_forgetting": null
+      },
+      "llm_usage_statistics": {
+        "source": "BUMem",
+        "time_elapsed": 1.6177397000000013,
+        "used_memory_ids": [
+          "m10"
+        ]
+      }
+    }
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+]

@@ -1,0 +1,102 @@
+{
+  "What are some engaging activities I can organize for my monthly bridge gatherings to keep them fresh and enjoyable?": {
+    "original_query": "What are some engaging activities I can organize for my monthly bridge gatherings to keep them fresh and enjoyable?",
+    "topics": [
+      "bridge_gathering"
+    ],
+    "target_aspect": [
+      "engaging activities for monthly gatherings"
+    ]
+  },
+  "How can I best mentor young women in my community to support their personal and professional growth?": {
+    "original_query": "How can I best mentor young women in my community to support their personal and professional growth?",
+    "topics": [
+      "mentoring"
+    ],
+    "target_aspect": [
+      "methods to mentor young women",
+      "strategies to support personal growth",
+      "approaches to enhance professional development"
+    ]
+  },
+  "What are effective ways to introduce more native Alabama plants into my rose garden without overwhelming my current setup?": {
+    "original_query": "What are effective ways to introduce more native Alabama plants into my rose garden without overwhelming my current setup?",
+    "topics": [
+      "rose_garden",
+      "native_alabama_plants"
+    ],
+    "target_aspect": [
+      "effective methods to introduce native alabama plants",
+      "methods to avoid overwhelming current setup"
+    ]
+  },
+  "How can I organize a successful potluck that accommodates guests with different dietary preferences?": {
+    "original_query": "How can I organize a successful potluck that accommodates guests with different dietary preferences?",
+    "topics": [
+      "potluck"
+    ],
+    "target_aspect": [
+      "methods to accommodate dietary preferences"
+    ]
+  },
+  "What strategies can I use to increase participation in choir performances, especially among new members?": {
+    "original_query": "What strategies can I use to increase participation in choir performances, especially among new members?",
+    "topics": [
+      "choir_performance"
+    ],
+    "target_aspect": [
+      "strategies to increase participation",
+      "engagement of new members"
+    ]
+  },
+  "How can I stay safe and active while volunteering, especially with changing health guidelines?": {
+    "original_query": "How can I stay safe and active while volunteering, especially with changing health guidelines?",
+    "topics": [
+      "volunteering"
+    ],
+    "target_aspect": [
+      "safety measures while volunteering",
+      "remaining active while volunteering",
+      "compliance with changing health guidelines"
+    ]
+  },
+  "What are some meaningful historic sites or cultural events I could help organize day trips to in the Deep South?": {
+    "original_query": "What are some meaningful historic sites or cultural events I could help organize day trips to in the Deep South?",
+    "topics": [
+      "deep_south"
+    ],
+    "target_aspect": [
+      "meaningful historic sites",
+      "cultural events"
+    ]
+  },
+  "Which needlecraft techniques would be best to teach at a beginner’s workshop for local teens?": {
+    "original_query": "Which needlecraft techniques would be best to teach at a beginner’s workshop for local teens?",
+    "topics": [
+      "needlecraft"
+    ],
+    "target_aspect": [
+      "best techniques for beginner's workshop",
+      "suitable for local teens"
+    ]
+  },
+  "How should I adapt my soul food recipes for guests who prefer lighter or healthier options?": {
+    "original_query": "How should I adapt my soul food recipes for guests who prefer lighter or healthier options?",
+    "topics": [
+      "soul_food_recipes"
+    ],
+    "target_aspect": [
+      "adaptation methods for healthier options"
+    ]
+  },
+  "What would be the best way to celebrate an Alabama Crimson Tide game at my home to bring the community together?": {
+    "original_query": "What would be the best way to celebrate an Alabama Crimson Tide game at my home to bring the community together?",
+    "topics": [
+      "celebrating_games"
+    ],
+    "target_aspect": [
+      "best_ways_to_celebrate",
+      "community_bonding_methods"
+    ]
+  }
+}
