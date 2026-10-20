@@ -1,0 +1,288 @@
+{
+  "period_00": {
+    "baseline_tokens": 591,
+    "budget_run_tokens": 591,
+    "budget_tokens": 9216,
+    "reused": true,
+    "accuracy": {
+      "baseline": 1.0,
+      "budget_run": 1.0
+    },
+    "jaccard": {
+      "baseline": 1.0,
+      "budget_run": 1.0
+    },
+    "hamming": {
+      "baseline": 1.0,
+      "budget_run": 1.0
+    },
+    "accurate_retrieval": {
+      "baseline": 1.0,
+      "budget_run": 1.0
+    },
+    "selective_forgetting": {
+      "baseline": null,
+      "budget_run": null
+    }
+  },
+  "period_01": {
+    "baseline_tokens": 1683,
+    "budget_run_tokens": 1683,
+    "budget_tokens": 9216,
+    "reused": true,
+    "accuracy": {
+      "baseline": 0.9,
+      "budget_run": 0.9
+    },
+    "jaccard": {
+      "baseline": 0.9333333333333332,
+      "budget_run": 0.9333333333333332
+    },
+    "hamming": {
+      "baseline": 0.95,
+      "budget_run": 0.95
+    },
+    "accurate_retrieval": {
+      "baseline": 0.95,
+      "budget_run": 0.95
+    },
+    "selective_forgetting": {
+      "baseline": 1.0,
+      "budget_run": 1.0
+    }
+  },
+  "period_02": {
+    "baseline_tokens": 2656,
+    "budget_run_tokens": 2656,
+    "budget_tokens": 9216,
+    "reused": true,
+    "accuracy": {
+      "baseline": 0.9,
+      "budget_run": 0.9
+    },
+    "jaccard": {
+      "baseline": 0.9333333333333332,
+      "budget_run": 0.9333333333333332
+    },
+    "hamming": {
+      "baseline": 0.95,
+      "budget_run": 0.95
+    },
+    "accurate_retrieval": {
+      "baseline": 0.95,
+      "budget_run": 0.95
+    },
+    "selective_forgetting": {
+      "baseline": 1.0,
+      "budget_run": 1.0
+    }
+  },
+  "period_03": {
+    "baseline_tokens": 3540,
+    "budget_run_tokens": 3540,
+    "budget_tokens": 9216,
+    "reused": true,
+    "accuracy": {
+      "baseline": 0.9,
+      "budget_run": 0.9
+    },
+    "jaccard": {
+      "baseline": 0.9333333333333332,
+      "budget_run": 0.9333333333333332
+    },
+    "hamming": {
+      "baseline": 0.95,
+      "budget_run": 0.95
+    },
+    "accurate_retrieval": {
+      "baseline": 0.95,
+      "budget_run": 0.95
+    },
+    "selective_forgetting": {
+      "baseline": 0.75,
+      "budget_run": 0.75
+    }
+  },
+  "period_04": {
+    "baseline_tokens": 4784,
+    "budget_run_tokens": 4784,
+    "budget_tokens": 9216,
+    "reused": true,
+    "accuracy": {
+      "baseline": 0.6,
+      "budget_run": 0.6
+    },
+    "jaccard": {
+      "baseline": 0.7333333333333333,
+      "budget_run": 0.7333333333333333
+    },
+    "hamming": {
+      "baseline": 0.8,
+      "budget_run": 0.8
+    },
+    "accurate_retrieval": {
+      "baseline": 0.8,
+      "budget_run": 0.8
+    },
+    "selective_forgetting": {
+      "baseline": 0.75,
+      "budget_run": 0.75
+    }
+  },
+  "period_05": {
+    "baseline_tokens": 5599,
+    "budget_run_tokens": 5599,
+    "budget_tokens": 9216,
+    "reused": true,
+    "accuracy": {
+      "baseline": 0.4,
+      "budget_run": 0.4
+    },
+    "jaccard": {
+      "baseline": 0.5666666666666667,
+      "budget_run": 0.5666666666666667
+    },
+    "hamming": {
+      "baseline": 0.65,
+      "budget_run": 0.65
+    },
+    "accurate_retrieval": {
+      "baseline": 0.65,
+      "budget_run": 0.65
+    },
+    "selective_forgetting": {
+      "baseline": 0.3333333333333333,
+      "budget_run": 0.3333333333333333
+    }
+  },
+  "period_06": {
+    "baseline_tokens": 6348,
+    "budget_run_tokens": 6348,
+    "budget_tokens": 9216,
+    "reused": true,
+    "accuracy": {
+      "baseline": 0.4,
+      "budget_run": 0.4
+    },
+    "jaccard": {
+      "baseline": 0.5333333333333334,
+      "budget_run": 0.5333333333333334
+    },
+    "hamming": {
+      "baseline": 0.6,
+      "budget_run": 0.6
+    },
+    "accurate_retrieval": {
+      "baseline": 0.6,
+      "budget_run": 0.6
+    },
+    "selective_forgetting": {
+      "baseline": 0.3333333333333333,
+      "budget_run": 0.3333333333333333
+    }
+  },
+  "period_07": {
+    "baseline_tokens": 7428,
+    "budget_run_tokens": 7428,
+    "budget_tokens": 9216,
+    "reused": true,
+    "accuracy": {
+      "baseline": 0.4,
+      "budget_run": 0.4
+    },
+    "jaccard": {
+      "baseline": 0.5666666666666667,
+      "budget_run": 0.5666666666666667
+    },
+    "hamming": {
+      "baseline": 0.65,
+      "budget_run": 0.65
+    },
+    "accurate_retrieval": {
+      "baseline": 0.65,
+      "budget_run": 0.65
+    },
+    "selective_forgetting": {
+      "baseline": 1.0,
+      "budget_run": 1.0
+    }
+  },
+  "period_08": {
+    "baseline_tokens": 8481,
+    "budget_run_tokens": 8481,
+    "budget_tokens": 9216,
+    "reused": true,
+    "accuracy": {
+      "baseline": 0.5,
+      "budget_run": 0.5
+    },
+    "jaccard": {
+      "baseline": 0.6,
+      "budget_run": 0.6
+    },
+    "hamming": {
+      "baseline": 0.65,
+      "budget_run": 0.65
+    },
+    "accurate_retrieval": {
+      "baseline": 0.65,
+      "budget_run": 0.65
+    },
+    "selective_forgetting": {
+      "baseline": 0.75,
+      "budget_run": 0.75
+    }
+  },
+  "period_09": {
+    "baseline_tokens": 9363,
+    "budget_run_tokens": 8742,
+    "budget_tokens": 9216,
+    "reused": false,
+    "accuracy": {
+      "baseline": 0.5,
+      "budget_run": 0.6
+    },
+    "jaccard": {
+      "baseline": 0.5666666666666667,
+      "budget_run": 0.6
+    },
+    "hamming": {
+      "baseline": 0.6,
+      "budget_run": 0.6
+    },
+    "accurate_retrieval": {
+      "baseline": 0.6,
+      "budget_run": 0.6
+    },
+    "selective_forgetting": {
+      "baseline": 0.5,
+      "budget_run": 0.5
+    }
+  },
+  "period_10": {
+    "baseline_tokens": 10240,
+    "budget_run_tokens": 9147,
+    "budget_tokens": 9216,
+    "reused": false,
+    "accuracy": {
+      "baseline": 0.3,
+      "budget_run": 0.4
+    },
+    "jaccard": {
+      "baseline": 0.4333333333333334,
+      "budget_run": 0.5
+    },
+    "hamming": {
+      "baseline": 0.5,
+      "budget_run": 0.55
+    },
+    "accurate_retrieval": {
+      "baseline": 0.5,
+      "budget_run": 0.55
+    },
+    "selective_forgetting": {
+      "baseline": 0.5,
+      "budget_run": 0.75
+    }
+  }
+}

@@ -55,9 +55,6 @@ def extract_memory(raw_text: str, qwen_client, embedding_client) -> dict | None:
     topics = list(dict.fromkeys(topic.strip() for topic in topics))
     if len(topics) > 3:
         raise MemoryExtractionError("topics 最多包含 3 个主题")
-    if not topics:
-        return None
-
     return {
         "raw_text": raw_text,
         "topics": topics,

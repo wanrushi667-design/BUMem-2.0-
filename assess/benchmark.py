@@ -24,11 +24,43 @@ def write_json(path, data):
     pending.replace(path)
 
 
-def load_benchmark():
-    data = json.loads((BENCHMARK_ROOT / "data/v1.base/data.json").read_text(encoding="utf-8"))
-    item = next(item for item in data if item["id"] == ITEM_ID)
+def save_metrics_summary(results, output_file, *, include_protocol=True):
+    """汇总已评测结果；未评测项和不适用指标不参与平均。"""
+    metrics = ("accuracy", "jaccard", "hamming", "accurate_retrieval", "selective_forgetting")
+    summary = {}
+    for metric in metrics:
+        rows = [
+            [result["scores"][metric] for result in period
+             if result is not None and result["scores"][metric] is not None]
+            for period in results
+        ]
+        values = [value for row in rows for value in row]
+        summary[metric] = {
+            "mean": sum(values) / len(values) if values else None,
+            "applicable_count": len(values),
+            "per_period_mean": [sum(row) / len(row) if row else None for row in rows],
+        }
+    evaluated = [result for period in results for result in period if result is not None]
+    parsed = [result for result in evaluated if not result["json_error"]]
+    summary["protocol"] = {
+        "question_count": len(evaluated),
+        "parsed_count": len(parsed),
+        "format_error_count": len(evaluated) - len(parsed),
+        "successful_parse_rate": len(parsed) / len(evaluated) if evaluated else None,
+        "overall_accuracy": summary["accuracy"]["mean"],
+        "parsed_accuracy": sum(result["scores"]["accuracy"] for result in parsed) / len(parsed) if parsed else None,
+    }
+    if not include_protocol:
+        summary.pop("protocol")
+    write_json(output_file, summary)
+
+
+def load_benchmark(benchmark_root=BENCHMARK_ROOT, item_id=ITEM_ID):
+    benchmark_root = Path(benchmark_root)
+    data = json.loads((benchmark_root / "data/v1.base/data.json").read_text(encoding="utf-8"))
+    item = next(item for item in data if item["id"] == item_id)
     spec = importlib.util.spec_from_file_location(
-        "amemgym_metric", BENCHMARK_ROOT / "src/amemgym/eval/metric.py"
+        "amemgym_metric", benchmark_root / "src/amemgym/eval/metric.py"
     )
     metrics = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(metrics)
@@ -36,8 +68,9 @@ def load_benchmark():
 
 
 def run_evaluation(memory_file, period_name, *, output_file=OUTPUT_FILE,
-                   manager=None, nodes=None, groups=None):
-    item, score_states = load_benchmark()
+                   manager=None, nodes=None, groups=None,
+                   benchmark_root=BENCHMARK_ROOT, item_id=ITEM_ID, benchmark_output=False):
+    item, score_states = load_benchmark(benchmark_root, item_id)
     period_index = int(period_name.removeprefix("period_"))
     period = item["periods"][period_index]
     previous = item["periods"][period_index - 1] if period_index else None
@@ -60,10 +93,12 @@ def run_evaluation(memory_file, period_name, *, output_file=OUTPUT_FILE,
             query = {**cache[text], "embedding": embedding.encode(text).tolist()}
         else:
             query = process_query(text, embedding, manager.get_qwen())
-            cache[text] = {key: value for key, value in query.items() if key != "embedding"}
+        choices = [{**choice, "id": str(i + 1)} for i, choice in enumerate(qa["answer_choices"])]
+        query["answer_choices"] = choices
+        cache[text] = {key: value for key, value in query.items() if key != "embedding"}
+        if not benchmark_output:
             write_json(query_file, cache)
         memories = retrieve_memories(query, nodes, groups, manager.get_deepseek())
-        choices = [{**choice, "id": str(i + 1)} for i, choice in enumerate(qa["answer_choices"])]
         reply = select_answer(query, choices, memories, manager.get_deepseek())
         period_replies.append({"query": text, "answer_choices": choices,
                                "memory_ids": [memory.memory_id for memory in memories],
@@ -92,6 +127,18 @@ def run_evaluation(memory_file, period_name, *, output_file=OUTPUT_FILE,
         print(f"[{index + 1}/{len(item['qas'])}] 答案：{number}；accuracy：{scores['accuracy']}", flush=True)
     replies[period_name] = period_replies
     results[period_index] = period_scores
-    write_json(result_file, replies)
+    if not benchmark_output:
+        write_json(result_file, replies)
     write_json(output_file, results)
+    if benchmark_output:
+        metrics = {
+            metric: [[row["scores"][metric] if row is not None else None for row in period]
+                     for period in results]
+            for metric in ("accuracy", "jaccard", "hamming", "accurate_retrieval", "selective_forgetting")
+        }
+        write_json(output_file.parent / "overall_metrics.json", metrics)
+        save_metrics_summary(results, output_file.parent / "overall_metrics_summary.json",
+                             include_protocol=False)
+    else:
+        save_metrics_summary(results, output_file.parent / "overall_metrics_summary_strict.json")
     return results

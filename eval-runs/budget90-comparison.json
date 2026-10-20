@@ -1,0 +1,1363 @@
+{
+  "角色1": {
+    "baseline_dir": "amemgym-first-role",
+    "budget_dir": "amemgym-first-role-budget90",
+    "affected_periods": [
+      9,
+      10
+    ],
+    "tokens": {
+      "before": 10240,
+      "after": 9147,
+      "saved": 1093,
+      "saved_ratio": 0.10673828124999996
+    },
+    "overall": {
+      "accuracy": {
+        "before": 0.6181818181818182,
+        "after": 0.6363636363636364,
+        "count": 110,
+        "delta": 0.018181818181818188
+      },
+      "jaccard": {
+        "before": 0.7090909090909091,
+        "after": 0.7181818181818184,
+        "count": 110,
+        "delta": 0.00909090909090926
+      },
+      "hamming": {
+        "before": 0.7545454545454545,
+        "after": 0.759090909090909,
+        "count": 110,
+        "delta": 0.004545454545454519
+      },
+      "accurate_retrieval": {
+        "before": 0.7545454545454545,
+        "after": 0.759090909090909,
+        "count": 110,
+        "delta": 0.004545454545454519
+      },
+      "selective_forgetting": {
+        "before": 0.7027027027027027,
+        "after": 0.7297297297297297,
+        "count": 37,
+        "delta": 0.027027027027026973
+      }
+    },
+    "affected_only": {
+      "accuracy": {
+        "before": 0.4,
+        "after": 0.5,
+        "count": 20,
+        "delta": 0.09999999999999998
+      },
+      "jaccard": {
+        "before": 0.5,
+        "after": 0.55,
+        "count": 20,
+        "delta": 0.050000000000000044
+      },
+      "hamming": {
+        "before": 0.55,
+        "after": 0.575,
+        "count": 20,
+        "delta": 0.02499999999999991
+      },
+      "accurate_retrieval": {
+        "before": 0.55,
+        "after": 0.575,
+        "count": 20,
+        "delta": 0.02499999999999991
+      },
+      "selective_forgetting": {
+        "before": 0.5,
+        "after": 0.625,
+        "count": 8,
+        "delta": 0.125
+      }
+    },
+    "per_period": {
+      "period_00": {
+        "accuracy": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": null,
+          "after": null,
+          "count": 0,
+          "delta": null
+        }
+      },
+      "period_01": {
+        "accuracy": {
+          "before": 0.9,
+          "after": 0.9,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.9333333333333332,
+          "after": 0.9333333333333332,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.95,
+          "after": 0.95,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.95,
+          "after": 0.95,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_02": {
+        "accuracy": {
+          "before": 0.9,
+          "after": 0.9,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.9333333333333332,
+          "after": 0.9333333333333332,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.95,
+          "after": 0.95,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.95,
+          "after": 0.95,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 3,
+          "delta": 0.0
+        }
+      },
+      "period_03": {
+        "accuracy": {
+          "before": 0.9,
+          "after": 0.9,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.9333333333333332,
+          "after": 0.9333333333333332,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.95,
+          "after": 0.95,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.95,
+          "after": 0.95,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_04": {
+        "accuracy": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.7333333333333333,
+          "after": 0.7333333333333333,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.8,
+          "after": 0.8,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.8,
+          "after": 0.8,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_05": {
+        "accuracy": {
+          "before": 0.4,
+          "after": 0.4,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.5666666666666667,
+          "after": 0.5666666666666667,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.3333333333333333,
+          "after": 0.3333333333333333,
+          "count": 3,
+          "delta": 0.0
+        }
+      },
+      "period_06": {
+        "accuracy": {
+          "before": 0.4,
+          "after": 0.4,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.5333333333333334,
+          "after": 0.5333333333333334,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.3333333333333333,
+          "after": 0.3333333333333333,
+          "count": 3,
+          "delta": 0.0
+        }
+      },
+      "period_07": {
+        "accuracy": {
+          "before": 0.4,
+          "after": 0.4,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.5666666666666667,
+          "after": 0.5666666666666667,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_08": {
+        "accuracy": {
+          "before": 0.5,
+          "after": 0.5,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_09": {
+        "accuracy": {
+          "before": 0.5,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.09999999999999998
+        },
+        "jaccard": {
+          "before": 0.5666666666666667,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.033333333333333326
+        },
+        "hamming": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.5,
+          "after": 0.5,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_10": {
+        "accuracy": {
+          "before": 0.3,
+          "after": 0.4,
+          "count": 10,
+          "delta": 0.10000000000000003
+        },
+        "jaccard": {
+          "before": 0.4333333333333334,
+          "after": 0.5,
+          "count": 10,
+          "delta": 0.0666666666666666
+        },
+        "hamming": {
+          "before": 0.5,
+          "after": 0.55,
+          "count": 10,
+          "delta": 0.050000000000000044
+        },
+        "accurate_retrieval": {
+          "before": 0.5,
+          "after": 0.55,
+          "count": 10,
+          "delta": 0.050000000000000044
+        },
+        "selective_forgetting": {
+          "before": 0.5,
+          "after": 0.75,
+          "count": 4,
+          "delta": 0.25
+        }
+      }
+    }
+  },
+  "角色2": {
+    "baseline_dir": "amemgym-second-role",
+    "budget_dir": "amemgym-second-role-budget90",
+    "affected_periods": [
+      9,
+      10
+    ],
+    "tokens": {
+      "before": 8789,
+      "after": 7747,
+      "saved": 1042,
+      "saved_ratio": 0.11855728751848904
+    },
+    "overall": {
+      "accuracy": {
+        "before": 0.5727272727272728,
+        "after": 0.5909090909090909,
+        "count": 110,
+        "delta": 0.018181818181818188
+      },
+      "jaccard": {
+        "before": 0.6787878787878789,
+        "after": 0.6878787878787879,
+        "count": 110,
+        "delta": 0.009090909090908927
+      },
+      "hamming": {
+        "before": 0.7318181818181818,
+        "after": 0.7363636363636363,
+        "count": 110,
+        "delta": 0.004545454545454519
+      },
+      "accurate_retrieval": {
+        "before": 0.7318181818181818,
+        "after": 0.7363636363636363,
+        "count": 110,
+        "delta": 0.004545454545454519
+      },
+      "selective_forgetting": {
+        "before": 0.7162162162162162,
+        "after": 0.7297297297297297,
+        "count": 37,
+        "delta": 0.013513513513513487
+      }
+    },
+    "affected_only": {
+      "accuracy": {
+        "before": 0.5,
+        "after": 0.6,
+        "count": 20,
+        "delta": 0.09999999999999998
+      },
+      "jaccard": {
+        "before": 0.6666666666666667,
+        "after": 0.7166666666666668,
+        "count": 20,
+        "delta": 0.050000000000000044
+      },
+      "hamming": {
+        "before": 0.75,
+        "after": 0.775,
+        "count": 20,
+        "delta": 0.025000000000000022
+      },
+      "accurate_retrieval": {
+        "before": 0.75,
+        "after": 0.775,
+        "count": 20,
+        "delta": 0.025000000000000022
+      },
+      "selective_forgetting": {
+        "before": 0.7857142857142857,
+        "after": 0.8571428571428571,
+        "count": 7,
+        "delta": 0.0714285714285714
+      }
+    },
+    "per_period": {
+      "period_00": {
+        "accuracy": {
+          "before": 0.8,
+          "after": 0.8,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.8333333333333334,
+          "after": 0.8333333333333334,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.85,
+          "after": 0.85,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.85,
+          "after": 0.85,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": null,
+          "after": null,
+          "count": 0,
+          "delta": null
+        }
+      },
+      "period_01": {
+        "accuracy": {
+          "before": 0.8,
+          "after": 0.8,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.8333333333333333,
+          "after": 0.8333333333333333,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.85,
+          "after": 0.85,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.85,
+          "after": 0.85,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 3,
+          "delta": 0.0
+        }
+      },
+      "period_02": {
+        "accuracy": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.25,
+          "after": 0.25,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_03": {
+        "accuracy": {
+          "before": 0.5,
+          "after": 0.5,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.6666666666666666,
+          "after": 0.6666666666666666,
+          "count": 3,
+          "delta": 0.0
+        }
+      },
+      "period_04": {
+        "accuracy": {
+          "before": 0.5,
+          "after": 0.5,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.6333333333333332,
+          "after": 0.6333333333333332,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_05": {
+        "accuracy": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.6666666666666666,
+          "after": 0.6666666666666666,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_06": {
+        "accuracy": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.6666666666666666,
+          "after": 0.6666666666666666,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_07": {
+        "accuracy": {
+          "before": 0.5,
+          "after": 0.5,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.6333333333333332,
+          "after": 0.6333333333333332,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_08": {
+        "accuracy": {
+          "before": 0.4,
+          "after": 0.4,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.5666666666666667,
+          "after": 0.5666666666666667,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.5,
+          "after": 0.5,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_09": {
+        "accuracy": {
+          "before": 0.5,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.19999999999999996
+        },
+        "jaccard": {
+          "before": 0.6666666666666666,
+          "after": 0.8,
+          "count": 10,
+          "delta": 0.13333333333333341
+        },
+        "hamming": {
+          "before": 0.75,
+          "after": 0.85,
+          "count": 10,
+          "delta": 0.09999999999999998
+        },
+        "accurate_retrieval": {
+          "before": 0.75,
+          "after": 0.85,
+          "count": 10,
+          "delta": 0.09999999999999998
+        },
+        "selective_forgetting": {
+          "before": 0.8333333333333334,
+          "after": 1.0,
+          "count": 3,
+          "delta": 0.16666666666666663
+        }
+      },
+      "period_10": {
+        "accuracy": {
+          "before": 0.5,
+          "after": 0.5,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.6666666666666667,
+          "after": 0.6333333333333333,
+          "count": 10,
+          "delta": -0.03333333333333344
+        },
+        "hamming": {
+          "before": 0.75,
+          "after": 0.7,
+          "count": 10,
+          "delta": -0.050000000000000044
+        },
+        "accurate_retrieval": {
+          "before": 0.75,
+          "after": 0.7,
+          "count": 10,
+          "delta": -0.050000000000000044
+        },
+        "selective_forgetting": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 4,
+          "delta": 0.0
+        }
+      }
+    }
+  },
+  "角色3": {
+    "baseline_dir": "amemgym-third-role",
+    "budget_dir": "amemgym-third-role-budget90-two-pass",
+    "affected_periods": [
+      10
+    ],
+    "tokens": {
+      "before": 9756,
+      "after": 8573,
+      "saved": 1183,
+      "saved_ratio": 0.12125871258712584
+    },
+    "overall": {
+      "accuracy": {
+        "before": 0.6181818181818182,
+        "after": 0.6181818181818182,
+        "count": 110,
+        "delta": 0.0
+      },
+      "jaccard": {
+        "before": 0.7212121212121213,
+        "after": 0.7151515151515153,
+        "count": 110,
+        "delta": -0.006060606060605989
+      },
+      "hamming": {
+        "before": 0.7727272727272727,
+        "after": 0.7636363636363637,
+        "count": 110,
+        "delta": -0.009090909090909038
+      },
+      "accurate_retrieval": {
+        "before": 0.7727272727272727,
+        "after": 0.7636363636363637,
+        "count": 110,
+        "delta": -0.009090909090909038
+      },
+      "selective_forgetting": {
+        "before": 0.7631578947368421,
+        "after": 0.7631578947368421,
+        "count": 38,
+        "delta": 0.0
+      }
+    },
+    "affected_only": {
+      "accuracy": {
+        "before": 0.5,
+        "after": 0.5,
+        "count": 10,
+        "delta": 0.0
+      },
+      "jaccard": {
+        "before": 0.6666666666666665,
+        "after": 0.5999999999999999,
+        "count": 10,
+        "delta": -0.06666666666666665
+      },
+      "hamming": {
+        "before": 0.75,
+        "after": 0.65,
+        "count": 10,
+        "delta": -0.09999999999999998
+      },
+      "accurate_retrieval": {
+        "before": 0.75,
+        "after": 0.65,
+        "count": 10,
+        "delta": -0.09999999999999998
+      },
+      "selective_forgetting": {
+        "before": 0.5,
+        "after": 0.5,
+        "count": 4,
+        "delta": 0.0
+      }
+    },
+    "per_period": {
+      "period_00": {
+        "accuracy": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": null,
+          "after": null,
+          "count": 0,
+          "delta": null
+        }
+      },
+      "period_01": {
+        "accuracy": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.7999999999999999,
+          "after": 0.7999999999999999,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.85,
+          "after": 0.85,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.85,
+          "after": 0.85,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_02": {
+        "accuracy": {
+          "before": 0.9,
+          "after": 0.9,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.9333333333333333,
+          "after": 0.9333333333333333,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.95,
+          "after": 0.95,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.95,
+          "after": 0.95,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_03": {
+        "accuracy": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.7333333333333332,
+          "after": 0.7333333333333332,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.8,
+          "after": 0.8,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.8,
+          "after": 0.8,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.5,
+          "after": 0.5,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_04": {
+        "accuracy": {
+          "before": 0.5,
+          "after": 0.5,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.6333333333333333,
+          "after": 0.6333333333333333,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.3333333333333333,
+          "after": 0.3333333333333333,
+          "count": 3,
+          "delta": 0.0
+        }
+      },
+      "period_05": {
+        "accuracy": {
+          "before": 0.5,
+          "after": 0.5,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_06": {
+        "accuracy": {
+          "before": 0.4,
+          "after": 0.4,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.5666666666666667,
+          "after": 0.5666666666666667,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_07": {
+        "accuracy": {
+          "before": 0.5,
+          "after": 0.5,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.5999999999999999,
+          "after": 0.5999999999999999,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.65,
+          "after": 0.65,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 1.0,
+          "after": 1.0,
+          "count": 3,
+          "delta": 0.0
+        }
+      },
+      "period_08": {
+        "accuracy": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_09": {
+        "accuracy": {
+          "before": 0.6,
+          "after": 0.6,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.7,
+          "after": 0.7,
+          "count": 10,
+          "delta": 0.0
+        },
+        "hamming": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 10,
+          "delta": 0.0
+        },
+        "accurate_retrieval": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 10,
+          "delta": 0.0
+        },
+        "selective_forgetting": {
+          "before": 0.75,
+          "after": 0.75,
+          "count": 4,
+          "delta": 0.0
+        }
+      },
+      "period_10": {
+        "accuracy": {
+          "before": 0.5,
+          "after": 0.5,
+          "count": 10,
+          "delta": 0.0
+        },
+        "jaccard": {
+          "before": 0.6666666666666665,
+          "after": 0.5999999999999999,
+          "count": 10,
+          "delta": -0.06666666666666665
+        },
+        "hamming": {
+          "before": 0.75,
+          "after": 0.65,
+          "count": 10,
+          "delta": -0.09999999999999998
+        },
+        "accurate_retrieval": {
+          "before": 0.75,
+          "after": 0.65,
+          "count": 10,
+          "delta": -0.09999999999999998
+        },
+        "selective_forgetting": {
+          "before": 0.5,
+          "after": 0.5,
+          "count": 4,
+          "delta": 0.0
+        }
+      }
+    }
+  },
+  "三个角色合并": {
+    "overall": {
+      "accuracy": {
+        "before": 0.603030303030303,
+        "after": 0.6151515151515151,
+        "count": 330,
+        "delta": 0.012121212121212088
+      },
+      "jaccard": {
+        "before": 0.7030303030303042,
+        "after": 0.7070707070707082,
+        "count": 330,
+        "delta": 0.004040404040403955
+      },
+      "hamming": {
+        "before": 0.753030303030303,
+        "after": 0.753030303030303,
+        "count": 330,
+        "delta": 0.0
+      },
+      "accurate_retrieval": {
+        "before": 0.753030303030303,
+        "after": 0.753030303030303,
+        "count": 330,
+        "delta": 0.0
+      },
+      "selective_forgetting": {
+        "before": 0.7276785714285714,
+        "after": 0.7410714285714286,
+        "count": 112,
+        "delta": 0.013392857142857206
+      }
+    },
+    "affected_only": {
+      "accuracy": {
+        "before": 0.46,
+        "after": 0.54,
+        "count": 50,
+        "delta": 0.08000000000000002
+      },
+      "jaccard": {
+        "before": 0.5999999999999998,
+        "after": 0.6266666666666665,
+        "count": 50,
+        "delta": 0.026666666666666727
+      },
+      "hamming": {
+        "before": 0.67,
+        "after": 0.67,
+        "count": 50,
+        "delta": 0.0
+      },
+      "accurate_retrieval": {
+        "before": 0.67,
+        "after": 0.67,
+        "count": 50,
+        "delta": 0.0
+      },
+      "selective_forgetting": {
+        "before": 0.6052631578947368,
+        "after": 0.6842105263157895,
+        "count": 19,
+        "delta": 0.07894736842105265
+      }
+    }
+  }
+}

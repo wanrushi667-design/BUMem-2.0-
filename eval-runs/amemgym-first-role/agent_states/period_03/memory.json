@@ -1,0 +1,1018 @@
+{
+  "nodes": {
+    "m1": {
+      "memory_id": "m1",
+      "group_ids": [
+        "g1"
+      ],
+      "topics": [
+        "bridge_gathering",
+        "card_game_variations"
+      ],
+      "raw_text": "[Current Time: 2020-09-22 20:15:06]\nCan you suggest some new bridge game variations or icebreakers for a group of 6 to 12 friends, most of us being over 50?",
+      "created_at": "2026-10-12T18:54:47+08:00",
+      "period_index": 0
+    },
+    "m2": {
+      "memory_id": "m2",
+      "group_ids": [
+        "g2"
+      ],
+      "topics": [
+        "community_leadership",
+        "mentoring_program"
+      ],
+      "raw_text": "[Current Time: 2020-09-23 20:06:52]\nWhat are some effective activities I can use to encourage community leadership among young women in a small group mentoring setting?",
+      "created_at": "2026-10-12T18:54:48+08:00",
+      "period_index": 0
+    },
+    "m3": {
+      "memory_id": "m3",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "rose_garden_care",
+        "plant_health_tips"
+      ],
+      "raw_text": "[Current Time: 2020-09-24 20:00:57]\nWhat weekly care tips do you recommend for keeping a medium-sized backyard rose garden healthy and blooming?",
+      "created_at": "2026-10-12T18:54:49+08:00",
+      "period_index": 0
+    },
+    "m4": {
+      "memory_id": "m4",
+      "group_ids": [
+        "g4"
+      ],
+      "topics": [
+        "potluck_menu",
+        "classic_cuisine"
+      ],
+      "raw_text": "[Current Time: 2020-09-25 19:38:06]\nCan you help me plan a Southern-style potluck menu that I can prepare during a leisurely afternoon, keeping in mind most guests enjoy classic dishes?",
+      "created_at": "2026-10-12T18:54:49+08:00",
+      "period_index": 0
+    },
+    "m5": {
+      "memory_id": "m5",
+      "group_ids": [
+        "g5"
+      ],
+      "topics": [
+        "choir_warmups",
+        "gospel_songs"
+      ],
+      "raw_text": "[Current Time: 2020-09-26 19:27:59]\nWhat are some choir warm-ups and gospel songs suitable for a group with mixed experience levels, especially for our weekly evening practices?",
+      "created_at": "2026-10-12T18:54:50+08:00",
+      "period_index": 0
+    },
+    "m6": {
+      "memory_id": "m6",
+      "group_ids": [
+        "g6"
+      ],
+      "topics": [
+        "volunteer_opportunities",
+        "historical_society",
+        "health_precautions"
+      ],
+      "raw_text": "[Current Time: 2020-09-27 21:28:55]\nWhat are some volunteer opportunities at the historical society that follow moderate health precautions and can accommodate someone who sometimes needs a little help getting around?",
+      "created_at": "2026-10-12T18:54:52+08:00",
+      "period_index": 0
+    },
+    "m7": {
+      "memory_id": "m7",
+      "group_ids": [
+        "g7"
+      ],
+      "topics": [
+        "day_trip_destinations",
+        "carpooling"
+      ],
+      "raw_text": "[Current Time: 2020-09-28 19:23:44]\nCan you recommend day trip destinations near Anniston for a small group carpool, with costs per person staying between $30 and $70?",
+      "created_at": "2026-10-12T18:54:52+08:00",
+      "period_index": 0
+    },
+    "m8": {
+      "memory_id": "m8",
+      "group_ids": [
+        "g8"
+      ],
+      "topics": [
+        "quilting_workshop",
+        "needlecraft_experience"
+      ],
+      "raw_text": "[Current Time: 2020-09-29 21:41:14]\nWhat multi-week quilting workshop plans would work well for students who already have some experience with needlecraft?",
+      "created_at": "2026-10-12T18:54:53+08:00",
+      "period_index": 0
+    },
+    "m9": {
+      "memory_id": "m9",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "soul_food_cooking",
+        "farmers_market_shopping"
+      ],
+      "raw_text": "[Current Time: 2020-09-30 20:55:12]\nCould you suggest some healthy soul food recipes using ingredients I can pick up at our local farmers market?",
+      "created_at": "2026-10-12T18:54:54+08:00",
+      "period_index": 0
+    },
+    "m10": {
+      "memory_id": "m10",
+      "group_ids": [
+        "g10"
+      ],
+      "topics": [
+        "block_party_festivity",
+        "tv_streaming_experience"
+      ],
+      "raw_text": "[Current Time: 2020-10-01 19:08:40]\nHow can I make my mid-sized block party for the Crimson Tide game more festive when we're just watching on a basic TV livestream?",
+      "created_at": "2026-10-12T18:54:55+08:00",
+      "period_index": 0
+    },
+    "m11": {
+      "memory_id": "m11",
+      "group_ids": [
+        "g1"
+      ],
+      "topics": [
+        "bridge_night",
+        "icebreaker_activity",
+        "card_game_variations"
+      ],
+      "raw_text": "[Current Time: 2020-12-29 19:08:08]\nCould you suggest some fun icebreakers or card game variations to help my bridge nights feel welcoming for both my longtime friends and the younger guests who’ve started joining us lately?",
+      "created_at": "2026-10-12T18:55:36+08:00",
+      "period_index": 1
+    },
+    "m12": {
+      "memory_id": "m12",
+      "group_ids": [
+        "g1",
+        "g4",
+        "g6"
+      ],
+      "topics": [
+        "bridge_event",
+        "generational_blend",
+        "card_game_tone"
+      ],
+      "raw_text": "Oh honey, you've given me a whole treasure chest of ideas! I'm especially tickled by the \"Bridge Bingo\" and \"Bid to Laugh\" - those will get my regulars and the new young folks mixing like buttermilk into cornbread. I can already picture Sister Maeve trying to explain what \"yeet\" means, and young Marcus having to confess he's never heard of Mahalia Jackson! \n\nNow, I've been hosting bridge nights for going on forty years, but this will be our first time trying to blend generations. My Friday night group usually has about eight to ten of us - mostly my golden girls from church and a few retired teachers - but lately, my grandson's friends and some of the young professionals from the historical society have been asking to join. \n\nI'm thinking of starting with these icebreakers this coming Friday, January 8th. Do you have any advice on how to gently let my longtime bridge buddies know we're shifting the tone a bit? I don't want them to feel like their traditions are being tossed out with the dishwater. Maybe a little announcement before we start, or should I just ease into it naturally? I find my ladies can be a bit... set in their ways when it comes to card night protocol!",
+      "created_at": "2026-10-12T18:55:38+08:00",
+      "period_index": 1
+    },
+    "m13": {
+      "memory_id": "m13",
+      "group_ids": [
+        "g2",
+        "g6",
+        "g8"
+      ],
+      "topics": [
+        "workshop_organization",
+        "community_service"
+      ],
+      "raw_text": "[Current Time: 2020-12-30 19:25:35]\nI’m planning a series of Saturday workshops for young women with the Anniston Historical Society—can you help me organize engaging leadership activities and community service projects for these sessions?",
+      "created_at": "2026-10-12T18:55:40+08:00",
+      "period_index": 1
+    },
+    "m14": {
+      "memory_id": "m14",
+      "group_ids": [
+        "g8",
+        "g2",
+        "g5",
+        "g6"
+      ],
+      "topics": [
+        "quilt-making",
+        "oral_history_project",
+        "community_event"
+      ],
+      "raw_text": "Well, honey, I am just tickled pink by what you’ve put together here. This is exactly the kind of program I’ve been dreaming about for these girls. I can already see them getting excited about that “Timeline of Me” activity—and the oral history indexing? That’s precious. We have so many recordings from the women who marched and organized back in the sixties; it’s high time those stories got some fresh ears.\n\nI do have a question, though. In the fourth session, you mentioned sewing a “Quilt of Voices.” Now, I’ve been quilting for over fifty years, and I’d love to lead that part myself if the girls are interested—but I need to know what skill level you envisioned for that. Some of these young women might have never threaded a needle. Would you suggest we keep it simple with fabric glue and markers, or should I bring in some of my embroidery circle gals to help with hand-stitching? I want them to feel proud of what they make, not frustrated.\n\nAnd while we’re on the subject, do you think we could invite a few of the older ladies from my church choir to come and sing a couple of old spirituals during the final showcase? Nothing fancy—just a little something to send those girls off with some soul in their step. I think Mahalia Jackson would approve.",
+      "created_at": "2026-10-12T18:55:43+08:00",
+      "period_index": 1
+    },
+    "m15": {
+      "memory_id": "m15",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "garden_maintenance",
+        "plant_care"
+      ],
+      "raw_text": "[Current Time: 2020-12-31 19:59:42]\nWith the colder weather and my roses needing less attention, what monthly tasks should I focus on to keep my garden healthy until spring?",
+      "created_at": "2026-10-12T18:55:45+08:00",
+      "period_index": 1
+    },
+    "m16": {
+      "memory_id": "m16",
+      "group_ids": [
+        "g5",
+        "g3"
+      ],
+      "topics": [
+        "rose_pruning",
+        "choir_safety"
+      ],
+      "raw_text": "That's a wonderful, thorough guide—thank you! I can tell you know your roses. I've got a nice mix out back: some old-fashioned heirloom roses that were my mama's, and a few Knock Outs I planted a few years back for easier care. The detailed pruning advice for February will come in mighty handy.\n\nSpeaking of February, my church choir usually starts thinking about our Easter program around then. With everything going on this past year, we've had to be real careful about gatherings. I'm curious—do you have any thoughts on keeping a choir connected and practicing safely when folks have different comfort levels about getting together? Some of our members are raring to be back in person, and others are still pretty cautious.",
+      "created_at": "2026-10-12T18:55:47+08:00",
+      "period_index": 1
+    },
+    "m17": {
+      "memory_id": "m17",
+      "group_ids": [
+        "g6",
+        "g2"
+      ],
+      "topics": [
+        "volunteering_adaptation",
+        "historical_society_volunteer"
+      ],
+      "raw_text": "[Current Time: 2021-01-01 20:03:31]\nWhat are some ways I can continue volunteering at the Anniston Historical Society while following the new strict social distancing guidelines and limited in-person interactions?",
+      "created_at": "2026-10-12T18:55:50+08:00",
+      "period_index": 1
+    },
+    "m18": {
+      "memory_id": "m18",
+      "group_ids": [
+        "g6",
+        "g2",
+        "g8"
+      ],
+      "topics": [
+        "oral_history_transcription",
+        "email_writing",
+        "volunteer_coordinator"
+      ],
+      "raw_text": "Oh, that's just wonderful advice—thank you, dear. You've given me so many good ideas, and I feel my spirits lifting already. I think the oral history transcription really speaks to me. I remember back when I was teaching, I always loved hearing the old-timers' stories during our school's local history week. I'd be happy to type up those recordings from home. Could you help me write a short email to the volunteer coordinator, specifically asking about that? I want to make sure I sound clear and helpful, not like I'm adding to their burden.",
+      "created_at": "2026-10-12T18:55:52+08:00",
+      "period_index": 1
+    },
+    "m19": {
+      "memory_id": "m19",
+      "group_ids": [
+        "g4",
+        "g9",
+        "g1",
+        "g6"
+      ],
+      "topics": [
+        "potluck_catering",
+        "dietary_restrictions",
+        "recipe_recommendations"
+      ],
+      "raw_text": "[Current Time: 2021-03-30 21:17:59]\nI’m organizing a potluck for a group that includes both vegans and vegetarians, along with some friends who have nut allergies, so I want to make sure there are plenty of vegan and nut-free options for everyone. Since I have the whole day set aside for cooking and prep, could you recommend some reliable recipes that would work well for this mixed group? I want to make sure our book club and historical society guests all have something delicious to enjoy.",
+      "created_at": "2026-10-12T18:56:35+08:00",
+      "period_index": 2
+    },
+    "m20": {
+      "memory_id": "m20",
+      "group_ids": [
+        "g4",
+        "g9",
+        "g1",
+        "g6"
+      ],
+      "topics": [
+        "vegan_cuisine",
+        "dining_ etiquette",
+        "plant_based_meals"
+      ],
+      "raw_text": "That's just wonderful, honey—thank you so much for these thoughtful recipes! I especially love that you included that Southern-style black-eyed pea salad. My late husband, James, used to say no proper gathering in Anniston is complete without black-eyed peas, and I think he'd be tickled to see them done up this way for our more health-conscious friends.\n\nI was wondering, though—since I'll have a full day to cook, and I do love to put out a spread that makes everybody feel welcome, would you have any suggestions for a second hearty main dish that's still vegan and nut-free? Something that might appeal to folks who aren't used to plant-based eating? I'm thinking of my book club members—some of them are real meat-and-potatoes types, and I don't want them to feel like the vegan dishes are just \"rabbit food,\" if you know what I mean. Also, what's the best way to label dishes without making folks feel singled out or like they need a medical chart to eat? I've always believed good food should bring folks together, not make 'em nervous.",
+      "created_at": "2026-10-12T18:56:38+08:00",
+      "period_index": 2
+    },
+    "m21": {
+      "memory_id": "m21",
+      "group_ids": [
+        "g8",
+        "g2",
+        "g6"
+      ],
+      "topics": [
+        "needlecraft_workshop",
+        "beginner_projects"
+      ],
+      "raw_text": "[Current Time: 2021-03-31 21:44:23]\nWhat are some fun and easy needlecraft projects I can teach to a group of complete beginners? I’ll need step-by-step guides since my new workshop students are just learning the basics.",
+      "created_at": "2026-10-12T18:56:41+08:00",
+      "period_index": 2
+    },
+    "m22": {
+      "memory_id": "m22",
+      "group_ids": [
+        "g8",
+        "g6",
+        "g2"
+      ],
+      "topics": [
+        "embroidery_workshop",
+        "stitching_tips",
+        "craft_activities"
+      ],
+      "raw_text": "Well, sweetheart, I cannot thank you enough for this. You’ve laid it all out so clearly—like a Sunday school lesson plan but with needle and thread. The felt coasters especially tickle me. I remember teaching my own grandniece the running stitch years ago, and you’re right, that quick win is everything. A proud beginner is a beginner who’ll come back for more.\n\nNow, I was wondering—since I’ll have a mix of ages in this workshop (some young ladies from the community center, a couple of retired gals from the historical society, and maybe even a shy teenager or two), do you have any tips for keeping everyone engaged if some finish way faster than others? I’ve always believed in the power of a little show-and-tell at the end, like you suggested, but I’d love to have a few “next step” ideas for the ones who zoom ahead—maybe a simple way to turn that coaster into a little pouch or a bookmark, something that builds on the stitch they just learned without overwhelming them. I want them to leave feeling like they can keep going on their own.",
+      "created_at": "2026-10-12T18:56:44+08:00",
+      "period_index": 2
+    },
+    "m23": {
+      "memory_id": "m23",
+      "group_ids": [
+        "g5",
+        "g2",
+        "g6"
+      ],
+      "topics": [
+        "choir_scheduling",
+        "rehearsal_coordination"
+      ],
+      "raw_text": "[Current Time: 2021-04-01 19:07:14]\nCan you suggest ways to coordinate choir rehearsals when everyone’s schedules are unpredictable? I’m trying to organize practices whenever enough voices are available, sometimes on weekends or midweek mornings.",
+      "created_at": "2026-10-12T18:56:47+08:00",
+      "period_index": 2
+    },
+    "m24": {
+      "memory_id": "m24",
+      "group_ids": [
+        "g5",
+        "g2",
+        "g8"
+      ],
+      "topics": [
+        "choir_rehearsal",
+        "member_diversity"
+      ],
+      "raw_text": "That's mighty kind of you to offer all that detail, sugar. I appreciate you taking the time—it's clear you understand what it's like trying to keep a choir together when folks have grandbabies and doctor's appointments pulling them every which way. I think that \"rolling availability\" poll idea might just do the trick for us. I've got a few folks in the choir who aren't too keen on their smartphones, but most of them can manage a text message or a simple link.\n\nNow, I was wondering—how would you handle it when some of the members are newer to singing in a choir? We've got a real mix of old-timers who've been singing since before I started teaching school, and a handful of younger folks who joined up last fall and are still finding their footing. I don't want the experienced ones to get bored, but I also don't want to leave the newcomers feeling lost. Is there a way to balance that in these flexible rehearsals, especially if we're only getting a small group together some weeks?",
+      "created_at": "2026-10-12T18:56:49+08:00",
+      "period_index": 2
+    },
+    "m25": {
+      "memory_id": "m25",
+      "group_ids": [
+        "g1",
+        "g4"
+      ],
+      "topics": [
+        "bridge_gathering",
+        "card_game_variations",
+        "event_planning"
+      ],
+      "raw_text": "[Current Time: 2021-06-28 21:33:15]\nCould you help me plan for a bigger bridge gathering next week? Several neighbors want to bring friends, so I’ll need ideas for extra card tables, snacks, and maybe a few new game variations to keep everyone entertained.",
+      "created_at": "2026-10-12T18:57:32+08:00",
+      "period_index": 3
+    },
+    "m26": {
+      "memory_id": "m26",
+      "group_ids": [
+        "g4",
+        "g9",
+        "g1",
+        "g10"
+      ],
+      "topics": [
+        "event_preparation",
+        "dietary_needs"
+      ],
+      "raw_text": "Well, sweetheart, that is just a gift of a plan—you’ve thought of everything from the tablecloths to the storytelling breaks. I can already feel the warmth of that evening coming together.  \n\nI’m a little curious about one thing: with all the folks coming in from different households, I’ll need to check on dietary needs before I settle on the snack bar. Some of my neighbors have taken to watching what they eat—maybe a few are watching their sugar or cutting back on gluten. How would you suggest I find out what people need without making a fuss? A little sign-up sheet by the door? A quick call around? I want everyone to feel welcome at the table.",
+      "created_at": "2026-10-12T18:57:35+08:00",
+      "period_index": 3
+    },
+    "m27": {
+      "memory_id": "m27",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "rose_care",
+        "garden_maintenance",
+        "plant_pruning"
+      ],
+      "raw_text": "[Current Time: 2021-06-29 19:54:17]\nI’ve started tending my roses every week with a neighbor who gifted me a lovely heirloom variety. Can you suggest a weekly care checklist for our rose garden, including tips for pruning and feeding different types of blooms?",
+      "created_at": "2026-10-12T18:57:38+08:00",
+      "period_index": 3
+    },
+    "m28": {
+      "memory_id": "m28",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "rose_care",
+        "plant_pruning"
+      ],
+      "raw_text": "Oh, honey, thank you so much for such a thorough checklist—I’ve already printed it out to share with my neighbor. She said the heirloom she gave me is a ‘Zéphirine Drouhin’—a thornless climbing rose with deep pink blooms. I know it’s a repeat bloomer, but I’ve read it can be prone to black spot in our humid summers. Do you have any special tips for pruning and feeding that particular variety during the summer months, especially to keep the foliage healthy?",
+      "created_at": "2026-10-12T18:57:40+08:00",
+      "period_index": 3
+    },
+    "m29": {
+      "memory_id": "m29",
+      "group_ids": [
+        "g8",
+        "g1",
+        "g4",
+        "g2",
+        "g6",
+        "g5"
+      ],
+      "topics": [
+        "needlecraft_gathering",
+        "flexible_meeting"
+      ],
+      "raw_text": "[Current Time: 2021-06-30 21:57:27]\nMy needlecraft group’s schedules are all over the place lately, so I’m hosting flexible drop-in stitching sessions on my porch. Can you recommend ways to make these gatherings welcoming for friends who pop in at different times, maybe with easy projects and tea ideas?",
+      "created_at": "2026-10-12T18:57:43+08:00",
+      "period_index": 3
+    },
+    "m30": {
+      "memory_id": "m30",
+      "group_ids": [
+        "g8",
+        "g2",
+        "g5",
+        "g1"
+      ],
+      "topics": [
+        "community_quilt",
+        "needlecraft_skills"
+      ],
+      "raw_text": "That's just wonderful, honey. I love the idea of a community quilt—it’s like stitching our own summer scrapbook. Now, I’ve got a few friends who are complete beginners and some who’ve been doing needlecraft for decades. How can I make sure both feel comfortable without one group feeling bored or overwhelmed? Should I set out different project options by skill level, or maybe pair newcomers with the more experienced folks?",
+      "created_at": "2026-10-12T18:57:46+08:00",
+      "period_index": 3
+    },
+    "m31": {
+      "memory_id": "m31",
+      "group_ids": [
+        "g7",
+        "g1",
+        "g4",
+        "g6"
+      ],
+      "topics": [
+        "travel_group_preparation",
+        "bus_tour_activities"
+      ],
+      "raw_text": "[Current Time: 2021-07-01 21:28:48]\nThe local travel club is offering bus trips to historic sites and gardens, and my friends and I are excited to join in. Could you help me organize a list of essentials for group bus excursions, and maybe some ideas for making the travel experience more fun and social?",
+      "created_at": "2026-10-12T18:57:49+08:00",
+      "period_index": 3
+    },
+    "m32": {
+      "memory_id": "m32",
+      "group_ids": [
+        "g7",
+        "g1",
+        "g4",
+        "g9",
+        "g6",
+        "g3"
+      ],
+      "topics": [
+        "snack_preparation",
+        "bingo_game_template",
+        "outdoor_event_planning"
+      ],
+      "raw_text": "Oh, honey, this is just wonderful—you’ve given me a whole treasure chest of ideas! I can already picture us on that bus, swapping seats and singing along to a playlist. I love the “Then & Now” bingo idea especially—my friend Eleanor is a retired librarian and she’d be the first to fill a row, mark my words.\n\nI was thinking: since I’ll be bringing my pimento cheese and a few jars of my peach jam for the ride, do you have suggestions for other easy-to-pack, no-mess snacks that travel well on a bus? Something that won’t leave crumbs everywhere or make folks sticky before we hit the garden paths.\n\nAnd if you’re still offering, I’d dearly love some help sketching out a simple bingo card template I could print out. Maybe with a mix of garden sights and historic markers? That way my friends and I can get started on it this weekend. What do you think?",
+      "created_at": "2026-10-12T18:57:53+08:00",
+      "period_index": 3
+    }
+  },
+  "groups": {
+    "g1": {
+      "group_id": "g1",
+      "head_id": "m1",
+      "tail_id": "m32",
+      "updated_at": "2026-10-12T18:57:53+08:00",
+      "memory_count": 11
+    },
+    "g2": {
+      "group_id": "g2",
+      "head_id": "m2",
+      "tail_id": "m30",
+      "updated_at": "2026-10-12T18:57:46+08:00",
+      "memory_count": 11
+    },
+    "g3": {
+      "group_id": "g3",
+      "head_id": "m3",
+      "tail_id": "m32",
+      "updated_at": "2026-10-12T18:57:53+08:00",
+      "memory_count": 6
+    },
+    "g4": {
+      "group_id": "g4",
+      "head_id": "m4",
+      "tail_id": "m32",
+      "updated_at": "2026-10-12T18:57:53+08:00",
+      "memory_count": 9
+    },
+    "g5": {
+      "group_id": "g5",
+      "head_id": "m5",
+      "tail_id": "m30",
+      "updated_at": "2026-10-12T18:57:46+08:00",
+      "memory_count": 7
+    },
+    "g6": {
+      "group_id": "g6",
+      "head_id": "m6",
+      "tail_id": "m32",
+      "updated_at": "2026-10-12T18:57:53+08:00",
+      "memory_count": 14
+    },
+    "g7": {
+      "group_id": "g7",
+      "head_id": "m7",
+      "tail_id": "m32",
+      "updated_at": "2026-10-12T18:57:53+08:00",
+      "memory_count": 3
+    },
+    "g8": {
+      "group_id": "g8",
+      "head_id": "m8",
+      "tail_id": "m30",
+      "updated_at": "2026-10-12T18:57:46+08:00",
+      "memory_count": 9
+    },
+    "g9": {
+      "group_id": "g9",
+      "head_id": "m9",
+      "tail_id": "m32",
+      "updated_at": "2026-10-12T18:57:53+08:00",
+      "memory_count": 5
+    },
+    "g10": {
+      "group_id": "g10",
+      "head_id": "m10",
+      "tail_id": "m26",
+      "updated_at": "2026-10-12T18:57:35+08:00",
+      "memory_count": 2
+    }
+  },
+  "associations": [
+    {
+      "memory_id": "m1",
+      "group_id": "g1",
+      "prev_id": null,
+      "next_id": "m11"
+    },
+    {
+      "memory_id": "m11",
+      "group_id": "g1",
+      "prev_id": "m1",
+      "next_id": "m12"
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g1",
+      "prev_id": "m11",
+      "next_id": "m19"
+    },
+    {
+      "memory_id": "m19",
+      "group_id": "g1",
+      "prev_id": "m12",
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g1",
+      "prev_id": "m19",
+      "next_id": "m25"
+    },
+    {
+      "memory_id": "m25",
+      "group_id": "g1",
+      "prev_id": "m20",
+      "next_id": "m26"
+    },
+    {
+      "memory_id": "m26",
+      "group_id": "g1",
+      "prev_id": "m25",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g1",
+      "prev_id": "m26",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g1",
+      "prev_id": "m29",
+      "next_id": "m31"
+    },
+    {
+      "memory_id": "m31",
+      "group_id": "g1",
+      "prev_id": "m30",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g1",
+      "prev_id": "m31",
+      "next_id": null
+    },
+    {
+      "memory_id": "m2",
+      "group_id": "g2",
+      "prev_id": null,
+      "next_id": "m13"
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g2",
+      "prev_id": "m2",
+      "next_id": "m14"
+    },
+    {
+      "memory_id": "m14",
+      "group_id": "g2",
+      "prev_id": "m13",
+      "next_id": "m17"
+    },
+    {
+      "memory_id": "m17",
+      "group_id": "g2",
+      "prev_id": "m14",
+      "next_id": "m18"
+    },
+    {
+      "memory_id": "m18",
+      "group_id": "g2",
+      "prev_id": "m17",
+      "next_id": "m21"
+    },
+    {
+      "memory_id": "m21",
+      "group_id": "g2",
+      "prev_id": "m18",
+      "next_id": "m22"
+    },
+    {
+      "memory_id": "m22",
+      "group_id": "g2",
+      "prev_id": "m21",
+      "next_id": "m23"
+    },
+    {
+      "memory_id": "m23",
+      "group_id": "g2",
+      "prev_id": "m22",
+      "next_id": "m24"
+    },
+    {
+      "memory_id": "m24",
+      "group_id": "g2",
+      "prev_id": "m23",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g2",
+      "prev_id": "m24",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g2",
+      "prev_id": "m29",
+      "next_id": null
+    },
+    {
+      "memory_id": "m3",
+      "group_id": "g3",
+      "prev_id": null,
+      "next_id": "m15"
+    },
+    {
+      "memory_id": "m15",
+      "group_id": "g3",
+      "prev_id": "m3",
+      "next_id": "m16"
+    },
+    {
+      "memory_id": "m16",
+      "group_id": "g3",
+      "prev_id": "m15",
+      "next_id": "m27"
+    },
+    {
+      "memory_id": "m27",
+      "group_id": "g3",
+      "prev_id": "m16",
+      "next_id": "m28"
+    },
+    {
+      "memory_id": "m28",
+      "group_id": "g3",
+      "prev_id": "m27",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g3",
+      "prev_id": "m28",
+      "next_id": null
+    },
+    {
+      "memory_id": "m4",
+      "group_id": "g4",
+      "prev_id": null,
+      "next_id": "m12"
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g4",
+      "prev_id": "m4",
+      "next_id": "m19"
+    },
+    {
+      "memory_id": "m19",
+      "group_id": "g4",
+      "prev_id": "m12",
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g4",
+      "prev_id": "m19",
+      "next_id": "m25"
+    },
+    {
+      "memory_id": "m25",
+      "group_id": "g4",
+      "prev_id": "m20",
+      "next_id": "m26"
+    },
+    {
+      "memory_id": "m26",
+      "group_id": "g4",
+      "prev_id": "m25",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g4",
+      "prev_id": "m26",
+      "next_id": "m31"
+    },
+    {
+      "memory_id": "m31",
+      "group_id": "g4",
+      "prev_id": "m29",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g4",
+      "prev_id": "m31",
+      "next_id": null
+    },
+    {
+      "memory_id": "m5",
+      "group_id": "g5",
+      "prev_id": null,
+      "next_id": "m14"
+    },
+    {
+      "memory_id": "m14",
+      "group_id": "g5",
+      "prev_id": "m5",
+      "next_id": "m16"
+    },
+    {
+      "memory_id": "m16",
+      "group_id": "g5",
+      "prev_id": "m14",
+      "next_id": "m23"
+    },
+    {
+      "memory_id": "m23",
+      "group_id": "g5",
+      "prev_id": "m16",
+      "next_id": "m24"
+    },
+    {
+      "memory_id": "m24",
+      "group_id": "g5",
+      "prev_id": "m23",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g5",
+      "prev_id": "m24",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g5",
+      "prev_id": "m29",
+      "next_id": null
+    },
+    {
+      "memory_id": "m6",
+      "group_id": "g6",
+      "prev_id": null,
+      "next_id": "m12"
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g6",
+      "prev_id": "m6",
+      "next_id": "m13"
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g6",
+      "prev_id": "m12",
+      "next_id": "m14"
+    },
+    {
+      "memory_id": "m14",
+      "group_id": "g6",
+      "prev_id": "m13",
+      "next_id": "m17"
+    },
+    {
+      "memory_id": "m17",
+      "group_id": "g6",
+      "prev_id": "m14",
+      "next_id": "m18"
+    },
+    {
+      "memory_id": "m18",
+      "group_id": "g6",
+      "prev_id": "m17",
+      "next_id": "m19"
+    },
+    {
+      "memory_id": "m19",
+      "group_id": "g6",
+      "prev_id": "m18",
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g6",
+      "prev_id": "m19",
+      "next_id": "m21"
+    },
+    {
+      "memory_id": "m21",
+      "group_id": "g6",
+      "prev_id": "m20",
+      "next_id": "m22"
+    },
+    {
+      "memory_id": "m22",
+      "group_id": "g6",
+      "prev_id": "m21",
+      "next_id": "m23"
+    },
+    {
+      "memory_id": "m23",
+      "group_id": "g6",
+      "prev_id": "m22",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g6",
+      "prev_id": "m23",
+      "next_id": "m31"
+    },
+    {
+      "memory_id": "m31",
+      "group_id": "g6",
+      "prev_id": "m29",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g6",
+      "prev_id": "m31",
+      "next_id": null
+    },
+    {
+      "memory_id": "m7",
+      "group_id": "g7",
+      "prev_id": null,
+      "next_id": "m31"
+    },
+    {
+      "memory_id": "m31",
+      "group_id": "g7",
+      "prev_id": "m7",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g7",
+      "prev_id": "m31",
+      "next_id": null
+    },
+    {
+      "memory_id": "m8",
+      "group_id": "g8",
+      "prev_id": null,
+      "next_id": "m13"
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g8",
+      "prev_id": "m8",
+      "next_id": "m14"
+    },
+    {
+      "memory_id": "m14",
+      "group_id": "g8",
+      "prev_id": "m13",
+      "next_id": "m18"
+    },
+    {
+      "memory_id": "m18",
+      "group_id": "g8",
+      "prev_id": "m14",
+      "next_id": "m21"
+    },
+    {
+      "memory_id": "m21",
+      "group_id": "g8",
+      "prev_id": "m18",
+      "next_id": "m22"
+    },
+    {
+      "memory_id": "m22",
+      "group_id": "g8",
+      "prev_id": "m21",
+      "next_id": "m24"
+    },
+    {
+      "memory_id": "m24",
+      "group_id": "g8",
+      "prev_id": "m22",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g8",
+      "prev_id": "m24",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g8",
+      "prev_id": "m29",
+      "next_id": null
+    },
+    {
+      "memory_id": "m9",
+      "group_id": "g9",
+      "prev_id": null,
+      "next_id": "m19"
+    },
+    {
+      "memory_id": "m19",
+      "group_id": "g9",
+      "prev_id": "m9",
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g9",
+      "prev_id": "m19",
+      "next_id": "m26"
+    },
+    {
+      "memory_id": "m26",
+      "group_id": "g9",
+      "prev_id": "m20",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g9",
+      "prev_id": "m26",
+      "next_id": null
+    },
+    {
+      "memory_id": "m10",
+      "group_id": "g10",
+      "prev_id": null,
+      "next_id": "m26"
+    },
+    {
+      "memory_id": "m26",
+      "group_id": "g10",
+      "prev_id": "m10",
+      "next_id": null
+    }
+  ],
+  "completed_periods": [
+    "period_00",
+    "period_01",
+    "period_02",
+    "period_03"
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "nodes": {
+    "m1": {
+      "memory_id": "m1",
+      "group_ids": [
+        "g1"
+      ],
+      "topics": [
+        "team_motivation",
+        "workload_management"
+      ],
+      "raw_text": "[Current Time: 2020-09-21 20:20:03]\nCan you suggest strategies for keeping a medium-sized audit team motivated and productive when I'm working 40 to 55 hours a week?",
+      "created_at": "2026-10-11T15:37:30+08:00",
+      "period_index": 0
+    },
+    "m2": {
+      "memory_id": "m2",
+      "group_ids": [
+        "g2"
+      ],
+      "topics": [
+        "social_events",
+        "boston_activities"
+      ],
+      "raw_text": "[Current Time: 2020-09-22 21:51:39]\nWhat are some fun group activities or events in Boston that happen most weekends and are great for someone who likes to socialize often?",
+      "created_at": "2026-10-11T15:37:30+08:00",
+      "period_index": 0
+    },
+    "m3": {
+      "memory_id": "m3",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "audit_team_leading",
+        "accounting_firm_practices"
+      ],
+      "raw_text": "[Current Time: 2020-09-23 21:48:53]\nWhat are the latest best practices for supervisors leading audit teams in accounting firms?",
+      "created_at": "2026-10-11T15:37:31+08:00",
+      "period_index": 0
+    },
+    "m4": {
+      "memory_id": "m4",
+      "group_ids": [
+        "g4"
+      ],
+      "topics": [
+        "process_improvement",
+        "workplace_efficiency"
+      ],
+      "raw_text": "[Current Time: 2020-09-24 20:38:45]\nHow can I implement process improvements in a department with 10 to 30 staff members without disrupting daily operations?",
+      "created_at": "2026-10-11T15:37:32+08:00",
+      "period_index": 0
+    },
+    "m5": {
+      "memory_id": "m5",
+      "group_ids": [
+        "g5"
+      ],
+      "topics": [
+        "historical_tours",
+        "group_travel"
+      ],
+      "raw_text": "[Current Time: 2020-09-25 21:37:39]\nCan you recommend historical tours in Boston that work well for groups of 5 to 10 people and last around 3 to 4 hours?",
+      "created_at": "2026-10-11T15:37:33+08:00",
+      "period_index": 0
+    },
+    "m6": {
+      "memory_id": "m6",
+      "group_ids": [
+        "g6"
+      ],
+      "topics": [
+        "hiking_trails",
+        "new_england_hiking"
+      ],
+      "raw_text": "[Current Time: 2020-09-26 19:52:30]\nWhat are some intermediate-level hiking trails in New England that are popular with hiking clubs or groups of friends?",
+      "created_at": "2026-10-11T15:37:34+08:00",
+      "period_index": 0
+    },
+    "m7": {
+      "memory_id": "m7",
+      "group_ids": [
+        "g7"
+      ],
+      "topics": [
+        "art_decoration",
+        "budget_art"
+      ],
+      "raw_text": "[Current Time: 2020-09-27 19:18:59]\nCan you suggest contemporary art pieces or prints suitable for decorating a shared apartment on a $200 to $500 budget?",
+      "created_at": "2026-10-11T15:37:35+08:00",
+      "period_index": 0
+    },
+    "m8": {
+      "memory_id": "m8",
+      "group_ids": [
+        "g8"
+      ],
+      "topics": [
+        "risk_management_software",
+        "accounting_firm"
+      ],
+      "raw_text": "[Current Time: 2020-09-28 19:12:30]\nWhat are some affordable risk management software options for a mid-sized regional accounting firm?",
+      "created_at": "2026-10-11T15:37:36+08:00",
+      "period_index": 0
+    },
+    "m9": {
+      "memory_id": "m9",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "community_garden_project",
+        "project_leading"
+      ],
+      "raw_text": "[Current Time: 2020-09-29 20:02:13]\nHow can I make the most impact as a project lead in a community garden if I can dedicate 3 to 5 hours per week?",
+      "created_at": "2026-10-11T15:37:37+08:00",
+      "period_index": 0
+    },
+    "m10": {
+      "memory_id": "m10",
+      "group_ids": [
+        "g10"
+      ],
+      "topics": [
+        "lasagna_recipe",
+        "home_cooking"
+      ],
+      "raw_text": "[Current Time: 2020-09-30 20:19:01]\nDo you have a classic meat lasagna recipe that's perfect for serving 4 to 6 people at a casual dinner?",
+      "created_at": "2026-10-11T15:37:37+08:00",
+      "period_index": 0
+    },
+    "m11": {
+      "memory_id": "m11",
+      "group_ids": [
+        "g11"
+      ],
+      "topics": [
+        "irish_music_festivals",
+        "traditional_contemporary_events"
+      ],
+      "raw_text": "[Current Time: 2020-10-01 19:21:47]\nWhich medium-sized Irish music festivals in New England offer a good mix of traditional and contemporary acts?",
+      "created_at": "2026-10-11T15:37:38+08:00",
+      "period_index": 0
+    }
+  },
+  "groups": {
+    "g1": {
+      "group_id": "g1",
+      "head_id": "m1",
+      "tail_id": "m1",
+      "updated_at": "2026-10-11T15:37:30+08:00",
+      "memory_count": 1
+    },
+    "g2": {
+      "group_id": "g2",
+      "head_id": "m2",
+      "tail_id": "m2",
+      "updated_at": "2026-10-11T15:37:30+08:00",
+      "memory_count": 1
+    },
+    "g3": {
+      "group_id": "g3",
+      "head_id": "m3",
+      "tail_id": "m3",
+      "updated_at": "2026-10-11T15:37:31+08:00",
+      "memory_count": 1
+    },
+    "g4": {
+      "group_id": "g4",
+      "head_id": "m4",
+      "tail_id": "m4",
+      "updated_at": "2026-10-11T15:37:32+08:00",
+      "memory_count": 1
+    },
+    "g5": {
+      "group_id": "g5",
+      "head_id": "m5",
+      "tail_id": "m5",
+      "updated_at": "2026-10-11T15:37:33+08:00",
+      "memory_count": 1
+    },
+    "g6": {
+      "group_id": "g6",
+      "head_id": "m6",
+      "tail_id": "m6",
+      "updated_at": "2026-10-11T15:37:34+08:00",
+      "memory_count": 1
+    },
+    "g7": {
+      "group_id": "g7",
+      "head_id": "m7",
+      "tail_id": "m7",
+      "updated_at": "2026-10-11T15:37:35+08:00",
+      "memory_count": 1
+    },
+    "g8": {
+      "group_id": "g8",
+      "head_id": "m8",
+      "tail_id": "m8",
+      "updated_at": "2026-10-11T15:37:36+08:00",
+      "memory_count": 1
+    },
+    "g9": {
+      "group_id": "g9",
+      "head_id": "m9",
+      "tail_id": "m9",
+      "updated_at": "2026-10-11T15:37:37+08:00",
+      "memory_count": 1
+    },
+    "g10": {
+      "group_id": "g10",
+      "head_id": "m10",
+      "tail_id": "m10",
+      "updated_at": "2026-10-11T15:37:37+08:00",
+      "memory_count": 1
+    },
+    "g11": {
+      "group_id": "g11",
+      "head_id": "m11",
+      "tail_id": "m11",
+      "updated_at": "2026-10-11T15:37:38+08:00",
+      "memory_count": 1
+    }
+  },
+  "associations": [
+    {
+      "memory_id": "m1",
+      "group_id": "g1",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m2",
+      "group_id": "g2",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m3",
+      "group_id": "g3",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m4",
+      "group_id": "g4",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m5",
+      "group_id": "g5",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m6",
+      "group_id": "g6",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m7",
+      "group_id": "g7",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m8",
+      "group_id": "g8",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m9",
+      "group_id": "g9",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m10",
+      "group_id": "g10",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m11",
+      "group_id": "g11",
+      "prev_id": null,
+      "next_id": null
+    }
+  ],
+  "completed_periods": [
+    "period_00"
+  ]
+}

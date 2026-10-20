@@ -1,0 +1,50 @@
+{
+  "status": "completed_with_new_prompts_from_full_budget",
+  "baseline_tokens": 9756,
+  "budget_tokens": 8780,
+  "completed_evaluation_periods": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "first_trigger_period": "period_10",
+  "affected_periods": {
+    "period_10": {
+      "baseline_tokens": 9756,
+      "budget_run_tokens": 8573,
+      "budget_tokens": 8780,
+      "reused": false,
+      "accuracy": {
+        "baseline": 0.5,
+        "budget_run": 0.5
+      },
+      "jaccard": {
+        "baseline": 0.6666666666666665,
+        "budget_run": 0.5999999999999999
+      },
+      "hamming": {
+        "baseline": 0.75,
+        "budget_run": 0.65
+      },
+      "accurate_retrieval": {
+        "baseline": 0.75,
+        "budget_run": 0.65
+      },
+      "selective_forgetting": {
+        "baseline": 0.5,
+        "budget_run": 0.5
+      }
+    }
+  },
+  "first_pass_attempted_memories": 43,
+  "second_pass_attempted_memories": 0,
+  "pretrigger_snapshots_identical": true
+}

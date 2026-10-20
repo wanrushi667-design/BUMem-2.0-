@@ -1,9 +1,11 @@
 """按分期运行真实记忆入库：python tests/test_memory_pipeline.py --period period00。"""
 
 import argparse
+from dataclasses import asdict
 import json
 from pathlib import Path
 import sys
+from uuid import uuid4
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -14,7 +16,7 @@ from memory.match import MemoryMatcher
 from memory.pipeline import add_memory
 from memory.storage import load_memories, save_memories
 from models import ModelManager
-from assess.benchmark import run_evaluation, load_benchmark
+from assess.benchmark import run_evaluation, load_benchmark, save_metrics_summary
 
 
 def run_period(period: str, data_dir=ROOT / "data") -> None:
@@ -28,9 +30,12 @@ def run_period(period: str, data_dir=ROOT / "data") -> None:
     saved = json.loads(memory_file.read_text(encoding="utf-8")) if memory_file.exists() else {}
     completed = saved.get("completed_periods", [])
     score_file = data_dir / "overall_results_strict.json"
+    summary_file = data_dir / "overall_metrics_summary_strict.json"
     period_index = periods.index(period)
     scores = json.loads(score_file.read_text(encoding="utf-8")) if score_file.exists() else []
     if period in completed and len(scores) > period_index and all(row is not None for row in scores[period_index]):
+        save_metrics_summary(scores, summary_file)
+        print(f"指标汇总已保存至 {summary_file}")
         print(f"{period} 入库和评测已完成，跳过。")
         return
     if any(name > period for name in completed):
@@ -45,7 +50,7 @@ def run_period(period: str, data_dir=ROOT / "data") -> None:
 
     load_benchmark()  # 入库前确认评测数据和评分模块可用。
     records = sorted(
-        (item for item in dialogues if item["period"] == period),
+        (item for item in dialogues if item["period"] == period and item["role"] == "user"),
         key=lambda item: item["sequence"],
     )
     manager = ModelManager(deepseek_config=DeepSeekConfig(temperature=0.0))
@@ -53,17 +58,34 @@ def run_period(period: str, data_dir=ROOT / "data") -> None:
     qwen = manager.get_qwen()
     embedding = manager.get_embedding()
     nodes, groups = load_memories(memory_file, embedding)
-    matcher = MemoryMatcher(manager.get_deepseek())
+    matcher = MemoryMatcher(manager.get_deepseek(), establish_topics=period_index == 0)
+    run_id = uuid4().hex
+    diagnostic_file = data_dir / "grouping_diagnostics.jsonl"
 
     for index, item in enumerate(records if period not in completed else [], start=1):
-        result = add_memory(item["content"], nodes, groups, qwen, embedding, matcher)
+        result = add_memory(item["content"], nodes, groups, qwen, embedding, matcher,
+                            period_index=period_index)
         if result is None:
             print(f"[{index}/{len(records)}] 无有效主题，跳过。", flush=True)
             continue
         node, decision = result
+        snapshot = {
+            "run_id": run_id, "period": period, "sequence": item["sequence"],
+            "new_memory": {key: value for key, value in asdict(node).items()
+                           if key != "embedding"},
+            "candidates": matcher.last_candidates,
+            "messages": matcher.last_messages,
+            "json_mode": True if matcher.last_messages else None,
+            "raw_response": matcher.last_raw_response,
+            "decision": asdict(decision),
+            "candidate_groups": matcher.last_group_candidates,
+            "final_groups": [asdict(groups[gid]) for gid in node.group_ids],
+        }
+        with diagnostic_file.open("a", encoding="utf-8") as stream:
+            stream.write(json.dumps(snapshot, ensure_ascii=False) + "\n")
         print(
             f"[{index}/{len(records)}] {decision.action} "
-            f"{node.memory_id} -> {node.group_id}：{decision.reason}",
+            f"{node.memory_id} -> {node.group_ids}：{decision.related_groups}",
             flush=True,
         )
 
@@ -71,6 +93,8 @@ def run_period(period: str, data_dir=ROOT / "data") -> None:
     save_memories(memory_file, nodes, groups, completed_periods=list(dict.fromkeys(completed + [period])))
     run_evaluation(memory_file, period, output_file=score_file,
                    manager=manager, nodes=nodes, groups=groups)
+    print(f"指标汇总已保存至 {summary_file}")
+    print(f"归组诊断快照已追加至 {diagnostic_file}")
     print(f"{period} 完成：共 {len(nodes)} 条记忆、{len(groups)} 个小组，保存至 {memory_file}")
 
 

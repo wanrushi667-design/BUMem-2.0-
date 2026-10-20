@@ -1,0 +1,3038 @@
+{
+  "nodes": {
+    "m1": {
+      "memory_id": "m1",
+      "group_ids": [
+        "g1"
+      ],
+      "topics": [
+        "bridge_gathering",
+        "card_game_variations"
+      ],
+      "raw_text": "[Current Time: 2020-09-22 20:15:06]\nSeeks activity suggestions for 6-12 friends over 50",
+      "created_at": "2026-10-12T18:54:47+08:00",
+      "period_index": 0
+    },
+    "m2": {
+      "memory_id": "m2",
+      "group_ids": [
+        "g2"
+      ],
+      "topics": [
+        "community_leadership",
+        "mentoring_program"
+      ],
+      "raw_text": "[Current Time: 2020-09-23 20:06:52]\nSeeks activity suggestions to foster community leadership among young women in small group mentoring.",
+      "created_at": "2026-10-12T18:54:48+08:00",
+      "period_index": 0
+    },
+    "m3": {
+      "memory_id": "m3",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "rose_garden_care",
+        "plant_health_tips"
+      ],
+      "raw_text": "[Current Time: 2020-09-24 20:00:57]\nSeeks weekly care tips for medium-sized backyard rose garden health and blooming",
+      "created_at": "2026-10-12T18:54:49+08:00",
+      "period_index": 0
+    },
+    "m4": {
+      "memory_id": "m4",
+      "group_ids": [
+        "g4"
+      ],
+      "topics": [
+        "potluck_menu",
+        "classic_cuisine"
+      ],
+      "raw_text": "[Current Time: 2020-09-25 19:38:06]\nSeeks southern-style potluck menu for leisurely afternoon, considering guests prefer classic dishes",
+      "created_at": "2026-10-12T18:54:49+08:00",
+      "period_index": 0
+    },
+    "m5": {
+      "memory_id": "m5",
+      "group_ids": [
+        "g5"
+      ],
+      "topics": [
+        "choir_warmups",
+        "gospel_songs"
+      ],
+      "raw_text": "[Current Time: 2020-09-26 19:27:59]\nSeeks choir warm-ups and gospel songs for mixed experience group weekly evening practices.",
+      "created_at": "2026-10-12T18:54:50+08:00",
+      "period_index": 0
+    },
+    "m6": {
+      "memory_id": "m6",
+      "group_ids": [
+        "g6"
+      ],
+      "topics": [
+        "volunteer_opportunities",
+        "historical_society",
+        "health_precautions"
+      ],
+      "raw_text": "[Current Time: 2020-09-27 21:28:55]\nSeeks volunteer opportunities at historical society with moderate health precautions and accessibility for someone needing assistance.",
+      "created_at": "2026-10-12T18:54:52+08:00",
+      "period_index": 0
+    },
+    "m7": {
+      "memory_id": "m7",
+      "group_ids": [
+        "g7"
+      ],
+      "topics": [
+        "day_trip_destinations",
+        "carpooling"
+      ],
+      "raw_text": "[Current Time: 2020-09-28 19:23:44]\nSeeks day trip destinations near Anniston for small group carpool with costs per person between $30 and $70",
+      "created_at": "2026-10-12T18:54:52+08:00",
+      "period_index": 0
+    },
+    "m8": {
+      "memory_id": "m8",
+      "group_ids": [
+        "g8"
+      ],
+      "topics": [
+        "quilting_workshop",
+        "needlecraft_experience"
+      ],
+      "raw_text": "[Current Time: 2020-09-29 21:41:14]\nSeeks multi-week quilting workshop plans for experienced needlecraft students",
+      "created_at": "2026-10-12T18:54:53+08:00",
+      "period_index": 0
+    },
+    "m9": {
+      "memory_id": "m9",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "soul_food_cooking",
+        "farmers_market_shopping"
+      ],
+      "raw_text": "[Current Time: 2020-09-30 20:55:12]\nSeeks healthy soul food recipe suggestions using local farmers market ingredients",
+      "created_at": "2026-10-12T18:54:54+08:00",
+      "period_index": 0
+    },
+    "m10": {
+      "memory_id": "m10",
+      "group_ids": [
+        "g10"
+      ],
+      "topics": [
+        "block_party_festivity",
+        "tv_streaming_experience"
+      ],
+      "raw_text": "[Current Time: 2020-10-01 19:08:40]\nSeeks ways to make mid-sized block party more festive for Crimson Tide game viewing on basic TV livestream.",
+      "created_at": "2026-10-12T18:54:55+08:00",
+      "period_index": 0
+    },
+    "m11": {
+      "memory_id": "m11",
+      "group_ids": [
+        "g1"
+      ],
+      "topics": [
+        "bridge_night",
+        "icebreaker_activity",
+        "card_game_variations"
+      ],
+      "raw_text": "[Current Time: 2020-12-29 19:08:08]\nSeeks activity suggestions for six friends including icebreakers and card game variations to make bridge nights more welcoming for longtime friends and new guests.",
+      "created_at": "2026-10-12T18:55:36+08:00",
+      "period_index": 1
+    },
+    "m12": {
+      "memory_id": "m12",
+      "group_ids": [
+        "g1",
+        "g4",
+        "g6"
+      ],
+      "topics": [
+        "bridge_event",
+        "generational_blend",
+        "card_game_tone"
+      ],
+      "raw_text": "Received many ideas, especially 'Bridge Bingo' and 'Bid to Laugh', which will blend generations. Hosting bridge nights for 40 years, first time blending generations. Friday night group usually 8-10 people, mostly church attendees and retired teachers, but grandson's friends and young professionals from historical society are joining. Planning to start with icebreakers on January 8th. Seeking advice on gently informing longtime bridge buddies about tone shift without making them feel traditions are being discarded. Concerned ladies may be set in ways regarding card night protocol.",
+      "created_at": "2026-10-12T18:55:38+08:00",
+      "period_index": 1
+    },
+    "m13": {
+      "memory_id": "m13",
+      "group_ids": [
+        "g2",
+        "g6",
+        "g8"
+      ],
+      "topics": [
+        "workshop_organization",
+        "community_service"
+      ],
+      "raw_text": "[Current Time: 2020-12-30 19:25:35]\nPlanning Saturday workshops for young women with Anniston Historical Society; seeks help organizing engaging leadership activities and community service projects.",
+      "created_at": "2026-10-12T18:55:40+08:00",
+      "period_index": 1
+    },
+    "m14": {
+      "memory_id": "m14",
+      "group_ids": [
+        "g8",
+        "g2",
+        "g5",
+        "g6"
+      ],
+      "topics": [
+        "quilt-making",
+        "oral_history_project",
+        "community_event"
+      ],
+      "raw_text": "Excited by the program for the girls, particularly the 'Timeline of Me' and oral history indexing. Questions about the 'Quilt of Voices' activity: seeks clarification on skill level expected, considering some girls may have no sewing experience. Considers keeping it simple with fabric glue and markers or involving embroidery circle members for hand-stitching. Asks if inviting older church choir ladies to sing spirituals during the final showcase would be appropriate.",
+      "created_at": "2026-10-12T18:55:43+08:00",
+      "period_index": 1
+    },
+    "m15": {
+      "memory_id": "m15",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "garden_maintenance",
+        "plant_care"
+      ],
+      "raw_text": "[Current Time: 2020-12-31 19:59:42]\nFocus on monthly garden tasks to keep it healthy until spring, considering colder weather and reduced rose attention needs.",
+      "created_at": "2026-10-12T18:55:45+08:00",
+      "period_index": 1
+    },
+    "m16": {
+      "memory_id": "m16",
+      "group_ids": [
+        "g5",
+        "g3"
+      ],
+      "topics": [
+        "rose_pruning",
+        "choir_safety"
+      ],
+      "raw_text": "Thorough guide appreciated. Have old-fashioned heirloom roses from mama and Knock Outs planted years ago. Detailed pruning advice for February will be useful. Church choir starts planning Easter program in February. Concerns about gatherings due to recent events. Seeking thoughts on keeping choir connected and practicing safely with varying comfort levels some members want to return, others remain cautious.",
+      "created_at": "2026-10-12T18:55:47+08:00",
+      "period_index": 1
+    },
+    "m17": {
+      "memory_id": "m17",
+      "group_ids": [
+        "g6",
+        "g2"
+      ],
+      "topics": [
+        "volunteering_adaptation",
+        "historical_society_volunteer"
+      ],
+      "raw_text": "[Current Time: 2021-01-01 20:03:31]\nSeeks volunteering methods at Anniston Historical Society under new strict social distancing rules and limited in-person interactions.",
+      "created_at": "2026-10-12T18:55:50+08:00",
+      "period_index": 1
+    },
+    "m18": {
+      "memory_id": "m18",
+      "group_ids": [
+        "g6",
+        "g2",
+        "g8"
+      ],
+      "topics": [
+        "oral_history_transcription",
+        "email_writing",
+        "volunteer_coordinator"
+      ],
+      "raw_text": "Seeks help drafting email to volunteer coordinator about oral history transcription. Wants to ensure message is clear and helpful, not burdensome.",
+      "created_at": "2026-10-12T18:55:52+08:00",
+      "period_index": 1
+    },
+    "m19": {
+      "memory_id": "m19",
+      "group_ids": [
+        "g4",
+        "g9",
+        "g1",
+        "g6"
+      ],
+      "topics": [
+        "potluck_catering",
+        "dietary_restrictions",
+        "recipe_recommendations"
+      ],
+      "raw_text": "[Current Time: 2021-03-30 21:17:59]\nI’m organizing a potluck for a group that includes both vegans and vegetarians, along with some friends who have nut allergies, so I want to make sure there are plenty of vegan and nut-free options for everyone. Since I have the whole day set aside for cooking and prep, could you recommend some reliable recipes that would work well for this mixed group? I want to make sure our book club and historical society guests all have something delicious to enjoy.",
+      "created_at": "2026-10-12T18:56:35+08:00",
+      "period_index": 2
+    },
+    "m20": {
+      "memory_id": "m20",
+      "group_ids": [
+        "g4",
+        "g9",
+        "g1",
+        "g6"
+      ],
+      "topics": [
+        "vegan_cuisine",
+        "dining_ etiquette",
+        "plant_based_meals"
+      ],
+      "raw_text": "That's just wonderful, honey—thank you so much for these thoughtful recipes! I especially love that you included that Southern-style black-eyed pea salad. My late husband, James, used to say no proper gathering in Anniston is complete without black-eyed peas, and I think he'd be tickled to see them done up this way for our more health-conscious friends.\n\nI was wondering, though—since I'll have a full day to cook, and I do love to put out a spread that makes everybody feel welcome, would you have any suggestions for a second hearty main dish that's still vegan and nut-free? Something that might appeal to folks who aren't used to plant-based eating? I'm thinking of my book club members—some of them are real meat-and-potatoes types, and I don't want them to feel like the vegan dishes are just \"rabbit food,\" if you know what I mean. Also, what's the best way to label dishes without making folks feel singled out or like they need a medical chart to eat? I've always believed good food should bring folks together, not make 'em nervous.",
+      "created_at": "2026-10-12T18:56:38+08:00",
+      "period_index": 2
+    },
+    "m21": {
+      "memory_id": "m21",
+      "group_ids": [
+        "g8",
+        "g2",
+        "g6"
+      ],
+      "topics": [
+        "needlecraft_workshop",
+        "beginner_projects"
+      ],
+      "raw_text": "[Current Time: 2021-03-31 21:44:23]\nWhat are some fun and easy needlecraft projects I can teach to a group of complete beginners? I’ll need step-by-step guides since my new workshop students are just learning the basics.",
+      "created_at": "2026-10-12T18:56:41+08:00",
+      "period_index": 2
+    },
+    "m22": {
+      "memory_id": "m22",
+      "group_ids": [
+        "g8",
+        "g6",
+        "g2"
+      ],
+      "topics": [
+        "embroidery_workshop",
+        "stitching_tips",
+        "craft_activities"
+      ],
+      "raw_text": "Well, sweetheart, I cannot thank you enough for this. You’ve laid it all out so clearly—like a Sunday school lesson plan but with needle and thread. The felt coasters especially tickle me. I remember teaching my own grandniece the running stitch years ago, and you’re right, that quick win is everything. A proud beginner is a beginner who’ll come back for more.\n\nNow, I was wondering—since I’ll have a mix of ages in this workshop (some young ladies from the community center, a couple of retired gals from the historical society, and maybe even a shy teenager or two), do you have any tips for keeping everyone engaged if some finish way faster than others? I’ve always believed in the power of a little show-and-tell at the end, like you suggested, but I’d love to have a few “next step” ideas for the ones who zoom ahead—maybe a simple way to turn that coaster into a little pouch or a bookmark, something that builds on the stitch they just learned without overwhelming them. I want them to leave feeling like they can keep going on their own.",
+      "created_at": "2026-10-12T18:56:44+08:00",
+      "period_index": 2
+    },
+    "m23": {
+      "memory_id": "m23",
+      "group_ids": [
+        "g5",
+        "g2",
+        "g6"
+      ],
+      "topics": [
+        "choir_scheduling",
+        "rehearsal_coordination"
+      ],
+      "raw_text": "[Current Time: 2021-04-01 19:07:14]\nCan you suggest ways to coordinate choir rehearsals when everyone’s schedules are unpredictable? I’m trying to organize practices whenever enough voices are available, sometimes on weekends or midweek mornings.",
+      "created_at": "2026-10-12T18:56:47+08:00",
+      "period_index": 2
+    },
+    "m24": {
+      "memory_id": "m24",
+      "group_ids": [
+        "g5",
+        "g2",
+        "g8"
+      ],
+      "topics": [
+        "choir_rehearsal",
+        "member_diversity"
+      ],
+      "raw_text": "That's mighty kind of you to offer all that detail, sugar. I appreciate you taking the time—it's clear you understand what it's like trying to keep a choir together when folks have grandbabies and doctor's appointments pulling them every which way. I think that \"rolling availability\" poll idea might just do the trick for us. I've got a few folks in the choir who aren't too keen on their smartphones, but most of them can manage a text message or a simple link.\n\nNow, I was wondering—how would you handle it when some of the members are newer to singing in a choir? We've got a real mix of old-timers who've been singing since before I started teaching school, and a handful of younger folks who joined up last fall and are still finding their footing. I don't want the experienced ones to get bored, but I also don't want to leave the newcomers feeling lost. Is there a way to balance that in these flexible rehearsals, especially if we're only getting a small group together some weeks?",
+      "created_at": "2026-10-12T18:56:49+08:00",
+      "period_index": 2
+    },
+    "m25": {
+      "memory_id": "m25",
+      "group_ids": [
+        "g1",
+        "g4"
+      ],
+      "topics": [
+        "bridge_gathering",
+        "card_game_variations",
+        "event_planning"
+      ],
+      "raw_text": "[Current Time: 2021-06-28 21:33:15]\nCould you help me plan for a bigger bridge gathering next week? Several neighbors want to bring friends, so I’ll need ideas for extra card tables, snacks, and maybe a few new game variations to keep everyone entertained.",
+      "created_at": "2026-10-12T18:57:32+08:00",
+      "period_index": 3
+    },
+    "m26": {
+      "memory_id": "m26",
+      "group_ids": [
+        "g4",
+        "g9",
+        "g1",
+        "g10"
+      ],
+      "topics": [
+        "event_preparation",
+        "dietary_needs"
+      ],
+      "raw_text": "Well, sweetheart, that is just a gift of a plan—you’ve thought of everything from the tablecloths to the storytelling breaks. I can already feel the warmth of that evening coming together.  \n\nI’m a little curious about one thing: with all the folks coming in from different households, I’ll need to check on dietary needs before I settle on the snack bar. Some of my neighbors have taken to watching what they eat—maybe a few are watching their sugar or cutting back on gluten. How would you suggest I find out what people need without making a fuss? A little sign-up sheet by the door? A quick call around? I want everyone to feel welcome at the table.",
+      "created_at": "2026-10-12T18:57:35+08:00",
+      "period_index": 3
+    },
+    "m27": {
+      "memory_id": "m27",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "rose_care",
+        "garden_maintenance",
+        "plant_pruning"
+      ],
+      "raw_text": "[Current Time: 2021-06-29 19:54:17]\nI’ve started tending my roses every week with a neighbor who gifted me a lovely heirloom variety. Can you suggest a weekly care checklist for our rose garden, including tips for pruning and feeding different types of blooms?",
+      "created_at": "2026-10-12T18:57:38+08:00",
+      "period_index": 3
+    },
+    "m28": {
+      "memory_id": "m28",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "rose_care",
+        "plant_pruning"
+      ],
+      "raw_text": "Oh, honey, thank you so much for such a thorough checklist—I’ve already printed it out to share with my neighbor. She said the heirloom she gave me is a ‘Zéphirine Drouhin’—a thornless climbing rose with deep pink blooms. I know it’s a repeat bloomer, but I’ve read it can be prone to black spot in our humid summers. Do you have any special tips for pruning and feeding that particular variety during the summer months, especially to keep the foliage healthy?",
+      "created_at": "2026-10-12T18:57:40+08:00",
+      "period_index": 3
+    },
+    "m29": {
+      "memory_id": "m29",
+      "group_ids": [
+        "g8",
+        "g1",
+        "g4",
+        "g2",
+        "g6",
+        "g5"
+      ],
+      "topics": [
+        "needlecraft_gathering",
+        "flexible_meeting"
+      ],
+      "raw_text": "[Current Time: 2021-06-30 21:57:27]\nMy needlecraft group’s schedules are all over the place lately, so I’m hosting flexible drop-in stitching sessions on my porch. Can you recommend ways to make these gatherings welcoming for friends who pop in at different times, maybe with easy projects and tea ideas?",
+      "created_at": "2026-10-12T18:57:43+08:00",
+      "period_index": 3
+    },
+    "m30": {
+      "memory_id": "m30",
+      "group_ids": [
+        "g8",
+        "g2",
+        "g5",
+        "g1"
+      ],
+      "topics": [
+        "community_quilt",
+        "needlecraft_skills"
+      ],
+      "raw_text": "That's just wonderful, honey. I love the idea of a community quilt—it’s like stitching our own summer scrapbook. Now, I’ve got a few friends who are complete beginners and some who’ve been doing needlecraft for decades. How can I make sure both feel comfortable without one group feeling bored or overwhelmed? Should I set out different project options by skill level, or maybe pair newcomers with the more experienced folks?",
+      "created_at": "2026-10-12T18:57:46+08:00",
+      "period_index": 3
+    },
+    "m31": {
+      "memory_id": "m31",
+      "group_ids": [
+        "g7",
+        "g1",
+        "g4",
+        "g6"
+      ],
+      "topics": [
+        "travel_group_preparation",
+        "bus_tour_activities"
+      ],
+      "raw_text": "[Current Time: 2021-07-01 21:28:48]\nThe local travel club is offering bus trips to historic sites and gardens, and my friends and I are excited to join in. Could you help me organize a list of essentials for group bus excursions, and maybe some ideas for making the travel experience more fun and social?",
+      "created_at": "2026-10-12T18:57:49+08:00",
+      "period_index": 3
+    },
+    "m32": {
+      "memory_id": "m32",
+      "group_ids": [
+        "g7",
+        "g1",
+        "g4",
+        "g9",
+        "g6",
+        "g3"
+      ],
+      "topics": [
+        "snack_preparation",
+        "bingo_game_template",
+        "outdoor_event_planning"
+      ],
+      "raw_text": "Oh, honey, this is just wonderful—you’ve given me a whole treasure chest of ideas! I can already picture us on that bus, swapping seats and singing along to a playlist. I love the “Then & Now” bingo idea especially—my friend Eleanor is a retired librarian and she’d be the first to fill a row, mark my words.\n\nI was thinking: since I’ll be bringing my pimento cheese and a few jars of my peach jam for the ride, do you have suggestions for other easy-to-pack, no-mess snacks that travel well on a bus? Something that won’t leave crumbs everywhere or make folks sticky before we hit the garden paths.\n\nAnd if you’re still offering, I’d dearly love some help sketching out a simple bingo card template I could print out. Maybe with a mix of garden sights and historic markers? That way my friends and I can get started on it this weekend. What do you think?",
+      "created_at": "2026-10-12T18:57:53+08:00",
+      "period_index": 3
+    },
+    "m33": {
+      "memory_id": "m33",
+      "group_ids": [
+        "g5",
+        "g8"
+      ],
+      "topics": [
+        "choir_rehearsal",
+        "music_arrangement"
+      ],
+      "raw_text": "[Current Time: 2021-09-28 20:54:33]\nWith our choir welcoming back the seasoned members and the harmonies sounding richer than ever, could you help me plan some advanced rehearsal techniques or suggest music arrangements that would suit a group of mostly experienced singers?",
+      "created_at": "2026-10-12T18:58:37+08:00",
+      "period_index": 4
+    },
+    "m34": {
+      "memory_id": "m34",
+      "group_ids": [
+        "g5",
+        "g8",
+        "g2"
+      ],
+      "topics": [
+        "choir_rehearsal",
+        "spiritual_music",
+        "rhythm_training"
+      ],
+      "raw_text": "Oh, honey, that is just what I needed! You've given me a treasure trove of ideas. Yes, as you guessed, our choir is mostly experienced singers—seasoned voices that can handle some real depth. I especially love that \"Ring the Chord\" tuning drill and the idea of peer-led sectionals. That'll give my long-time members a chance to shine and share what they know.\n\nI'm also drawn to that Moses Hogan arrangement of \"Down by the Riverside.\" Our congregation loves a rousing spiritual, and I think the syncopation would get everybody's toes tapping. Do you have any tips on teaching that piece to an experienced group who might not be familiar with Hogan's style? I want to make sure the rhythm feels alive and not rushed. Also, could you suggest a good order for weaving that into the rehearsal flow you outlined? I'm thinking we might need a little extra time on the call-and-response sections.",
+      "created_at": "2026-10-12T18:58:40+08:00",
+      "period_index": 4
+    },
+    "m35": {
+      "memory_id": "m35",
+      "group_ids": [
+        "g2",
+        "g8",
+        "g5"
+      ],
+      "topics": [
+        "education_support",
+        "teacher_training"
+      ],
+      "raw_text": "[Current Time: 2021-09-29 20:00:11]\nI’ve started meeting with a couple of young women who are interested in becoming teachers, and we’re focusing on classroom management and lesson planning over coffee. Can you recommend some resources or conversation starters to support their journey into education?",
+      "created_at": "2026-10-12T18:58:43+08:00",
+      "period_index": 4
+    },
+    "m36": {
+      "memory_id": "m36",
+      "group_ids": [
+        "g2",
+        "g8",
+        "g5",
+        "g6"
+      ],
+      "topics": [
+        "teacher_mentoring",
+        "educational_resources",
+        "classroom_tips"
+      ],
+      "raw_text": "Oh, honey, thank you so much for this treasure trove! I can already see these young ladies perking up over their coffee just flipping through those book titles. That \"First Days of School\" by Harry Wong—I used that myself way back when, and it’s still the gold standard. And I love how you laid out those conversation starters; they really get to the heart of why we teach. I’ll definitely be using that four-session structure—it keeps us focused without feeling like a lecture.\n\nNow, about that one-page mentoring roadmap you mentioned—yes, please, that would be a blessing. I’d love a simple sheet they can tuck into their notebook with the key points: maybe a few “non-negotiable” routines for the first week, a quick checklist for lesson planning, and a little space for them to write down their own “why.” If it’s not too much trouble, could you also suggest a way to weave in some real-world examples from my own years in the Anniston classrooms? I want them to know that every teacher—even one who’s been at it for decades—still has days where you just have to pray and start fresh the next morning.",
+      "created_at": "2026-10-12T18:58:45+08:00",
+      "period_index": 4
+    },
+    "m37": {
+      "memory_id": "m37",
+      "group_ids": [
+        "g6",
+        "g2"
+      ],
+      "topics": [
+        "historical_society_volunteering",
+        "archive_organization"
+      ],
+      "raw_text": "[Current Time: 2021-09-30 21:02:39]\nNow that the historical society is allowing small groups to volunteer together again with masks and sanitizer, what are some engaging ways to organize our archive sessions or in-person tours while still following moderate health precautions?",
+      "created_at": "2026-10-12T18:58:48+08:00",
+      "period_index": 4
+    },
+    "m38": {
+      "memory_id": "m38",
+      "group_ids": [
+        "g6",
+        "g8",
+        "g2",
+        "g5",
+        "g1",
+        "g4",
+        "g7",
+        "g10",
+        "g3",
+        "g9"
+      ],
+      "topics": [
+        "community_event_planning",
+        "social_reengagement",
+        "safety_measures"
+      ],
+      "raw_text": "Oh, that is just wonderful—thank you so much for all these thoughtful ideas! I can already see my volunteers getting excited about the \"Document Detectives\" station and the outdoor walking tour. I think the key is making folks feel safe but also special, like they’re part of something important again. I’ve got a few ladies in the society who’ve been itching to get their hands on those old photograph albums, and this feels just right.\n\nOne thing I’m wondering—do you have any tips for making that first session back feel especially warm and welcoming? I want to acknowledge how long it’s been without making anyone feel anxious. Maybe something like a little welcome packet or a brief icebreaker that still keeps distance? I’ve got a dear friend, Eleanor, who’s been stuck at home since last spring and is just *dying* to see everybody, but she’s also nervous. I want her to feel like she walked into a family reunion, you know?\n\nAlso, if you could help me draft a simple sign-up sheet or a short email to send out to the volunteers explaining the new safety steps—without scaring them off—that would be a real blessing. I’d like to keep the tone cheerful and neighborly, like we’re just getting together for a good cause, not walking into a hospital.",
+      "created_at": "2026-10-12T18:58:51+08:00",
+      "period_index": 4
+    },
+    "m39": {
+      "memory_id": "m39",
+      "group_ids": [
+        "g9",
+        "g4"
+      ],
+      "topics": [
+        "soul_food_cooking",
+        "recipe_adaptation"
+      ],
+      "raw_text": "[Current Time: 2021-10-01 21:40:54]\nSince the farmers market has been short on supplies lately and I’ve had to pick up my collard greens, peaches, and buttermilk from the Piggly Wiggly for my summer gatherings, do you have tips for making my soul food recipes taste just as fresh using regular grocery store ingredients?",
+      "created_at": "2026-10-12T18:58:55+08:00",
+      "period_index": 4
+    },
+    "m40": {
+      "memory_id": "m40",
+      "group_ids": [
+        "g4",
+        "g9",
+        "g10"
+      ],
+      "topics": [
+        "potluck_hosting",
+        "plant_based_cuisine",
+        "soul_food_adaptations"
+      ],
+      "raw_text": "That's mighty helpful, honey. I appreciate you taking the time to lay it all out so clear. I do believe those tips on soaking the collards in salt water and roasting the peaches will make a world of difference—I'd never thought to do that with store-bought fruit.\n\nYou know, I'm planning to host my annual post-game potluck next Saturday, right after the Alabama game. I always make my famous peach cobbler and collard greens, but this year I've got my niece coming down from Birmingham—she's been eating more plant-based lately, bless her heart. Do you have any suggestions for tweaking those soul food staples so they still feel like home cooking but can accommodate someone who doesn't eat meat or dairy? I don't want her to feel left out, but I also don't want to mess with the tradition too much, you know?",
+      "created_at": "2026-10-12T18:58:58+08:00",
+      "period_index": 4
+    },
+    "m41": {
+      "memory_id": "m41",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "winter_patio_arrangement",
+        "plant_care"
+      ],
+      "raw_text": "[Current Time: 2021-12-30 20:15:57]\nWith the early frost giving my roses a hard time, I've moved my favorite potted varieties onto the balcony to keep them cozy for winter. Can you suggest ways to arrange my small patio space so I can enjoy the blooms and tend to them easily during the colder months?",
+      "created_at": "2026-10-12T18:59:42+08:00",
+      "period_index": 5
+    },
+    "m42": {
+      "memory_id": "m42",
+      "group_ids": [
+        "g1",
+        "g8",
+        "g6",
+        "g2",
+        "g4",
+        "g10"
+      ],
+      "topics": [
+        "cozy_gathering",
+        "bridge_game_hosting"
+      ],
+      "raw_text": "Thank you, honey, that’s just the loveliest advice. I’m already picturing my little balcony with a bistro chair and a string of fairy lights—might even bring my morning coffee out there on a sunny day. I appreciate you thinking of every detail, from the pot wrapping to the windbreak.\n\nSpeaking of cozy gatherings, I’ve been mulling over hosting a small bridge game indoors this January, just to lift everyone’s spirits after the holidays. But with folks of different ages and health concerns these days, I want to make sure everyone feels comfortable and safe. Do you have any suggestions for setting up a warm, welcoming space for a small group of friends while still being mindful of winter germs and such?",
+      "created_at": "2026-10-12T18:59:45+08:00",
+      "period_index": 5
+    },
+    "m43": {
+      "memory_id": "m43",
+      "group_ids": [
+        "g7",
+        "g1",
+        "g6"
+      ],
+      "topics": [
+        "senior_travel",
+        "affordable_trip"
+      ],
+      "raw_text": "[Current Time: 2021-12-31 19:01:46]\nSome of my friends prefer exploring museums and antique shops on their own instead of our usual bus outings, and it seems smaller, self-guided trips are easier on everyone's budget and energy. Could you help me come up with affordable ideas for local day trips that people can do individually, maybe with recommendations for places that offer senior discounts or free entry?",
+      "created_at": "2026-10-12T18:59:48+08:00",
+      "period_index": 5
+    },
+    "m44": {
+      "memory_id": "m44",
+      "group_ids": [
+        "g7",
+        "g6",
+        "g1"
+      ],
+      "topics": [
+        "senior_community_events",
+        "local_historical_tours",
+        "state_park_access"
+      ],
+      "raw_text": "Oh, honey, that is just wonderful! You've given me such a lovely list—I can already picture some of my friends making their way through the antique shops on Noble Street, or taking a quiet stroll through the botanical gardens. I especially like the idea of the first Tuesday free admission at the museums. That's a real blessing for folks on a fixed income.\n\nYou mentioned the Anniston City Cemetery walking tour from the Historical Society—I do volunteer there, and I know we have a few more self-guided walking maps for other historic neighborhoods too. Do you think it'd be worth including those as options? Some of my friends might enjoy a walk through the old Glen Addie or West 10th Street districts, especially in the spring when the dogwoods are out.\n\nAnd about that Senior Lifetime Pass for state parks—I've been meaning to look into that for ages. Is it something you can get at any state park office, or do you have to mail in an application? I'd love to share that info with my bridge club.",
+      "created_at": "2026-10-12T18:59:51+08:00",
+      "period_index": 5
+    },
+    "m45": {
+      "memory_id": "m45",
+      "group_ids": [
+        "g9",
+        "g4"
+      ],
+      "topics": [
+        "weight_management_dining",
+        "soul_food_cuisine"
+      ],
+      "raw_text": "[Current Time: 2022-01-01 19:43:35]\nAt our last potluck, several guests shared their new walking routines and swapped lighter casserole recipes, so I switched to oven-baked chicken and added fruit salads to the menu to support their efforts to lose a few pounds before the holidays. Can you help me plan some soul food dishes that are tasty but better for weight management, especially for our next gathering?",
+      "created_at": "2026-10-12T18:59:54+08:00",
+      "period_index": 5
+    },
+    "m46": {
+      "memory_id": "m46",
+      "group_ids": [
+        "g4",
+        "g9"
+      ],
+      "topics": [
+        "recipe_preparation",
+        "cooking_tips",
+        "dish_variation"
+      ],
+      "raw_text": "That's a wonderful, thoughtful menu, honey. I especially like the idea of the cauliflower mac and cheese—I've never tried that trick, but I can see how it would keep that creamy comfort without all the heaviness. Now, a few of my regulars are used to my traditional collards with ham hock, so I want to make sure the smoked turkey version still has that deep, slow-cooked flavor. Could you walk me through the timing and any special tips for getting that broth just right without it tasting too lean? And if I wanted to double the recipe for a crowd, would I need to adjust any seasonings or cooking time?",
+      "created_at": "2026-10-12T18:59:56+08:00",
+      "period_index": 5
+    },
+    "m47": {
+      "memory_id": "m47",
+      "group_ids": [
+        "g6",
+        "g2"
+      ],
+      "topics": [
+        "volunteer_from_home",
+        "phone_interviews"
+      ],
+      "raw_text": "[Current Time: 2022-03-30 20:55:24]\nSince my doctor wants me to take it easy for a while, can you help me organize some phone interviews for the historical society and suggest ways I can continue volunteering from home, given that I’m not getting out much these days?",
+      "created_at": "2026-10-12T19:00:40+08:00",
+      "period_index": 6
+    },
+    "m48": {
+      "memory_id": "m48",
+      "group_ids": [
+        "g6",
+        "g2",
+        "g8",
+        "g5",
+        "g4",
+        "g9",
+        "g1",
+        "g10",
+        "g7",
+        "g3"
+      ],
+      "topics": [
+        "phone_recording",
+        "weekly_schedule"
+      ],
+      "raw_text": "Well now, that's just the sweetest, most thoughtful response I could have asked for. You've really put my mind at ease, honey. I was worried I'd have to just sit and twiddle my thumbs, but this gives me a real sense of purpose.\n\nI do have a question, though. You mentioned recording the calls with permission. Now, I'm not the most tech-savvy when it comes to these fancy smartphones - I can make calls and check my email, but I've never used one of those recording apps. Is there a simple way to do that, or should I just stick to taking notes by hand? I don't want to lose anyone's precious stories because I fumble with the buttons.\n\nAnd that little weekly schedule you put together? Lord, that's exactly what I needed. Somebody to tell me it's okay to take it slow. I might even add a little time for sitting on my porch with my Bible and a cup of tea - doctor's orders, you know!",
+      "created_at": "2026-10-12T19:00:43+08:00",
+      "period_index": 6
+    },
+    "m49": {
+      "memory_id": "m49",
+      "group_ids": [
+        "g10",
+        "g4",
+        "g1",
+        "g8",
+        "g3"
+      ],
+      "topics": [
+        "cozy_snacks",
+        "outdoor_seating"
+      ],
+      "raw_text": "[Current Time: 2022-03-31 20:32:54]\nWith the football gatherings being just a handful of close friends lately, and my grandson setting up that outdoor projector on the patio, could you recommend some cozy snacks or seating ideas to make our spring Crimson Tide watch parties more comfortable?",
+      "created_at": "2026-10-12T19:00:47+08:00",
+      "period_index": 6
+    },
+    "m50": {
+      "memory_id": "m50",
+      "group_ids": [
+        "g10",
+        "g4",
+        "g9",
+        "g1"
+      ],
+      "topics": [
+        "event_planning",
+        "accessibility_modifications",
+        "food_preparation"
+      ],
+      "raw_text": "Oh, honey, this is just wonderful—thank you for such thoughtful ideas! I love the walking tacos—my grandson will get a kick out of that, and I can already taste those mini pimento cheese biscuits. Now, I've got a couple of follow-up notions. My dear friend Mildred has trouble with her knees—she can't manage low-to-the-ground seating. What would you suggest to make sure she's comfortable without being left out? And do you have a good recipe for a festive non-alcoholic punch? I want everyone, including the folks who don't drink, to feel included in the toast after a big touchdown.",
+      "created_at": "2026-10-12T19:00:51+08:00",
+      "period_index": 6
+    },
+    "m51": {
+      "memory_id": "m51",
+      "group_ids": [
+        "g8"
+      ],
+      "topics": [
+        "quilt_patterns",
+        "advanced_quilting"
+      ],
+      "raw_text": "[Current Time: 2022-04-01 20:15:52]\nOur needlecraft group has moved past the basics and most folks are ready for more challenging quilting projects—can you help me plan some advanced sessions or suggest patterns that would suit participants with a bit of experience?",
+      "created_at": "2026-10-12T19:00:54+08:00",
+      "period_index": 6
+    },
+    "m52": {
+      "memory_id": "m52",
+      "group_ids": [
+        "g8",
+        "g2",
+        "g5",
+        "g1"
+      ],
+      "topics": [
+        "group_leadership",
+        "activity_pacing"
+      ],
+      "raw_text": "Well now, that is just about the most thorough plan I’ve ever seen—you’ve put more thought into this than I did for my own Sunday school lesson plans back in the day! I can already see how excited the group will be when I share these session ideas. The Mariner’s Compass block especially has my heart racing—I’ve always admired them but never had the courage to try one myself.\n\nTell me, though—when you’re leading a group like this, how do you handle the folks who finish a block in half the time and those who need a little more patience? I know my bridge group has the same mix, and I always try to keep everyone feeling included without holding anybody back. Do you have any tips for keeping the pace just right for a group with varied skill levels?",
+      "created_at": "2026-10-12T19:00:56+08:00",
+      "period_index": 6
+    },
+    "m53": {
+      "memory_id": "m53",
+      "group_ids": [
+        "g1",
+        "g4",
+        "g10",
+        "g9"
+      ],
+      "topics": [
+        "bridge_social_event",
+        "card_game_snacks"
+      ],
+      "raw_text": "[Current Time: 2022-06-28 19:42:27]\nWith several of my younger bridge friends off traveling or working this spring, our weekly card games have settled into a comfortable routine with our usual group of about 8 or 10 older regulars. Since it's not a huge crowd but definitely more than just a handful, could you suggest some fresh conversation starters or bridge-themed snacks that would suit a medium-sized, familiar gathering like ours?",
+      "created_at": "2026-10-12T19:05:27+08:00",
+      "period_index": 7
+    },
+    "m54": {
+      "memory_id": "m54",
+      "group_ids": [
+        "g1",
+        "g4",
+        "g10",
+        "g9",
+        "g6",
+        "g8",
+        "g2",
+        "g5",
+        "g7",
+        "g3"
+      ],
+      "topics": [
+        "bridge_gathering",
+        "shared_history"
+      ],
+      "raw_text": "Oh, honey, that’s just what I needed—something to give the evening a little lift without making anyone feel like they’re at a party that forgot it was a card game. I especially love the “Grand Slam Sliders” and the little chalkboard menu idea. That’s just cute enough to get a smile without being fussy.\n\nYou know, since you’ve been so spot-on about the snacks and conversation flow, I was wondering—given that my group is mostly the same familiar faces week after week, all of us ladies in our 60s to 80s, many widowed or never married—do you have any conversation starters that might gently touch on our shared history or life stage without making anyone feel sad or singled out? Nothing too heavy, just something that acknowledges where we are in life and the wisdom we’ve picked up along the way. Like, a way to honor that we’ve been through a lot, but we’re still here laughing over a bridge hand.",
+      "created_at": "2026-10-12T19:05:30+08:00",
+      "period_index": 7
+    },
+    "m55": {
+      "memory_id": "m55",
+      "group_ids": [
+        "g2",
+        "g6",
+        "g8"
+      ],
+      "topics": [
+        "mentoring_session",
+        "group_discussion"
+      ],
+      "raw_text": "[Current Time: 2022-06-29 19:58:47]\nSince fewer young women are available for my larger mentoring workshops now that school is out, I’ve started inviting a handful over for afternoon tea and more personal chats on the porch. What are some meaningful activities or discussion topics I could use to make these small group sessions impactful?",
+      "created_at": "2026-10-12T19:05:35+08:00",
+      "period_index": 7
+    },
+    "m56": {
+      "memory_id": "m56",
+      "group_ids": [
+        "g2",
+        "g6",
+        "g8",
+        "g1",
+        "g4",
+        "g10"
+      ],
+      "topics": [
+        "conversation_guiding",
+        "social_event_planning"
+      ],
+      "raw_text": "Well, bless your heart, that is just the sweetest, most thoughtful list I've ever seen. I can already picture those young ladies sipping tea and opening up on the porch—it gives me goosebumps just thinking about it. The \"Wisdom Timeline\" and \"Gratitude Bouquet\" especially tug at my heartstrings. I might have to add a little something from my own kitchen, like a plate of my lemon bars, to break the ice even further.\n\nNow, honey, I was wondering—do you have any advice on how to gently steer a conversation if one of the girls gets a little emotional or shares something heavy? I want them to feel safe, but I also don't want to put them on the spot or make things awkward. I reckon that's a skill I could brush up on. And since it's summer and the porch can get mighty hot come mid-afternoon, do you think it'd be better to schedule these chats in the late morning when it's cooler, or maybe even early evening? I'd love your thoughts on timing, too.",
+      "created_at": "2026-10-12T19:05:37+08:00",
+      "period_index": 7
+    },
+    "m57": {
+      "memory_id": "m57",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "rose_care",
+        "gardening_hints"
+      ],
+      "raw_text": "[Current Time: 2022-06-30 20:31:54]\nThe summer heat has me cutting back on my usual gardening, so I’m only tending to my roses once a month for quick watering and pruning. What tips do you have for keeping my rose garden healthy with minimal hands-on care during these hotter months?",
+      "created_at": "2026-10-12T19:05:41+08:00",
+      "period_index": 7
+    },
+    "m58": {
+      "memory_id": "m58",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "plant_care",
+        "rose_variety"
+      ],
+      "raw_text": "Well, thank you kindly for all that wonderful advice! I’ve got my notebook out and jotted down every bit of it—especially that monthly schedule. You mentioned my potted ‘Zéphirine Drouhin’ on the balcony, and you’re right, she does dry out something fierce. That trick about moving her to the east side and grouping pots together sounds like just the ticket. I might have my grandson run a little soaker hose out there for me on those scorching days.\n\nSpeaking of which, you seem to know your roses. Do you have a favorite variety that handles Southern heat and a bit of neglect better than most? I’m always looking to add one more to the collection—got a spot near the porch that’s got morning sun and afternoon shade.",
+      "created_at": "2026-10-12T19:05:43+08:00",
+      "period_index": 7
+    },
+    "m59": {
+      "memory_id": "m59",
+      "group_ids": [
+        "g5",
+        "g8",
+        "g2",
+        "g6",
+        "g3",
+        "g1",
+        "g4",
+        "g7",
+        "g9",
+        "g10"
+      ],
+      "topics": [
+        "choir_rehearsal",
+        "community_event_preparation"
+      ],
+      "raw_text": "[Current Time: 2022-07-01 19:27:54]\nOur church choir just switched to a fixed weekly evening rehearsal, which should help us all prepare for the Independence Day performance. Do you have any advice for making the most of these regular evening practices, especially for keeping everyone engaged and ready for the big day?",
+      "created_at": "2026-10-12T19:05:45+08:00",
+      "period_index": 7
+    },
+    "m60": {
+      "memory_id": "m60",
+      "group_ids": [
+        "g5",
+        "g2",
+        "g8",
+        "g6",
+        "g1",
+        "g4",
+        "g10",
+        "g3",
+        "g7",
+        "g9"
+      ],
+      "topics": [
+        "choir_integration",
+        "patriotic_performance"
+      ],
+      "raw_text": "That’s a treasure chest of practical advice, honey—thank you! I especially love the idea of that closing circle where we share something we’re grateful for. Our choir’s got a real mix of folks, from folks who’ve been singing since before I was born to a couple of shy new members who just joined this spring. Do you have any tips for weaving in those newer voices without making them feel singled out, especially when we’re getting ready for a big patriotic program? I want everyone to feel like they’re part of the family.",
+      "created_at": "2026-10-12T19:05:49+08:00",
+      "period_index": 7
+    },
+    "m61": {
+      "memory_id": "m61",
+      "group_ids": [
+        "g1",
+        "g4",
+        "g10",
+        "g9",
+        "g6",
+        "g8",
+        "g2",
+        "g5",
+        "g7",
+        "g3"
+      ],
+      "topics": [
+        "bridge_gathering",
+        "senior_participants"
+      ],
+      "raw_text": "[Current Time: 2022-09-28 19:25:19]\nWith most of my bridge group now made up of friends in their seventies and up, what are some fun ways to keep our weekly games lively and engaging for everyone?",
+      "created_at": "2026-10-12T19:06:37+08:00",
+      "period_index": 8
+    },
+    "m62": {
+      "memory_id": "m62",
+      "group_ids": [
+        "g1",
+        "g2",
+        "g5",
+        "g6",
+        "g8"
+      ],
+      "topics": [
+        "bridge_social_event",
+        "community_mentoring"
+      ],
+      "raw_text": "Oh, honey, this is just the sweetest, most thoughtful response. I read it twice, and I can already picture us trying the \"No Trump\" round—my friend Mildred is going to get a kick out of that, she loves a good challenge. And that \"Comfort Corner\" idea is just plain smart. I've got a few ladies who struggle with the small print on the score sheets, but they'd never say a word. I think I'll set out a little basket next Tuesday without making a fuss, just like you said.\n\nNow, I do have a question about the \"Hand of the Week\" story swap. Some of my gals are a bit shy about sharing, especially the newer ones. Do you have a gentle way to get the conversation rolling without putting anyone on the spot? Maybe a prompt or a question we could toss out? I want everyone to feel included, not pressured.\n\nAnd while I've got you—and I know this is a little off-topic from the bridge game, but you seem like the kind of person who gives good advice—I've been thinking about starting a small mentoring circle for some of the young women in my church community. I used to teach school and run after-school programs back in the day, and I've got a hankering to pass along what I know. Would you have any thoughts on how to get something like that off the ground without making it feel like a lecture? I'm all ears, darlin'.",
+      "created_at": "2026-10-12T19:06:41+08:00",
+      "period_index": 8
+    },
+    "m63": {
+      "memory_id": "m63",
+      "group_ids": [
+        "g2",
+        "g6"
+      ],
+      "topics": [
+        "community_leadership",
+        "grassroots_involvement"
+      ],
+      "raw_text": "[Current Time: 2022-09-29 20:43:44]\nI’ve started mentoring young women on organizing neighborhood clean-ups and voter registration drives. Can you suggest resources or activities to help me guide them in community leadership and grassroots involvement?",
+      "created_at": "2026-10-12T19:06:45+08:00",
+      "period_index": 8
+    },
+    "m64": {
+      "memory_id": "m64",
+      "group_ids": [
+        "g2",
+        "g6",
+        "g8"
+      ],
+      "topics": [
+        "project_management",
+        "team_motivation"
+      ],
+      "raw_text": "Well, sugar, I have to say, you've given me more than I could've asked for. That \"One-Project Sprint\" idea especially caught my eye—I can already see my mentees getting excited about cleaning up that old corner lot near the church. But I've been around long enough to know that even the best-laid plans can hit a pothole. Do you have any advice on how to keep the young women motivated if that first project doesn't go quite as smoothly as we hope? Maybe a story from your own experience that could help me frame a good lesson for them about sticking with it when things get tough?",
+      "created_at": "2026-10-12T19:06:47+08:00",
+      "period_index": 8
+    },
+    "m65": {
+      "memory_id": "m65",
+      "group_ids": [
+        "g4",
+        "g9"
+      ],
+      "topics": [
+        "allergen_management",
+        "recipe_substitutions"
+      ],
+      "raw_text": "[Current Time: 2022-09-30 19:26:24]\nSome of my potluck guests now have food allergies and dietary restrictions. Can you help me find recipes or substitutions for classic Southern dishes like peach cobbler and pimento cheese so everyone can enjoy the meal safely?",
+      "created_at": "2026-10-12T19:06:50+08:00",
+      "period_index": 8
+    },
+    "m66": {
+      "memory_id": "m66",
+      "group_ids": [
+        "g4",
+        "g9"
+      ],
+      "topics": [
+        "allergen_checking",
+        "recipe_preparation",
+        "food_allergies"
+      ],
+      "raw_text": "Oh, sweetie, this is just wonderful—thank you so much! I can already picture everyone's faces when they taste that sunflower seed pimento cheese. I've got a couple of folks coming who are gluten-sensitive and one who's deathly allergic to peanuts, but I think these recipes cover that just fine. Now, I'm also wondering—what about a good old-fashioned side like collard greens or baked beans? Are there any sneaky hidden allergens in those that I need to watch out for? And if I wanted to make the peach cobbler a day ahead, would the topping stay nice and crisp, or should I bake it fresh? I sure do appreciate your help—this potluck is gonna be one for the books!",
+      "created_at": "2026-10-12T19:06:52+08:00",
+      "period_index": 8
+    },
+    "m67": {
+      "memory_id": "m67",
+      "group_ids": [
+        "g8",
+        "g2",
+        "g6",
+        "g5",
+        "g1",
+        "g4",
+        "g7",
+        "g10",
+        "g3",
+        "g9"
+      ],
+      "topics": [
+        "quilting_workshop",
+        "beginner_crafting"
+      ],
+      "raw_text": "[Current Time: 2022-10-01 20:38:01]\nI’m planning a one-time introductory quilting class for a few newly retired friends who aren’t ready to commit long-term. What tips do you have for making a single-session needlecraft workshop welcoming and enjoyable for beginners?",
+      "created_at": "2026-10-12T19:06:55+08:00",
+      "period_index": 8
+    },
+    "m68": {
+      "memory_id": "m68",
+      "group_ids": [
+        "g8",
+        "g6",
+        "g2",
+        "g5",
+        "g1",
+        "g4",
+        "g7",
+        "g10",
+        "g3",
+        "g9"
+      ],
+      "topics": [
+        "sewing_event",
+        "beginner_sewing"
+      ],
+      "raw_text": "Oh, honey, that is just the sweetest, most thoughtful advice! A mug rug—now isn’t that a clever idea? I can just picture my friends’ faces light up when they finish something they can actually use. And I love how you broke it down into those little steps with the timetable. That’ll keep us from feeling rushed or lost.\n\nI do have one more thought, though. Some of my friends are a bit self-conscious about their sewing skills—one of them hasn’t touched a machine since home ec class back in the fifties! Any tips on how to handle a mix of nervous beginners and those who might pick it up a little quicker? I want to make sure nobody feels left behind or bored, if you know what I mean.",
+      "created_at": "2026-10-12T19:07:00+08:00",
+      "period_index": 8
+    },
+    "m69": {
+      "memory_id": "m69",
+      "group_ids": [
+        "g3",
+        "g6"
+      ],
+      "topics": [
+        "remote_event_participation",
+        "winter_roses_care"
+      ],
+      "raw_text": "[Current Time: 2022-12-30 20:33:55]\nWith the historical society moving most events online and outdoor tours being brief, could you help me find ways to stay involved from home this winter? Also, what are some tips for caring for my roses during the colder months, since I’m focusing on seasonal projects instead of my usual routine?",
+      "created_at": "2026-10-12T19:07:50+08:00",
+      "period_index": 9
+    },
+    "m70": {
+      "memory_id": "m70",
+      "group_ids": [
+        "g6",
+        "g8",
+        "g2",
+        "g5",
+        "g1",
+        "g4",
+        "g7",
+        "g10",
+        "g3",
+        "g9"
+      ],
+      "topics": [
+        "writing_project",
+        "historical_society_submission"
+      ],
+      "raw_text": "Thank you so much, honey—that’s exactly what I needed. The schedule you laid out is a real comfort; it’s nice to see it all in black and white so I don’t feel like I’m forgetting something. I think I’ll start with the “Then & Now” writing since I’ve got a stack of old photographs from my mother’s attic that might fit right in. Is there a particular way the historical society likes those submitted—do they want a Word doc, or just an email with the photo attached? And should I hold off until after the holidays, or would they welcome something for the January newsletter?",
+      "created_at": "2026-10-12T19:07:52+08:00",
+      "period_index": 9
+    },
+    "m71": {
+      "memory_id": "m71",
+      "group_ids": [
+        "g5",
+        "g8",
+        "g2",
+        "g1"
+      ],
+      "topics": [
+        "choir_rehearsal",
+        "mixed_singing_group"
+      ],
+      "raw_text": "[Current Time: 2022-12-31 21:44:51]\nOur church choir is welcoming several new members for the holidays, and I’d love some ideas for blending different singing experience levels so everyone feels included. What are some rehearsal activities or song choices that work well for a mixed group?",
+      "created_at": "2026-10-12T19:07:57+08:00",
+      "period_index": 9
+    },
+    "m72": {
+      "memory_id": "m72",
+      "group_ids": [
+        "g5",
+        "g2",
+        "g8"
+      ],
+      "topics": [
+        "choir_programming",
+        "music_education",
+        "singing_group"
+      ],
+      "raw_text": "Oh, honey, that was just what I needed to hear. You've given me so many wonderful ideas—I can already picture our choir coming together like a patchwork quilt, each voice a different but beautiful piece. I love that “Echo & Add” warm-up; I think it'll put our newcomers right at ease.\n\nNow that the Christmas season has passed, we're looking ahead to Easter and spring. Our choir has a pretty wide mix of experience levels now—some longtime members who've been singing for decades and some brand-new voices who are still finding their footing. Would you suggest we keep our repertoire simpler for the next few months to build everyone's confidence, or is it all right to introduce one slightly more challenging piece alongside the familiar ones? I want to keep our veterans engaged without leaving the newer folks feeling lost. And do you have any thoughts on how to help the new singers learn to read music a little, without making it feel like a classroom lesson? I'd love to hear your wisdom.",
+      "created_at": "2026-10-12T19:08:00+08:00",
+      "period_index": 9
+    },
+    "m73": {
+      "memory_id": "m73",
+      "group_ids": [
+        "g9",
+        "g4"
+      ],
+      "topics": [
+        "health-conscious_cooking",
+        "dietary_alternatives"
+      ],
+      "raw_text": "[Current Time: 2023-01-01 20:12:13]\nMany of my friends at the autumn potluck are managing diabetes or heart conditions now, so I’m updating my recipes to be more health-conscious. Can you suggest comforting soul food dishes that are suitable for chronic condition management, especially alternatives for favorites like peach cobbler?",
+      "created_at": "2026-10-12T19:08:03+08:00",
+      "period_index": 9
+    },
+    "m74": {
+      "memory_id": "m74",
+      "group_ids": [
+        "g4",
+        "g9",
+        "g10"
+      ],
+      "topics": [
+        "cooking_for_large_groups",
+        "soul_food_preparation",
+        "dish_pairing"
+      ],
+      "raw_text": "Oh, sweetheart, that is just what I needed! I can already taste that lighter peach cobbler and those collard greens calling my name. My friends will be so grateful—we've got a few folks watching their sugar and their hearts, and I want them to feel just as welcomed at my table as anyone else.\n\nNow, you've given me a wonderful starting point. I was wondering—when I'm cooking for a big crowd (say around a dozen folks or so), should I just double everything, or is there a trick to adjusting the spices and sweeteners so it doesn't get too heavy or unbalanced? And for the oven-\"fried\" chicken—would it work to prep it a few hours ahead and pop it in just before folks arrive, or does the coating get soggy? I'm trying to keep my afternoon flexible so I can visit with guests instead of being stuck in the kitchen the whole time.\n\nAlso, I've been thinking about offering a little something extra on the side—maybe a simple cucumber-tomato salad with a vinegar dressing? Do you think that would pair well, or is there a better veggie side that fits the soul food feel without adding salt or sugar?\n\nThank you again, honey. You've given me the confidence to keep the soul in soul food.",
+      "created_at": "2026-10-12T19:08:05+08:00",
+      "period_index": 9
+    }
+  },
+  "groups": {
+    "g1": {
+      "group_id": "g1",
+      "head_id": "m1",
+      "tail_id": "m71",
+      "updated_at": "2026-10-12T19:07:57+08:00",
+      "memory_count": 30
+    },
+    "g2": {
+      "group_id": "g2",
+      "head_id": "m2",
+      "tail_id": "m72",
+      "updated_at": "2026-10-12T19:08:00+08:00",
+      "memory_count": 34
+    },
+    "g3": {
+      "group_id": "g3",
+      "head_id": "m3",
+      "tail_id": "m70",
+      "updated_at": "2026-10-12T19:07:52+08:00",
+      "memory_count": 20
+    },
+    "g4": {
+      "group_id": "g4",
+      "head_id": "m4",
+      "tail_id": "m74",
+      "updated_at": "2026-10-12T19:08:05+08:00",
+      "memory_count": 31
+    },
+    "g5": {
+      "group_id": "g5",
+      "head_id": "m5",
+      "tail_id": "m72",
+      "updated_at": "2026-10-12T19:08:00+08:00",
+      "memory_count": 24
+    },
+    "g6": {
+      "group_id": "g6",
+      "head_id": "m6",
+      "tail_id": "m70",
+      "updated_at": "2026-10-12T19:07:52+08:00",
+      "memory_count": 35
+    },
+    "g7": {
+      "group_id": "g7",
+      "head_id": "m7",
+      "tail_id": "m70",
+      "updated_at": "2026-10-12T19:07:52+08:00",
+      "memory_count": 14
+    },
+    "g8": {
+      "group_id": "g8",
+      "head_id": "m8",
+      "tail_id": "m72",
+      "updated_at": "2026-10-12T19:08:00+08:00",
+      "memory_count": 32
+    },
+    "g9": {
+      "group_id": "g9",
+      "head_id": "m9",
+      "tail_id": "m74",
+      "updated_at": "2026-10-12T19:08:05+08:00",
+      "memory_count": 24
+    },
+    "g10": {
+      "group_id": "g10",
+      "head_id": "m10",
+      "tail_id": "m74",
+      "updated_at": "2026-10-12T19:08:05+08:00",
+      "memory_count": 18
+    }
+  },
+  "associations": [
+    {
+      "memory_id": "m1",
+      "group_id": "g1",
+      "prev_id": null,
+      "next_id": "m11"
+    },
+    {
+      "memory_id": "m11",
+      "group_id": "g1",
+      "prev_id": "m1",
+      "next_id": "m12"
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g1",
+      "prev_id": "m11",
+      "next_id": "m19"
+    },
+    {
+      "memory_id": "m19",
+      "group_id": "g1",
+      "prev_id": "m12",
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g1",
+      "prev_id": "m19",
+      "next_id": "m25"
+    },
+    {
+      "memory_id": "m25",
+      "group_id": "g1",
+      "prev_id": "m20",
+      "next_id": "m26"
+    },
+    {
+      "memory_id": "m26",
+      "group_id": "g1",
+      "prev_id": "m25",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g1",
+      "prev_id": "m26",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g1",
+      "prev_id": "m29",
+      "next_id": "m31"
+    },
+    {
+      "memory_id": "m31",
+      "group_id": "g1",
+      "prev_id": "m30",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g1",
+      "prev_id": "m31",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g1",
+      "prev_id": "m32",
+      "next_id": "m42"
+    },
+    {
+      "memory_id": "m42",
+      "group_id": "g1",
+      "prev_id": "m38",
+      "next_id": "m43"
+    },
+    {
+      "memory_id": "m43",
+      "group_id": "g1",
+      "prev_id": "m42",
+      "next_id": "m44"
+    },
+    {
+      "memory_id": "m44",
+      "group_id": "g1",
+      "prev_id": "m43",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g1",
+      "prev_id": "m44",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g1",
+      "prev_id": "m48",
+      "next_id": "m50"
+    },
+    {
+      "memory_id": "m50",
+      "group_id": "g1",
+      "prev_id": "m49",
+      "next_id": "m52"
+    },
+    {
+      "memory_id": "m52",
+      "group_id": "g1",
+      "prev_id": "m50",
+      "next_id": "m53"
+    },
+    {
+      "memory_id": "m53",
+      "group_id": "g1",
+      "prev_id": "m52",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g1",
+      "prev_id": "m53",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g1",
+      "prev_id": "m54",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g1",
+      "prev_id": "m56",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g1",
+      "prev_id": "m59",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g1",
+      "prev_id": "m60",
+      "next_id": "m62"
+    },
+    {
+      "memory_id": "m62",
+      "group_id": "g1",
+      "prev_id": "m61",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g1",
+      "prev_id": "m62",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g1",
+      "prev_id": "m67",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g1",
+      "prev_id": "m68",
+      "next_id": "m71"
+    },
+    {
+      "memory_id": "m71",
+      "group_id": "g1",
+      "prev_id": "m70",
+      "next_id": null
+    },
+    {
+      "memory_id": "m2",
+      "group_id": "g2",
+      "prev_id": null,
+      "next_id": "m13"
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g2",
+      "prev_id": "m2",
+      "next_id": "m14"
+    },
+    {
+      "memory_id": "m14",
+      "group_id": "g2",
+      "prev_id": "m13",
+      "next_id": "m17"
+    },
+    {
+      "memory_id": "m17",
+      "group_id": "g2",
+      "prev_id": "m14",
+      "next_id": "m18"
+    },
+    {
+      "memory_id": "m18",
+      "group_id": "g2",
+      "prev_id": "m17",
+      "next_id": "m21"
+    },
+    {
+      "memory_id": "m21",
+      "group_id": "g2",
+      "prev_id": "m18",
+      "next_id": "m22"
+    },
+    {
+      "memory_id": "m22",
+      "group_id": "g2",
+      "prev_id": "m21",
+      "next_id": "m23"
+    },
+    {
+      "memory_id": "m23",
+      "group_id": "g2",
+      "prev_id": "m22",
+      "next_id": "m24"
+    },
+    {
+      "memory_id": "m24",
+      "group_id": "g2",
+      "prev_id": "m23",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g2",
+      "prev_id": "m24",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g2",
+      "prev_id": "m29",
+      "next_id": "m34"
+    },
+    {
+      "memory_id": "m34",
+      "group_id": "g2",
+      "prev_id": "m30",
+      "next_id": "m35"
+    },
+    {
+      "memory_id": "m35",
+      "group_id": "g2",
+      "prev_id": "m34",
+      "next_id": "m36"
+    },
+    {
+      "memory_id": "m36",
+      "group_id": "g2",
+      "prev_id": "m35",
+      "next_id": "m37"
+    },
+    {
+      "memory_id": "m37",
+      "group_id": "g2",
+      "prev_id": "m36",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g2",
+      "prev_id": "m37",
+      "next_id": "m42"
+    },
+    {
+      "memory_id": "m42",
+      "group_id": "g2",
+      "prev_id": "m38",
+      "next_id": "m47"
+    },
+    {
+      "memory_id": "m47",
+      "group_id": "g2",
+      "prev_id": "m42",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g2",
+      "prev_id": "m47",
+      "next_id": "m52"
+    },
+    {
+      "memory_id": "m52",
+      "group_id": "g2",
+      "prev_id": "m48",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g2",
+      "prev_id": "m52",
+      "next_id": "m55"
+    },
+    {
+      "memory_id": "m55",
+      "group_id": "g2",
+      "prev_id": "m54",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g2",
+      "prev_id": "m55",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g2",
+      "prev_id": "m56",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g2",
+      "prev_id": "m59",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g2",
+      "prev_id": "m60",
+      "next_id": "m62"
+    },
+    {
+      "memory_id": "m62",
+      "group_id": "g2",
+      "prev_id": "m61",
+      "next_id": "m63"
+    },
+    {
+      "memory_id": "m63",
+      "group_id": "g2",
+      "prev_id": "m62",
+      "next_id": "m64"
+    },
+    {
+      "memory_id": "m64",
+      "group_id": "g2",
+      "prev_id": "m63",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g2",
+      "prev_id": "m64",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g2",
+      "prev_id": "m67",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g2",
+      "prev_id": "m68",
+      "next_id": "m71"
+    },
+    {
+      "memory_id": "m71",
+      "group_id": "g2",
+      "prev_id": "m70",
+      "next_id": "m72"
+    },
+    {
+      "memory_id": "m72",
+      "group_id": "g2",
+      "prev_id": "m71",
+      "next_id": null
+    },
+    {
+      "memory_id": "m3",
+      "group_id": "g3",
+      "prev_id": null,
+      "next_id": "m15"
+    },
+    {
+      "memory_id": "m15",
+      "group_id": "g3",
+      "prev_id": "m3",
+      "next_id": "m16"
+    },
+    {
+      "memory_id": "m16",
+      "group_id": "g3",
+      "prev_id": "m15",
+      "next_id": "m27"
+    },
+    {
+      "memory_id": "m27",
+      "group_id": "g3",
+      "prev_id": "m16",
+      "next_id": "m28"
+    },
+    {
+      "memory_id": "m28",
+      "group_id": "g3",
+      "prev_id": "m27",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g3",
+      "prev_id": "m28",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g3",
+      "prev_id": "m32",
+      "next_id": "m41"
+    },
+    {
+      "memory_id": "m41",
+      "group_id": "g3",
+      "prev_id": "m38",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g3",
+      "prev_id": "m41",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g3",
+      "prev_id": "m48",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g3",
+      "prev_id": "m49",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g3",
+      "prev_id": "m54",
+      "next_id": "m58"
+    },
+    {
+      "memory_id": "m58",
+      "group_id": "g3",
+      "prev_id": "m57",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g3",
+      "prev_id": "m58",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g3",
+      "prev_id": "m59",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g3",
+      "prev_id": "m60",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g3",
+      "prev_id": "m61",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g3",
+      "prev_id": "m67",
+      "next_id": "m69"
+    },
+    {
+      "memory_id": "m69",
+      "group_id": "g3",
+      "prev_id": "m68",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g3",
+      "prev_id": "m69",
+      "next_id": null
+    },
+    {
+      "memory_id": "m4",
+      "group_id": "g4",
+      "prev_id": null,
+      "next_id": "m12"
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g4",
+      "prev_id": "m4",
+      "next_id": "m19"
+    },
+    {
+      "memory_id": "m19",
+      "group_id": "g4",
+      "prev_id": "m12",
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g4",
+      "prev_id": "m19",
+      "next_id": "m25"
+    },
+    {
+      "memory_id": "m25",
+      "group_id": "g4",
+      "prev_id": "m20",
+      "next_id": "m26"
+    },
+    {
+      "memory_id": "m26",
+      "group_id": "g4",
+      "prev_id": "m25",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g4",
+      "prev_id": "m26",
+      "next_id": "m31"
+    },
+    {
+      "memory_id": "m31",
+      "group_id": "g4",
+      "prev_id": "m29",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g4",
+      "prev_id": "m31",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g4",
+      "prev_id": "m32",
+      "next_id": "m39"
+    },
+    {
+      "memory_id": "m39",
+      "group_id": "g4",
+      "prev_id": "m38",
+      "next_id": "m40"
+    },
+    {
+      "memory_id": "m40",
+      "group_id": "g4",
+      "prev_id": "m39",
+      "next_id": "m42"
+    },
+    {
+      "memory_id": "m42",
+      "group_id": "g4",
+      "prev_id": "m40",
+      "next_id": "m45"
+    },
+    {
+      "memory_id": "m45",
+      "group_id": "g4",
+      "prev_id": "m42",
+      "next_id": "m46"
+    },
+    {
+      "memory_id": "m46",
+      "group_id": "g4",
+      "prev_id": "m45",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g4",
+      "prev_id": "m46",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g4",
+      "prev_id": "m48",
+      "next_id": "m50"
+    },
+    {
+      "memory_id": "m50",
+      "group_id": "g4",
+      "prev_id": "m49",
+      "next_id": "m53"
+    },
+    {
+      "memory_id": "m53",
+      "group_id": "g4",
+      "prev_id": "m50",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g4",
+      "prev_id": "m53",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g4",
+      "prev_id": "m54",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g4",
+      "prev_id": "m56",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g4",
+      "prev_id": "m59",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g4",
+      "prev_id": "m60",
+      "next_id": "m65"
+    },
+    {
+      "memory_id": "m65",
+      "group_id": "g4",
+      "prev_id": "m61",
+      "next_id": "m66"
+    },
+    {
+      "memory_id": "m66",
+      "group_id": "g4",
+      "prev_id": "m65",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g4",
+      "prev_id": "m66",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g4",
+      "prev_id": "m67",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g4",
+      "prev_id": "m68",
+      "next_id": "m73"
+    },
+    {
+      "memory_id": "m73",
+      "group_id": "g4",
+      "prev_id": "m70",
+      "next_id": "m74"
+    },
+    {
+      "memory_id": "m74",
+      "group_id": "g4",
+      "prev_id": "m73",
+      "next_id": null
+    },
+    {
+      "memory_id": "m5",
+      "group_id": "g5",
+      "prev_id": null,
+      "next_id": "m14"
+    },
+    {
+      "memory_id": "m14",
+      "group_id": "g5",
+      "prev_id": "m5",
+      "next_id": "m16"
+    },
+    {
+      "memory_id": "m16",
+      "group_id": "g5",
+      "prev_id": "m14",
+      "next_id": "m23"
+    },
+    {
+      "memory_id": "m23",
+      "group_id": "g5",
+      "prev_id": "m16",
+      "next_id": "m24"
+    },
+    {
+      "memory_id": "m24",
+      "group_id": "g5",
+      "prev_id": "m23",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g5",
+      "prev_id": "m24",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g5",
+      "prev_id": "m29",
+      "next_id": "m33"
+    },
+    {
+      "memory_id": "m33",
+      "group_id": "g5",
+      "prev_id": "m30",
+      "next_id": "m34"
+    },
+    {
+      "memory_id": "m34",
+      "group_id": "g5",
+      "prev_id": "m33",
+      "next_id": "m35"
+    },
+    {
+      "memory_id": "m35",
+      "group_id": "g5",
+      "prev_id": "m34",
+      "next_id": "m36"
+    },
+    {
+      "memory_id": "m36",
+      "group_id": "g5",
+      "prev_id": "m35",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g5",
+      "prev_id": "m36",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g5",
+      "prev_id": "m38",
+      "next_id": "m52"
+    },
+    {
+      "memory_id": "m52",
+      "group_id": "g5",
+      "prev_id": "m48",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g5",
+      "prev_id": "m52",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g5",
+      "prev_id": "m54",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g5",
+      "prev_id": "m59",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g5",
+      "prev_id": "m60",
+      "next_id": "m62"
+    },
+    {
+      "memory_id": "m62",
+      "group_id": "g5",
+      "prev_id": "m61",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g5",
+      "prev_id": "m62",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g5",
+      "prev_id": "m67",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g5",
+      "prev_id": "m68",
+      "next_id": "m71"
+    },
+    {
+      "memory_id": "m71",
+      "group_id": "g5",
+      "prev_id": "m70",
+      "next_id": "m72"
+    },
+    {
+      "memory_id": "m72",
+      "group_id": "g5",
+      "prev_id": "m71",
+      "next_id": null
+    },
+    {
+      "memory_id": "m6",
+      "group_id": "g6",
+      "prev_id": null,
+      "next_id": "m12"
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g6",
+      "prev_id": "m6",
+      "next_id": "m13"
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g6",
+      "prev_id": "m12",
+      "next_id": "m14"
+    },
+    {
+      "memory_id": "m14",
+      "group_id": "g6",
+      "prev_id": "m13",
+      "next_id": "m17"
+    },
+    {
+      "memory_id": "m17",
+      "group_id": "g6",
+      "prev_id": "m14",
+      "next_id": "m18"
+    },
+    {
+      "memory_id": "m18",
+      "group_id": "g6",
+      "prev_id": "m17",
+      "next_id": "m19"
+    },
+    {
+      "memory_id": "m19",
+      "group_id": "g6",
+      "prev_id": "m18",
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g6",
+      "prev_id": "m19",
+      "next_id": "m21"
+    },
+    {
+      "memory_id": "m21",
+      "group_id": "g6",
+      "prev_id": "m20",
+      "next_id": "m22"
+    },
+    {
+      "memory_id": "m22",
+      "group_id": "g6",
+      "prev_id": "m21",
+      "next_id": "m23"
+    },
+    {
+      "memory_id": "m23",
+      "group_id": "g6",
+      "prev_id": "m22",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g6",
+      "prev_id": "m23",
+      "next_id": "m31"
+    },
+    {
+      "memory_id": "m31",
+      "group_id": "g6",
+      "prev_id": "m29",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g6",
+      "prev_id": "m31",
+      "next_id": "m36"
+    },
+    {
+      "memory_id": "m36",
+      "group_id": "g6",
+      "prev_id": "m32",
+      "next_id": "m37"
+    },
+    {
+      "memory_id": "m37",
+      "group_id": "g6",
+      "prev_id": "m36",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g6",
+      "prev_id": "m37",
+      "next_id": "m42"
+    },
+    {
+      "memory_id": "m42",
+      "group_id": "g6",
+      "prev_id": "m38",
+      "next_id": "m43"
+    },
+    {
+      "memory_id": "m43",
+      "group_id": "g6",
+      "prev_id": "m42",
+      "next_id": "m44"
+    },
+    {
+      "memory_id": "m44",
+      "group_id": "g6",
+      "prev_id": "m43",
+      "next_id": "m47"
+    },
+    {
+      "memory_id": "m47",
+      "group_id": "g6",
+      "prev_id": "m44",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g6",
+      "prev_id": "m47",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g6",
+      "prev_id": "m48",
+      "next_id": "m55"
+    },
+    {
+      "memory_id": "m55",
+      "group_id": "g6",
+      "prev_id": "m54",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g6",
+      "prev_id": "m55",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g6",
+      "prev_id": "m56",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g6",
+      "prev_id": "m59",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g6",
+      "prev_id": "m60",
+      "next_id": "m62"
+    },
+    {
+      "memory_id": "m62",
+      "group_id": "g6",
+      "prev_id": "m61",
+      "next_id": "m63"
+    },
+    {
+      "memory_id": "m63",
+      "group_id": "g6",
+      "prev_id": "m62",
+      "next_id": "m64"
+    },
+    {
+      "memory_id": "m64",
+      "group_id": "g6",
+      "prev_id": "m63",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g6",
+      "prev_id": "m64",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g6",
+      "prev_id": "m67",
+      "next_id": "m69"
+    },
+    {
+      "memory_id": "m69",
+      "group_id": "g6",
+      "prev_id": "m68",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g6",
+      "prev_id": "m69",
+      "next_id": null
+    },
+    {
+      "memory_id": "m7",
+      "group_id": "g7",
+      "prev_id": null,
+      "next_id": "m31"
+    },
+    {
+      "memory_id": "m31",
+      "group_id": "g7",
+      "prev_id": "m7",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g7",
+      "prev_id": "m31",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g7",
+      "prev_id": "m32",
+      "next_id": "m43"
+    },
+    {
+      "memory_id": "m43",
+      "group_id": "g7",
+      "prev_id": "m38",
+      "next_id": "m44"
+    },
+    {
+      "memory_id": "m44",
+      "group_id": "g7",
+      "prev_id": "m43",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g7",
+      "prev_id": "m44",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g7",
+      "prev_id": "m48",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g7",
+      "prev_id": "m54",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g7",
+      "prev_id": "m59",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g7",
+      "prev_id": "m60",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g7",
+      "prev_id": "m61",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g7",
+      "prev_id": "m67",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g7",
+      "prev_id": "m68",
+      "next_id": null
+    },
+    {
+      "memory_id": "m8",
+      "group_id": "g8",
+      "prev_id": null,
+      "next_id": "m13"
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g8",
+      "prev_id": "m8",
+      "next_id": "m14"
+    },
+    {
+      "memory_id": "m14",
+      "group_id": "g8",
+      "prev_id": "m13",
+      "next_id": "m18"
+    },
+    {
+      "memory_id": "m18",
+      "group_id": "g8",
+      "prev_id": "m14",
+      "next_id": "m21"
+    },
+    {
+      "memory_id": "m21",
+      "group_id": "g8",
+      "prev_id": "m18",
+      "next_id": "m22"
+    },
+    {
+      "memory_id": "m22",
+      "group_id": "g8",
+      "prev_id": "m21",
+      "next_id": "m24"
+    },
+    {
+      "memory_id": "m24",
+      "group_id": "g8",
+      "prev_id": "m22",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g8",
+      "prev_id": "m24",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g8",
+      "prev_id": "m29",
+      "next_id": "m33"
+    },
+    {
+      "memory_id": "m33",
+      "group_id": "g8",
+      "prev_id": "m30",
+      "next_id": "m34"
+    },
+    {
+      "memory_id": "m34",
+      "group_id": "g8",
+      "prev_id": "m33",
+      "next_id": "m35"
+    },
+    {
+      "memory_id": "m35",
+      "group_id": "g8",
+      "prev_id": "m34",
+      "next_id": "m36"
+    },
+    {
+      "memory_id": "m36",
+      "group_id": "g8",
+      "prev_id": "m35",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g8",
+      "prev_id": "m36",
+      "next_id": "m42"
+    },
+    {
+      "memory_id": "m42",
+      "group_id": "g8",
+      "prev_id": "m38",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g8",
+      "prev_id": "m42",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g8",
+      "prev_id": "m48",
+      "next_id": "m51"
+    },
+    {
+      "memory_id": "m51",
+      "group_id": "g8",
+      "prev_id": "m49",
+      "next_id": "m52"
+    },
+    {
+      "memory_id": "m52",
+      "group_id": "g8",
+      "prev_id": "m51",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g8",
+      "prev_id": "m52",
+      "next_id": "m55"
+    },
+    {
+      "memory_id": "m55",
+      "group_id": "g8",
+      "prev_id": "m54",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g8",
+      "prev_id": "m55",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g8",
+      "prev_id": "m56",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g8",
+      "prev_id": "m59",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g8",
+      "prev_id": "m60",
+      "next_id": "m62"
+    },
+    {
+      "memory_id": "m62",
+      "group_id": "g8",
+      "prev_id": "m61",
+      "next_id": "m64"
+    },
+    {
+      "memory_id": "m64",
+      "group_id": "g8",
+      "prev_id": "m62",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g8",
+      "prev_id": "m64",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g8",
+      "prev_id": "m67",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g8",
+      "prev_id": "m68",
+      "next_id": "m71"
+    },
+    {
+      "memory_id": "m71",
+      "group_id": "g8",
+      "prev_id": "m70",
+      "next_id": "m72"
+    },
+    {
+      "memory_id": "m72",
+      "group_id": "g8",
+      "prev_id": "m71",
+      "next_id": null
+    },
+    {
+      "memory_id": "m9",
+      "group_id": "g9",
+      "prev_id": null,
+      "next_id": "m19"
+    },
+    {
+      "memory_id": "m19",
+      "group_id": "g9",
+      "prev_id": "m9",
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g9",
+      "prev_id": "m19",
+      "next_id": "m26"
+    },
+    {
+      "memory_id": "m26",
+      "group_id": "g9",
+      "prev_id": "m20",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g9",
+      "prev_id": "m26",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g9",
+      "prev_id": "m32",
+      "next_id": "m39"
+    },
+    {
+      "memory_id": "m39",
+      "group_id": "g9",
+      "prev_id": "m38",
+      "next_id": "m40"
+    },
+    {
+      "memory_id": "m40",
+      "group_id": "g9",
+      "prev_id": "m39",
+      "next_id": "m45"
+    },
+    {
+      "memory_id": "m45",
+      "group_id": "g9",
+      "prev_id": "m40",
+      "next_id": "m46"
+    },
+    {
+      "memory_id": "m46",
+      "group_id": "g9",
+      "prev_id": "m45",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g9",
+      "prev_id": "m46",
+      "next_id": "m50"
+    },
+    {
+      "memory_id": "m50",
+      "group_id": "g9",
+      "prev_id": "m48",
+      "next_id": "m53"
+    },
+    {
+      "memory_id": "m53",
+      "group_id": "g9",
+      "prev_id": "m50",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g9",
+      "prev_id": "m53",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g9",
+      "prev_id": "m54",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g9",
+      "prev_id": "m59",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g9",
+      "prev_id": "m60",
+      "next_id": "m65"
+    },
+    {
+      "memory_id": "m65",
+      "group_id": "g9",
+      "prev_id": "m61",
+      "next_id": "m66"
+    },
+    {
+      "memory_id": "m66",
+      "group_id": "g9",
+      "prev_id": "m65",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g9",
+      "prev_id": "m66",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g9",
+      "prev_id": "m67",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g9",
+      "prev_id": "m68",
+      "next_id": "m73"
+    },
+    {
+      "memory_id": "m73",
+      "group_id": "g9",
+      "prev_id": "m70",
+      "next_id": "m74"
+    },
+    {
+      "memory_id": "m74",
+      "group_id": "g9",
+      "prev_id": "m73",
+      "next_id": null
+    },
+    {
+      "memory_id": "m10",
+      "group_id": "g10",
+      "prev_id": null,
+      "next_id": "m26"
+    },
+    {
+      "memory_id": "m26",
+      "group_id": "g10",
+      "prev_id": "m10",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g10",
+      "prev_id": "m26",
+      "next_id": "m40"
+    },
+    {
+      "memory_id": "m40",
+      "group_id": "g10",
+      "prev_id": "m38",
+      "next_id": "m42"
+    },
+    {
+      "memory_id": "m42",
+      "group_id": "g10",
+      "prev_id": "m40",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g10",
+      "prev_id": "m42",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g10",
+      "prev_id": "m48",
+      "next_id": "m50"
+    },
+    {
+      "memory_id": "m50",
+      "group_id": "g10",
+      "prev_id": "m49",
+      "next_id": "m53"
+    },
+    {
+      "memory_id": "m53",
+      "group_id": "g10",
+      "prev_id": "m50",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g10",
+      "prev_id": "m53",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g10",
+      "prev_id": "m54",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g10",
+      "prev_id": "m56",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g10",
+      "prev_id": "m59",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g10",
+      "prev_id": "m60",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g10",
+      "prev_id": "m61",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g10",
+      "prev_id": "m67",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g10",
+      "prev_id": "m68",
+      "next_id": "m74"
+    },
+    {
+      "memory_id": "m74",
+      "group_id": "g10",
+      "prev_id": "m70",
+      "next_id": null
+    }
+  ],
+  "completed_periods": [
+    "period_00",
+    "period_01",
+    "period_02",
+    "period_03",
+    "period_04",
+    "period_05",
+    "period_06",
+    "period_07",
+    "period_08",
+    "period_09"
+  ],
+  "budget": {
+    "before_tokens": 9363,
+    "filtered_ids": [
+      "m1",
+      "m10",
+      "m11",
+      "m12",
+      "m13",
+      "m14",
+      "m15",
+      "m16",
+      "m17",
+      "m18",
+      "m2",
+      "m3",
+      "m4",
+      "m5",
+      "m6",
+      "m7",
+      "m8",
+      "m9"
+    ],
+    "second_filtered_ids": [],
+    "batches": [
+      {
+        "pass_index": 1,
+        "period_index": 0,
+        "before_tokens": 9363,
+        "after_tokens": 9276,
+        "changes": [
+          {
+            "memory_id": "m1",
+            "period_index": 0,
+            "before_tokens": 58,
+            "proposed_tokens": 40,
+            "after_tokens": 40,
+            "saved_tokens": 18,
+            "accepted": true
+          },
+          {
+            "memory_id": "m4",
+            "period_index": 0,
+            "before_tokens": 55,
+            "proposed_tokens": 42,
+            "after_tokens": 42,
+            "saved_tokens": 13,
+            "accepted": true
+          },
+          {
+            "memory_id": "m7",
+            "period_index": 0,
+            "before_tokens": 55,
+            "proposed_tokens": 50,
+            "after_tokens": 50,
+            "saved_tokens": 5,
+            "accepted": true
+          },
+          {
+            "memory_id": "m10",
+            "period_index": 0,
+            "before_tokens": 53,
+            "proposed_tokens": 47,
+            "after_tokens": 47,
+            "saved_tokens": 6,
+            "accepted": true
+          },
+          {
+            "memory_id": "m6",
+            "period_index": 0,
+            "before_tokens": 52,
+            "proposed_tokens": 43,
+            "after_tokens": 43,
+            "saved_tokens": 9,
+            "accepted": true
+          },
+          {
+            "memory_id": "m5",
+            "period_index": 0,
+            "before_tokens": 50,
+            "proposed_tokens": 41,
+            "after_tokens": 41,
+            "saved_tokens": 9,
+            "accepted": true
+          },
+          {
+            "memory_id": "m2",
+            "period_index": 0,
+            "before_tokens": 47,
+            "proposed_tokens": 41,
+            "after_tokens": 41,
+            "saved_tokens": 6,
+            "accepted": true
+          },
+          {
+            "memory_id": "m8",
+            "period_index": 0,
+            "before_tokens": 46,
+            "proposed_tokens": 38,
+            "after_tokens": 38,
+            "saved_tokens": 8,
+            "accepted": true
+          },
+          {
+            "memory_id": "m3",
+            "period_index": 0,
+            "before_tokens": 45,
+            "proposed_tokens": 40,
+            "after_tokens": 40,
+            "saved_tokens": 5,
+            "accepted": true
+          },
+          {
+            "memory_id": "m9",
+            "period_index": 0,
+            "before_tokens": 45,
+            "proposed_tokens": 37,
+            "after_tokens": 37,
+            "saved_tokens": 8,
+            "accepted": true
+          }
+        ]
+      },
+      {
+        "pass_index": 1,
+        "period_index": 1,
+        "before_tokens": 9276,
+        "after_tokens": 8742,
+        "changes": [
+          {
+            "memory_id": "m14",
+            "period_index": 1,
+            "before_tokens": 275,
+            "proposed_tokens": 89,
+            "after_tokens": 89,
+            "saved_tokens": 186,
+            "accepted": true
+          },
+          {
+            "memory_id": "m12",
+            "period_index": 1,
+            "before_tokens": 259,
+            "proposed_tokens": 111,
+            "after_tokens": 111,
+            "saved_tokens": 148,
+            "accepted": true
+          },
+          {
+            "memory_id": "m16",
+            "period_index": 1,
+            "before_tokens": 149,
+            "proposed_tokens": 70,
+            "after_tokens": 70,
+            "saved_tokens": 79,
+            "accepted": true
+          },
+          {
+            "memory_id": "m18",
+            "period_index": 1,
+            "before_tokens": 117,
+            "proposed_tokens": 26,
+            "after_tokens": 26,
+            "saved_tokens": 91,
+            "accepted": true
+          },
+          {
+            "memory_id": "m11",
+            "period_index": 1,
+            "before_tokens": 60,
+            "proposed_tokens": 53,
+            "after_tokens": 53,
+            "saved_tokens": 7,
+            "accepted": true
+          },
+          {
+            "memory_id": "m13",
+            "period_index": 1,
+            "before_tokens": 59,
+            "proposed_tokens": 48,
+            "after_tokens": 48,
+            "saved_tokens": 11,
+            "accepted": true
+          },
+          {
+            "memory_id": "m17",
+            "period_index": 1,
+            "before_tokens": 53,
+            "proposed_tokens": 46,
+            "after_tokens": 46,
+            "saved_tokens": 7,
+            "accepted": true
+          },
+          {
+            "memory_id": "m15",
+            "period_index": 1,
+            "before_tokens": 51,
+            "proposed_tokens": 46,
+            "after_tokens": 46,
+            "saved_tokens": 5,
+            "accepted": true
+          }
+        ]
+      }
+    ],
+    "ready_for_evaluation": true
+  }
+}

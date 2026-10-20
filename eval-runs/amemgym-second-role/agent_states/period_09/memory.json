@@ -1,0 +1,2080 @@
+{
+  "nodes": {
+    "m1": {
+      "memory_id": "m1",
+      "group_ids": [
+        "g1"
+      ],
+      "topics": [
+        "team_motivation",
+        "workload_management"
+      ],
+      "raw_text": "[Current Time: 2020-09-21 20:20:03]\nCan you suggest strategies for keeping a medium-sized audit team motivated and productive when I'm working 40 to 55 hours a week?",
+      "created_at": "2026-10-11T15:37:30+08:00",
+      "period_index": 0
+    },
+    "m2": {
+      "memory_id": "m2",
+      "group_ids": [
+        "g2"
+      ],
+      "topics": [
+        "social_events",
+        "boston_activities"
+      ],
+      "raw_text": "[Current Time: 2020-09-22 21:51:39]\nWhat are some fun group activities or events in Boston that happen most weekends and are great for someone who likes to socialize often?",
+      "created_at": "2026-10-11T15:37:30+08:00",
+      "period_index": 0
+    },
+    "m3": {
+      "memory_id": "m3",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "audit_team_leading",
+        "accounting_firm_practices"
+      ],
+      "raw_text": "[Current Time: 2020-09-23 21:48:53]\nWhat are the latest best practices for supervisors leading audit teams in accounting firms?",
+      "created_at": "2026-10-11T15:37:31+08:00",
+      "period_index": 0
+    },
+    "m4": {
+      "memory_id": "m4",
+      "group_ids": [
+        "g4"
+      ],
+      "topics": [
+        "process_improvement",
+        "workplace_efficiency"
+      ],
+      "raw_text": "[Current Time: 2020-09-24 20:38:45]\nHow can I implement process improvements in a department with 10 to 30 staff members without disrupting daily operations?",
+      "created_at": "2026-10-11T15:37:32+08:00",
+      "period_index": 0
+    },
+    "m5": {
+      "memory_id": "m5",
+      "group_ids": [
+        "g5"
+      ],
+      "topics": [
+        "historical_tours",
+        "group_travel"
+      ],
+      "raw_text": "[Current Time: 2020-09-25 21:37:39]\nCan you recommend historical tours in Boston that work well for groups of 5 to 10 people and last around 3 to 4 hours?",
+      "created_at": "2026-10-11T15:37:33+08:00",
+      "period_index": 0
+    },
+    "m6": {
+      "memory_id": "m6",
+      "group_ids": [
+        "g6"
+      ],
+      "topics": [
+        "hiking_trails",
+        "new_england_hiking"
+      ],
+      "raw_text": "[Current Time: 2020-09-26 19:52:30]\nWhat are some intermediate-level hiking trails in New England that are popular with hiking clubs or groups of friends?",
+      "created_at": "2026-10-11T15:37:34+08:00",
+      "period_index": 0
+    },
+    "m7": {
+      "memory_id": "m7",
+      "group_ids": [
+        "g7"
+      ],
+      "topics": [
+        "art_decoration",
+        "budget_art"
+      ],
+      "raw_text": "[Current Time: 2020-09-27 19:18:59]\nCan you suggest contemporary art pieces or prints suitable for decorating a shared apartment on a $200 to $500 budget?",
+      "created_at": "2026-10-11T15:37:35+08:00",
+      "period_index": 0
+    },
+    "m8": {
+      "memory_id": "m8",
+      "group_ids": [
+        "g8"
+      ],
+      "topics": [
+        "risk_management_software",
+        "accounting_firm"
+      ],
+      "raw_text": "[Current Time: 2020-09-28 19:12:30]\nWhat are some affordable risk management software options for a mid-sized regional accounting firm?",
+      "created_at": "2026-10-11T15:37:36+08:00",
+      "period_index": 0
+    },
+    "m9": {
+      "memory_id": "m9",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "community_garden_project",
+        "project_leading"
+      ],
+      "raw_text": "[Current Time: 2020-09-29 20:02:13]\nHow can I make the most impact as a project lead in a community garden if I can dedicate 3 to 5 hours per week?",
+      "created_at": "2026-10-11T15:37:37+08:00",
+      "period_index": 0
+    },
+    "m10": {
+      "memory_id": "m10",
+      "group_ids": [
+        "g10"
+      ],
+      "topics": [
+        "lasagna_recipe",
+        "home_cooking"
+      ],
+      "raw_text": "[Current Time: 2020-09-30 20:19:01]\nDo you have a classic meat lasagna recipe that's perfect for serving 4 to 6 people at a casual dinner?",
+      "created_at": "2026-10-11T15:37:37+08:00",
+      "period_index": 0
+    },
+    "m11": {
+      "memory_id": "m11",
+      "group_ids": [
+        "g11"
+      ],
+      "topics": [
+        "irish_music_festivals",
+        "traditional_contemporary_events"
+      ],
+      "raw_text": "[Current Time: 2020-10-01 19:21:47]\nWhich medium-sized Irish music festivals in New England offer a good mix of traditional and contemporary acts?",
+      "created_at": "2026-10-11T15:37:38+08:00",
+      "period_index": 0
+    },
+    "m12": {
+      "memory_id": "m12",
+      "group_ids": [
+        "g1",
+        "g3",
+        "g4"
+      ],
+      "topics": [
+        "managerial_team_growth",
+        "process_improvement_strategies"
+      ],
+      "raw_text": "[Current Time: 2020-12-31 20:03:34]\nI’ve just taken on a managerial role overseeing a large audit team—now more than a dozen accountants—after our department expanded to over 30 staff members due to a recent merger. As the manager, I’m responsible for leading process improvements across this bigger department. What strategies can I use to effectively support both junior and senior team members in this new, larger environment?",
+      "created_at": "2026-10-11T15:38:51+08:00",
+      "period_index": 1
+    },
+    "m13": {
+      "memory_id": "m13",
+      "group_ids": [
+        "g1",
+        "g3",
+        "g4"
+      ],
+      "topics": [
+        "merger_integration",
+        "organizational_change_management",
+        "employee_engagement"
+      ],
+      "raw_text": "Thanks—this is really practical, especially the pod-lead structure and freezing major changes during busy season. I’m still thinking through the people side of the merger. How would you approach the listening tour so it doesn’t turn into a complaint session or unintentionally undermine the managers who were already in place? And with a hybrid setup, what’s the best way to keep skip-levels and the Process Improvement Council from feeling like just more meetings rather than useful outlets?",
+      "created_at": "2026-10-11T15:38:54+08:00",
+      "period_index": 1
+    },
+    "m14": {
+      "memory_id": "m14",
+      "group_ids": [
+        "g7"
+      ],
+      "topics": [
+        "art_curation",
+        "budget_home_decor"
+      ],
+      "raw_text": "[Current Time: 2021-01-01 19:27:34]\nI’ve recently spent well over $500 upgrading my apartment’s art display—purchasing several original contemporary pieces, investing in high-quality framing, and installing better lighting. Now, I’m looking for creative tips to curate and showcase my collection so it really stands out, but I want to avoid spending much more on additional home decor. What are some impactful yet budget-conscious ways to maximize what I already have?",
+      "created_at": "2026-10-11T15:38:55+08:00",
+      "period_index": 1
+    },
+    "m15": {
+      "memory_id": "m15",
+      "group_ids": [
+        "g7"
+      ],
+      "topics": [
+        "art_arrangement",
+        "space_utilization",
+        "storage_solutions"
+      ],
+      "raw_text": "Thanks—this gives me a lot to work with. I have six pieces: two larger canvases (roughly 24x36 and 30x40) and four smaller framed works (mostly 11x14 and 12x16). The main wall is about 10 feet wide and 9 feet high, with a sofa centered under it; there’s also a narrow hallway wall about 7 feet wide. Could you suggest a specific arrangement for those? Also, since I’m trying not to buy anything else, how would you handle a corner where two walls meet—can I use the same pieces to define both sides without it feeling cluttered? And what’s the safest way to store pieces when I rotate them out?",
+      "created_at": "2026-10-11T15:38:57+08:00",
+      "period_index": 1
+    },
+    "m16": {
+      "memory_id": "m16",
+      "group_ids": [
+        "g3",
+        "g1",
+        "g4",
+        "g8"
+      ],
+      "topics": [
+        "accounting_transition",
+        "client_advisory_skills"
+      ],
+      "raw_text": "[Current Time: 2021-03-29 20:43:47]\nCan you help me find resources or best practices for transitioning from audit work to more consultative client advisory roles in accounting? I’ve recently started collaborating with senior consultants to develop financial strategies for mid-sized businesses and want to make sure I’m building the right skill set.",
+      "created_at": "2026-10-11T15:39:31+08:00",
+      "period_index": 2
+    },
+    "m17": {
+      "memory_id": "m17",
+      "group_ids": [
+        "g3",
+        "g1",
+        "g4",
+        "g8"
+      ],
+      "topics": [
+        "career_development",
+        "mentorship_strategies",
+        "advisory_portfolio"
+      ],
+      "raw_text": "This is really helpful—thank you. I’m at a firm without a formal advisory track, so I’m trying to carve out opportunities while still handling my audit responsibilities. Could you suggest how to approach a mentor or sponsor in that kind of environment? And what’s a realistic way to start building a client-facing advisory portfolio when most of my current work is still audit engagements?",
+      "created_at": "2026-10-11T15:39:34+08:00",
+      "period_index": 2
+    },
+    "m18": {
+      "memory_id": "m18",
+      "group_ids": [
+        "g10",
+        "g2"
+      ],
+      "topics": [
+        "dinner_party_planning",
+        "home_event_hosting",
+        "meal_preparation"
+      ],
+      "raw_text": "[Current Time: 2021-03-30 20:15:54]\nWhat are some creative ways to host larger dinner parties at home, especially when I want to serve homemade lasagna to groups of eight or more? I’m looking for tips on menu planning and keeping the gatherings lively for a mix of friends and colleagues.",
+      "created_at": "2026-10-11T15:39:36+08:00",
+      "period_index": 2
+    },
+    "m19": {
+      "memory_id": "m19",
+      "group_ids": [
+        "g10",
+        "g2"
+      ],
+      "topics": [
+        "event_hosting",
+        "meal_preparation",
+        "social_event_planning"
+      ],
+      "raw_text": "Thanks—this is really useful. I’m leaning toward the lasagna bar format with two different pans so guests can customize, and I like the idea of starting with an aperitivo hour. A couple of practical follow-ups: if I’m working with one oven, how would you stagger baking two lasagnas plus garlic bread so everything is hot when people sit down? And for a mixed group where some guests arrive early and others late, how do you keep the drinks/appetizer phase from dragging or getting awkward? Also, do you have any favorite non-alcoholic batch drink ideas that would still feel special alongside Italian food?",
+      "created_at": "2026-10-11T15:39:39+08:00",
+      "period_index": 2
+    },
+    "m20": {
+      "memory_id": "m20",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "community_garden_expansion",
+        "project_coordination"
+      ],
+      "raw_text": "[Current Time: 2021-03-31 21:03:48]\nDo you have suggestions for efficiently coordinating a community garden expansion project? I’ve taken on a bigger role this spring, managing the installation of new raised beds and irrigation, and I’m spending several evenings and weekend mornings each week on planning and supervision.",
+      "created_at": "2026-10-11T15:39:41+08:00",
+      "period_index": 2
+    },
+    "m21": {
+      "memory_id": "m21",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "construction_planning",
+        "soil_delivery_logistics",
+        "land_zoning"
+      ],
+      "raw_text": "Thanks—this is exactly the level of detail I needed. We're aiming for 14 new 4x8 beds and replacing two old zones. Our water is a single municipal spigot by the tool shed; I haven't measured static pressure or GPM yet, but I can do that soon. How would you zone that, and what would your starter parts list look like? Also, any tips for coordinating a soil delivery when the garden has a narrow gate and no vehicle access inside the fence? That's the part I'm most worried about slowing down a workday.",
+      "created_at": "2026-10-11T15:39:43+08:00",
+      "period_index": 2
+    },
+    "m22": {
+      "memory_id": "m22",
+      "group_ids": [
+        "g5",
+        "g2"
+      ],
+      "topics": [
+        "historical_walking_tours",
+        "group_event_participation"
+      ],
+      "raw_text": "[Current Time: 2021-04-01 21:53:35]\nCan you recommend strategies for making the most of city-wide historical walking tours that attract larger groups? I’ve started joining tours with more than a dozen participants and want to connect with fellow local history enthusiasts during these events.",
+      "created_at": "2026-10-11T15:39:44+08:00",
+      "period_index": 2
+    },
+    "m23": {
+      "memory_id": "m23",
+      "group_ids": [
+        "g5",
+        "g2"
+      ],
+      "topics": [
+        "community_vetting",
+        "event_follow_up"
+      ],
+      "raw_text": "This is really practical—especially the point about repeat attendance over novelty. I’m based near Boston, so I have the MFA and a few historical sites on my radar, but I’m less sure how to identify the organizations that actually have a regular core of locals. How would you vet a historical society or walking-tour group for that kind of recurring community before investing a lot of time in it?\n\nAlso, when you propose a concrete next event, how do you handle it if the other person says yes but then goes quiet—do you follow up once and let it go, or is there a better way to keep the door open without pressure?",
+      "created_at": "2026-10-11T15:39:46+08:00",
+      "period_index": 2
+    },
+    "m24": {
+      "memory_id": "m24",
+      "group_ids": [
+        "g2",
+        "g10",
+        "g7"
+      ],
+      "topics": [
+        "home_relaxation",
+        "downtime_activities"
+      ],
+      "raw_text": "[Current Time: 2021-06-29 20:39:37]\nNow that my work schedule has eased up and I'm working less than 40 hours a week, I've found myself spending more evenings at home, especially on Fridays. Since I only go out or socialize occasionally, could you suggest some relaxing activities I can enjoy at home to make the most of my downtime?",
+      "created_at": "2026-10-11T15:40:19+08:00",
+      "period_index": 3
+    },
+    "m25": {
+      "memory_id": "m25",
+      "group_ids": [
+        "g5",
+        "g2",
+        "g7"
+      ],
+      "topics": [
+        "art_rehang",
+        "watercolor_tutorial",
+        "local_history"
+      ],
+      "raw_text": "That's really useful—especially the point about not turning Friday into a second job. I can already see myself making a color-coded schedule and then dreading it. The art rehang and watercolor ideas appeal most, but they also feel a bit intimidating because I have a habit of wanting to do things properly rather than just play. What would a low-pressure first attempt look like? For the art rehang, would you start with one wall at a time, or pull everything down and live with the blank space for a bit? For watercolor, what's a minimal starter kit and a first exercise that's more about texture and color than drawing skill? I also like the local history reading and virtual lecture angle. Are there any specific Boston-area lecture series or archives that are good for short, Friday-evening-sized sessions? And when you say give activities three honest tries, how do you keep the third try from feeling like an obligation if the first two were just okay?",
+      "created_at": "2026-10-11T15:40:22+08:00",
+      "period_index": 3
+    },
+    "m26": {
+      "memory_id": "m26",
+      "group_ids": [
+        "g6"
+      ],
+      "topics": [
+        "hiking_routes",
+        "advanced_hiking"
+      ],
+      "raw_text": "[Current Time: 2021-06-30 19:44:24]\nWhat are some advanced hiking routes in New England you’d recommend for experienced hikers looking for a challenge?",
+      "created_at": "2026-10-11T15:40:24+08:00",
+      "period_index": 3
+    },
+    "m27": {
+      "memory_id": "m27",
+      "group_ids": [
+        "g6"
+      ],
+      "topics": [
+        "hiking_progression",
+        "trail_reservations"
+      ],
+      "raw_text": "That’s exactly the kind of list I was after. To narrow it: I’m thinking late summer into early fall, mostly day hikes with possibly one overnight, and I’m comfortable with sustained Class 3 scrambling when it’s dry—not looking to push into Class 4 or wet slab. Could you sketch a sensible three-route progression that builds from something like Franconia Ridge or the Bonds up to Huntington and then the Presidential Traverse?\n\nAlso, with the 2021 logistics you mentioned, which of those actually require reservations versus just a very early start? Baxter and Acadia sound permit-sensitive, but I’m less clear on whether AMC hut capacity is making the Presi Traverse much harder to plan as an overnight this season.",
+      "created_at": "2026-10-11T15:40:26+08:00",
+      "period_index": 3
+    },
+    "m28": {
+      "memory_id": "m28",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "community_gardening_workshop",
+        "volunteer_engagement"
+      ],
+      "raw_text": "[Current Time: 2021-07-01 20:41:05]\nCan you help me plan engaging topics and hands-on activities for my next community gardening workshop with new volunteers?",
+      "created_at": "2026-10-11T15:40:28+08:00",
+      "period_index": 3
+    },
+    "m29": {
+      "memory_id": "m29",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "garden_volunteer_training",
+        "compost_system",
+        "drip_irrigation_tutorial"
+      ],
+      "raw_text": "That's really helpful—thank you for laying it out so clearly. For your question: we have about 14 volunteers signed up, and most are brand new to the garden. The beds are currently heavy on tomatoes (cherry and slicing), peppers, zucchini, cucumbers, bush beans, kale, chard, basil, and some overwintered garlic that's ready to pull. We also have a small herb spiral and a three-bin compost system. Given that mix, which three stations would you pick, and could you draft the one-page handout you mentioned? Also, one specific thing: our drip system is a bit older—do you have a simple way to teach the leak walk without people accidentally breaking emitters? Maybe a checklist or a demo sequence?",
+      "created_at": "2026-10-11T15:40:30+08:00",
+      "period_index": 3
+    },
+    "m30": {
+      "memory_id": "m30",
+      "group_ids": [
+        "g7",
+        "g2",
+        "g10"
+      ],
+      "topics": [
+        "art_display",
+        "gallery_events"
+      ],
+      "raw_text": "[Current Time: 2021-09-28 20:37:00]\nCan you suggest ways to display my art collection now that I've moved into a single-family home? I want to make the most of the space for my Hopper prints and host small gallery-style evenings for friends.",
+      "created_at": "2026-10-11T15:41:02+08:00",
+      "period_index": 4
+    },
+    "m31": {
+      "memory_id": "m31",
+      "group_ids": [
+        "g7"
+      ],
+      "topics": [
+        "wall_installation",
+        "lighting_system",
+        "art_display"
+      ],
+      "raw_text": "That’s really helpful—I like the idea of building actual sequences instead of scattering pieces. I’m going to start with the long hallway wall since it gets consistent indirect light and has enough run for a five-foot grouping. Two practical follow-ups: would you choose a picture rail or a gallery rod system if the walls are plaster and I want to rotate a few pieces every couple of months? And for labels, how do you word them so they feel gallery-like but not precious—title/date/medium plus a personal line, or something shorter? Also, any trick for testing glare and bulb angles before I drill or buy fixtures?",
+      "created_at": "2026-10-11T15:41:05+08:00",
+      "period_index": 4
+    },
+    "m32": {
+      "memory_id": "m32",
+      "group_ids": [
+        "g8",
+        "g3",
+        "g4"
+      ],
+      "topics": [
+        "risk_assessment_implementation",
+        "accounting_firm_training"
+      ],
+      "raw_text": "[Current Time: 2021-09-29 19:57:12]\nWhat are some best practices for rolling out a new integrated risk assessment system at my accounting firm? I’ve just finished piloting a platform that replaced our old basic software, and I’d like tips for training the team and optimizing its use.",
+      "created_at": "2026-10-11T15:41:07+08:00",
+      "period_index": 4
+    },
+    "m33": {
+      "memory_id": "m33",
+      "group_ids": [
+        "g3",
+        "g8",
+        "g4",
+        "g1"
+      ],
+      "topics": [
+        "risk_management",
+        "system_adaptation",
+        "partner_engagement"
+      ],
+      "raw_text": "Thanks—this is exactly the kind of structure I needed. To answer your question: we’re starting with client acceptance and continuance first, then engagement-level risk, and finally firm-level quality risk. On configuration, we have moderate flexibility—custom templates, fields, workflows, and role permissions are doable, but some of the vendor’s core scoring logic is fixed. Given that, how would you adapt the role-based labs and the champion buddy system for those three waves? Also, any practical tips for getting skeptical partners to review and sign off inside the system instead of asking for a PDF? That’s the resistance I’m most worried about.",
+      "created_at": "2026-10-11T15:41:09+08:00",
+      "period_index": 4
+    },
+    "m34": {
+      "memory_id": "m34",
+      "group_ids": [
+        "g6"
+      ],
+      "topics": [
+        "hiking_trails",
+        "solo_hiking"
+      ],
+      "raw_text": "[Current Time: 2021-09-30 20:12:54]\nCan you recommend challenging solo hiking trails in New England? After my trek along Franconia Ridge, I’ve started alternating between group hikes and solo adventures, and I’m looking for longer, more remote routes to try on my own.",
+      "created_at": "2026-10-11T15:41:12+08:00",
+      "period_index": 4
+    },
+    "m35": {
+      "memory_id": "m35",
+      "group_ids": [
+        "g6"
+      ],
+      "topics": [
+        "hiking_solo_planning",
+        "trail_conditions",
+        "backpacking_itineraries"
+      ],
+      "raw_text": "Thanks—this is exactly the kind of breakdown I was hoping for. To answer your question: I'm comfortable with 15–18 miles and up to about 5,000 ft of gain in a day, but I'd rather not exceed 20 miles solo if the footing is rough. Given the shorter daylight, I think my next solo objective should be an overnight rather than a huge single day. Could you work up two options for me? I'm leaning toward the Pemi Loop with a night at Guyot, but I'm also curious about the Bonds out-and-back as a long day—would that be too much for a solo day in mid-October? And for the Pemi overnight, what's the current campsite situation at Guyot and Liberty Springs? Do I need to worry about them filling up on a fall weekend? Also, if I wanted to avoid Huntington Ravine's crux slab but still get some of that ravine feel, is there a safer solo alternative nearby?",
+      "created_at": "2026-10-11T15:41:15+08:00",
+      "period_index": 4
+    },
+    "m36": {
+      "memory_id": "m36",
+      "group_ids": [
+        "g11"
+      ],
+      "topics": [
+        "irish_music_festivals",
+        "event_attendance"
+      ],
+      "raw_text": "[Current Time: 2021-10-01 21:56:57]\nWhat are some upcoming large national Irish music festivals I could attend? After experiencing the Milwaukee Irish Fest, I’m interested in exploring other major events with big crowds and renowned performers.",
+      "created_at": "2026-10-11T15:41:16+08:00",
+      "period_index": 4
+    },
+    "m37": {
+      "memory_id": "m37",
+      "group_ids": [
+        "g11",
+        "g6",
+        "g5",
+        "g2"
+      ],
+      "topics": [
+        "cultural_trip_planning",
+        "travel_itinerary",
+        "event_ticketing"
+      ],
+      "raw_text": "Thanks, this gives me a lot to work with. I'm leaning toward Dublin, Ohio, for next summer as the closest Milwaukee-scale experience. Do you know if there's any good hiking or notable art museums near Dublin that I could pair with the festival? I usually like to turn these trips into a broader cultural weekend, and I'm curious whether Columbus has anything worth building in. Also, how far in advance do tickets typically go on sale for that one?",
+      "created_at": "2026-10-11T15:41:18+08:00",
+      "period_index": 4
+    },
+    "m38": {
+      "memory_id": "m38",
+      "group_ids": [
+        "g8",
+        "g3",
+        "g4",
+        "g1"
+      ],
+      "topics": [
+        "risk_assessment",
+        "accounting_firm_procedures"
+      ],
+      "raw_text": "[Current Time: 2021-12-30 19:19:29]\nCan you help me research best practices for risk assessment in large national accounting firms? My team is now collaborating with colleagues across the country on multi-state compliance audits, and I want to make sure I'm up to speed on the latest frameworks and procedures.",
+      "created_at": "2026-10-11T15:41:50+08:00",
+      "period_index": 5
+    },
+    "m39": {
+      "memory_id": "m39",
+      "group_ids": [
+        "g8",
+        "g3",
+        "g4"
+      ],
+      "topics": [
+        "regulatory_compliance",
+        "risk_assessment",
+        "cross_office_calibration"
+      ],
+      "raw_text": "Thanks—this is exactly the level of detail I needed. To clarify: the compliance audits are mostly state regulatory exams for insurance and banking clients, plus a few contract-compliance engagements for state agencies. The states in play are Massachusetts, New York, Connecticut, Rhode Island, California, and Texas, with some Illinois and Florida work coming up. So it's less Single Audit and more regulator-by-regulator risk assessment.\n\nOn the second question: firm-level quality management sits with our central quality management function, but I'm on a cross-office working group helping map our templates against SAS 145 and SQMS No. 1. That's actually why I asked—I'm trying to figure out how to make the risk assessment process consistent without turning it into a bureaucratic checklist.\n\nGiven that mix, how would you approach integrating SAS 145's IT-focused risk assessment requirements into state regulatory exams where the regulator's own risk framework doesn't align neatly with GAAS? And what's the best way to run cross-office calibration sessions so teams in different states assess inherent risk the same way?",
+      "created_at": "2026-10-11T15:41:53+08:00",
+      "period_index": 5
+    },
+    "m40": {
+      "memory_id": "m40",
+      "group_ids": [
+        "g2",
+        "g6",
+        "g5",
+        "g11"
+      ],
+      "topics": [
+        "group_outings",
+        "hiking_trips",
+        "art_exhibitions"
+      ],
+      "raw_text": "[Current Time: 2021-12-31 21:46:20]\nCould you suggest some ideas for planning all-day group outings with friends, like hiking trips or art exhibition visits? I’m finding these longer weekend experiences really rewarding, but I’m not as available for my usual local activities.",
+      "created_at": "2026-10-11T15:41:56+08:00",
+      "period_index": 5
+    },
+    "m41": {
+      "memory_id": "m41",
+      "group_ids": [
+        "g2",
+        "g6",
+        "g5"
+      ],
+      "topics": [
+        "event_planning",
+        "group_activities",
+        "weather_backup"
+      ],
+      "raw_text": "Thanks—this is really useful. I don’t want to over-specify the headcount, but it’s usually a small reliable core who almost always show up, plus a wider ring who join for the bigger art or museum days. That’s exactly why the rotating-host idea appeals: I’m often the default organizer, and I’d like to spread it around.\n\nCould you sketch a specific monthly rotation for that kind of group? Maybe alternate an outdoor day that works for mixed abilities, a city art or history day, and a hybrid, with one person owning each month. And how would you build in a rain date or weather backup without making the whole thing feel over-planned? For winter especially, I’d like to know whether to set the museum backup at the same time as the hike or wait until closer to the date.",
+      "created_at": "2026-10-11T15:41:58+08:00",
+      "period_index": 5
+    },
+    "m42": {
+      "memory_id": "m42",
+      "group_ids": [
+        "g10",
+        "g9"
+      ],
+      "topics": [
+        "vegetarian_cuisine",
+        "community_gardening"
+      ],
+      "raw_text": "[Current Time: 2022-01-01 21:53:23]\nDo you have any tips for making vegetarian lasagna for a group? I recently adapted my family recipe for a community gardening potluck, and I’d like to keep experimenting with dishes that suit different dietary preferences.",
+      "created_at": "2026-10-11T15:42:00+08:00",
+      "period_index": 5
+    },
+    "m43": {
+      "memory_id": "m43",
+      "group_ids": [
+        "g10",
+        "g9"
+      ],
+      "topics": [
+        "umami_recipe",
+        "potluck_preparation",
+        "vegan_alternative"
+      ],
+      "raw_text": "Let’s go umami-forward—the mushroom-walnut with béchamel sounds like exactly the direction I want to try next. Could you write out the full recipe for that one? I’d like it set up for a potluck: what I can make ahead, how far in advance, and how to transport and reheat it without the béchamel breaking or getting grainy. Also, is there a simple way to make a vegan portion alongside it, or would that really need a separate pan? And I’m curious whether no-boil noodles or regular ones hold up better with a white sauce when you’re scaling it up.",
+      "created_at": "2026-10-11T15:42:03+08:00",
+      "period_index": 5
+    },
+    "m44": {
+      "memory_id": "m44",
+      "group_ids": [
+        "g1",
+        "g3",
+        "g4"
+      ],
+      "topics": [
+        "mentoring_strategies",
+        "personalized_guidance"
+      ],
+      "raw_text": "[Current Time: 2022-03-29 19:46:43]\nWith the recent reorganization at my firm, I’m now mentoring a much smaller group of junior staff. Can you suggest some effective strategies or resources for providing more personalized guidance to a select team of fewer than four mentees?",
+      "created_at": "2026-10-11T15:42:36+08:00",
+      "period_index": 6
+    },
+    "m45": {
+      "memory_id": "m45",
+      "group_ids": [
+        "g1",
+        "g3",
+        "g4"
+      ],
+      "topics": [
+        "mentoring_strategies",
+        "career_development",
+        "leadership_support"
+      ],
+      "raw_text": "Thanks—this is really useful, especially the distinction between mentoring and sponsorship. To make it concrete: my three mentees are a first-year, a second-year, and a senior. The one I’m most worried about is the second-year. She’s technically dependable and never misses deadlines, but she’s very quiet when clients are in the room, and partners don’t really know her yet. My first-year is eager but anxious and tends to over-prepare everything, while my senior is competent but has seemed detached since the reorg—her output is still fine, but I’m worried she’s quietly checking out.\n\nCould you help me draft an IDP for the second-year that focuses on visibility and client communication? And what sponsorship move should I make for her in the next 30 days? Also, how should I approach the senior without making her feel managed or watched?",
+      "created_at": "2026-10-11T15:42:39+08:00",
+      "period_index": 6
+    },
+    "m46": {
+      "memory_id": "m46",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "sustainable_irrigation",
+        "community_garden_management"
+      ],
+      "raw_text": "[Current Time: 2022-03-30 21:25:51]\nI’ve just taken on the role of leading a sustainable irrigation project at our community garden. Can you help me outline a project plan or recommend best practices for managing such an initiative, especially as I transition from teaching to overseeing the planning and execution?",
+      "created_at": "2026-10-11T15:42:42+08:00",
+      "period_index": 6
+    },
+    "m47": {
+      "memory_id": "m47",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "garden_irrigation",
+        "sustainable_water_management",
+        "backflow_prevention"
+      ],
+      "raw_text": "Thanks — this is exactly the framing I needed. The shift from teaching to oversight is the part that worries me most, so the governance and SOP pieces are especially helpful.\n\nHere’s what we’re working with. The garden has four main zones: one is eight raised beds of greens and roots, one is six beds of tomatoes, peppers, and eggplant, one is the perennial herb and pollinator border, and one is the seedling nursery plus two communal beds. The first three are already on drip; the nursery is still hand-watered with a hose. We also have a backflow preventer on the municipal line from last year’s expansion. Budget-wise, there’s about $850 left in the irrigation line, and I think we could get another $300–$500 from a small local grant if we apply in April. The board is supportive but doesn’t want a big capital project without a maintenance plan.\n\nSo the question I keep coming back to is whether rainwater capture is realistic this season or just a distraction. If peak demand is roughly 280 gallons a week, a single 275-gallon IBC tote only covers about one day. Is it worth installing one this year as a pilot and a visible proof of concept, or should we put that money into mulch, a smart timer, and a rain sensor now, then plan a proper cistern for next year? And if we do a small tote, what’s the simplest switchover setup that satisfies backflow rules without needing a plumber? I’d rather not create a code problem while trying to be sustainable.",
+      "created_at": "2026-10-11T15:42:45+08:00",
+      "period_index": 6
+    },
+    "m48": {
+      "memory_id": "m48",
+      "group_ids": [
+        "g2",
+        "g5",
+        "g6"
+      ],
+      "topics": [
+        "social_scheduling",
+        "event_planning"
+      ],
+      "raw_text": "[Current Time: 2022-03-31 20:06:50]\nMy social calendar has gotten a lot busier lately, with weekly art gallery openings, soccer league meetups, and historical walking tours. Can you help me organize my schedule or suggest ways to balance these frequent social activities with my other commitments?",
+      "created_at": "2026-10-11T15:42:47+08:00",
+      "period_index": 6
+    },
+    "m49": {
+      "memory_id": "m49",
+      "group_ids": [
+        "g2",
+        "g5",
+        "g6",
+        "g11"
+      ],
+      "topics": [
+        "event_cap_management",
+        "calendar_re_entry"
+      ],
+      "raw_text": "This is really practical — I appreciate the tier framework and the one-number rule, especially since I can see myself overcommitting without a hard cap. I have a follow-up about the cap: what happens when a genuinely rare event lands on what would be a fourth evening? Do I just decline everything else that week, or is there a way to \"borrow\" from the next week's cap without undermining the whole system? I know you said rare events are worth protecting, but I'm not sure how to handle that without feeling like I'm constantly making exceptions.\n\nAlso, how do you re-engage with the rhythm activities in May without sliding right back into the same overpacked calendar? I like the seasonal framing, but I want to make sure I don't just say yes to everything again once busy season ends. Any tips for a structured re-entry rather than a free-for-all?",
+      "created_at": "2026-10-11T15:42:49+08:00",
+      "period_index": 6
+    },
+    "m50": {
+      "memory_id": "m50",
+      "group_ids": [
+        "g10",
+        "g2",
+        "g7"
+      ],
+      "topics": [
+        "cozy_gathering",
+        "conversation_starter"
+      ],
+      "raw_text": "[Current Time: 2022-04-01 19:44:37]\nI’ve started hosting more intimate lasagna dinners, inviting just two or three close friends for cozy evenings. Could you recommend some ideas for creating a warm atmosphere or conversation starters for these smaller gatherings?",
+      "created_at": "2026-10-11T15:42:52+08:00",
+      "period_index": 6
+    },
+    "m51": {
+      "memory_id": "m51",
+      "group_ids": [
+        "g10",
+        "g2",
+        "g7"
+      ],
+      "topics": [
+        "dinner_party",
+        "aperitivo_recipe",
+        "food_pairing"
+      ],
+      "raw_text": "Thanks, this is really helpful. I actually tried the smaller table setup last weekend and it made a huge difference—felt much more like a dinner party than a dinner. I'm curious about that rosemary-citrus spritz you mentioned. Do you have a simple recipe or ratio? I usually just open a bottle of red, but a lighter aperitivo might be nice while the lasagna rests. Also, any tips for keeping it from getting too sweet?",
+      "created_at": "2026-10-11T15:42:54+08:00",
+      "period_index": 6
+    },
+    "m52": {
+      "memory_id": "m52",
+      "group_ids": [
+        "g4",
+        "g1",
+        "g3"
+      ],
+      "topics": [
+        "tax_client_management",
+        "workflow_improvement"
+      ],
+      "raw_text": "[Current Time: 2022-06-29 21:06:13]\nAs we head into tax season, my main focus is on managing our specialized tax client portfolio. My process improvement team currently has between 10 and 30 staff members, so we're not as large as some departments but not a small group either. Given these parameters, can you suggest strategies for efficiently handling our tax clients while also keeping our workflow enhancement initiatives moving forward?",
+      "created_at": "2026-10-11T15:43:26+08:00",
+      "period_index": 7
+    },
+    "m53": {
+      "memory_id": "m53",
+      "group_ids": [
+        "g1",
+        "g3",
+        "g4",
+        "g8"
+      ],
+      "topics": [
+        "client_industry_organization",
+        "return_type_mix_analysis",
+        "partner_group_tiering"
+      ],
+      "raw_text": "Thanks — that’s exactly the framing I needed. Rough numbers: we’ve got about 230 returns this cycle. Mix is roughly 55% pass-throughs (1065s and 1120-Ss), 35% individual 1040s, and 10% trusts/estates/nonprofits. The reviewer bench is thin: three senior managers plus me, and two of them also carry business development. Our pods are organized by client industry rather than return type, which helps continuity but makes load-balancing harder.\n\nGiven that mix, how would you set the tier thresholds so Tier A doesn’t swallow the whole partner group? And would you break the pass-throughs into a separate sub-track for K-1 dependencies, or keep them in the same A/B/C flow with an extension trigger? I’m also trying to decide whether to give each pod lead authority to make extension calls under a pre-approved policy, or keep those decisions centralized. What would you recommend?",
+      "created_at": "2026-10-11T15:43:29+08:00",
+      "period_index": 7
+    },
+    "m54": {
+      "memory_id": "m54",
+      "group_ids": [
+        "g6",
+        "g2",
+        "g5"
+      ],
+      "topics": [
+        "hiking_trails",
+        "group_hiking"
+      ],
+      "raw_text": "[Current Time: 2022-06-30 20:43:36]\nI've started joining weekend hikes with a local club and friends instead of going solo—can you recommend some group-friendly trails around New England that would suit our mixed experience levels?",
+      "created_at": "2026-10-11T15:43:32+08:00",
+      "period_index": 7
+    },
+    "m55": {
+      "memory_id": "m55",
+      "group_ids": [
+        "g6",
+        "g2",
+        "g5"
+      ],
+      "topics": [
+        "hiking_group_planning",
+        "trail_recommendations",
+        "group_activity_organization"
+      ],
+      "raw_text": "Thanks, this is incredibly thorough—I've already shared it with the group chat. A couple of follow-ups: For a day trip from Boston in mid-July, would you lean toward Middlesex Fells or Mount Willard for a group of about 8-10 people with a real mix of paces? I want a single meeting point, a clear 2-3 mile option for the slower folks, and something longer for those who want it. Also, what's the best way to set up a rendezvous so we're not all waiting around? And for Middlesex Fells specifically, which parking lot and loop combination would you recommend to keep it simple? I'm happy to delegate the food planning, but any suggestions for a group-friendly lunch spot near either trail would be great. I'm also curious if you have any tips for keeping the group together without making the faster hikers feel held back—I've been on solo hikes where I set my own pace, but leading a mixed group is new territory.",
+      "created_at": "2026-10-11T15:43:34+08:00",
+      "period_index": 7
+    },
+    "m56": {
+      "memory_id": "m56",
+      "group_ids": [
+        "g2",
+        "g5",
+        "g6",
+        "g11"
+      ],
+      "topics": [
+        "cultural_activities",
+        "time_management"
+      ],
+      "raw_text": "[Current Time: 2022-07-01 20:13:42]\nSince my weekends are now packed with hiking and work during tax season, I’m finding it tough to attend social gatherings or art events—could you help me prioritize or find occasional cultural activities that fit into a busier schedule?",
+      "created_at": "2026-10-11T15:43:36+08:00",
+      "period_index": 7
+    },
+    "m57": {
+      "memory_id": "m57",
+      "group_ids": [
+        "g2",
+        "g6",
+        "g5",
+        "g11",
+        "g9",
+        "g1",
+        "g3",
+        "g4"
+      ],
+      "topics": [
+        "cultural_scheduling",
+        "social_connection",
+        "deadline_management"
+      ],
+      "raw_text": "This is really helpful—especially the reframe that during deadlines culture is something I consume, not attend. I’m going to try batching a museum stop onto an existing hike and using the Thursday gallery drop-in as a test.\n\nTwo things I’m still unsure about. First, how do I keep the post–October 17 re-entry from turning into a backlog? I can already see myself over-scheduling November to “make up” for lost time. What’s a realistic cadence for late October through December—one cultural thing a week, one every other week, or something tied to the deadlines clearing? Second, for the social side, what’s a minimum-viable way to stay connected during the crunch without it feeling like another obligation—something like a recurring lunch, a short garden shift, or a standing phone call? And are there any virtual lecture series you’d actually recommend, or is it more about picking one institution and subscribing to its calendar so the options come to me?",
+      "created_at": "2026-10-11T15:43:39+08:00",
+      "period_index": 7
+    },
+    "m58": {
+      "memory_id": "m58",
+      "group_ids": [
+        "g1",
+        "g3",
+        "g4"
+      ],
+      "topics": [
+        "compliance_onboarding",
+        "staff_training"
+      ],
+      "raw_text": "[Current Time: 2022-09-29 21:54:45]\nCan you help me plan a series of onboarding workshops for the seven junior staff I’m supervising during our compliance transition? I want to make sure my weekly review sessions are effective and tailored to their needs.",
+      "created_at": "2026-10-11T15:44:10+08:00",
+      "period_index": 8
+    },
+    "m59": {
+      "memory_id": "m59",
+      "group_ids": [
+        "g8",
+        "g3",
+        "g4",
+        "g1"
+      ],
+      "topics": [
+        "risk_assessment_scenarios",
+        "engagement_team_training",
+        "judgment_and_documentation"
+      ],
+      "raw_text": "Thanks — this is really practical. To sharpen it: the transition is SQMS No. 1. We’re past the firm-level design stage and into engagement-level implementation, so the juniors are mostly struggling with applying the risk assessment and documentation requirements to actual workpapers rather than learning the standard from scratch. Your diagnostic point fits — I suspect the real spread is more about judgment and documentation than mechanics.\n\nCould you draft the session 4 judgment scenarios specifically for SQMS No. 1? I’d like three realistic scenarios: one where the engagement team’s risk assessment is too generic, one where a significant risk is identified but the response isn’t clearly linked, and one where the junior should escalate a scope limitation or independence issue. For each, what should the junior do, what does “good” look like, and what are the common wrong answers? Also, how would you debrief that session so it doesn’t become me lecturing?",
+      "created_at": "2026-10-11T15:44:13+08:00",
+      "period_index": 8
+    },
+    "m60": {
+      "memory_id": "m60",
+      "group_ids": [
+        "g5",
+        "g2"
+      ],
+      "topics": [
+        "revolutionary_war_sites",
+        "walking_tour_topics"
+      ],
+      "raw_text": "[Current Time: 2022-09-30 21:32:05]\nWhat are some good discussion topics or resources for small-group walking tours focused on Boston’s Revolutionary War sites? I’d like to make the most of the intimate setting with 6–8 participants and encourage deeper exchanges.",
+      "created_at": "2026-10-11T15:44:15+08:00",
+      "period_index": 8
+    },
+    "m61": {
+      "memory_id": "m61",
+      "group_ids": [
+        "g5",
+        "g2"
+      ],
+      "topics": [
+        "historical_role_play",
+        "primary_source_materials",
+        "educational_activity_design"
+      ],
+      "raw_text": "That's incredibly helpful—I especially like the idea of one unanswerable question per tour and the \"who's not here\" prompt. I'm already thinking about how to adapt the slavery thread for a small group without it feeling like a lecture. Do you have specific recommendations for primary source excerpts or images that work well as handouts? For example, for the propaganda theme, I'd love to use Revere's engraving alongside a loyalist account of the Massacre. Where would I find a good, short loyalist response? Also, for the role assignment exercise, do you have a template or examples of roles that would fit a 6–8 person group? I want to make sure the quiet folks get a chance to speak without putting anyone on the spot.",
+      "created_at": "2026-10-11T15:44:17+08:00",
+      "period_index": 8
+    },
+    "m62": {
+      "memory_id": "m62",
+      "group_ids": [
+        "g6",
+        "g2",
+        "g5"
+      ],
+      "topics": [
+        "hiking_trails",
+        "trail_guiding"
+      ],
+      "raw_text": "[Current Time: 2022-10-01 19:59:58]\nCould you suggest some intermediate-level hiking trails in New England that are suitable for guiding beginners? I’m looking for routes that balance safety and encouragement, since I’ll be leading new club members on their first moderate trek.",
+      "created_at": "2026-10-11T15:44:19+08:00",
+      "period_index": 8
+    },
+    "m63": {
+      "memory_id": "m63",
+      "group_ids": [
+        "g6",
+        "g2",
+        "g5"
+      ],
+      "topics": [
+        "hike_planning",
+        "trail_selection",
+        "event_organization"
+      ],
+      "raw_text": "Thanks — this is exactly the kind of framework I needed. Our club is based in the Boston area, and I’m planning this as a three-hike series rather than a one-off, with the first one in mid-to-late October and the next two in November, weather permitting.\n\nCould you lay out the specific plan for Willard or Arethusa as hike #1 — meet time, carpool/parking, turnaround time, and a short gear list I can send out? Also, for the second hike, would Kearsarge via Barlow still be reasonable if we get an early snowfall, or should I have a lower-elevation backup like Wachusett or Talcott Mountain ready? And do you have a preferred way to phrase the “we turn around at X” rule so it doesn’t sound discouraging to beginners?",
+      "created_at": "2026-10-11T15:44:22+08:00",
+      "period_index": 8
+    },
+    "m64": {
+      "memory_id": "m64",
+      "group_ids": [
+        "g1",
+        "g4",
+        "g3"
+      ],
+      "topics": [
+        "workflow_optimization",
+        "team_management"
+      ],
+      "raw_text": "[Current Time: 2022-12-30 20:28:33]\nCan you help me plan a more efficient workflow for my team? With the year-end rush, I’m regularly working between 45 and 50 hours a week to keep up, and since we now have over 30 accountants in the department—including several new junior hires—coordinating training and daily tasks has become much more complex than before.",
+      "created_at": "2026-10-11T15:45:33+08:00",
+      "period_index": 9
+    },
+    "m65": {
+      "memory_id": "m65",
+      "group_ids": [
+        "g1",
+        "g3",
+        "g4"
+      ],
+      "topics": [
+        "onboarding_process",
+        "team_coordination",
+        "project_redesign"
+      ],
+      "raw_text": "Got it — I’m going to keep the exact service line and headcount mix out of this for now, but the junior onboarding piece is definitely the pressure point. If I can only stand up one coordination mechanism this week, which would you prioritize: the junior huddle or the single status board? My instinct is the huddle, because the interruptions are what’s fragmenting the seniors’ days, but I’m not sure how to keep it from becoming a 15-minute meeting that turns into 40. Also, for the May redesign, how do you scope it so the same senior managers aren’t the ones doing the redesign work after a brutal busy season?",
+      "created_at": "2026-10-11T15:45:36+08:00",
+      "period_index": 9
+    },
+    "m66": {
+      "memory_id": "m66",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "community_gardening_maintenance",
+        "horticultural_efficiency"
+      ],
+      "raw_text": "[Current Time: 2022-12-31 19:15:16]\nWith our weekly community gardening meetups now limited to about 3 to 5 hours each week during the winter, what are the most essential maintenance tasks we should prioritize to make the best use of our shorter sessions? I’d love tips on how to maximize productivity and keep the garden healthy with this reduced time.",
+      "created_at": "2026-10-11T15:45:38+08:00",
+      "period_index": 9
+    },
+    "m67": {
+      "memory_id": "m67",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "garden_preparation",
+        "task_organization",
+        "seasonal_maintenance"
+      ],
+      "raw_text": "Thanks — this is really useful. The tote did get installed last fall, so I’ll have someone confirm the diverter is disconnected, the tank is drained, and the fittings aren’t holding water. We don’t have a heated indoor building at the garden, but we do have a locked tool shed with a workbench and power, and the community center lets us reserve a small room if we ask ahead. With 14 volunteers, the split-crew idea sounds workable, though the shed is too small for everyone at once.\n\nCould you turn that into a four-week January task list with owners? I’d like to assign specific people rather than send an open call. Also, if we only get one decent cold-weather session in a given week, would you prioritize irrigation and tool maintenance or grant writing? And for dormant pruning, should we wait until late February even if we get a mild January weekend?",
+      "created_at": "2026-10-11T15:45:41+08:00",
+      "period_index": 9
+    },
+    "m68": {
+      "memory_id": "m68",
+      "group_ids": [
+        "g2",
+        "g10",
+        "g7"
+      ],
+      "topics": [
+        "holiday_social_events",
+        "relaxing_get_together"
+      ],
+      "raw_text": "[Current Time: 2023-01-01 20:02:32]\nCould you suggest some low-key social activities or small group gatherings for the holiday season? With my work schedule getting busier, I’m prioritizing meaningful get-togethers over frequent outings and would appreciate ideas for relaxing evenings with close friends or family.",
+      "created_at": "2026-10-11T15:45:43+08:00",
+      "period_index": 9
+    },
+    "m69": {
+      "memory_id": "m69",
+      "group_ids": [
+        "g10",
+        "g2",
+        "g9",
+        "g1"
+      ],
+      "topics": [
+        "event_scheduling",
+        "hosting_traps",
+        "social_connections"
+      ],
+      "raw_text": "Thanks — this is genuinely useful, and the point about the \"wave of catch-up messages\" really resonates. I like the standing slot idea, but I'm wondering how to make it survive a busy season when my schedule can shift week to week. If I set up something like a recurring Wednesday soup night, what's the best way to handle the weeks I might have to work late or travel? Should I have a co-host or a backup plan, or is it better to just cancel and reschedule? I don't want to create a new obligation that adds stress.\n\nAlso, any tips for communicating the low-pressure vibe to friends and family so they don't feel like they need to bring something or reciprocate in a big way? I want to avoid the default hosting trap but still keep the connections meaningful. And with the flood of \"let's catch up\" messages coming in, how do you decide which ones to convert into actual plans without overcommitting?",
+      "created_at": "2026-10-11T15:45:45+08:00",
+      "period_index": 9
+    }
+  },
+  "groups": {
+    "g1": {
+      "group_id": "g1",
+      "head_id": "m1",
+      "tail_id": "m69",
+      "updated_at": "2026-10-11T15:45:45+08:00",
+      "memory_count": 17
+    },
+    "g2": {
+      "group_id": "g2",
+      "head_id": "m2",
+      "tail_id": "m69",
+      "updated_at": "2026-10-11T15:45:45+08:00",
+      "memory_count": 25
+    },
+    "g3": {
+      "group_id": "g3",
+      "head_id": "m3",
+      "tail_id": "m65",
+      "updated_at": "2026-10-11T15:45:36+08:00",
+      "memory_count": 18
+    },
+    "g4": {
+      "group_id": "g4",
+      "head_id": "m4",
+      "tail_id": "m65",
+      "updated_at": "2026-10-11T15:45:36+08:00",
+      "memory_count": 18
+    },
+    "g5": {
+      "group_id": "g5",
+      "head_id": "m5",
+      "tail_id": "m63",
+      "updated_at": "2026-10-11T15:44:22+08:00",
+      "memory_count": 17
+    },
+    "g6": {
+      "group_id": "g6",
+      "head_id": "m6",
+      "tail_id": "m63",
+      "updated_at": "2026-10-11T15:44:22+08:00",
+      "memory_count": 16
+    },
+    "g7": {
+      "group_id": "g7",
+      "head_id": "m7",
+      "tail_id": "m68",
+      "updated_at": "2026-10-11T15:45:43+08:00",
+      "memory_count": 10
+    },
+    "g8": {
+      "group_id": "g8",
+      "head_id": "m8",
+      "tail_id": "m59",
+      "updated_at": "2026-10-11T15:44:13+08:00",
+      "memory_count": 9
+    },
+    "g9": {
+      "group_id": "g9",
+      "head_id": "m9",
+      "tail_id": "m69",
+      "updated_at": "2026-10-11T15:45:45+08:00",
+      "memory_count": 13
+    },
+    "g10": {
+      "group_id": "g10",
+      "head_id": "m10",
+      "tail_id": "m69",
+      "updated_at": "2026-10-11T15:45:45+08:00",
+      "memory_count": 11
+    },
+    "g11": {
+      "group_id": "g11",
+      "head_id": "m11",
+      "tail_id": "m57",
+      "updated_at": "2026-10-11T15:43:39+08:00",
+      "memory_count": 7
+    }
+  },
+  "associations": [
+    {
+      "memory_id": "m1",
+      "group_id": "g1",
+      "prev_id": null,
+      "next_id": "m12"
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g1",
+      "prev_id": "m1",
+      "next_id": "m13"
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g1",
+      "prev_id": "m12",
+      "next_id": "m16"
+    },
+    {
+      "memory_id": "m16",
+      "group_id": "g1",
+      "prev_id": "m13",
+      "next_id": "m17"
+    },
+    {
+      "memory_id": "m17",
+      "group_id": "g1",
+      "prev_id": "m16",
+      "next_id": "m33"
+    },
+    {
+      "memory_id": "m33",
+      "group_id": "g1",
+      "prev_id": "m17",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g1",
+      "prev_id": "m33",
+      "next_id": "m44"
+    },
+    {
+      "memory_id": "m44",
+      "group_id": "g1",
+      "prev_id": "m38",
+      "next_id": "m45"
+    },
+    {
+      "memory_id": "m45",
+      "group_id": "g1",
+      "prev_id": "m44",
+      "next_id": "m52"
+    },
+    {
+      "memory_id": "m52",
+      "group_id": "g1",
+      "prev_id": "m45",
+      "next_id": "m53"
+    },
+    {
+      "memory_id": "m53",
+      "group_id": "g1",
+      "prev_id": "m52",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g1",
+      "prev_id": "m53",
+      "next_id": "m58"
+    },
+    {
+      "memory_id": "m58",
+      "group_id": "g1",
+      "prev_id": "m57",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g1",
+      "prev_id": "m58",
+      "next_id": "m64"
+    },
+    {
+      "memory_id": "m64",
+      "group_id": "g1",
+      "prev_id": "m59",
+      "next_id": "m65"
+    },
+    {
+      "memory_id": "m65",
+      "group_id": "g1",
+      "prev_id": "m64",
+      "next_id": "m69"
+    },
+    {
+      "memory_id": "m69",
+      "group_id": "g1",
+      "prev_id": "m65",
+      "next_id": null
+    },
+    {
+      "memory_id": "m2",
+      "group_id": "g2",
+      "prev_id": null,
+      "next_id": "m18"
+    },
+    {
+      "memory_id": "m18",
+      "group_id": "g2",
+      "prev_id": "m2",
+      "next_id": "m19"
+    },
+    {
+      "memory_id": "m19",
+      "group_id": "g2",
+      "prev_id": "m18",
+      "next_id": "m22"
+    },
+    {
+      "memory_id": "m22",
+      "group_id": "g2",
+      "prev_id": "m19",
+      "next_id": "m23"
+    },
+    {
+      "memory_id": "m23",
+      "group_id": "g2",
+      "prev_id": "m22",
+      "next_id": "m24"
+    },
+    {
+      "memory_id": "m24",
+      "group_id": "g2",
+      "prev_id": "m23",
+      "next_id": "m25"
+    },
+    {
+      "memory_id": "m25",
+      "group_id": "g2",
+      "prev_id": "m24",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g2",
+      "prev_id": "m25",
+      "next_id": "m37"
+    },
+    {
+      "memory_id": "m37",
+      "group_id": "g2",
+      "prev_id": "m30",
+      "next_id": "m40"
+    },
+    {
+      "memory_id": "m40",
+      "group_id": "g2",
+      "prev_id": "m37",
+      "next_id": "m41"
+    },
+    {
+      "memory_id": "m41",
+      "group_id": "g2",
+      "prev_id": "m40",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g2",
+      "prev_id": "m41",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g2",
+      "prev_id": "m48",
+      "next_id": "m50"
+    },
+    {
+      "memory_id": "m50",
+      "group_id": "g2",
+      "prev_id": "m49",
+      "next_id": "m51"
+    },
+    {
+      "memory_id": "m51",
+      "group_id": "g2",
+      "prev_id": "m50",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g2",
+      "prev_id": "m51",
+      "next_id": "m55"
+    },
+    {
+      "memory_id": "m55",
+      "group_id": "g2",
+      "prev_id": "m54",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g2",
+      "prev_id": "m55",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g2",
+      "prev_id": "m56",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g2",
+      "prev_id": "m57",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g2",
+      "prev_id": "m60",
+      "next_id": "m62"
+    },
+    {
+      "memory_id": "m62",
+      "group_id": "g2",
+      "prev_id": "m61",
+      "next_id": "m63"
+    },
+    {
+      "memory_id": "m63",
+      "group_id": "g2",
+      "prev_id": "m62",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g2",
+      "prev_id": "m63",
+      "next_id": "m69"
+    },
+    {
+      "memory_id": "m69",
+      "group_id": "g2",
+      "prev_id": "m68",
+      "next_id": null
+    },
+    {
+      "memory_id": "m3",
+      "group_id": "g3",
+      "prev_id": null,
+      "next_id": "m12"
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g3",
+      "prev_id": "m3",
+      "next_id": "m13"
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g3",
+      "prev_id": "m12",
+      "next_id": "m16"
+    },
+    {
+      "memory_id": "m16",
+      "group_id": "g3",
+      "prev_id": "m13",
+      "next_id": "m17"
+    },
+    {
+      "memory_id": "m17",
+      "group_id": "g3",
+      "prev_id": "m16",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g3",
+      "prev_id": "m17",
+      "next_id": "m33"
+    },
+    {
+      "memory_id": "m33",
+      "group_id": "g3",
+      "prev_id": "m32",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g3",
+      "prev_id": "m33",
+      "next_id": "m39"
+    },
+    {
+      "memory_id": "m39",
+      "group_id": "g3",
+      "prev_id": "m38",
+      "next_id": "m44"
+    },
+    {
+      "memory_id": "m44",
+      "group_id": "g3",
+      "prev_id": "m39",
+      "next_id": "m45"
+    },
+    {
+      "memory_id": "m45",
+      "group_id": "g3",
+      "prev_id": "m44",
+      "next_id": "m52"
+    },
+    {
+      "memory_id": "m52",
+      "group_id": "g3",
+      "prev_id": "m45",
+      "next_id": "m53"
+    },
+    {
+      "memory_id": "m53",
+      "group_id": "g3",
+      "prev_id": "m52",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g3",
+      "prev_id": "m53",
+      "next_id": "m58"
+    },
+    {
+      "memory_id": "m58",
+      "group_id": "g3",
+      "prev_id": "m57",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g3",
+      "prev_id": "m58",
+      "next_id": "m64"
+    },
+    {
+      "memory_id": "m64",
+      "group_id": "g3",
+      "prev_id": "m59",
+      "next_id": "m65"
+    },
+    {
+      "memory_id": "m65",
+      "group_id": "g3",
+      "prev_id": "m64",
+      "next_id": null
+    },
+    {
+      "memory_id": "m4",
+      "group_id": "g4",
+      "prev_id": null,
+      "next_id": "m12"
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g4",
+      "prev_id": "m4",
+      "next_id": "m13"
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g4",
+      "prev_id": "m12",
+      "next_id": "m16"
+    },
+    {
+      "memory_id": "m16",
+      "group_id": "g4",
+      "prev_id": "m13",
+      "next_id": "m17"
+    },
+    {
+      "memory_id": "m17",
+      "group_id": "g4",
+      "prev_id": "m16",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g4",
+      "prev_id": "m17",
+      "next_id": "m33"
+    },
+    {
+      "memory_id": "m33",
+      "group_id": "g4",
+      "prev_id": "m32",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g4",
+      "prev_id": "m33",
+      "next_id": "m39"
+    },
+    {
+      "memory_id": "m39",
+      "group_id": "g4",
+      "prev_id": "m38",
+      "next_id": "m44"
+    },
+    {
+      "memory_id": "m44",
+      "group_id": "g4",
+      "prev_id": "m39",
+      "next_id": "m45"
+    },
+    {
+      "memory_id": "m45",
+      "group_id": "g4",
+      "prev_id": "m44",
+      "next_id": "m52"
+    },
+    {
+      "memory_id": "m52",
+      "group_id": "g4",
+      "prev_id": "m45",
+      "next_id": "m53"
+    },
+    {
+      "memory_id": "m53",
+      "group_id": "g4",
+      "prev_id": "m52",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g4",
+      "prev_id": "m53",
+      "next_id": "m58"
+    },
+    {
+      "memory_id": "m58",
+      "group_id": "g4",
+      "prev_id": "m57",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g4",
+      "prev_id": "m58",
+      "next_id": "m64"
+    },
+    {
+      "memory_id": "m64",
+      "group_id": "g4",
+      "prev_id": "m59",
+      "next_id": "m65"
+    },
+    {
+      "memory_id": "m65",
+      "group_id": "g4",
+      "prev_id": "m64",
+      "next_id": null
+    },
+    {
+      "memory_id": "m5",
+      "group_id": "g5",
+      "prev_id": null,
+      "next_id": "m22"
+    },
+    {
+      "memory_id": "m22",
+      "group_id": "g5",
+      "prev_id": "m5",
+      "next_id": "m23"
+    },
+    {
+      "memory_id": "m23",
+      "group_id": "g5",
+      "prev_id": "m22",
+      "next_id": "m25"
+    },
+    {
+      "memory_id": "m25",
+      "group_id": "g5",
+      "prev_id": "m23",
+      "next_id": "m37"
+    },
+    {
+      "memory_id": "m37",
+      "group_id": "g5",
+      "prev_id": "m25",
+      "next_id": "m40"
+    },
+    {
+      "memory_id": "m40",
+      "group_id": "g5",
+      "prev_id": "m37",
+      "next_id": "m41"
+    },
+    {
+      "memory_id": "m41",
+      "group_id": "g5",
+      "prev_id": "m40",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g5",
+      "prev_id": "m41",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g5",
+      "prev_id": "m48",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g5",
+      "prev_id": "m49",
+      "next_id": "m55"
+    },
+    {
+      "memory_id": "m55",
+      "group_id": "g5",
+      "prev_id": "m54",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g5",
+      "prev_id": "m55",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g5",
+      "prev_id": "m56",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g5",
+      "prev_id": "m57",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g5",
+      "prev_id": "m60",
+      "next_id": "m62"
+    },
+    {
+      "memory_id": "m62",
+      "group_id": "g5",
+      "prev_id": "m61",
+      "next_id": "m63"
+    },
+    {
+      "memory_id": "m63",
+      "group_id": "g5",
+      "prev_id": "m62",
+      "next_id": null
+    },
+    {
+      "memory_id": "m6",
+      "group_id": "g6",
+      "prev_id": null,
+      "next_id": "m26"
+    },
+    {
+      "memory_id": "m26",
+      "group_id": "g6",
+      "prev_id": "m6",
+      "next_id": "m27"
+    },
+    {
+      "memory_id": "m27",
+      "group_id": "g6",
+      "prev_id": "m26",
+      "next_id": "m34"
+    },
+    {
+      "memory_id": "m34",
+      "group_id": "g6",
+      "prev_id": "m27",
+      "next_id": "m35"
+    },
+    {
+      "memory_id": "m35",
+      "group_id": "g6",
+      "prev_id": "m34",
+      "next_id": "m37"
+    },
+    {
+      "memory_id": "m37",
+      "group_id": "g6",
+      "prev_id": "m35",
+      "next_id": "m40"
+    },
+    {
+      "memory_id": "m40",
+      "group_id": "g6",
+      "prev_id": "m37",
+      "next_id": "m41"
+    },
+    {
+      "memory_id": "m41",
+      "group_id": "g6",
+      "prev_id": "m40",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g6",
+      "prev_id": "m41",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g6",
+      "prev_id": "m48",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g6",
+      "prev_id": "m49",
+      "next_id": "m55"
+    },
+    {
+      "memory_id": "m55",
+      "group_id": "g6",
+      "prev_id": "m54",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g6",
+      "prev_id": "m55",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g6",
+      "prev_id": "m56",
+      "next_id": "m62"
+    },
+    {
+      "memory_id": "m62",
+      "group_id": "g6",
+      "prev_id": "m57",
+      "next_id": "m63"
+    },
+    {
+      "memory_id": "m63",
+      "group_id": "g6",
+      "prev_id": "m62",
+      "next_id": null
+    },
+    {
+      "memory_id": "m7",
+      "group_id": "g7",
+      "prev_id": null,
+      "next_id": "m14"
+    },
+    {
+      "memory_id": "m14",
+      "group_id": "g7",
+      "prev_id": "m7",
+      "next_id": "m15"
+    },
+    {
+      "memory_id": "m15",
+      "group_id": "g7",
+      "prev_id": "m14",
+      "next_id": "m24"
+    },
+    {
+      "memory_id": "m24",
+      "group_id": "g7",
+      "prev_id": "m15",
+      "next_id": "m25"
+    },
+    {
+      "memory_id": "m25",
+      "group_id": "g7",
+      "prev_id": "m24",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g7",
+      "prev_id": "m25",
+      "next_id": "m31"
+    },
+    {
+      "memory_id": "m31",
+      "group_id": "g7",
+      "prev_id": "m30",
+      "next_id": "m50"
+    },
+    {
+      "memory_id": "m50",
+      "group_id": "g7",
+      "prev_id": "m31",
+      "next_id": "m51"
+    },
+    {
+      "memory_id": "m51",
+      "group_id": "g7",
+      "prev_id": "m50",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g7",
+      "prev_id": "m51",
+      "next_id": null
+    },
+    {
+      "memory_id": "m8",
+      "group_id": "g8",
+      "prev_id": null,
+      "next_id": "m16"
+    },
+    {
+      "memory_id": "m16",
+      "group_id": "g8",
+      "prev_id": "m8",
+      "next_id": "m17"
+    },
+    {
+      "memory_id": "m17",
+      "group_id": "g8",
+      "prev_id": "m16",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g8",
+      "prev_id": "m17",
+      "next_id": "m33"
+    },
+    {
+      "memory_id": "m33",
+      "group_id": "g8",
+      "prev_id": "m32",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g8",
+      "prev_id": "m33",
+      "next_id": "m39"
+    },
+    {
+      "memory_id": "m39",
+      "group_id": "g8",
+      "prev_id": "m38",
+      "next_id": "m53"
+    },
+    {
+      "memory_id": "m53",
+      "group_id": "g8",
+      "prev_id": "m39",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g8",
+      "prev_id": "m53",
+      "next_id": null
+    },
+    {
+      "memory_id": "m9",
+      "group_id": "g9",
+      "prev_id": null,
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g9",
+      "prev_id": "m9",
+      "next_id": "m21"
+    },
+    {
+      "memory_id": "m21",
+      "group_id": "g9",
+      "prev_id": "m20",
+      "next_id": "m28"
+    },
+    {
+      "memory_id": "m28",
+      "group_id": "g9",
+      "prev_id": "m21",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g9",
+      "prev_id": "m28",
+      "next_id": "m42"
+    },
+    {
+      "memory_id": "m42",
+      "group_id": "g9",
+      "prev_id": "m29",
+      "next_id": "m43"
+    },
+    {
+      "memory_id": "m43",
+      "group_id": "g9",
+      "prev_id": "m42",
+      "next_id": "m46"
+    },
+    {
+      "memory_id": "m46",
+      "group_id": "g9",
+      "prev_id": "m43",
+      "next_id": "m47"
+    },
+    {
+      "memory_id": "m47",
+      "group_id": "g9",
+      "prev_id": "m46",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g9",
+      "prev_id": "m47",
+      "next_id": "m66"
+    },
+    {
+      "memory_id": "m66",
+      "group_id": "g9",
+      "prev_id": "m57",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g9",
+      "prev_id": "m66",
+      "next_id": "m69"
+    },
+    {
+      "memory_id": "m69",
+      "group_id": "g9",
+      "prev_id": "m67",
+      "next_id": null
+    },
+    {
+      "memory_id": "m10",
+      "group_id": "g10",
+      "prev_id": null,
+      "next_id": "m18"
+    },
+    {
+      "memory_id": "m18",
+      "group_id": "g10",
+      "prev_id": "m10",
+      "next_id": "m19"
+    },
+    {
+      "memory_id": "m19",
+      "group_id": "g10",
+      "prev_id": "m18",
+      "next_id": "m24"
+    },
+    {
+      "memory_id": "m24",
+      "group_id": "g10",
+      "prev_id": "m19",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g10",
+      "prev_id": "m24",
+      "next_id": "m42"
+    },
+    {
+      "memory_id": "m42",
+      "group_id": "g10",
+      "prev_id": "m30",
+      "next_id": "m43"
+    },
+    {
+      "memory_id": "m43",
+      "group_id": "g10",
+      "prev_id": "m42",
+      "next_id": "m50"
+    },
+    {
+      "memory_id": "m50",
+      "group_id": "g10",
+      "prev_id": "m43",
+      "next_id": "m51"
+    },
+    {
+      "memory_id": "m51",
+      "group_id": "g10",
+      "prev_id": "m50",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g10",
+      "prev_id": "m51",
+      "next_id": "m69"
+    },
+    {
+      "memory_id": "m69",
+      "group_id": "g10",
+      "prev_id": "m68",
+      "next_id": null
+    },
+    {
+      "memory_id": "m11",
+      "group_id": "g11",
+      "prev_id": null,
+      "next_id": "m36"
+    },
+    {
+      "memory_id": "m36",
+      "group_id": "g11",
+      "prev_id": "m11",
+      "next_id": "m37"
+    },
+    {
+      "memory_id": "m37",
+      "group_id": "g11",
+      "prev_id": "m36",
+      "next_id": "m40"
+    },
+    {
+      "memory_id": "m40",
+      "group_id": "g11",
+      "prev_id": "m37",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g11",
+      "prev_id": "m40",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g11",
+      "prev_id": "m49",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g11",
+      "prev_id": "m56",
+      "next_id": null
+    }
+  ],
+  "completed_periods": [
+    "period_00",
+    "period_01",
+    "period_02",
+    "period_03",
+    "period_04",
+    "period_05",
+    "period_06",
+    "period_07",
+    "period_08",
+    "period_09"
+  ]
+}

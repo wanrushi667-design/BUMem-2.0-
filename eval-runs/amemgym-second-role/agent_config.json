@@ -1,0 +1,9 @@
+{
+  "item_id": "875a8a65-5b3e-4cfb-b5f1-635d840cdeaf",
+  "source_dir": "D:\\cd\\project\\amemgym_memory_bench\\eval-output\\test-native\\deepseek-v4-flash-mini\\875a8a65-5b3e-4cfb-b5f1-635d840cdeaf",
+  "benchmark_root": "D:\\cd\\project\\amemgym_memory_bench",
+  "ingest_roles": [
+    "user"
+  ],
+  "deepseek_temperature": 0.0
+}

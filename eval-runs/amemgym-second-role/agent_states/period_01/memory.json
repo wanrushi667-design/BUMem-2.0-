@@ -1,0 +1,404 @@
+{
+  "nodes": {
+    "m1": {
+      "memory_id": "m1",
+      "group_ids": [
+        "g1"
+      ],
+      "topics": [
+        "team_motivation",
+        "workload_management"
+      ],
+      "raw_text": "[Current Time: 2020-09-21 20:20:03]\nCan you suggest strategies for keeping a medium-sized audit team motivated and productive when I'm working 40 to 55 hours a week?",
+      "created_at": "2026-10-11T15:37:30+08:00",
+      "period_index": 0
+    },
+    "m2": {
+      "memory_id": "m2",
+      "group_ids": [
+        "g2"
+      ],
+      "topics": [
+        "social_events",
+        "boston_activities"
+      ],
+      "raw_text": "[Current Time: 2020-09-22 21:51:39]\nWhat are some fun group activities or events in Boston that happen most weekends and are great for someone who likes to socialize often?",
+      "created_at": "2026-10-11T15:37:30+08:00",
+      "period_index": 0
+    },
+    "m3": {
+      "memory_id": "m3",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "audit_team_leading",
+        "accounting_firm_practices"
+      ],
+      "raw_text": "[Current Time: 2020-09-23 21:48:53]\nWhat are the latest best practices for supervisors leading audit teams in accounting firms?",
+      "created_at": "2026-10-11T15:37:31+08:00",
+      "period_index": 0
+    },
+    "m4": {
+      "memory_id": "m4",
+      "group_ids": [
+        "g4"
+      ],
+      "topics": [
+        "process_improvement",
+        "workplace_efficiency"
+      ],
+      "raw_text": "[Current Time: 2020-09-24 20:38:45]\nHow can I implement process improvements in a department with 10 to 30 staff members without disrupting daily operations?",
+      "created_at": "2026-10-11T15:37:32+08:00",
+      "period_index": 0
+    },
+    "m5": {
+      "memory_id": "m5",
+      "group_ids": [
+        "g5"
+      ],
+      "topics": [
+        "historical_tours",
+        "group_travel"
+      ],
+      "raw_text": "[Current Time: 2020-09-25 21:37:39]\nCan you recommend historical tours in Boston that work well for groups of 5 to 10 people and last around 3 to 4 hours?",
+      "created_at": "2026-10-11T15:37:33+08:00",
+      "period_index": 0
+    },
+    "m6": {
+      "memory_id": "m6",
+      "group_ids": [
+        "g6"
+      ],
+      "topics": [
+        "hiking_trails",
+        "new_england_hiking"
+      ],
+      "raw_text": "[Current Time: 2020-09-26 19:52:30]\nWhat are some intermediate-level hiking trails in New England that are popular with hiking clubs or groups of friends?",
+      "created_at": "2026-10-11T15:37:34+08:00",
+      "period_index": 0
+    },
+    "m7": {
+      "memory_id": "m7",
+      "group_ids": [
+        "g7"
+      ],
+      "topics": [
+        "art_decoration",
+        "budget_art"
+      ],
+      "raw_text": "[Current Time: 2020-09-27 19:18:59]\nCan you suggest contemporary art pieces or prints suitable for decorating a shared apartment on a $200 to $500 budget?",
+      "created_at": "2026-10-11T15:37:35+08:00",
+      "period_index": 0
+    },
+    "m8": {
+      "memory_id": "m8",
+      "group_ids": [
+        "g8"
+      ],
+      "topics": [
+        "risk_management_software",
+        "accounting_firm"
+      ],
+      "raw_text": "[Current Time: 2020-09-28 19:12:30]\nWhat are some affordable risk management software options for a mid-sized regional accounting firm?",
+      "created_at": "2026-10-11T15:37:36+08:00",
+      "period_index": 0
+    },
+    "m9": {
+      "memory_id": "m9",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "community_garden_project",
+        "project_leading"
+      ],
+      "raw_text": "[Current Time: 2020-09-29 20:02:13]\nHow can I make the most impact as a project lead in a community garden if I can dedicate 3 to 5 hours per week?",
+      "created_at": "2026-10-11T15:37:37+08:00",
+      "period_index": 0
+    },
+    "m10": {
+      "memory_id": "m10",
+      "group_ids": [
+        "g10"
+      ],
+      "topics": [
+        "lasagna_recipe",
+        "home_cooking"
+      ],
+      "raw_text": "[Current Time: 2020-09-30 20:19:01]\nDo you have a classic meat lasagna recipe that's perfect for serving 4 to 6 people at a casual dinner?",
+      "created_at": "2026-10-11T15:37:37+08:00",
+      "period_index": 0
+    },
+    "m11": {
+      "memory_id": "m11",
+      "group_ids": [
+        "g11"
+      ],
+      "topics": [
+        "irish_music_festivals",
+        "traditional_contemporary_events"
+      ],
+      "raw_text": "[Current Time: 2020-10-01 19:21:47]\nWhich medium-sized Irish music festivals in New England offer a good mix of traditional and contemporary acts?",
+      "created_at": "2026-10-11T15:37:38+08:00",
+      "period_index": 0
+    },
+    "m12": {
+      "memory_id": "m12",
+      "group_ids": [
+        "g1",
+        "g3",
+        "g4"
+      ],
+      "topics": [
+        "managerial_team_growth",
+        "process_improvement_strategies"
+      ],
+      "raw_text": "[Current Time: 2020-12-31 20:03:34]\nI’ve just taken on a managerial role overseeing a large audit team—now more than a dozen accountants—after our department expanded to over 30 staff members due to a recent merger. As the manager, I’m responsible for leading process improvements across this bigger department. What strategies can I use to effectively support both junior and senior team members in this new, larger environment?",
+      "created_at": "2026-10-11T15:38:51+08:00",
+      "period_index": 1
+    },
+    "m13": {
+      "memory_id": "m13",
+      "group_ids": [
+        "g1",
+        "g3",
+        "g4"
+      ],
+      "topics": [
+        "merger_integration",
+        "organizational_change_management",
+        "employee_engagement"
+      ],
+      "raw_text": "Thanks—this is really practical, especially the pod-lead structure and freezing major changes during busy season. I’m still thinking through the people side of the merger. How would you approach the listening tour so it doesn’t turn into a complaint session or unintentionally undermine the managers who were already in place? And with a hybrid setup, what’s the best way to keep skip-levels and the Process Improvement Council from feeling like just more meetings rather than useful outlets?",
+      "created_at": "2026-10-11T15:38:54+08:00",
+      "period_index": 1
+    },
+    "m14": {
+      "memory_id": "m14",
+      "group_ids": [
+        "g7"
+      ],
+      "topics": [
+        "art_curation",
+        "budget_home_decor"
+      ],
+      "raw_text": "[Current Time: 2021-01-01 19:27:34]\nI’ve recently spent well over $500 upgrading my apartment’s art display—purchasing several original contemporary pieces, investing in high-quality framing, and installing better lighting. Now, I’m looking for creative tips to curate and showcase my collection so it really stands out, but I want to avoid spending much more on additional home decor. What are some impactful yet budget-conscious ways to maximize what I already have?",
+      "created_at": "2026-10-11T15:38:55+08:00",
+      "period_index": 1
+    },
+    "m15": {
+      "memory_id": "m15",
+      "group_ids": [
+        "g7"
+      ],
+      "topics": [
+        "art_arrangement",
+        "space_utilization",
+        "storage_solutions"
+      ],
+      "raw_text": "Thanks—this gives me a lot to work with. I have six pieces: two larger canvases (roughly 24x36 and 30x40) and four smaller framed works (mostly 11x14 and 12x16). The main wall is about 10 feet wide and 9 feet high, with a sofa centered under it; there’s also a narrow hallway wall about 7 feet wide. Could you suggest a specific arrangement for those? Also, since I’m trying not to buy anything else, how would you handle a corner where two walls meet—can I use the same pieces to define both sides without it feeling cluttered? And what’s the safest way to store pieces when I rotate them out?",
+      "created_at": "2026-10-11T15:38:57+08:00",
+      "period_index": 1
+    }
+  },
+  "groups": {
+    "g1": {
+      "group_id": "g1",
+      "head_id": "m1",
+      "tail_id": "m13",
+      "updated_at": "2026-10-11T15:38:54+08:00",
+      "memory_count": 3
+    },
+    "g2": {
+      "group_id": "g2",
+      "head_id": "m2",
+      "tail_id": "m2",
+      "updated_at": "2026-10-11T15:37:30+08:00",
+      "memory_count": 1
+    },
+    "g3": {
+      "group_id": "g3",
+      "head_id": "m3",
+      "tail_id": "m13",
+      "updated_at": "2026-10-11T15:38:54+08:00",
+      "memory_count": 3
+    },
+    "g4": {
+      "group_id": "g4",
+      "head_id": "m4",
+      "tail_id": "m13",
+      "updated_at": "2026-10-11T15:38:54+08:00",
+      "memory_count": 3
+    },
+    "g5": {
+      "group_id": "g5",
+      "head_id": "m5",
+      "tail_id": "m5",
+      "updated_at": "2026-10-11T15:37:33+08:00",
+      "memory_count": 1
+    },
+    "g6": {
+      "group_id": "g6",
+      "head_id": "m6",
+      "tail_id": "m6",
+      "updated_at": "2026-10-11T15:37:34+08:00",
+      "memory_count": 1
+    },
+    "g7": {
+      "group_id": "g7",
+      "head_id": "m7",
+      "tail_id": "m15",
+      "updated_at": "2026-10-11T15:38:57+08:00",
+      "memory_count": 3
+    },
+    "g8": {
+      "group_id": "g8",
+      "head_id": "m8",
+      "tail_id": "m8",
+      "updated_at": "2026-10-11T15:37:36+08:00",
+      "memory_count": 1
+    },
+    "g9": {
+      "group_id": "g9",
+      "head_id": "m9",
+      "tail_id": "m9",
+      "updated_at": "2026-10-11T15:37:37+08:00",
+      "memory_count": 1
+    },
+    "g10": {
+      "group_id": "g10",
+      "head_id": "m10",
+      "tail_id": "m10",
+      "updated_at": "2026-10-11T15:37:37+08:00",
+      "memory_count": 1
+    },
+    "g11": {
+      "group_id": "g11",
+      "head_id": "m11",
+      "tail_id": "m11",
+      "updated_at": "2026-10-11T15:37:38+08:00",
+      "memory_count": 1
+    }
+  },
+  "associations": [
+    {
+      "memory_id": "m1",
+      "group_id": "g1",
+      "prev_id": null,
+      "next_id": "m12"
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g1",
+      "prev_id": "m1",
+      "next_id": "m13"
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g1",
+      "prev_id": "m12",
+      "next_id": null
+    },
+    {
+      "memory_id": "m2",
+      "group_id": "g2",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m3",
+      "group_id": "g3",
+      "prev_id": null,
+      "next_id": "m12"
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g3",
+      "prev_id": "m3",
+      "next_id": "m13"
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g3",
+      "prev_id": "m12",
+      "next_id": null
+    },
+    {
+      "memory_id": "m4",
+      "group_id": "g4",
+      "prev_id": null,
+      "next_id": "m12"
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g4",
+      "prev_id": "m4",
+      "next_id": "m13"
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g4",
+      "prev_id": "m12",
+      "next_id": null
+    },
+    {
+      "memory_id": "m5",
+      "group_id": "g5",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m6",
+      "group_id": "g6",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m7",
+      "group_id": "g7",
+      "prev_id": null,
+      "next_id": "m14"
+    },
+    {
+      "memory_id": "m14",
+      "group_id": "g7",
+      "prev_id": "m7",
+      "next_id": "m15"
+    },
+    {
+      "memory_id": "m15",
+      "group_id": "g7",
+      "prev_id": "m14",
+      "next_id": null
+    },
+    {
+      "memory_id": "m8",
+      "group_id": "g8",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m9",
+      "group_id": "g9",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m10",
+      "group_id": "g10",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m11",
+      "group_id": "g11",
+      "prev_id": null,
+      "next_id": null
+    }
+  ],
+  "completed_periods": [
+    "period_00",
+    "period_01"
+  ]
+}

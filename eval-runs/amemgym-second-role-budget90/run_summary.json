@@ -1,0 +1,76 @@
+{
+  "status": "completed_with_new_prompts_from_full_budget",
+  "baseline_tokens": 8789,
+  "budget_tokens": 7910,
+  "completed_evaluation_periods": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "first_trigger_period": "period_09",
+  "affected_periods": {
+    "period_09": {
+      "baseline_tokens": 7981,
+      "budget_run_tokens": 7906,
+      "budget_tokens": 7910,
+      "reused": false,
+      "accuracy": {
+        "baseline": 0.5,
+        "budget_run": 0.7
+      },
+      "jaccard": {
+        "baseline": 0.6666666666666666,
+        "budget_run": 0.8
+      },
+      "hamming": {
+        "baseline": 0.75,
+        "budget_run": 0.85
+      },
+      "accurate_retrieval": {
+        "baseline": 0.75,
+        "budget_run": 0.85
+      },
+      "selective_forgetting": {
+        "baseline": 0.8333333333333334,
+        "budget_run": 1.0
+      }
+    },
+    "period_10": {
+      "baseline_tokens": 8789,
+      "budget_run_tokens": 7747,
+      "budget_tokens": 7910,
+      "reused": false,
+      "accuracy": {
+        "baseline": 0.5,
+        "budget_run": 0.5
+      },
+      "jaccard": {
+        "baseline": 0.6666666666666667,
+        "budget_run": 0.6333333333333333
+      },
+      "hamming": {
+        "baseline": 0.75,
+        "budget_run": 0.7
+      },
+      "accurate_retrieval": {
+        "baseline": 0.75,
+        "budget_run": 0.7
+      },
+      "selective_forgetting": {
+        "baseline": 0.75,
+        "budget_run": 0.75
+      }
+    }
+  },
+  "first_pass_attempted_memories": 37,
+  "second_pass_attempted_memories": 0,
+  "pretrigger_snapshots_identical": true
+}

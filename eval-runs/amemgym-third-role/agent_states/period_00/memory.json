@@ -1,0 +1,506 @@
+{
+  "nodes": {
+    "m1": {
+      "memory_id": "m1",
+      "group_ids": [
+        "g1"
+      ],
+      "topics": [
+        "volunteering_scheduling",
+        "time_management_for_volunteer_work"
+      ],
+      "raw_text": "[Current Time: 2020-09-13 19:57:36]\nCan you suggest ways to fit in a few extra hours of volunteering during weeks when my schedule isn’t completely open but I still have some flexibility?",
+      "created_at": "2026-10-11T15:50:01+08:00",
+      "period_index": 0
+    },
+    "m2": {
+      "memory_id": "m2",
+      "group_ids": [
+        "g2"
+      ],
+      "topics": [
+        "family_balance",
+        "time_management"
+      ],
+      "raw_text": "[Current Time: 2020-09-14 21:34:52]\nHow can I balance my family responsibilities with work and community activities when things aren’t overwhelming but still keep me pretty busy?",
+      "created_at": "2026-10-11T15:50:01+08:00",
+      "period_index": 0
+    },
+    "m3": {
+      "memory_id": "m3",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "dinner_party_themes",
+        "social_gathering_ideas"
+      ],
+      "raw_text": "[Current Time: 2020-09-15 20:25:55]\nWhat are some creative dinner party themes for someone who likes to host gatherings every now and then, but not too often?",
+      "created_at": "2026-10-11T15:50:02+08:00",
+      "period_index": 0
+    },
+    "m4": {
+      "memory_id": "m4",
+      "group_ids": [
+        "g4"
+      ],
+      "topics": [
+        "budget_management",
+        "financial_balance"
+      ],
+      "raw_text": "[Current Time: 2020-09-16 19:58:03]\nDo you have tips for managing a household budget that allows for both saving and enjoying occasional treats or outings?",
+      "created_at": "2026-10-11T15:50:03+08:00",
+      "period_index": 0
+    },
+    "m5": {
+      "memory_id": "m5",
+      "group_ids": [
+        "g5"
+      ],
+      "topics": [
+        "affordable_bookkeeping_resources",
+        "self_taught_accounting"
+      ],
+      "raw_text": "[Current Time: 2020-09-17 21:58:58]\nWhere can I find affordable bookkeeping courses or resources if my workplace doesn’t offer much in the way of professional training?",
+      "created_at": "2026-10-11T15:50:04+08:00",
+      "period_index": 0
+    },
+    "m6": {
+      "memory_id": "m6",
+      "group_ids": [
+        "g6"
+      ],
+      "topics": [
+        "career_growth",
+        "promotion_strategies"
+      ],
+      "raw_text": "[Current Time: 2020-09-18 21:16:19]\nAt my job, advancement opportunities come up occasionally—not all the time, but not super rare either. What are some strategies to really take advantage of these chances when they do arise, since promotions aren’t a regular thing here?",
+      "created_at": "2026-10-11T15:50:05+08:00",
+      "period_index": 0
+    },
+    "m7": {
+      "memory_id": "m7",
+      "group_ids": [
+        "g7"
+      ],
+      "topics": [
+        "book_club",
+        "historical_fiction"
+      ],
+      "raw_text": "[Current Time: 2020-09-19 20:48:02]\nAre there any local or online book clubs that focus on historical fiction and prefer reading physical books instead of digital formats?",
+      "created_at": "2026-10-11T15:50:05+08:00",
+      "period_index": 0
+    },
+    "m8": {
+      "memory_id": "m8",
+      "group_ids": [
+        "g8"
+      ],
+      "topics": [
+        "novel_recommendations",
+        "weekend_reading"
+      ],
+      "raw_text": "[Current Time: 2020-09-20 21:55:32]\nCan you recommend some engaging novels that are easy to get into and can be enjoyed mostly on weekends when I have time to read?",
+      "created_at": "2026-10-11T15:50:06+08:00",
+      "period_index": 0
+    },
+    "m9": {
+      "memory_id": "m9",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "church_group_icebreaker",
+        "social_activity"
+      ],
+      "raw_text": "[Current Time: 2020-09-21 21:05:17]\nWhat are some fun icebreaker activities for a women’s church group of about a dozen to two dozen members?",
+      "created_at": "2026-10-11T15:50:07+08:00",
+      "period_index": 0
+    },
+    "m10": {
+      "memory_id": "m10",
+      "group_ids": [
+        "g10"
+      ],
+      "topics": [
+        "church_event_planning",
+        "event_organization_tools"
+      ],
+      "raw_text": "[Current Time: 2020-09-22 19:39:00]\nDo you have any templates or tools for organizing several church events at once, when the planning isn’t too simple but not overwhelming either?",
+      "created_at": "2026-10-11T15:50:08+08:00",
+      "period_index": 0
+    },
+    "m11": {
+      "memory_id": "m11",
+      "group_ids": [
+        "g11"
+      ],
+      "topics": [
+        "family_trip_itinerary",
+        "travel_sightseeing"
+      ],
+      "raw_text": "[Current Time: 2020-09-23 20:12:19]\nCan you suggest a one-week itinerary for a family trip that balances sightseeing and relaxation?",
+      "created_at": "2026-10-11T15:50:09+08:00",
+      "period_index": 0
+    },
+    "m12": {
+      "memory_id": "m12",
+      "group_ids": [
+        "g12"
+      ],
+      "topics": [
+        "california_vacation_spots",
+        "family_travel_activities"
+      ],
+      "raw_text": "[Current Time: 2020-09-24 19:38:07]\nWhat are some vacation spots in California that offer a mix of outdoor adventures and relaxing activities for families?",
+      "created_at": "2026-10-11T15:50:10+08:00",
+      "period_index": 0
+    },
+    "m13": {
+      "memory_id": "m13",
+      "group_ids": [
+        "g13"
+      ],
+      "topics": [
+        "leadership_development",
+        "team_guidance"
+      ],
+      "raw_text": "[Current Time: 2020-09-25 20:07:20]\nHow can I develop my leadership skills when I often help guide my coworkers but don’t have an official team lead title?",
+      "created_at": "2026-10-11T15:50:10+08:00",
+      "period_index": 0
+    },
+    "m14": {
+      "memory_id": "m14",
+      "group_ids": [
+        "g14"
+      ],
+      "topics": [
+        "mentorship_strategies",
+        "guidance_relationships"
+      ],
+      "raw_text": "[Current Time: 2020-09-26 21:33:17]\nWhat’s the best way to make the most of mentorship when I only get to meet with a mentor every so often?",
+      "created_at": "2026-10-11T15:50:11+08:00",
+      "period_index": 0
+    },
+    "m15": {
+      "memory_id": "m15",
+      "group_ids": [
+        "g15"
+      ],
+      "topics": [
+        "italian_cuisine",
+        "family_gathering_dishes"
+      ],
+      "raw_text": "[Current Time: 2020-09-27 21:27:10]\nCould you recommend some crowd-pleasing Italian dishes that are perfect for serving at big family gatherings?",
+      "created_at": "2026-10-11T15:50:12+08:00",
+      "period_index": 0
+    },
+    "m16": {
+      "memory_id": "m16",
+      "group_ids": [
+        "g16"
+      ],
+      "topics": [
+        "dinner_party_hosting",
+        "meal_planning_tips",
+        "seating_arrangements"
+      ],
+      "raw_text": "[Current Time: 2020-09-28 20:11:44]\nWhat are some tips for hosting a dinner party for around a dozen guests, especially when it comes to meal planning and seating?",
+      "created_at": "2026-10-11T15:50:13+08:00",
+      "period_index": 0
+    },
+    "m17": {
+      "memory_id": "m17",
+      "group_ids": [
+        "g17"
+      ],
+      "topics": [
+        "community_event_ideas",
+        "budget_constrained_events"
+      ],
+      "raw_text": "[Current Time: 2020-09-29 21:39:37]\nCan you suggest fun community event ideas that can be organized with a monthly budget of about $50 to $150?",
+      "created_at": "2026-10-11T15:50:14+08:00",
+      "period_index": 0
+    },
+    "m18": {
+      "memory_id": "m18",
+      "group_ids": [
+        "g18"
+      ],
+      "topics": [
+        "community_event_activities",
+        "family_friendly_events"
+      ],
+      "raw_text": "[Current Time: 2020-09-30 20:56:59]\nWhat are some engaging activities for community events that work well for both adults and kids?",
+      "created_at": "2026-10-11T15:50:15+08:00",
+      "period_index": 0
+    },
+    "m19": {
+      "memory_id": "m19",
+      "group_ids": [
+        "g19"
+      ],
+      "topics": [
+        "bookkeeping_courses",
+        "online_learning"
+      ],
+      "raw_text": "[Current Time: 2020-10-01 21:39:20]\nAre there any structured bookkeeping courses that can be completed with about 3 to 6 hours of study time per week?",
+      "created_at": "2026-10-11T15:50:16+08:00",
+      "period_index": 0
+    }
+  },
+  "groups": {
+    "g1": {
+      "group_id": "g1",
+      "head_id": "m1",
+      "tail_id": "m1",
+      "updated_at": "2026-10-11T15:50:01+08:00",
+      "memory_count": 1
+    },
+    "g2": {
+      "group_id": "g2",
+      "head_id": "m2",
+      "tail_id": "m2",
+      "updated_at": "2026-10-11T15:50:01+08:00",
+      "memory_count": 1
+    },
+    "g3": {
+      "group_id": "g3",
+      "head_id": "m3",
+      "tail_id": "m3",
+      "updated_at": "2026-10-11T15:50:02+08:00",
+      "memory_count": 1
+    },
+    "g4": {
+      "group_id": "g4",
+      "head_id": "m4",
+      "tail_id": "m4",
+      "updated_at": "2026-10-11T15:50:03+08:00",
+      "memory_count": 1
+    },
+    "g5": {
+      "group_id": "g5",
+      "head_id": "m5",
+      "tail_id": "m5",
+      "updated_at": "2026-10-11T15:50:04+08:00",
+      "memory_count": 1
+    },
+    "g6": {
+      "group_id": "g6",
+      "head_id": "m6",
+      "tail_id": "m6",
+      "updated_at": "2026-10-11T15:50:05+08:00",
+      "memory_count": 1
+    },
+    "g7": {
+      "group_id": "g7",
+      "head_id": "m7",
+      "tail_id": "m7",
+      "updated_at": "2026-10-11T15:50:05+08:00",
+      "memory_count": 1
+    },
+    "g8": {
+      "group_id": "g8",
+      "head_id": "m8",
+      "tail_id": "m8",
+      "updated_at": "2026-10-11T15:50:06+08:00",
+      "memory_count": 1
+    },
+    "g9": {
+      "group_id": "g9",
+      "head_id": "m9",
+      "tail_id": "m9",
+      "updated_at": "2026-10-11T15:50:07+08:00",
+      "memory_count": 1
+    },
+    "g10": {
+      "group_id": "g10",
+      "head_id": "m10",
+      "tail_id": "m10",
+      "updated_at": "2026-10-11T15:50:08+08:00",
+      "memory_count": 1
+    },
+    "g11": {
+      "group_id": "g11",
+      "head_id": "m11",
+      "tail_id": "m11",
+      "updated_at": "2026-10-11T15:50:09+08:00",
+      "memory_count": 1
+    },
+    "g12": {
+      "group_id": "g12",
+      "head_id": "m12",
+      "tail_id": "m12",
+      "updated_at": "2026-10-11T15:50:10+08:00",
+      "memory_count": 1
+    },
+    "g13": {
+      "group_id": "g13",
+      "head_id": "m13",
+      "tail_id": "m13",
+      "updated_at": "2026-10-11T15:50:10+08:00",
+      "memory_count": 1
+    },
+    "g14": {
+      "group_id": "g14",
+      "head_id": "m14",
+      "tail_id": "m14",
+      "updated_at": "2026-10-11T15:50:11+08:00",
+      "memory_count": 1
+    },
+    "g15": {
+      "group_id": "g15",
+      "head_id": "m15",
+      "tail_id": "m15",
+      "updated_at": "2026-10-11T15:50:12+08:00",
+      "memory_count": 1
+    },
+    "g16": {
+      "group_id": "g16",
+      "head_id": "m16",
+      "tail_id": "m16",
+      "updated_at": "2026-10-11T15:50:13+08:00",
+      "memory_count": 1
+    },
+    "g17": {
+      "group_id": "g17",
+      "head_id": "m17",
+      "tail_id": "m17",
+      "updated_at": "2026-10-11T15:50:14+08:00",
+      "memory_count": 1
+    },
+    "g18": {
+      "group_id": "g18",
+      "head_id": "m18",
+      "tail_id": "m18",
+      "updated_at": "2026-10-11T15:50:15+08:00",
+      "memory_count": 1
+    },
+    "g19": {
+      "group_id": "g19",
+      "head_id": "m19",
+      "tail_id": "m19",
+      "updated_at": "2026-10-11T15:50:16+08:00",
+      "memory_count": 1
+    }
+  },
+  "associations": [
+    {
+      "memory_id": "m1",
+      "group_id": "g1",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m2",
+      "group_id": "g2",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m3",
+      "group_id": "g3",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m4",
+      "group_id": "g4",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m5",
+      "group_id": "g5",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m6",
+      "group_id": "g6",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m7",
+      "group_id": "g7",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m8",
+      "group_id": "g8",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m9",
+      "group_id": "g9",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m10",
+      "group_id": "g10",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m11",
+      "group_id": "g11",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g12",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g13",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m14",
+      "group_id": "g14",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m15",
+      "group_id": "g15",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m16",
+      "group_id": "g16",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m17",
+      "group_id": "g17",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m18",
+      "group_id": "g18",
+      "prev_id": null,
+      "next_id": null
+    },
+    {
+      "memory_id": "m19",
+      "group_id": "g19",
+      "prev_id": null,
+      "next_id": null
+    }
+  ],
+  "completed_periods": [
+    "period_00"
+  ]
+}

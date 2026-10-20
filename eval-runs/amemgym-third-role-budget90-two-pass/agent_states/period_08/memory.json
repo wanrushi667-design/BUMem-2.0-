@@ -1,0 +1,2803 @@
+{
+  "nodes": {
+    "m1": {
+      "memory_id": "m1",
+      "group_ids": [
+        "g1"
+      ],
+      "topics": [
+        "volunteering_scheduling",
+        "time_management_for_volunteer_work"
+      ],
+      "raw_text": "[Current Time: 2020-09-13 19:57:36]\nCan you suggest ways to fit in a few extra hours of volunteering during weeks when my schedule isn’t completely open but I still have some flexibility?",
+      "created_at": "2026-10-11T15:50:01+08:00",
+      "period_index": 0
+    },
+    "m2": {
+      "memory_id": "m2",
+      "group_ids": [
+        "g2"
+      ],
+      "topics": [
+        "family_balance",
+        "time_management"
+      ],
+      "raw_text": "[Current Time: 2020-09-14 21:34:52]\nHow can I balance my family responsibilities with work and community activities when things aren’t overwhelming but still keep me pretty busy?",
+      "created_at": "2026-10-11T15:50:01+08:00",
+      "period_index": 0
+    },
+    "m3": {
+      "memory_id": "m3",
+      "group_ids": [
+        "g3"
+      ],
+      "topics": [
+        "dinner_party_themes",
+        "social_gathering_ideas"
+      ],
+      "raw_text": "[Current Time: 2020-09-15 20:25:55]\nWhat are some creative dinner party themes for someone who likes to host gatherings every now and then, but not too often?",
+      "created_at": "2026-10-11T15:50:02+08:00",
+      "period_index": 0
+    },
+    "m4": {
+      "memory_id": "m4",
+      "group_ids": [
+        "g4"
+      ],
+      "topics": [
+        "budget_management",
+        "financial_balance"
+      ],
+      "raw_text": "[Current Time: 2020-09-16 19:58:03]\nDo you have tips for managing a household budget that allows for both saving and enjoying occasional treats or outings?",
+      "created_at": "2026-10-11T15:50:03+08:00",
+      "period_index": 0
+    },
+    "m5": {
+      "memory_id": "m5",
+      "group_ids": [
+        "g5"
+      ],
+      "topics": [
+        "affordable_bookkeeping_resources",
+        "self_taught_accounting"
+      ],
+      "raw_text": "[Current Time: 2020-09-17 21:58:58]\nWhere can I find affordable bookkeeping courses or resources if my workplace doesn’t offer much in the way of professional training?",
+      "created_at": "2026-10-11T15:50:04+08:00",
+      "period_index": 0
+    },
+    "m6": {
+      "memory_id": "m6",
+      "group_ids": [
+        "g6"
+      ],
+      "topics": [
+        "career_growth",
+        "promotion_strategies"
+      ],
+      "raw_text": "[Current Time: 2020-09-18 21:16:19]\nAt my job, advancement opportunities come up occasionally—not all the time, but not super rare either. What are some strategies to really take advantage of these chances when they do arise, since promotions aren’t a regular thing here?",
+      "created_at": "2026-10-11T15:50:05+08:00",
+      "period_index": 0
+    },
+    "m7": {
+      "memory_id": "m7",
+      "group_ids": [
+        "g7"
+      ],
+      "topics": [
+        "book_club",
+        "historical_fiction"
+      ],
+      "raw_text": "[Current Time: 2020-09-19 20:48:02]\nAre there any local or online book clubs that focus on historical fiction and prefer reading physical books instead of digital formats?",
+      "created_at": "2026-10-11T15:50:05+08:00",
+      "period_index": 0
+    },
+    "m8": {
+      "memory_id": "m8",
+      "group_ids": [
+        "g8"
+      ],
+      "topics": [
+        "novel_recommendations",
+        "weekend_reading"
+      ],
+      "raw_text": "[Current Time: 2020-09-20 21:55:32]\nCan you recommend some engaging novels that are easy to get into and can be enjoyed mostly on weekends when I have time to read?",
+      "created_at": "2026-10-11T15:50:06+08:00",
+      "period_index": 0
+    },
+    "m9": {
+      "memory_id": "m9",
+      "group_ids": [
+        "g9"
+      ],
+      "topics": [
+        "church_group_icebreaker",
+        "social_activity"
+      ],
+      "raw_text": "[Current Time: 2020-09-21 21:05:17]\nWhat are some fun icebreaker activities for a women’s church group of about a dozen to two dozen members?",
+      "created_at": "2026-10-11T15:50:07+08:00",
+      "period_index": 0
+    },
+    "m10": {
+      "memory_id": "m10",
+      "group_ids": [
+        "g10"
+      ],
+      "topics": [
+        "church_event_planning",
+        "event_organization_tools"
+      ],
+      "raw_text": "[Current Time: 2020-09-22 19:39:00]\nDo you have any templates or tools for organizing several church events at once, when the planning isn’t too simple but not overwhelming either?",
+      "created_at": "2026-10-11T15:50:08+08:00",
+      "period_index": 0
+    },
+    "m11": {
+      "memory_id": "m11",
+      "group_ids": [
+        "g11"
+      ],
+      "topics": [
+        "family_trip_itinerary",
+        "travel_sightseeing"
+      ],
+      "raw_text": "[Current Time: 2020-09-23 20:12:19]\nCan you suggest a one-week itinerary for a family trip that balances sightseeing and relaxation?",
+      "created_at": "2026-10-11T15:50:09+08:00",
+      "period_index": 0
+    },
+    "m12": {
+      "memory_id": "m12",
+      "group_ids": [
+        "g12"
+      ],
+      "topics": [
+        "california_vacation_spots",
+        "family_travel_activities"
+      ],
+      "raw_text": "[Current Time: 2020-09-24 19:38:07]\nWhat are some vacation spots in California that offer a mix of outdoor adventures and relaxing activities for families?",
+      "created_at": "2026-10-11T15:50:10+08:00",
+      "period_index": 0
+    },
+    "m13": {
+      "memory_id": "m13",
+      "group_ids": [
+        "g13"
+      ],
+      "topics": [
+        "leadership_development",
+        "team_guidance"
+      ],
+      "raw_text": "[Current Time: 2020-09-25 20:07:20]\nHow can I develop my leadership skills when I often help guide my coworkers but don’t have an official team lead title?",
+      "created_at": "2026-10-11T15:50:10+08:00",
+      "period_index": 0
+    },
+    "m14": {
+      "memory_id": "m14",
+      "group_ids": [
+        "g14"
+      ],
+      "topics": [
+        "mentorship_strategies",
+        "guidance_relationships"
+      ],
+      "raw_text": "[Current Time: 2020-09-26 21:33:17]\nWhat’s the best way to make the most of mentorship when I only get to meet with a mentor every so often?",
+      "created_at": "2026-10-11T15:50:11+08:00",
+      "period_index": 0
+    },
+    "m15": {
+      "memory_id": "m15",
+      "group_ids": [
+        "g15"
+      ],
+      "topics": [
+        "italian_cuisine",
+        "family_gathering_dishes"
+      ],
+      "raw_text": "[Current Time: 2020-09-27 21:27:10]\nCould you recommend some crowd-pleasing Italian dishes that are perfect for serving at big family gatherings?",
+      "created_at": "2026-10-11T15:50:12+08:00",
+      "period_index": 0
+    },
+    "m16": {
+      "memory_id": "m16",
+      "group_ids": [
+        "g16"
+      ],
+      "topics": [
+        "dinner_party_hosting",
+        "meal_planning_tips",
+        "seating_arrangements"
+      ],
+      "raw_text": "[Current Time: 2020-09-28 20:11:44]\nWhat are some tips for hosting a dinner party for around a dozen guests, especially when it comes to meal planning and seating?",
+      "created_at": "2026-10-11T15:50:13+08:00",
+      "period_index": 0
+    },
+    "m17": {
+      "memory_id": "m17",
+      "group_ids": [
+        "g17"
+      ],
+      "topics": [
+        "community_event_ideas",
+        "budget_constrained_events"
+      ],
+      "raw_text": "[Current Time: 2020-09-29 21:39:37]\nCan you suggest fun community event ideas that can be organized with a monthly budget of about $50 to $150?",
+      "created_at": "2026-10-11T15:50:14+08:00",
+      "period_index": 0
+    },
+    "m18": {
+      "memory_id": "m18",
+      "group_ids": [
+        "g18"
+      ],
+      "topics": [
+        "community_event_activities",
+        "family_friendly_events"
+      ],
+      "raw_text": "[Current Time: 2020-09-30 20:56:59]\nWhat are some engaging activities for community events that work well for both adults and kids?",
+      "created_at": "2026-10-11T15:50:15+08:00",
+      "period_index": 0
+    },
+    "m19": {
+      "memory_id": "m19",
+      "group_ids": [
+        "g19"
+      ],
+      "topics": [
+        "bookkeeping_courses",
+        "online_learning"
+      ],
+      "raw_text": "[Current Time: 2020-10-01 21:39:20]\nAre there any structured bookkeeping courses that can be completed with about 3 to 6 hours of study time per week?",
+      "created_at": "2026-10-11T15:50:16+08:00",
+      "period_index": 0
+    },
+    "m20": {
+      "memory_id": "m20",
+      "group_ids": [
+        "g15",
+        "g16",
+        "g18",
+        "g2",
+        "g3"
+      ],
+      "topics": [
+        "family_gathering_planning",
+        "holiday_activities",
+        "seasonal_tasks"
+      ],
+      "raw_text": "[Current Time: 2020-12-29 20:49:03]\nCan you help me plan a schedule for hosting several family gatherings over the holidays, including activities for my niece and nephew and ways to balance extra seasonal errands for my parents?",
+      "created_at": "2026-10-11T15:51:04+08:00",
+      "period_index": 1
+    },
+    "m21": {
+      "memory_id": "m21",
+      "group_ids": [
+        "g15",
+        "g16",
+        "g18",
+        "g2",
+        "g3"
+      ],
+      "topics": [
+        "new_year_event_planning",
+        "family_activities",
+        "task_delegation"
+      ],
+      "raw_text": "Thanks, this is really helpful—especially the reminder not to host everything myself. Since it’s already Jan 1 now, could you rework the plan into a simpler Jan 1–3 reset? I’d like one hour-by-hour day for New Year’s Day that includes a low-key kid activity for my niece (6) and nephew (9), a short errand block for my parents’ after-Christmas returns and pharmacy pickup, and built-in rest time. Then for Jan 2–3, could you make a flexible checklist for thank-you notes, cleanup, and a rainy-day backup activity? I’m not ready to lock in exact guest counts yet, so keep it modular. Also, what’s the best way to ask relatives to take over one or two errands without making it feel like I’m dumping tasks on them?",
+      "created_at": "2026-10-11T15:51:08+08:00",
+      "period_index": 1
+    },
+    "m22": {
+      "memory_id": "m22",
+      "group_ids": [
+        "g10",
+        "g1",
+        "g18",
+        "g17",
+        "g2"
+      ],
+      "topics": [
+        "coordinated_donation_event",
+        "volunteer_scheduling",
+        "donation_tracking"
+      ],
+      "raw_text": "[Current Time: 2020-12-30 20:38:50]\nI need ideas and tips for managing a winter coat drive at church that involves coordinating with community partners, organizing volunteer shifts, and tracking donations over several weeks, while still helping with our annual holiday food basket program.",
+      "created_at": "2026-10-11T15:51:10+08:00",
+      "period_index": 1
+    },
+    "m23": {
+      "memory_id": "m23",
+      "group_ids": [
+        "g10",
+        "g1"
+      ],
+      "topics": [
+        "donation_management",
+        "volunteer_organization",
+        "community_partnership"
+      ],
+      "raw_text": "That would be really helpful—I’d love a Google Sheets structure and a volunteer signup template. I’m the one likely setting up the trackers, and I want something simple enough that shift leads can update from their phones without accidentally breaking formulas. Could you draft the tabs and key columns for a combined coat drive + food basket workbook? Also, how would you handle donation acknowledgment letters or receipts when people drop off coats or food? And is there a clean way to give community partners a weekly pickup report without sharing any recipient information?",
+      "created_at": "2026-10-11T15:51:13+08:00",
+      "period_index": 1
+    },
+    "m24": {
+      "memory_id": "m24",
+      "group_ids": [
+        "g5",
+        "g19"
+      ],
+      "topics": [
+        "self_guided_studies",
+        "online_learning_resources"
+      ],
+      "raw_text": "[Current Time: 2020-12-31 19:59:53]\nSince my online bookkeeping class was paused, can you recommend self-guided resources and strategies for continuing my studies at home, especially ones that fit around a busy and unpredictable schedule?",
+      "created_at": "2026-10-11T15:51:15+08:00",
+      "period_index": 1
+    },
+    "m25": {
+      "memory_id": "m25",
+      "group_ids": [
+        "g19",
+        "g5"
+      ],
+      "topics": [
+        "accounting_plan",
+        "adjusting_entries",
+        "accounting_resources"
+      ],
+      "raw_text": "Thanks, this is really helpful. I’m in the U.S., in California, and the class had just finished journal entries and the trial balance before it paused. I’d love a specific 4-week plan that assumes I can only study in short, unpredictable windows. Also, do you think I should review trial balance more before moving into adjusting entries, or is it okay to push ahead? And if I want one main resource to follow instead of bouncing around, would AccountingCoach or the Intuit Coursera certificate be the better spine? I’d also like ideas for practicing bank reconciliation without accidentally changing anything in a real QuickBooks file.",
+      "created_at": "2026-10-11T15:51:17+08:00",
+      "period_index": 1
+    },
+    "m26": {
+      "memory_id": "m26",
+      "group_ids": [
+        "g8",
+        "g7"
+      ],
+      "topics": [
+        "reading_routine",
+        "historical_fiction"
+      ],
+      "raw_text": "[Current Time: 2021-01-01 19:37:46]\nCan you suggest a reading list of historical fiction and biographies for my new nightly routine, since I now have time to read with my spouse every evening?",
+      "created_at": "2026-10-11T15:51:19+08:00",
+      "period_index": 1
+    },
+    "m27": {
+      "memory_id": "m27",
+      "group_ids": [
+        "g8",
+        "g7"
+      ],
+      "topics": [
+        "book_recommendation",
+        "literary_genre",
+        "reading_preference"
+      ],
+      "raw_text": "This is such a thoughtful list—thank you! I love that you included both read-aloud and separate-copy options. I think we’ll start with *The Guernsey Literary and Potato Peel Pie Society*, but I’m a little worried about choosing something too heavy right before bed. Could you suggest a gentler six-book path through these—still mixing historical fiction and biography, but maybe avoiding the most emotionally intense war stories? Also, are there any with a faith/community angle or a California/West Coast setting that might feel a little closer to home?",
+      "created_at": "2026-10-11T15:51:21+08:00",
+      "period_index": 1
+    },
+    "m28": {
+      "memory_id": "m28",
+      "group_ids": [
+        "g9",
+        "g10",
+        "g18",
+        "g17",
+        "g1"
+      ],
+      "topics": [
+        "church_event_planning",
+        "community_engagement"
+      ],
+      "raw_text": "[Current Time: 2021-03-29 21:19:08]\nOur church women's group has really grown lately, and we're now planning bigger outreach activities with more members involved. Can you help me brainstorm ways to keep everyone engaged and organized as we take on larger projects?",
+      "created_at": "2026-10-11T15:52:15+08:00",
+      "period_index": 2
+    },
+    "m29": {
+      "memory_id": "m29",
+      "group_ids": [
+        "g10",
+        "g1",
+        "g9",
+        "g18",
+        "g17"
+      ],
+      "topics": [
+        "event_planning",
+        "community_organization",
+        "communication_strategy"
+      ],
+      "raw_text": "Thank you—this gives me a lot to work with, especially the idea of one hub and a one-page charter. I think our next step is to try this on a smaller scale first: an upcoming spring food drive. Could you help me draft a simple one-page project charter and a volunteer signup that offers low, medium, and high commitment options? I’d also like a short agenda for our first all-group meeting to explain the new structure without making it feel too corporate. One more thing: a few of our older members don’t use email much, and some younger ones live on their phones, so what’s a simple way to keep everyone in the loop without juggling too many tools? If you can, make the templates printable and easy to edit.",
+      "created_at": "2026-10-11T15:52:17+08:00",
+      "period_index": 2
+    },
+    "m30": {
+      "memory_id": "m30",
+      "group_ids": [
+        "g3",
+        "g16",
+        "g15"
+      ],
+      "topics": [
+        "dinner_party_themes",
+        "food_recipe_suggestions"
+      ],
+      "raw_text": "[Current Time: 2021-03-30 21:14:45]\nI've been hosting dinner parties and potlucks much more often these past few months, sometimes two or three times a month. Could you suggest some new themes or recipes that would work well for frequent gatherings with friends and family?",
+      "created_at": "2026-10-11T15:52:20+08:00",
+      "period_index": 2
+    },
+    "m31": {
+      "memory_id": "m31",
+      "group_ids": [
+        "g3",
+        "g16",
+        "g15"
+      ],
+      "topics": [
+        "event_planning",
+        "menu_creation",
+        "dietary_accommodations"
+      ],
+      "raw_text": "Thanks, this is incredibly helpful! I think the Heritage Recipe Night really resonates with me because I love collecting vintage cookbooks and hearing family stories. Could you help me turn that into a specific menu with a shopping list and a day-before/day-of timeline? Also, how would you handle it if some guests have dietary restrictions or if someone isn't a confident cook? I want to keep it inclusive and low-stress.",
+      "created_at": "2026-10-11T15:52:22+08:00",
+      "period_index": 2
+    },
+    "m32": {
+      "memory_id": "m32",
+      "group_ids": [
+        "g17",
+        "g4",
+        "g1",
+        "g18",
+        "g10"
+      ],
+      "topics": [
+        "expense_tracking",
+        "financial_management"
+      ],
+      "raw_text": "[Current Time: 2021-03-31 19:24:49]\nI've noticed that my monthly spending on community events and workshops has really increased lately—it's now well over $150 each month, which is a lot more than I used to budget for. Plus, I'm donating more frequently. Can you help me track these expenses and suggest ways to balance my higher contributions with my other financial commitments?",
+      "created_at": "2026-10-11T15:52:24+08:00",
+      "period_index": 2
+    },
+    "m33": {
+      "memory_id": "m33",
+      "group_ids": [
+        "g4",
+        "g18",
+        "g17",
+        "g10",
+        "g1",
+        "g2"
+      ],
+      "topics": [
+        "emergency_savings",
+        "budgeting_tips",
+        "family_finances"
+      ],
+      "raw_text": "Thanks, this is really helpful. My husband and I bring in about $4,800 a month after taxes, and we're trying to build up our emergency fund while also saving a little each month for a future trip to the Amalfi Coast. I like the idea of separate envelopes, but I'm wondering: when you say to track for two months without changing behavior, should I try to reconstruct the last two months from my bank statements, or just start fresh from April 1st? Also, do you have any tips for getting my husband on board with a set giving envelope without making it feel like I'm being stingy with our church and community?",
+      "created_at": "2026-10-11T15:52:26+08:00",
+      "period_index": 2
+    },
+    "m34": {
+      "memory_id": "m34",
+      "group_ids": [
+        "g13",
+        "g6",
+        "g2",
+        "g14"
+      ],
+      "topics": [
+        "team_management",
+        "motivation_strategies",
+        "project_milestones"
+      ],
+      "raw_text": "[Current Time: 2021-04-01 19:12:51]\nI've recently taken on a formal team leader role at work, organizing invoice processing and leading regular meetings. What are some effective strategies for managing a new team and keeping everyone motivated as we work toward our project milestones?",
+      "created_at": "2026-10-11T15:52:29+08:00",
+      "period_index": 2
+    },
+    "m35": {
+      "memory_id": "m35",
+      "group_ids": [
+        "g13",
+        "g5",
+        "g19"
+      ],
+      "topics": [
+        "approval_process_optimization",
+        "team_motivation",
+        "workflow_efficiency"
+      ],
+      "raw_text": "Thanks—this is really helpful, especially the part about removing friction instead of just giving pep talks. We’re in person, and my team is five people. The biggest bottleneck right now is invoices getting stuck in approval queues with other departments. Some managers respond quickly, but a few sit on requests for days, and that pushes everything toward month-end. I don’t manage those people, so I’m trying to find a way to nudge and escalate without damaging relationships.\n\nCould you help me design a simple weekly meeting agenda and shared tracker specifically around approval turnaround? I use QuickBooks, Excel, and Outlook daily, so something that fits those tools would be ideal. Also, how do I keep my team motivated when their work is blocked by approvals outside our control?",
+      "created_at": "2026-10-11T15:52:33+08:00",
+      "period_index": 2
+    },
+    "m36": {
+      "memory_id": "m36",
+      "group_ids": [
+        "g19",
+        "g5",
+        "g13",
+        "g6"
+      ],
+      "topics": [
+        "quickbooks_tutorials",
+        "company_portal_resources"
+      ],
+      "raw_text": "[Current Time: 2021-06-28 19:29:56]\nCan you help me find some advanced QuickBooks tutorials or billing system modules in our new company learning portal? I just got early access and want to make the most of it for my professional development.",
+      "created_at": "2026-10-11T15:53:04+08:00",
+      "period_index": 3
+    },
+    "m37": {
+      "memory_id": "m37",
+      "group_ids": [
+        "g19",
+        "g5",
+        "g6",
+        "g13",
+        "g14"
+      ],
+      "topics": [
+        "quickbooks_online_plus",
+        "career_advancement",
+        "proadvisor_training"
+      ],
+      "raw_text": "Thanks for the thorough guidance! I checked, and our company uses QuickBooks Online Plus. As for the billing system, I'm not totally sure—there's a separate invoicing tool we use, but I'll ask my manager to confirm. In two years, I'd like to move into a bookkeeper or office manager role. I'm especially interested in the advanced approval workflows and custom reporting you mentioned. Could you suggest specific modules or exercises from the ProAdvisor training that focus on those? Also, how can I best show my manager the impact of what I'm learning so it supports a promotion case?",
+      "created_at": "2026-10-11T15:53:07+08:00",
+      "period_index": 3
+    },
+    "m38": {
+      "memory_id": "m38",
+      "group_ids": [
+        "g4",
+        "g17",
+        "g1",
+        "g18",
+        "g10",
+        "g2"
+      ],
+      "topics": [
+        "budget_management",
+        "home_renovation_cost_tracking"
+      ],
+      "raw_text": "[Current Time: 2021-06-29 19:41:44]\nWhat are some effective ways to track our kitchen renovation savings and cut back on unnecessary spending? We’re trying to be more disciplined with our budget and prioritize saving over eating out or small purchases.",
+      "created_at": "2026-10-11T15:53:09+08:00",
+      "period_index": 3
+    },
+    "m39": {
+      "memory_id": "m39",
+      "group_ids": [
+        "g4",
+        "g17",
+        "g1",
+        "g10",
+        "g2",
+        "g18"
+      ],
+      "topics": [
+        "personal_finances",
+        "budgeting",
+        "savings_management"
+      ],
+      "raw_text": "This is really helpful—thank you. I love the idea of the “Spending_Trim” tab; seeing skipped takeout turn into tile money would actually motivate me. To answer your question: our target is $18,000, we currently have $3,200 saved in a labeled savings account, and I think we can realistically shift about $300 a month by cutting dining out and small impulse buys. Could you build the exact tracker with the formulas and a month-by-month completion date using those numbers? Also, how would you handle months when my husband gets a little overtime—should we treat that as a bonus straight to the kitchen fund, or split it between the renovation and an emergency fund? I want to be disciplined, but not so rigid that we burn out.",
+      "created_at": "2026-10-11T15:53:12+08:00",
+      "period_index": 3
+    },
+    "m40": {
+      "memory_id": "m40",
+      "group_ids": [
+        "g1",
+        "g10",
+        "g18",
+        "g9",
+        "g2"
+      ],
+      "topics": [
+        "church_volunteer",
+        "flexible_scheduling"
+      ],
+      "raw_text": "[Current Time: 2021-06-30 21:51:20]\nCould you suggest some volunteer opportunities at church that fit a flexible schedule this summer? I’d like to help out when I can, but also have time for family outings and personal plans.",
+      "created_at": "2026-10-11T15:53:15+08:00",
+      "period_index": 3
+    },
+    "m41": {
+      "memory_id": "m41",
+      "group_ids": [
+        "g1",
+        "g18",
+        "g10",
+        "g2"
+      ],
+      "topics": [
+        "volunteer_coordination",
+        "event_planning",
+        "volunteer_commitment"
+      ],
+      "raw_text": "Thanks—this gives me a lot to work with. I don’t have the exact summer calendar yet; our church usually announces VBS, the summer picnic, and the back-to-school drive in the bulletin around early July, and I can ask the office about the food pantry Saturdays. I’m mainly trying to avoid recurring roles and pick one-off or drop-in tasks. Could you help me draft a short message to our volunteer coordinator? I’d like to ask what the smallest pieces are, mention that I can help with setup, cleanup, or prep, and be clear that I can’t lead a whole event this summer. Also, what’s a graceful way to say no if someone asks me to chair something after I’ve already signed up for a smaller task?",
+      "created_at": "2026-10-11T15:53:18+08:00",
+      "period_index": 3
+    },
+    "m42": {
+      "memory_id": "m42",
+      "group_ids": [
+        "g12",
+        "g11"
+      ],
+      "topics": [
+        "family_vacation",
+        "northern_california_travel",
+        "hiking_trip"
+      ],
+      "raw_text": "[Current Time: 2021-07-01 19:43:41]\nCan you help me plan a two-week family vacation in Northern California, including cabin stays, hotel nights, and some hiking and coastal town visits? We’re coordinating with relatives to join us for part of the trip.",
+      "created_at": "2026-10-11T15:53:20+08:00",
+      "period_index": 3
+    },
+    "m43": {
+      "memory_id": "m43",
+      "group_ids": [
+        "g12",
+        "g11"
+      ],
+      "topics": [
+        "travel_itinerary_adjustment",
+        "coastal_hiking_trips",
+        "family_travel_planning"
+      ],
+      "raw_text": "Thanks so much — this is incredibly helpful, and the timing warning is exactly what I needed to hear. To answer your questions: this is for **this summer**, so we’re already behind and I’ll start booking today. We’re driving our own car, and we actually live in **Eureka**, not the Bay Area — so the loop you laid out starting from SF is a bit off for us. Could you adjust it to start and end in Eureka instead? \n\nWe’ll have **four of us total** for the first few days (me, my husband, and my parents), and then **two more relatives** — my aunt and uncle — will join us for about five nights in the middle. They’re driving up from Sacramento. So the relative join window you suggested around Mendocino or the Redwood Coast could work well, but I’d love your take on the best place to meet them given our starting point.\n\nAlso, since we’re locals, we’ve already done a lot of the Redwood Coast day hikes — but we’d still love a couple of easy, scenic ones for my parents, who are in their 60s and prefer shorter loops. And I’m curious: if we start in Eureka, does it make more sense to go north first toward Crescent City and then loop back south, or head south toward Mendocino and then come back up? I want to minimize driving for my parents but still hit some new coastal towns and maybe one or two cabins with a good kitchen for group dinners. What would you change in the itinerary?",
+      "created_at": "2026-10-11T15:53:23+08:00",
+      "period_index": 3
+    },
+    "m44": {
+      "memory_id": "m44",
+      "group_ids": [
+        "g16",
+        "g15",
+        "g3"
+      ],
+      "topics": [
+        "dinner_party_menu",
+        "international_cuisine",
+        "large_group_meal"
+      ],
+      "raw_text": "[Current Time: 2021-09-30 20:55:16]\nCan you help me plan a menu for my next dinner party? I’m expecting a bigger crowd than usual—over 17 people—and I’d love to include some international dishes like Thai, Greek, or Mexican to mix things up from my usual Italian classics.",
+      "created_at": "2026-10-11T15:53:55+08:00",
+      "period_index": 4
+    },
+    "m45": {
+      "memory_id": "m45",
+      "group_ids": [
+        "g16",
+        "g15",
+        "g3",
+        "g9",
+        "g10",
+        "g18",
+        "g17"
+      ],
+      "topics": [
+        "greek_meal_preparation",
+        "event_planning",
+        "food_storage"
+      ],
+      "raw_text": "Greek it is — the mezze-and-grill night sounds perfect, and I love that most of it can be done ahead. We’re planning to host outside on the patio with a couple of patio heaters and a pop-up tent, but I have an indoor backup if the weather turns. I can borrow two chafing dishes from church, and I have a 6-qt slow cooker, a gas grill, and one oven.\n\nFor delegation, I’d like to keep the souvlaki, rice pilaf, and drinks myself, and assign the Greek salad, pita and hummus, dessert, an appetizer/mezze, another side, ice, and paper goods to guests who have offered to help. A couple of friends can come early to help with grilling, so I think we can handle the last-minute cooking.\n\nCould you turn the Greek menu into a single shopping list and a day-of run sheet? Also, if I want to grill the souvlaki ahead and hold it, what’s the best way to keep it juicy without drying out? And do you have a good make-ahead vegetarian main that isn’t spanakopita, in case one guest doesn’t do dairy?",
+      "created_at": "2026-10-11T15:53:59+08:00",
+      "period_index": 4
+    },
+    "m46": {
+      "memory_id": "m46",
+      "group_ids": [
+        "g14",
+        "g6",
+        "g13",
+        "g5",
+        "g19"
+      ],
+      "topics": [
+        "mentorship_strategies",
+        "professional_growth"
+      ],
+      "raw_text": "[Current Time: 2021-10-01 21:42:51]\nWhat are some effective strategies for working with a mentor at my job, especially now that promotions are on hold and I’m getting more guidance on complex reconciliations? I want to make the most of these regular check-ins to keep growing professionally even with limited advancement opportunities.",
+      "created_at": "2026-10-11T15:54:03+08:00",
+      "period_index": 4
+    },
+    "m47": {
+      "memory_id": "m47",
+      "group_ids": [
+        "g14",
+        "g6",
+        "g13",
+        "g5",
+        "g19"
+      ],
+      "topics": [
+        "accounting_reconciliation",
+        "financial_discrepancy_resolution",
+        "mentor_check_in"
+      ],
+      "raw_text": "Thanks—this is really helpful. I especially like the learning ladder and the idea of pulling out decision rules instead of just getting answers. Right now I’m working on the September AP subledger-to-GL reconciliation. The AP aging total is $24,318.72 and the GL AP control is $23,071.34, so there’s a $1,247.38 difference. I’ve found a duplicate invoice for $680.50 and an unapplied payment of $566.88, but it still doesn’t quite tie out. I’m stuck on whether the remaining difference is a timing issue, a coding error, or something I should escalate. Could you help me turn that into a focused agenda and question list for my next mentor check-in? Also, how would you phrase the bigger-picture question so I’m learning the principle and not just getting the answer for this one reconciliation?",
+      "created_at": "2026-10-11T15:54:06+08:00",
+      "period_index": 4
+    },
+    "m48": {
+      "memory_id": "m48",
+      "group_ids": [
+        "g18",
+        "g9",
+        "g10",
+        "g17",
+        "g15",
+        "g16",
+        "g3"
+      ],
+      "topics": [
+        "church_event_planning",
+        "family_inclusion"
+      ],
+      "raw_text": "[Current Time: 2021-12-29 19:17:20]\nCan you suggest some fun, inclusive activities for our church’s holiday festival that would engage grandparents and extended family members, not just parents and kids? I’m helping coordinate and want everyone to feel involved.",
+      "created_at": "2026-10-11T15:54:37+08:00",
+      "period_index": 5
+    },
+    "m49": {
+      "memory_id": "m49",
+      "group_ids": [
+        "g10",
+        "g18",
+        "g1",
+        "g9",
+        "g17",
+        "g16",
+        "g15",
+        "g3",
+        "g2"
+      ],
+      "topics": [
+        "event_planning",
+        "volunteer_management",
+        "venue_layout"
+      ],
+      "raw_text": "That's really helpful—especially the Epiphany framing. This is actually for our Jan 6 gathering, indoors. We have the fellowship hall plus two adjoining classrooms, and the hall can seat around 80 at tables. I have about 12 volunteers committed, though a few can only stay for part of the evening. Could you sketch a station map and a simple volunteer rotation? I'd love to see how to keep people from being stuck at one station all night. Also, how would you lay out the quiet room and the card-writing/service table so they feel like real parts of the event, not afterthoughts?",
+      "created_at": "2026-10-11T15:54:41+08:00",
+      "period_index": 5
+    },
+    "m50": {
+      "memory_id": "m50",
+      "group_ids": [
+        "g5",
+        "g19",
+        "g2",
+        "g1"
+      ],
+      "topics": [
+        "study_breaks",
+        "time_management"
+      ],
+      "raw_text": "[Current Time: 2021-12-30 20:45:04]\nI’m finding it harder to fit in my usual bookkeeping study sessions with all the holiday cooking and family errands. Do you have tips for making the most of short study breaks or squeezing in learning during a busy season?",
+      "created_at": "2026-10-11T15:54:43+08:00",
+      "period_index": 5
+    },
+    "m51": {
+      "memory_id": "m51",
+      "group_ids": [
+        "g5",
+        "g19",
+        "g2"
+      ],
+      "topics": [
+        "bank_reconciliation",
+        "mental_load_reduction",
+        "accounting_podcasts"
+      ],
+      "raw_text": "Thanks, this is really practical. To answer your question: I stopped right at the bank reconciliation section of the 4-week plan. I was about halfway through the practice set, so that's where I'd want to pick up. A specific Jan 3 restart session for that would be great.\n\nOne thing I'm wondering about—when I do get a short break, I'm often so mentally drained from hosting and errands that even 10 minutes feels impossible. Do you have any tips for lowering the mental load so I can actually absorb something in that time? Like a super simple ritual to shift gears?\n\nAlso, you mentioned podcasts or audio for hands-busy time. Do you have any specific bookkeeping or accounting podcasts you'd recommend for a beginner? I'm open to trying that during cooking or errands.",
+      "created_at": "2026-10-11T15:54:45+08:00",
+      "period_index": 5
+    },
+    "m52": {
+      "memory_id": "m52",
+      "group_ids": [
+        "g7",
+        "g8",
+        "g5"
+      ],
+      "topics": [
+        "historical_fiction_audiobook",
+        "book_recommendation"
+      ],
+      "raw_text": "[Current Time: 2021-12-31 20:44:12]\nI’ve started listening to historical fiction audiobooks while cooking and doing chores, since I don’t have much time to sit down with a physical book lately. Can you recommend some great audiobooks in that genre, maybe similar to Kristin Hannah?",
+      "created_at": "2026-10-11T15:54:48+08:00",
+      "period_index": 5
+    },
+    "m53": {
+      "memory_id": "m53",
+      "group_ids": [
+        "g7",
+        "g8",
+        "g15",
+        "g5"
+      ],
+      "topics": [
+        "audio_books",
+        "italian_culture"
+      ],
+      "raw_text": "The Nightingale is definitely the one that stuck with me most—I finished it while making a big batch of sauce and had to pause because I was crying into the oregano. I’ve also listened to The Great Alone, but The Nightingale still feels like my gold standard. Could you narrow it to the three or four closest to that one? I’d especially love if any of them weave in food, cooking, or Italy, since kitchen listening and my Italian heritage are two things I’m drawn to. Also, of the dual-timeline options you mentioned, which one is easiest to follow when you’re only half-paying attention to the narration? I’d rather start with the one that has the clearest separate narrators.",
+      "created_at": "2026-10-11T15:54:50+08:00",
+      "period_index": 5
+    },
+    "m54": {
+      "memory_id": "m54",
+      "group_ids": [
+        "g11",
+        "g12"
+      ],
+      "topics": [
+        "family_trip",
+        "relaxed_itinerary",
+        "cozy_sightseeing"
+      ],
+      "raw_text": "[Current Time: 2022-01-01 21:42:43]\nWe’re planning another family trip to Mendocino, but this time we’d like to keep things low-key—think leisurely walks, cozy afternoons, and relaxed sightseeing. Can you help me come up with a gentle itinerary that suits a laid-back pace for everyone?",
+      "created_at": "2026-10-11T15:54:53+08:00",
+      "period_index": 5
+    },
+    "m55": {
+      "memory_id": "m55",
+      "group_ids": [
+        "g11",
+        "g12"
+      ],
+      "topics": [
+        "travel_lodging",
+        "group_activity_planning",
+        "destination_recommendations"
+      ],
+      "raw_text": "Thanks, this is really helpful—the one-anchor-per-day rhythm is exactly what we’re after. We haven’t locked in exact dates or how many nights yet, since a couple of people need to check work schedules, so I can’t give you a firm number. It’ll be a small group with at least one older family member who does best with short, flat walks and plenty of benches. Could you put together a lodging shortlist for Mendocino or Little River—places with a kitchen and fireplace, ideally ground-floor or easy access? And maybe two or three cozy dinner spots that can handle a group without feeling too fancy? Also, if we get a rainy day, would you still recommend the botanical gardens, or would the Kelley House Museum and bookstore be a better bet? One more thing—are there any gentle tide-pool spots that are safe and easy to reach in winter?",
+      "created_at": "2026-10-11T15:54:56+08:00",
+      "period_index": 5
+    },
+    "m56": {
+      "memory_id": "m56",
+      "group_ids": [
+        "g13",
+        "g6",
+        "g5",
+        "g19"
+      ],
+      "topics": [
+        "new_employees_onboarding",
+        "workflow_support"
+      ],
+      "raw_text": "[Current Time: 2022-03-30 21:07:48]\nCan you suggest some effective ways to support new billing clerks as they settle in? I’m no longer leading formal meetings, but I’m helping out informally at their desks and troubleshooting workflow issues as needed.",
+      "created_at": "2026-10-11T15:55:29+08:00",
+      "period_index": 6
+    },
+    "m57": {
+      "memory_id": "m57",
+      "group_ids": [
+        "g13",
+        "g5",
+        "g19",
+        "g6",
+        "g14"
+      ],
+      "topics": [
+        "process_automation",
+        "workflow_optimization",
+        "employee_support"
+      ],
+      "raw_text": "That’s really helpful — especially the coach frame and the 15-minute rule. The day-to-day varies, but mostly they’re doing invoice entry, payment posting, credit memos, customer account updates, and daily deposit batches. Where I see them get stuck most is vendor setup when the remit-to or W-9 info is missing, coding to the right GL account, duplicate invoice warnings, unapplied cash, and knowing when something needs the manager’s approval versus when I can just walk them through it.\n\nCould you help me turn that into a simple one-page cheat sheet and a stuck log? I’d like something I can print and tape near the shared desk, plus a way to track repeat questions so I can show the manager where the workflow itself is causing problems. And how would you phrase the cheat sheet so it feels like peer support, not me acting like their supervisor?",
+      "created_at": "2026-10-11T15:55:32+08:00",
+      "period_index": 6
+    },
+    "m58": {
+      "memory_id": "m58",
+      "group_ids": [
+        "g8",
+        "g7",
+        "g3",
+        "g16",
+        "g15",
+        "g2"
+      ],
+      "topics": [
+        "historical_fiction_reading",
+        "intimate_dinner_party"
+      ],
+      "raw_text": "[Current Time: 2022-03-31 21:24:29]\nLately, my schedule has changed—I'm only able to find time to read on weekends, usually Saturday mornings and sometimes on Sunday afternoons, since my evenings are tied up with work and my weekends are packed with personal errands. Also, I only host dinner parties every once in a while now, and when I do, they're just small, casual get-togethers with a few close friends. Could you recommend some quick historical fiction reads that fit into my limited weekend reading time, as well as some easy recipes suitable for these occasional, intimate gatherings?",
+      "created_at": "2026-10-11T15:55:35+08:00",
+      "period_index": 6
+    },
+    "m59": {
+      "memory_id": "m59",
+      "group_ids": [
+        "g8",
+        "g7",
+        "g15",
+        "g16",
+        "g3",
+        "g12"
+      ],
+      "topics": [
+        "book_pairing",
+        "simple_recipe",
+        "event_preparation"
+      ],
+      "raw_text": "Thank you—this is so helpful. I’m going to start with *A Month in the Country* this Saturday; it sounds like exactly the pace I can manage right now. For the following weekend, would you pair it with *Small Things Like These*, or would something lighter be better? I’d love a short historical fiction pick with a strong sense of place—maybe Italy or California—since those settings really draw me in.\n\nOn the recipe side, the three-ingredient sauce is very appealing. Could you suggest a simple salad that would go with it, plus a make-ahead dessert that doesn’t require an espresso maker? I don’t have one, and I’d rather have most of the work done before friends arrive.",
+      "created_at": "2026-10-11T15:55:38+08:00",
+      "period_index": 6
+    },
+    "m60": {
+      "memory_id": "m60",
+      "group_ids": [
+        "g9",
+        "g10",
+        "g18",
+        "g17",
+        "g1"
+      ],
+      "topics": [
+        "church_group_engagement",
+        "community_event_motivation"
+      ],
+      "raw_text": "[Current Time: 2022-04-01 20:08:39]\nAttendance at my church women’s group meetings and volunteer events has dropped since several members reduced their involvement after the New Year. What are some ways to keep our medium-sized group engaged and motivated during this slower season?",
+      "created_at": "2026-10-11T15:55:40+08:00",
+      "period_index": 6
+    },
+    "m61": {
+      "memory_id": "m61",
+      "group_ids": [
+        "g9",
+        "g10",
+        "g18",
+        "g17",
+        "g1"
+      ],
+      "topics": [
+        "event_organization",
+        "social_reaching_out",
+        "event_scheduling"
+      ],
+      "raw_text": "This is really helpful. I think the listening round is where I freeze a little — I'm comfortable organizing and hosting, but reaching out to people who've drifted makes me worry I'll sound like I'm keeping score. Do you have a shorter version of that outreach that works better by text or email, especially for the women I don't know as well? And if someone says they're just in a busy season, what's a good response that doesn't pressure them but still leaves the door open? Also, would you start the calls now or wait until after Easter so it doesn't feel tied to a big event?",
+      "created_at": "2026-10-11T15:55:43+08:00",
+      "period_index": 6
+    },
+    "m62": {
+      "memory_id": "m62",
+      "group_ids": [
+        "g11",
+        "g12",
+        "g4"
+      ],
+      "topics": [
+        "mendocino_dining",
+        "budget_dinner_spots"
+      ],
+      "raw_text": "[Current Time: 2022-06-29 21:31:04]\nCan you help me find some fun dinner spots along the Mendocino coast for our upcoming weekend getaway? We’ve decided to loosen up our budget a bit and treat ourselves to more dinners out, so I’d love some recommendations that fit a balanced approach to spending.",
+      "created_at": "2026-10-11T15:56:15+08:00",
+      "period_index": 7
+    },
+    "m63": {
+      "memory_id": "m63",
+      "group_ids": [
+        "g11",
+        "g12",
+        "g4"
+      ],
+      "topics": [
+        "hotel_reservations",
+        "travel_itinerary",
+        "village_stay"
+      ],
+      "raw_text": "Thanks, this is really helpful. We’re staying in Mendocino village, so walkable spots are ideal. I think we’d rather concentrate the splurge on Saturday night: Friday casual, Saturday splurge, Sunday mid-range. Could you tighten that into an actual reservation list with backup options for each night? If Café Beaujolais is booked, would you pick Albion River Inn or Little River Inn as the backup, and for Sunday would you still drive to Flow or Cucina Verona, or stay closer to the village? Also, any favorite coffee or breakfast pastry spot in the village for a morning walk?",
+      "created_at": "2026-10-11T15:56:18+08:00",
+      "period_index": 7
+    },
+    "m64": {
+      "memory_id": "m64",
+      "group_ids": [
+        "g9",
+        "g10",
+        "g18",
+        "g17"
+      ],
+      "topics": [
+        "charity_bake_sale_organization",
+        "event_planning"
+      ],
+      "raw_text": "[Current Time: 2022-06-30 19:03:08]\nOur church women’s group has grown a lot lately, and we’re planning to focus on organizing one big charity bake sale instead of juggling multiple projects. Could you suggest some ideas for making a large event run smoothly with a bigger group?",
+      "created_at": "2026-10-11T15:56:21+08:00",
+      "period_index": 7
+    },
+    "m65": {
+      "memory_id": "m65",
+      "group_ids": [
+        "g10",
+        "g18",
+        "g9",
+        "g17",
+        "g1"
+      ],
+      "topics": [
+        "event_planning",
+        "logistics_coordination",
+        "community_activity"
+      ],
+      "raw_text": "Thank you—this is exactly the kind of structure I needed. I’m going to bring the one-ask rule and the pre-order idea to our next planning meeting. We’re looking at a Saturday morning in late September, outdoors in the church courtyard after service, so your shade and heat notes are really helpful. I don’t have a final headcount yet—I’d rather get a real RSVP count than guess—but it’s definitely more people than we’ve coordinated before. Could you share a simple sign-up sheet layout for the teams you listed? I’d love something I can print or set up online that keeps the baking coordinator from getting buried and makes sure cleanup and restocking shifts are actually filled. Also, any tips for wording the pre-order announcement so it feels welcoming and not pushy?",
+      "created_at": "2026-10-11T15:56:23+08:00",
+      "period_index": 7
+    },
+    "m66": {
+      "memory_id": "m66",
+      "group_ids": [
+        "g5",
+        "g19",
+        "g14",
+        "g13",
+        "g6"
+      ],
+      "topics": [
+        "bookkeeping_study_group",
+        "financial_recordkeeping_exercises"
+      ],
+      "raw_text": "[Current Time: 2022-07-01 19:31:16]\nI’ve started joining a local study circle for aspiring bookkeepers that meets every other week at a café. Can you recommend some group-friendly bookkeeping exercises or resources that would help us stay motivated and learn together?",
+      "created_at": "2026-10-11T15:56:26+08:00",
+      "period_index": 7
+    },
+    "m67": {
+      "memory_id": "m67",
+      "group_ids": [
+        "g5",
+        "g19",
+        "g14",
+        "g13"
+      ],
+      "topics": [
+        "bookkeeping_simulation",
+        "group_learning_strategies",
+        "collaborative_tool_usage"
+      ],
+      "raw_text": "That's really helpful—I love the idea of the month-end close simulation. Our circle has 7 people right now: two complete beginners, three with some bookkeeping experience (mostly from coursework or helping with small business books), and two who already work as bookkeepers. We meet every other week for about 90 minutes at the café, and we're all motivated but a bit unsure how to keep everyone challenged without leaving anyone behind.\n\nCould you sketch out the first session of that six-session simulation? I'm especially curious how you'd handle the mix of experience levels so the beginners don't get lost and the experienced folks don't get bored. Also, any tips for making the shared Google Sheet work smoothly when we're all on different devices at a café table?",
+      "created_at": "2026-10-11T15:56:29+08:00",
+      "period_index": 7
+    },
+    "m68": {
+      "memory_id": "m68",
+      "group_ids": [
+        "g17",
+        "g4",
+        "g18",
+        "g12",
+        "g11"
+      ],
+      "topics": [
+        "community_events",
+        "budget-friendly_activities"
+      ],
+      "raw_text": "[Current Time: 2022-09-29 21:26:37]\nCan you help me find more free or donation-based community events happening in Eureka this summer? My husband and I have set aside about $100 a month for local activities, so we're skipping the bigger festivals and focusing on affordable ways to enjoy things like live music and cooking workshops together. We're hoping to stretch our budget and find events that fit within that $51–150 monthly range.",
+      "created_at": "2026-10-11T15:57:01+08:00",
+      "period_index": 8
+    },
+    "m69": {
+      "memory_id": "m69",
+      "group_ids": [
+        "g17",
+        "g4",
+        "g18",
+        "g9",
+        "g10",
+        "g1"
+      ],
+      "topics": [
+        "fall_events",
+        "community_workshops",
+        "event_planning"
+      ],
+      "raw_text": "That's really helpful—thank you! I think we're most drawn to live music and hands-on workshops, but we also love just getting out and walking around together. Could you build a two-month calendar for October and November with one anchor per week, mixing free and low-cost, and a rough cost for each? We'd like to stay within our usual monthly budget.\n\nSince it's fall now, are there any autumn-specific events like harvest festivals, cider pressing, or fall cooking workshops? Also, you mentioned the Master Food Preservers—do they run workshops in the fall? And what about the North Coast Co-op classes or SCRAP Humboldt? I'd love to know if any of those have upcoming sessions.\n\nOne more thing: I'm already involved with our church women's group, so if you have tips for finding workshops or concerts through church or community center bulletins, that would be great. And do you know if the Morris Graves Museum or Cal Poly Humboldt has free art or music events in October or November? Thanks again!",
+      "created_at": "2026-10-11T15:57:05+08:00",
+      "period_index": 8
+    },
+    "m70": {
+      "memory_id": "m70",
+      "group_ids": [
+        "g5",
+        "g19",
+        "g13",
+        "g6"
+      ],
+      "topics": [
+        "bookkeeping_tutorials",
+        "financial_management"
+      ],
+      "raw_text": "[Current Time: 2022-09-30 20:12:51]\nWhat are some effective online resources or tutorials for improving my bookkeeping skills? I’ve recently joined a team at work to help streamline our reconciliation process, and I’m dedicating a couple evenings each week to study and practice.",
+      "created_at": "2026-10-11T15:57:08+08:00",
+      "period_index": 8
+    },
+    "m71": {
+      "memory_id": "m71",
+      "group_ids": [
+        "g14",
+        "g6",
+        "g13",
+        "g5",
+        "g19"
+      ],
+      "topics": [
+        "process_streamlining",
+        "data_matching"
+      ],
+      "raw_text": "Thanks — this gives me a much clearer way to split my study time. The team is mainly trying to streamline two things: bank reconciliations and the AP subledger-to-GL rec. The bank rec is the one that eats the most calendar time, but the AP rec is messier because vendor setup and invoice approval don’t always line up cleanly. If you were mapping a target-state process for those, what would you make sure we include?\n\nAnd for Power Query, is there a specific exercise you’d recommend for comparing two exports when the IDs don’t match perfectly? I can do exact joins, but fuzzy matching on vendor names is where I get stuck — I’m never sure how much manual review is reasonable versus just accepting the match.",
+      "created_at": "2026-10-11T15:57:10+08:00",
+      "period_index": 8
+    },
+    "m72": {
+      "memory_id": "m72",
+      "group_ids": [
+        "g16",
+        "g3",
+        "g15"
+      ],
+      "topics": [
+        "cozy_dinner_party",
+        "meal_ideas"
+      ],
+      "raw_text": "[Current Time: 2022-10-01 21:55:01]\nCan you suggest menu ideas for smaller dinner parties? Lately, my gatherings have been more intimate with just close friends and family, usually around a dozen people, so I’d love some inspiration for cozy meals that work well for this size.",
+      "created_at": "2026-10-11T15:57:13+08:00",
+      "period_index": 8
+    },
+    "m73": {
+      "memory_id": "m73",
+      "group_ids": [
+        "g15",
+        "g16",
+        "g3",
+        "g8",
+        "g7"
+      ],
+      "topics": [
+        "fall_gathering",
+        "meal_preparation",
+        "wine_pairing"
+      ],
+      "raw_text": "Thanks, this is so helpful! I think I'll go with the French bistro night—it sounds perfect for a cozy fall gathering, and I love that it's make-ahead. Could you give me the shopping list and a two-day timeline for that? Also, any wine pairing suggestions? I'm not a huge wine expert, so simple recommendations would be great.",
+      "created_at": "2026-10-11T15:57:15+08:00",
+      "period_index": 8
+    }
+  },
+  "groups": {
+    "g1": {
+      "group_id": "g1",
+      "head_id": "m1",
+      "tail_id": "m69",
+      "updated_at": "2026-10-11T15:57:05+08:00",
+      "memory_count": 17
+    },
+    "g2": {
+      "group_id": "g2",
+      "head_id": "m2",
+      "tail_id": "m58",
+      "updated_at": "2026-10-11T15:55:35+08:00",
+      "memory_count": 14
+    },
+    "g3": {
+      "group_id": "g3",
+      "head_id": "m3",
+      "tail_id": "m73",
+      "updated_at": "2026-10-11T15:57:15+08:00",
+      "memory_count": 13
+    },
+    "g4": {
+      "group_id": "g4",
+      "head_id": "m4",
+      "tail_id": "m69",
+      "updated_at": "2026-10-11T15:57:05+08:00",
+      "memory_count": 9
+    },
+    "g5": {
+      "group_id": "g5",
+      "head_id": "m5",
+      "tail_id": "m71",
+      "updated_at": "2026-10-11T15:57:10+08:00",
+      "memory_count": 18
+    },
+    "g6": {
+      "group_id": "g6",
+      "head_id": "m6",
+      "tail_id": "m71",
+      "updated_at": "2026-10-11T15:57:10+08:00",
+      "memory_count": 11
+    },
+    "g7": {
+      "group_id": "g7",
+      "head_id": "m7",
+      "tail_id": "m73",
+      "updated_at": "2026-10-11T15:57:15+08:00",
+      "memory_count": 8
+    },
+    "g8": {
+      "group_id": "g8",
+      "head_id": "m8",
+      "tail_id": "m73",
+      "updated_at": "2026-10-11T15:57:15+08:00",
+      "memory_count": 8
+    },
+    "g9": {
+      "group_id": "g9",
+      "head_id": "m9",
+      "tail_id": "m69",
+      "updated_at": "2026-10-11T15:57:05+08:00",
+      "memory_count": 12
+    },
+    "g10": {
+      "group_id": "g10",
+      "head_id": "m10",
+      "tail_id": "m69",
+      "updated_at": "2026-10-11T15:57:05+08:00",
+      "memory_count": 19
+    },
+    "g11": {
+      "group_id": "g11",
+      "head_id": "m11",
+      "tail_id": "m68",
+      "updated_at": "2026-10-11T15:57:01+08:00",
+      "memory_count": 8
+    },
+    "g12": {
+      "group_id": "g12",
+      "head_id": "m12",
+      "tail_id": "m68",
+      "updated_at": "2026-10-11T15:57:01+08:00",
+      "memory_count": 9
+    },
+    "g13": {
+      "group_id": "g13",
+      "head_id": "m13",
+      "tail_id": "m71",
+      "updated_at": "2026-10-11T15:57:10+08:00",
+      "memory_count": 13
+    },
+    "g14": {
+      "group_id": "g14",
+      "head_id": "m14",
+      "tail_id": "m71",
+      "updated_at": "2026-10-11T15:57:10+08:00",
+      "memory_count": 9
+    },
+    "g15": {
+      "group_id": "g15",
+      "head_id": "m15",
+      "tail_id": "m73",
+      "updated_at": "2026-10-11T15:57:15+08:00",
+      "memory_count": 14
+    },
+    "g16": {
+      "group_id": "g16",
+      "head_id": "m16",
+      "tail_id": "m73",
+      "updated_at": "2026-10-11T15:57:15+08:00",
+      "memory_count": 13
+    },
+    "g17": {
+      "group_id": "g17",
+      "head_id": "m17",
+      "tail_id": "m69",
+      "updated_at": "2026-10-11T15:57:05+08:00",
+      "memory_count": 17
+    },
+    "g18": {
+      "group_id": "g18",
+      "head_id": "m18",
+      "tail_id": "m69",
+      "updated_at": "2026-10-11T15:57:05+08:00",
+      "memory_count": 21
+    },
+    "g19": {
+      "group_id": "g19",
+      "head_id": "m19",
+      "tail_id": "m71",
+      "updated_at": "2026-10-11T15:57:10+08:00",
+      "memory_count": 16
+    }
+  },
+  "associations": [
+    {
+      "memory_id": "m1",
+      "group_id": "g1",
+      "prev_id": null,
+      "next_id": "m22"
+    },
+    {
+      "memory_id": "m22",
+      "group_id": "g1",
+      "prev_id": "m1",
+      "next_id": "m23"
+    },
+    {
+      "memory_id": "m23",
+      "group_id": "g1",
+      "prev_id": "m22",
+      "next_id": "m28"
+    },
+    {
+      "memory_id": "m28",
+      "group_id": "g1",
+      "prev_id": "m23",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g1",
+      "prev_id": "m28",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g1",
+      "prev_id": "m29",
+      "next_id": "m33"
+    },
+    {
+      "memory_id": "m33",
+      "group_id": "g1",
+      "prev_id": "m32",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g1",
+      "prev_id": "m33",
+      "next_id": "m39"
+    },
+    {
+      "memory_id": "m39",
+      "group_id": "g1",
+      "prev_id": "m38",
+      "next_id": "m40"
+    },
+    {
+      "memory_id": "m40",
+      "group_id": "g1",
+      "prev_id": "m39",
+      "next_id": "m41"
+    },
+    {
+      "memory_id": "m41",
+      "group_id": "g1",
+      "prev_id": "m40",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g1",
+      "prev_id": "m41",
+      "next_id": "m50"
+    },
+    {
+      "memory_id": "m50",
+      "group_id": "g1",
+      "prev_id": "m49",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g1",
+      "prev_id": "m50",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g1",
+      "prev_id": "m60",
+      "next_id": "m65"
+    },
+    {
+      "memory_id": "m65",
+      "group_id": "g1",
+      "prev_id": "m61",
+      "next_id": "m69"
+    },
+    {
+      "memory_id": "m69",
+      "group_id": "g1",
+      "prev_id": "m65",
+      "next_id": null
+    },
+    {
+      "memory_id": "m2",
+      "group_id": "g2",
+      "prev_id": null,
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g2",
+      "prev_id": "m2",
+      "next_id": "m21"
+    },
+    {
+      "memory_id": "m21",
+      "group_id": "g2",
+      "prev_id": "m20",
+      "next_id": "m22"
+    },
+    {
+      "memory_id": "m22",
+      "group_id": "g2",
+      "prev_id": "m21",
+      "next_id": "m33"
+    },
+    {
+      "memory_id": "m33",
+      "group_id": "g2",
+      "prev_id": "m22",
+      "next_id": "m34"
+    },
+    {
+      "memory_id": "m34",
+      "group_id": "g2",
+      "prev_id": "m33",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g2",
+      "prev_id": "m34",
+      "next_id": "m39"
+    },
+    {
+      "memory_id": "m39",
+      "group_id": "g2",
+      "prev_id": "m38",
+      "next_id": "m40"
+    },
+    {
+      "memory_id": "m40",
+      "group_id": "g2",
+      "prev_id": "m39",
+      "next_id": "m41"
+    },
+    {
+      "memory_id": "m41",
+      "group_id": "g2",
+      "prev_id": "m40",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g2",
+      "prev_id": "m41",
+      "next_id": "m50"
+    },
+    {
+      "memory_id": "m50",
+      "group_id": "g2",
+      "prev_id": "m49",
+      "next_id": "m51"
+    },
+    {
+      "memory_id": "m51",
+      "group_id": "g2",
+      "prev_id": "m50",
+      "next_id": "m58"
+    },
+    {
+      "memory_id": "m58",
+      "group_id": "g2",
+      "prev_id": "m51",
+      "next_id": null
+    },
+    {
+      "memory_id": "m3",
+      "group_id": "g3",
+      "prev_id": null,
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g3",
+      "prev_id": "m3",
+      "next_id": "m21"
+    },
+    {
+      "memory_id": "m21",
+      "group_id": "g3",
+      "prev_id": "m20",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g3",
+      "prev_id": "m21",
+      "next_id": "m31"
+    },
+    {
+      "memory_id": "m31",
+      "group_id": "g3",
+      "prev_id": "m30",
+      "next_id": "m44"
+    },
+    {
+      "memory_id": "m44",
+      "group_id": "g3",
+      "prev_id": "m31",
+      "next_id": "m45"
+    },
+    {
+      "memory_id": "m45",
+      "group_id": "g3",
+      "prev_id": "m44",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g3",
+      "prev_id": "m45",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g3",
+      "prev_id": "m48",
+      "next_id": "m58"
+    },
+    {
+      "memory_id": "m58",
+      "group_id": "g3",
+      "prev_id": "m49",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g3",
+      "prev_id": "m58",
+      "next_id": "m72"
+    },
+    {
+      "memory_id": "m72",
+      "group_id": "g3",
+      "prev_id": "m59",
+      "next_id": "m73"
+    },
+    {
+      "memory_id": "m73",
+      "group_id": "g3",
+      "prev_id": "m72",
+      "next_id": null
+    },
+    {
+      "memory_id": "m4",
+      "group_id": "g4",
+      "prev_id": null,
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g4",
+      "prev_id": "m4",
+      "next_id": "m33"
+    },
+    {
+      "memory_id": "m33",
+      "group_id": "g4",
+      "prev_id": "m32",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g4",
+      "prev_id": "m33",
+      "next_id": "m39"
+    },
+    {
+      "memory_id": "m39",
+      "group_id": "g4",
+      "prev_id": "m38",
+      "next_id": "m62"
+    },
+    {
+      "memory_id": "m62",
+      "group_id": "g4",
+      "prev_id": "m39",
+      "next_id": "m63"
+    },
+    {
+      "memory_id": "m63",
+      "group_id": "g4",
+      "prev_id": "m62",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g4",
+      "prev_id": "m63",
+      "next_id": "m69"
+    },
+    {
+      "memory_id": "m69",
+      "group_id": "g4",
+      "prev_id": "m68",
+      "next_id": null
+    },
+    {
+      "memory_id": "m5",
+      "group_id": "g5",
+      "prev_id": null,
+      "next_id": "m24"
+    },
+    {
+      "memory_id": "m24",
+      "group_id": "g5",
+      "prev_id": "m5",
+      "next_id": "m25"
+    },
+    {
+      "memory_id": "m25",
+      "group_id": "g5",
+      "prev_id": "m24",
+      "next_id": "m35"
+    },
+    {
+      "memory_id": "m35",
+      "group_id": "g5",
+      "prev_id": "m25",
+      "next_id": "m36"
+    },
+    {
+      "memory_id": "m36",
+      "group_id": "g5",
+      "prev_id": "m35",
+      "next_id": "m37"
+    },
+    {
+      "memory_id": "m37",
+      "group_id": "g5",
+      "prev_id": "m36",
+      "next_id": "m46"
+    },
+    {
+      "memory_id": "m46",
+      "group_id": "g5",
+      "prev_id": "m37",
+      "next_id": "m47"
+    },
+    {
+      "memory_id": "m47",
+      "group_id": "g5",
+      "prev_id": "m46",
+      "next_id": "m50"
+    },
+    {
+      "memory_id": "m50",
+      "group_id": "g5",
+      "prev_id": "m47",
+      "next_id": "m51"
+    },
+    {
+      "memory_id": "m51",
+      "group_id": "g5",
+      "prev_id": "m50",
+      "next_id": "m52"
+    },
+    {
+      "memory_id": "m52",
+      "group_id": "g5",
+      "prev_id": "m51",
+      "next_id": "m53"
+    },
+    {
+      "memory_id": "m53",
+      "group_id": "g5",
+      "prev_id": "m52",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g5",
+      "prev_id": "m53",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g5",
+      "prev_id": "m56",
+      "next_id": "m66"
+    },
+    {
+      "memory_id": "m66",
+      "group_id": "g5",
+      "prev_id": "m57",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g5",
+      "prev_id": "m66",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g5",
+      "prev_id": "m67",
+      "next_id": "m71"
+    },
+    {
+      "memory_id": "m71",
+      "group_id": "g5",
+      "prev_id": "m70",
+      "next_id": null
+    },
+    {
+      "memory_id": "m6",
+      "group_id": "g6",
+      "prev_id": null,
+      "next_id": "m34"
+    },
+    {
+      "memory_id": "m34",
+      "group_id": "g6",
+      "prev_id": "m6",
+      "next_id": "m36"
+    },
+    {
+      "memory_id": "m36",
+      "group_id": "g6",
+      "prev_id": "m34",
+      "next_id": "m37"
+    },
+    {
+      "memory_id": "m37",
+      "group_id": "g6",
+      "prev_id": "m36",
+      "next_id": "m46"
+    },
+    {
+      "memory_id": "m46",
+      "group_id": "g6",
+      "prev_id": "m37",
+      "next_id": "m47"
+    },
+    {
+      "memory_id": "m47",
+      "group_id": "g6",
+      "prev_id": "m46",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g6",
+      "prev_id": "m47",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g6",
+      "prev_id": "m56",
+      "next_id": "m66"
+    },
+    {
+      "memory_id": "m66",
+      "group_id": "g6",
+      "prev_id": "m57",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g6",
+      "prev_id": "m66",
+      "next_id": "m71"
+    },
+    {
+      "memory_id": "m71",
+      "group_id": "g6",
+      "prev_id": "m70",
+      "next_id": null
+    },
+    {
+      "memory_id": "m7",
+      "group_id": "g7",
+      "prev_id": null,
+      "next_id": "m26"
+    },
+    {
+      "memory_id": "m26",
+      "group_id": "g7",
+      "prev_id": "m7",
+      "next_id": "m27"
+    },
+    {
+      "memory_id": "m27",
+      "group_id": "g7",
+      "prev_id": "m26",
+      "next_id": "m52"
+    },
+    {
+      "memory_id": "m52",
+      "group_id": "g7",
+      "prev_id": "m27",
+      "next_id": "m53"
+    },
+    {
+      "memory_id": "m53",
+      "group_id": "g7",
+      "prev_id": "m52",
+      "next_id": "m58"
+    },
+    {
+      "memory_id": "m58",
+      "group_id": "g7",
+      "prev_id": "m53",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g7",
+      "prev_id": "m58",
+      "next_id": "m73"
+    },
+    {
+      "memory_id": "m73",
+      "group_id": "g7",
+      "prev_id": "m59",
+      "next_id": null
+    },
+    {
+      "memory_id": "m8",
+      "group_id": "g8",
+      "prev_id": null,
+      "next_id": "m26"
+    },
+    {
+      "memory_id": "m26",
+      "group_id": "g8",
+      "prev_id": "m8",
+      "next_id": "m27"
+    },
+    {
+      "memory_id": "m27",
+      "group_id": "g8",
+      "prev_id": "m26",
+      "next_id": "m52"
+    },
+    {
+      "memory_id": "m52",
+      "group_id": "g8",
+      "prev_id": "m27",
+      "next_id": "m53"
+    },
+    {
+      "memory_id": "m53",
+      "group_id": "g8",
+      "prev_id": "m52",
+      "next_id": "m58"
+    },
+    {
+      "memory_id": "m58",
+      "group_id": "g8",
+      "prev_id": "m53",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g8",
+      "prev_id": "m58",
+      "next_id": "m73"
+    },
+    {
+      "memory_id": "m73",
+      "group_id": "g8",
+      "prev_id": "m59",
+      "next_id": null
+    },
+    {
+      "memory_id": "m9",
+      "group_id": "g9",
+      "prev_id": null,
+      "next_id": "m28"
+    },
+    {
+      "memory_id": "m28",
+      "group_id": "g9",
+      "prev_id": "m9",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g9",
+      "prev_id": "m28",
+      "next_id": "m40"
+    },
+    {
+      "memory_id": "m40",
+      "group_id": "g9",
+      "prev_id": "m29",
+      "next_id": "m45"
+    },
+    {
+      "memory_id": "m45",
+      "group_id": "g9",
+      "prev_id": "m40",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g9",
+      "prev_id": "m45",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g9",
+      "prev_id": "m48",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g9",
+      "prev_id": "m49",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g9",
+      "prev_id": "m60",
+      "next_id": "m64"
+    },
+    {
+      "memory_id": "m64",
+      "group_id": "g9",
+      "prev_id": "m61",
+      "next_id": "m65"
+    },
+    {
+      "memory_id": "m65",
+      "group_id": "g9",
+      "prev_id": "m64",
+      "next_id": "m69"
+    },
+    {
+      "memory_id": "m69",
+      "group_id": "g9",
+      "prev_id": "m65",
+      "next_id": null
+    },
+    {
+      "memory_id": "m10",
+      "group_id": "g10",
+      "prev_id": null,
+      "next_id": "m22"
+    },
+    {
+      "memory_id": "m22",
+      "group_id": "g10",
+      "prev_id": "m10",
+      "next_id": "m23"
+    },
+    {
+      "memory_id": "m23",
+      "group_id": "g10",
+      "prev_id": "m22",
+      "next_id": "m28"
+    },
+    {
+      "memory_id": "m28",
+      "group_id": "g10",
+      "prev_id": "m23",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g10",
+      "prev_id": "m28",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g10",
+      "prev_id": "m29",
+      "next_id": "m33"
+    },
+    {
+      "memory_id": "m33",
+      "group_id": "g10",
+      "prev_id": "m32",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g10",
+      "prev_id": "m33",
+      "next_id": "m39"
+    },
+    {
+      "memory_id": "m39",
+      "group_id": "g10",
+      "prev_id": "m38",
+      "next_id": "m40"
+    },
+    {
+      "memory_id": "m40",
+      "group_id": "g10",
+      "prev_id": "m39",
+      "next_id": "m41"
+    },
+    {
+      "memory_id": "m41",
+      "group_id": "g10",
+      "prev_id": "m40",
+      "next_id": "m45"
+    },
+    {
+      "memory_id": "m45",
+      "group_id": "g10",
+      "prev_id": "m41",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g10",
+      "prev_id": "m45",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g10",
+      "prev_id": "m48",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g10",
+      "prev_id": "m49",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g10",
+      "prev_id": "m60",
+      "next_id": "m64"
+    },
+    {
+      "memory_id": "m64",
+      "group_id": "g10",
+      "prev_id": "m61",
+      "next_id": "m65"
+    },
+    {
+      "memory_id": "m65",
+      "group_id": "g10",
+      "prev_id": "m64",
+      "next_id": "m69"
+    },
+    {
+      "memory_id": "m69",
+      "group_id": "g10",
+      "prev_id": "m65",
+      "next_id": null
+    },
+    {
+      "memory_id": "m11",
+      "group_id": "g11",
+      "prev_id": null,
+      "next_id": "m42"
+    },
+    {
+      "memory_id": "m42",
+      "group_id": "g11",
+      "prev_id": "m11",
+      "next_id": "m43"
+    },
+    {
+      "memory_id": "m43",
+      "group_id": "g11",
+      "prev_id": "m42",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g11",
+      "prev_id": "m43",
+      "next_id": "m55"
+    },
+    {
+      "memory_id": "m55",
+      "group_id": "g11",
+      "prev_id": "m54",
+      "next_id": "m62"
+    },
+    {
+      "memory_id": "m62",
+      "group_id": "g11",
+      "prev_id": "m55",
+      "next_id": "m63"
+    },
+    {
+      "memory_id": "m63",
+      "group_id": "g11",
+      "prev_id": "m62",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g11",
+      "prev_id": "m63",
+      "next_id": null
+    },
+    {
+      "memory_id": "m12",
+      "group_id": "g12",
+      "prev_id": null,
+      "next_id": "m42"
+    },
+    {
+      "memory_id": "m42",
+      "group_id": "g12",
+      "prev_id": "m12",
+      "next_id": "m43"
+    },
+    {
+      "memory_id": "m43",
+      "group_id": "g12",
+      "prev_id": "m42",
+      "next_id": "m54"
+    },
+    {
+      "memory_id": "m54",
+      "group_id": "g12",
+      "prev_id": "m43",
+      "next_id": "m55"
+    },
+    {
+      "memory_id": "m55",
+      "group_id": "g12",
+      "prev_id": "m54",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g12",
+      "prev_id": "m55",
+      "next_id": "m62"
+    },
+    {
+      "memory_id": "m62",
+      "group_id": "g12",
+      "prev_id": "m59",
+      "next_id": "m63"
+    },
+    {
+      "memory_id": "m63",
+      "group_id": "g12",
+      "prev_id": "m62",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g12",
+      "prev_id": "m63",
+      "next_id": null
+    },
+    {
+      "memory_id": "m13",
+      "group_id": "g13",
+      "prev_id": null,
+      "next_id": "m34"
+    },
+    {
+      "memory_id": "m34",
+      "group_id": "g13",
+      "prev_id": "m13",
+      "next_id": "m35"
+    },
+    {
+      "memory_id": "m35",
+      "group_id": "g13",
+      "prev_id": "m34",
+      "next_id": "m36"
+    },
+    {
+      "memory_id": "m36",
+      "group_id": "g13",
+      "prev_id": "m35",
+      "next_id": "m37"
+    },
+    {
+      "memory_id": "m37",
+      "group_id": "g13",
+      "prev_id": "m36",
+      "next_id": "m46"
+    },
+    {
+      "memory_id": "m46",
+      "group_id": "g13",
+      "prev_id": "m37",
+      "next_id": "m47"
+    },
+    {
+      "memory_id": "m47",
+      "group_id": "g13",
+      "prev_id": "m46",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g13",
+      "prev_id": "m47",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g13",
+      "prev_id": "m56",
+      "next_id": "m66"
+    },
+    {
+      "memory_id": "m66",
+      "group_id": "g13",
+      "prev_id": "m57",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g13",
+      "prev_id": "m66",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g13",
+      "prev_id": "m67",
+      "next_id": "m71"
+    },
+    {
+      "memory_id": "m71",
+      "group_id": "g13",
+      "prev_id": "m70",
+      "next_id": null
+    },
+    {
+      "memory_id": "m14",
+      "group_id": "g14",
+      "prev_id": null,
+      "next_id": "m34"
+    },
+    {
+      "memory_id": "m34",
+      "group_id": "g14",
+      "prev_id": "m14",
+      "next_id": "m37"
+    },
+    {
+      "memory_id": "m37",
+      "group_id": "g14",
+      "prev_id": "m34",
+      "next_id": "m46"
+    },
+    {
+      "memory_id": "m46",
+      "group_id": "g14",
+      "prev_id": "m37",
+      "next_id": "m47"
+    },
+    {
+      "memory_id": "m47",
+      "group_id": "g14",
+      "prev_id": "m46",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g14",
+      "prev_id": "m47",
+      "next_id": "m66"
+    },
+    {
+      "memory_id": "m66",
+      "group_id": "g14",
+      "prev_id": "m57",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g14",
+      "prev_id": "m66",
+      "next_id": "m71"
+    },
+    {
+      "memory_id": "m71",
+      "group_id": "g14",
+      "prev_id": "m67",
+      "next_id": null
+    },
+    {
+      "memory_id": "m15",
+      "group_id": "g15",
+      "prev_id": null,
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g15",
+      "prev_id": "m15",
+      "next_id": "m21"
+    },
+    {
+      "memory_id": "m21",
+      "group_id": "g15",
+      "prev_id": "m20",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g15",
+      "prev_id": "m21",
+      "next_id": "m31"
+    },
+    {
+      "memory_id": "m31",
+      "group_id": "g15",
+      "prev_id": "m30",
+      "next_id": "m44"
+    },
+    {
+      "memory_id": "m44",
+      "group_id": "g15",
+      "prev_id": "m31",
+      "next_id": "m45"
+    },
+    {
+      "memory_id": "m45",
+      "group_id": "g15",
+      "prev_id": "m44",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g15",
+      "prev_id": "m45",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g15",
+      "prev_id": "m48",
+      "next_id": "m53"
+    },
+    {
+      "memory_id": "m53",
+      "group_id": "g15",
+      "prev_id": "m49",
+      "next_id": "m58"
+    },
+    {
+      "memory_id": "m58",
+      "group_id": "g15",
+      "prev_id": "m53",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g15",
+      "prev_id": "m58",
+      "next_id": "m72"
+    },
+    {
+      "memory_id": "m72",
+      "group_id": "g15",
+      "prev_id": "m59",
+      "next_id": "m73"
+    },
+    {
+      "memory_id": "m73",
+      "group_id": "g15",
+      "prev_id": "m72",
+      "next_id": null
+    },
+    {
+      "memory_id": "m16",
+      "group_id": "g16",
+      "prev_id": null,
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g16",
+      "prev_id": "m16",
+      "next_id": "m21"
+    },
+    {
+      "memory_id": "m21",
+      "group_id": "g16",
+      "prev_id": "m20",
+      "next_id": "m30"
+    },
+    {
+      "memory_id": "m30",
+      "group_id": "g16",
+      "prev_id": "m21",
+      "next_id": "m31"
+    },
+    {
+      "memory_id": "m31",
+      "group_id": "g16",
+      "prev_id": "m30",
+      "next_id": "m44"
+    },
+    {
+      "memory_id": "m44",
+      "group_id": "g16",
+      "prev_id": "m31",
+      "next_id": "m45"
+    },
+    {
+      "memory_id": "m45",
+      "group_id": "g16",
+      "prev_id": "m44",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g16",
+      "prev_id": "m45",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g16",
+      "prev_id": "m48",
+      "next_id": "m58"
+    },
+    {
+      "memory_id": "m58",
+      "group_id": "g16",
+      "prev_id": "m49",
+      "next_id": "m59"
+    },
+    {
+      "memory_id": "m59",
+      "group_id": "g16",
+      "prev_id": "m58",
+      "next_id": "m72"
+    },
+    {
+      "memory_id": "m72",
+      "group_id": "g16",
+      "prev_id": "m59",
+      "next_id": "m73"
+    },
+    {
+      "memory_id": "m73",
+      "group_id": "g16",
+      "prev_id": "m72",
+      "next_id": null
+    },
+    {
+      "memory_id": "m17",
+      "group_id": "g17",
+      "prev_id": null,
+      "next_id": "m22"
+    },
+    {
+      "memory_id": "m22",
+      "group_id": "g17",
+      "prev_id": "m17",
+      "next_id": "m28"
+    },
+    {
+      "memory_id": "m28",
+      "group_id": "g17",
+      "prev_id": "m22",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g17",
+      "prev_id": "m28",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g17",
+      "prev_id": "m29",
+      "next_id": "m33"
+    },
+    {
+      "memory_id": "m33",
+      "group_id": "g17",
+      "prev_id": "m32",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g17",
+      "prev_id": "m33",
+      "next_id": "m39"
+    },
+    {
+      "memory_id": "m39",
+      "group_id": "g17",
+      "prev_id": "m38",
+      "next_id": "m45"
+    },
+    {
+      "memory_id": "m45",
+      "group_id": "g17",
+      "prev_id": "m39",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g17",
+      "prev_id": "m45",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g17",
+      "prev_id": "m48",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g17",
+      "prev_id": "m49",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g17",
+      "prev_id": "m60",
+      "next_id": "m64"
+    },
+    {
+      "memory_id": "m64",
+      "group_id": "g17",
+      "prev_id": "m61",
+      "next_id": "m65"
+    },
+    {
+      "memory_id": "m65",
+      "group_id": "g17",
+      "prev_id": "m64",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g17",
+      "prev_id": "m65",
+      "next_id": "m69"
+    },
+    {
+      "memory_id": "m69",
+      "group_id": "g17",
+      "prev_id": "m68",
+      "next_id": null
+    },
+    {
+      "memory_id": "m18",
+      "group_id": "g18",
+      "prev_id": null,
+      "next_id": "m20"
+    },
+    {
+      "memory_id": "m20",
+      "group_id": "g18",
+      "prev_id": "m18",
+      "next_id": "m21"
+    },
+    {
+      "memory_id": "m21",
+      "group_id": "g18",
+      "prev_id": "m20",
+      "next_id": "m22"
+    },
+    {
+      "memory_id": "m22",
+      "group_id": "g18",
+      "prev_id": "m21",
+      "next_id": "m28"
+    },
+    {
+      "memory_id": "m28",
+      "group_id": "g18",
+      "prev_id": "m22",
+      "next_id": "m29"
+    },
+    {
+      "memory_id": "m29",
+      "group_id": "g18",
+      "prev_id": "m28",
+      "next_id": "m32"
+    },
+    {
+      "memory_id": "m32",
+      "group_id": "g18",
+      "prev_id": "m29",
+      "next_id": "m33"
+    },
+    {
+      "memory_id": "m33",
+      "group_id": "g18",
+      "prev_id": "m32",
+      "next_id": "m38"
+    },
+    {
+      "memory_id": "m38",
+      "group_id": "g18",
+      "prev_id": "m33",
+      "next_id": "m39"
+    },
+    {
+      "memory_id": "m39",
+      "group_id": "g18",
+      "prev_id": "m38",
+      "next_id": "m40"
+    },
+    {
+      "memory_id": "m40",
+      "group_id": "g18",
+      "prev_id": "m39",
+      "next_id": "m41"
+    },
+    {
+      "memory_id": "m41",
+      "group_id": "g18",
+      "prev_id": "m40",
+      "next_id": "m45"
+    },
+    {
+      "memory_id": "m45",
+      "group_id": "g18",
+      "prev_id": "m41",
+      "next_id": "m48"
+    },
+    {
+      "memory_id": "m48",
+      "group_id": "g18",
+      "prev_id": "m45",
+      "next_id": "m49"
+    },
+    {
+      "memory_id": "m49",
+      "group_id": "g18",
+      "prev_id": "m48",
+      "next_id": "m60"
+    },
+    {
+      "memory_id": "m60",
+      "group_id": "g18",
+      "prev_id": "m49",
+      "next_id": "m61"
+    },
+    {
+      "memory_id": "m61",
+      "group_id": "g18",
+      "prev_id": "m60",
+      "next_id": "m64"
+    },
+    {
+      "memory_id": "m64",
+      "group_id": "g18",
+      "prev_id": "m61",
+      "next_id": "m65"
+    },
+    {
+      "memory_id": "m65",
+      "group_id": "g18",
+      "prev_id": "m64",
+      "next_id": "m68"
+    },
+    {
+      "memory_id": "m68",
+      "group_id": "g18",
+      "prev_id": "m65",
+      "next_id": "m69"
+    },
+    {
+      "memory_id": "m69",
+      "group_id": "g18",
+      "prev_id": "m68",
+      "next_id": null
+    },
+    {
+      "memory_id": "m19",
+      "group_id": "g19",
+      "prev_id": null,
+      "next_id": "m24"
+    },
+    {
+      "memory_id": "m24",
+      "group_id": "g19",
+      "prev_id": "m19",
+      "next_id": "m25"
+    },
+    {
+      "memory_id": "m25",
+      "group_id": "g19",
+      "prev_id": "m24",
+      "next_id": "m35"
+    },
+    {
+      "memory_id": "m35",
+      "group_id": "g19",
+      "prev_id": "m25",
+      "next_id": "m36"
+    },
+    {
+      "memory_id": "m36",
+      "group_id": "g19",
+      "prev_id": "m35",
+      "next_id": "m37"
+    },
+    {
+      "memory_id": "m37",
+      "group_id": "g19",
+      "prev_id": "m36",
+      "next_id": "m46"
+    },
+    {
+      "memory_id": "m46",
+      "group_id": "g19",
+      "prev_id": "m37",
+      "next_id": "m47"
+    },
+    {
+      "memory_id": "m47",
+      "group_id": "g19",
+      "prev_id": "m46",
+      "next_id": "m50"
+    },
+    {
+      "memory_id": "m50",
+      "group_id": "g19",
+      "prev_id": "m47",
+      "next_id": "m51"
+    },
+    {
+      "memory_id": "m51",
+      "group_id": "g19",
+      "prev_id": "m50",
+      "next_id": "m56"
+    },
+    {
+      "memory_id": "m56",
+      "group_id": "g19",
+      "prev_id": "m51",
+      "next_id": "m57"
+    },
+    {
+      "memory_id": "m57",
+      "group_id": "g19",
+      "prev_id": "m56",
+      "next_id": "m66"
+    },
+    {
+      "memory_id": "m66",
+      "group_id": "g19",
+      "prev_id": "m57",
+      "next_id": "m67"
+    },
+    {
+      "memory_id": "m67",
+      "group_id": "g19",
+      "prev_id": "m66",
+      "next_id": "m70"
+    },
+    {
+      "memory_id": "m70",
+      "group_id": "g19",
+      "prev_id": "m67",
+      "next_id": "m71"
+    },
+    {
+      "memory_id": "m71",
+      "group_id": "g19",
+      "prev_id": "m70",
+      "next_id": null
+    }
+  ],
+  "completed_periods": [
+    "period_00",
+    "period_01",
+    "period_02",
+    "period_03",
+    "period_04",
+    "period_05",
+    "period_06",
+    "period_07",
+    "period_08"
+  ]
+}

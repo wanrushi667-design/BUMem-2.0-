@@ -1,0 +1,10 @@
+{
+  "item_id": "e8bbeec8-7398-4751-8ca4-dd65bbd2d31d",
+  "source_dir": "D:\\cd\\project\\amemgym_memory_bench\\eval-output\\test-native\\deepseek-v4-flash-mini\\e8bbeec8-7398-4751-8ca4-dd65bbd2d31d",
+  "benchmark_root": "D:\\cd\\project\\amemgym_memory_bench",
+  "ingest_roles": [
+    "user"
+  ],
+  "deepseek_temperature": 0.0,
+  "deepseek_max_tokens": 2048
+}
